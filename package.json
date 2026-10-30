@@ -1,0 +1,24 @@
+{
+  "name": "life-sim",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A text-based life simulation game (BitLife-style) built with Vite + React + Tailwind CSS, packaged as a desktop app with Electron.",
+  "type": "module",
+  "main": "electron/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "electron": "electron ."
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^6.1.2",
+    "electron": "^45.2.0",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.5"
+  }
+}
