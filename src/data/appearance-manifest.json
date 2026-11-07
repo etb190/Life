@@ -1,0 +1,3491 @@
+{
+  "Face": {
+    "Male": {
+      "Baby": {
+        "base": "/assets/appearance/Head_Shapes/Male/Baby/a16_faces-male-stage0-base-00372.png",
+        "lighting_happy": "/assets/appearance/Head_Shapes/Male/Baby/a16_faces-male-stage0-lighting-happy-00369.png",
+        "lighting_other": "/assets/appearance/Head_Shapes/Male/Baby/a16_faces-male-stage0-lighting-sad-00367.png"
+      },
+      "Child": {
+        "base": "/assets/appearance/Head_Shapes/Male/Child/a16_faces-male-stage1-base-00362.png",
+        "lighting_happy": "/assets/appearance/Head_Shapes/Male/Child/a16_faces-male-stage1-lighting-happy-00366.png",
+        "lighting_other": "/assets/appearance/Head_Shapes/Male/Child/a16_faces-male-stage1-lighting-angry-sad-00364.png"
+      },
+      "Teen": {
+        "base": "/assets/appearance/Head_Shapes/Male/Teen/a16_faces-male-stage2-base-00397.png",
+        "lighting_happy": "/assets/appearance/Head_Shapes/Male/Teen/a16_faces-male-stage2-lighting-happy-00398.png",
+        "lighting_other": "/assets/appearance/Head_Shapes/Male/Teen/a16_faces-male-stage2-lighting-angry-sad-00395.png"
+      },
+      "Young_Adult": {
+        "base": "/assets/appearance/Head_Shapes/Male/Young_Adult/a16_faces-male-stage3-base-00385.png",
+        "lighting_happy": "/assets/appearance/Head_Shapes/Male/Young_Adult/a16_faces-male-stage3-lighting-happy-00381.png",
+        "lighting_other": "/assets/appearance/Head_Shapes/Male/Young_Adult/a16_faces-male-stage3-lighting-angry-sad-00384.png"
+      },
+      "Adult": {
+        "base": "/assets/appearance/Head_Shapes/Male/Adult/a16_faces-male-stage4-base-00414.png",
+        "lighting_happy": "/assets/appearance/Head_Shapes/Male/Adult/a16_faces-male-stage4-lighting-happy-00413.png",
+        "lighting_other": "/assets/appearance/Head_Shapes/Male/Adult/a16_faces-male-stage4-lighting-angry-sad-00415.png"
+      },
+      "Elder": {
+        "base": "/assets/appearance/Head_Shapes/Male/Elder/a16_faces-male-stage5-base-00403.png",
+        "lighting_happy": "/assets/appearance/Head_Shapes/Male/Elder/a16_faces-male-stage5-lighting-happy-00400.png",
+        "lighting_other": "/assets/appearance/Head_Shapes/Male/Elder/a16_faces-male-stage5-lighting-angry-sad-00402.png"
+      }
+    },
+    "Female": {
+      "Baby": {
+        "base": "/assets/appearance/Head_Shapes/Female/Baby/a16_faces-female-stage0-base-00349.png",
+        "lighting_happy": "/assets/appearance/Head_Shapes/Female/Baby/a16_faces-female-stage0-lighting-happy-00354.png",
+        "lighting_other": "/assets/appearance/Head_Shapes/Female/Baby/a16_faces-female-stage0-lighting-sad-00351.png"
+      },
+      "Child": {
+        "base": "/assets/appearance/Head_Shapes/Female/Child/a16_faces-female-stage1-base-00387.png",
+        "lighting_happy": "/assets/appearance/Head_Shapes/Female/Child/a16_faces-female-stage1-lighting-happy-00388.png",
+        "lighting_other": "/assets/appearance/Head_Shapes/Female/Child/a16_faces-female-stage1-lighting-angry-sad-00391.png"
+      },
+      "Teen": {
+        "base": "/assets/appearance/Head_Shapes/Female/Teen/a16_faces-female-stage2-base-00344.png",
+        "lighting_happy": "/assets/appearance/Head_Shapes/Female/Teen/a16_faces-female-stage2-lighting-happy-00341.png",
+        "lighting_other": "/assets/appearance/Head_Shapes/Female/Teen/a16_faces-female-stage2-lighting-angry-sad-00343.png"
+      },
+      "Young_Adult": {
+        "base": "/assets/appearance/Head_Shapes/Female/Young_Adult/a16_faces-female-stage3-base-00377.png",
+        "lighting_happy": "/assets/appearance/Head_Shapes/Female/Young_Adult/a16_faces-female-stage3-lighting-happy-00380.png",
+        "lighting_other": "/assets/appearance/Head_Shapes/Female/Young_Adult/a16_faces-female-stage3-lighting-angry-sad-00379.png"
+      },
+      "Adult": {
+        "base": "/assets/appearance/Head_Shapes/Female/Adult/a16_faces-female-stage4-base-00359.png",
+        "lighting_happy": "/assets/appearance/Head_Shapes/Female/Adult/a16_faces-female-stage4-lighting-happy-00356.png",
+        "lighting_other": "/assets/appearance/Head_Shapes/Female/Adult/a16_faces-female-stage4-lighting-angry-sad-00360.png"
+      },
+      "Elder": {
+        "base": "/assets/appearance/Head_Shapes/Female/Elder/a16_faces-female-stage5-base-00410.png",
+        "lighting_happy": "/assets/appearance/Head_Shapes/Female/Elder/a16_faces-female-stage5-lighting-happy-00407.png",
+        "lighting_other": "/assets/appearance/Head_Shapes/Female/Elder/a16_faces-female-stage5-lighting-angry-sad-00406.png"
+      }
+    }
+  },
+  "Hair": {
+    "Male": {
+      "Baby": {
+        "styles": [
+          {
+            "num": 1,
+            "name": "Hair 1",
+            "base": "/assets/appearance/Hair/Male/Baby/a16_faces-male-stage0-hair-base1-00745.png",
+            "lighting": null
+          },
+          {
+            "num": 2,
+            "name": "Hair 2",
+            "base": "/assets/appearance/Hair/Male/Baby/a16_faces-male-stage0-hair-base2-00743.png",
+            "lighting": "/assets/appearance/Hair/Male/Baby/a16_faces-male-stage0-hair-lighting2-00746.png"
+          },
+          {
+            "num": 3,
+            "name": "Hair 3",
+            "base": "/assets/appearance/Hair/Male/Baby/a16_faces-male-stage0-hair-base3-00744.png",
+            "lighting": null
+          }
+        ]
+      },
+      "Child": {
+        "styles": [
+          {
+            "num": 1,
+            "name": "Hair 1",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base1-00439.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting1-00419.png"
+          },
+          {
+            "num": 2,
+            "name": "Hair 2",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base2-00445.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting2-00417.png"
+          },
+          {
+            "num": 3,
+            "name": "Hair 3",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base3-00440.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting3-00418.png"
+          },
+          {
+            "num": 4,
+            "name": "Hair 4",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base4-00434.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting4-00420.png"
+          },
+          {
+            "num": 5,
+            "name": "Hair 5",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base5-00431.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting5-00421.png"
+          },
+          {
+            "num": 6,
+            "name": "Hair 6",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base6-00425.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting6-00423.png"
+          },
+          {
+            "num": 7,
+            "name": "Hair 7",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base7-00428.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting7-00422.png"
+          },
+          {
+            "num": 8,
+            "name": "Hair 8",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base8-00454.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting8-00460.png"
+          },
+          {
+            "num": 9,
+            "name": "Hair 9",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base9-00451.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting9-00461.png"
+          },
+          {
+            "num": 10,
+            "name": "Hair 10",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base10-00433.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting10-00430.png"
+          },
+          {
+            "num": 11,
+            "name": "Hair 11",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base11-00432.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting11-00435.png"
+          },
+          {
+            "num": 12,
+            "name": "Hair 12",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base12-00426.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting12-00429.png"
+          },
+          {
+            "num": 13,
+            "name": "Hair 13",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base13-00427.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting13-00424.png"
+          },
+          {
+            "num": 14,
+            "name": "Hair 14",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base14-00437.png",
+            "lighting": null
+          },
+          {
+            "num": 15,
+            "name": "Hair 15",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base15-00438.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting15-00436.png"
+          },
+          {
+            "num": 16,
+            "name": "Hair 16",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base16-00443.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting16-00441.png"
+          },
+          {
+            "num": 17,
+            "name": "Hair 17",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base17-00442.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting17-00444.png"
+          },
+          {
+            "num": 18,
+            "name": "Hair 18",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base18-00447.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting18-00449.png"
+          },
+          {
+            "num": 19,
+            "name": "Hair 19",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base19-00448.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting19-00446.png"
+          },
+          {
+            "num": 20,
+            "name": "Hair 20",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base20-00453.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting20-00450.png"
+          },
+          {
+            "num": 21,
+            "name": "Hair 21",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base21-00452.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting21-00455.png"
+          },
+          {
+            "num": 22,
+            "name": "Hair 22",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base22-00457.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting22-00459.png"
+          },
+          {
+            "num": 23,
+            "name": "Hair 23",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base23-00458.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting23-00456.png"
+          },
+          {
+            "num": 24,
+            "name": "Hair 24",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base24-01235.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting24-01237.png"
+          },
+          {
+            "num": 25,
+            "name": "Hair 25",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base25-01236.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting25-01234.png"
+          },
+          {
+            "num": 26,
+            "name": "Hair 26",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base26-01232.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting26-01230.png"
+          },
+          {
+            "num": 27,
+            "name": "Hair 27",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base27-01231.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting27-01233.png"
+          },
+          {
+            "num": 28,
+            "name": "Hair 28",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base28-01227.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting28-01229.png"
+          },
+          {
+            "num": 29,
+            "name": "Hair 29",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base29-01228.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting29-01226.png"
+          },
+          {
+            "num": 30,
+            "name": "Hair 30",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base30-01324.png",
+            "lighting": null
+          },
+          {
+            "num": 31,
+            "name": "Hair 31",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base31-01340.png",
+            "lighting": null
+          },
+          {
+            "num": 32,
+            "name": "Hair 32",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base32-01339.png",
+            "lighting": null
+          },
+          {
+            "num": 33,
+            "name": "Hair 33",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base33-01338.png",
+            "lighting": null
+          },
+          {
+            "num": 34,
+            "name": "Hair 34",
+            "base": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-base34-01342.png",
+            "lighting": "/assets/appearance/Hair/Male/Child/a16_faces-male-stage1-hair-lighting34-01341.png"
+          }
+        ]
+      },
+      "Teen": {
+        "styles": [
+          {
+            "num": 1,
+            "name": "Hair 1",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base1-00792.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting1-00795.png"
+          },
+          {
+            "num": 2,
+            "name": "Hair 2",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base2-00796.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting2-00802.png"
+          },
+          {
+            "num": 3,
+            "name": "Hair 3",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base3-00803.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting3-00797.png"
+          },
+          {
+            "num": 4,
+            "name": "Hair 4",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base4-00786.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting4-00790.png"
+          },
+          {
+            "num": 5,
+            "name": "Hair 5",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base5-00791.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting5-00787.png"
+          },
+          {
+            "num": 6,
+            "name": "Hair 6",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base6-00785.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting6-00781.png"
+          },
+          {
+            "num": 7,
+            "name": "Hair 7",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base7-00780.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting7-00784.png"
+          },
+          {
+            "num": 8,
+            "name": "Hair 8",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base8-00824.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting8-00828.png"
+          },
+          {
+            "num": 9,
+            "name": "Hair 9",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base9-00829.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting9-00825.png"
+          },
+          {
+            "num": 10,
+            "name": "Hair 10",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base10-00830.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting10-00805.png"
+          },
+          {
+            "num": 11,
+            "name": "Hair 11",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base11-00831.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting11-00804.png"
+          },
+          {
+            "num": 12,
+            "name": "Hair 12",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base12-00827.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting12-00806.png"
+          },
+          {
+            "num": 13,
+            "name": "Hair 13",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base13-00826.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting13-00807.png"
+          },
+          {
+            "num": 14,
+            "name": "Hair 14",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base14-00821.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting14-00809.png"
+          },
+          {
+            "num": 15,
+            "name": "Hair 15",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base15-00820.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting15-00810.png"
+          },
+          {
+            "num": 16,
+            "name": "Hair 16",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base16-00822.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting16-00808.png"
+          },
+          {
+            "num": 17,
+            "name": "Hair 17",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base17-00823.png",
+            "lighting": null
+          },
+          {
+            "num": 18,
+            "name": "Hair 18",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base18-00800.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting18-00812.png"
+          },
+          {
+            "num": 19,
+            "name": "Hair 19",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base19-00799.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting19-00813.png"
+          },
+          {
+            "num": 20,
+            "name": "Hair 20",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base20-00782.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting20-00819.png"
+          },
+          {
+            "num": 21,
+            "name": "Hair 21",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base21-00783.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting21-00818.png"
+          },
+          {
+            "num": 22,
+            "name": "Hair 22",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base22-00789.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting22-00816.png"
+          },
+          {
+            "num": 23,
+            "name": "Hair 23",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base23-00788.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting23-00817.png"
+          },
+          {
+            "num": 24,
+            "name": "Hair 24",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base24-00801.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting24-00811.png"
+          },
+          {
+            "num": 25,
+            "name": "Hair 25",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base25-00798.png",
+            "lighting": null
+          },
+          {
+            "num": 26,
+            "name": "Hair 26",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base26-00793.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting26-00815.png"
+          },
+          {
+            "num": 27,
+            "name": "Hair 27",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base27-00794.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting27-00814.png"
+          },
+          {
+            "num": 28,
+            "name": "Hair 28",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base28-00909.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting28-00901.png"
+          },
+          {
+            "num": 29,
+            "name": "Hair 29",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base29-00908.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting29-00902.png"
+          },
+          {
+            "num": 30,
+            "name": "Hair 30",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base30-00900.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting30-00903.png"
+          },
+          {
+            "num": 31,
+            "name": "Hair 31",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base31-00899.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting31-00904.png"
+          },
+          {
+            "num": 32,
+            "name": "Hair 32",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base32-00897.png",
+            "lighting": null
+          },
+          {
+            "num": 33,
+            "name": "Hair 33",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base33-00898.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting33-00905.png"
+          },
+          {
+            "num": 34,
+            "name": "Hair 34",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base34-00895.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting34-00907.png"
+          },
+          {
+            "num": 35,
+            "name": "Hair 35",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base35-00896.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting35-00906.png"
+          },
+          {
+            "num": 36,
+            "name": "Hair 36",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base36-01275.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting36-01280.png"
+          },
+          {
+            "num": 37,
+            "name": "Hair 37",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base37-01274.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting37-01281.png"
+          },
+          {
+            "num": 38,
+            "name": "Hair 38",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base38-01284.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting38-01277.png"
+          },
+          {
+            "num": 39,
+            "name": "Hair 39",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base39-01285.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting39-01276.png"
+          },
+          {
+            "num": 40,
+            "name": "Hair 40",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base40-01278.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting40-01283.png"
+          },
+          {
+            "num": 41,
+            "name": "Hair 41",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base41-01279.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting41-01282.png"
+          },
+          {
+            "num": 42,
+            "name": "Hair 42",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base42-01323.png",
+            "lighting": null
+          },
+          {
+            "num": 43,
+            "name": "Hair 43",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base43-01334.png",
+            "lighting": null
+          },
+          {
+            "num": 44,
+            "name": "Hair 44",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base44-01336.png",
+            "lighting": null
+          },
+          {
+            "num": 45,
+            "name": "Hair 45",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base45-01335.png",
+            "lighting": null
+          },
+          {
+            "num": 46,
+            "name": "Hair 46",
+            "base": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-base46-01337.png",
+            "lighting": "/assets/appearance/Hair/Male/Teen/a16_faces-male-stage2-hair-lighting46-01343.png"
+          }
+        ]
+      },
+      "Young_Adult": {
+        "styles": [
+          {
+            "num": 1,
+            "name": "Hair 1",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base1-00689.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting1-00724.png"
+          },
+          {
+            "num": 2,
+            "name": "Hair 2",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base2-00687.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting2-00725.png"
+          },
+          {
+            "num": 3,
+            "name": "Hair 3",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base3-00686.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting3-00728.png"
+          },
+          {
+            "num": 4,
+            "name": "Hair 4",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base4-00691.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting4-00731.png"
+          },
+          {
+            "num": 5,
+            "name": "Hair 5",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base5-00690.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting5-00732.png"
+          },
+          {
+            "num": 6,
+            "name": "Hair 6",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base6-00692.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting6-00730.png"
+          },
+          {
+            "num": 7,
+            "name": "Hair 7",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base7-00693.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting7-00729.png"
+          },
+          {
+            "num": 8,
+            "name": "Hair 8",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base8-00727.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting8-00685.png"
+          },
+          {
+            "num": 9,
+            "name": "Hair 9",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base9-00726.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting9-00688.png"
+          },
+          {
+            "num": 10,
+            "name": "Hair 10",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base10-00714.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting10-00694.png"
+          },
+          {
+            "num": 11,
+            "name": "Hair 11",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base11-00715.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting11-00695.png"
+          },
+          {
+            "num": 12,
+            "name": "Hair 12",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base12-00713.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting12-00699.png"
+          },
+          {
+            "num": 13,
+            "name": "Hair 13",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base13-00708.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting13-00698.png"
+          },
+          {
+            "num": 14,
+            "name": "Hair 14",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base14-00719.png",
+            "lighting": null
+          },
+          {
+            "num": 15,
+            "name": "Hair 15",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base15-00716.png",
+            "lighting": null
+          },
+          {
+            "num": 16,
+            "name": "Hair 16",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base16-00720.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting16-00703.png"
+          },
+          {
+            "num": 17,
+            "name": "Hair 17",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base17-00723.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting17-00704.png"
+          },
+          {
+            "num": 18,
+            "name": "Hair 18",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base18-00701.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting18-00712.png"
+          },
+          {
+            "num": 19,
+            "name": "Hair 19",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base19-00696.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting19-00709.png"
+          },
+          {
+            "num": 20,
+            "name": "Hair 20",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base20-00702.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting20-00721.png"
+          },
+          {
+            "num": 21,
+            "name": "Hair 21",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base21-00705.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting21-00722.png"
+          },
+          {
+            "num": 22,
+            "name": "Hair 22",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base22-00707.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting22-00718.png"
+          },
+          {
+            "num": 23,
+            "name": "Hair 23",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base23-00706.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting23-00717.png"
+          },
+          {
+            "num": 24,
+            "name": "Hair 24",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base24-00700.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting24-00711.png"
+          },
+          {
+            "num": 25,
+            "name": "Hair 25",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base25-00697.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting25-00710.png"
+          },
+          {
+            "num": 26,
+            "name": "Hair 26",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base26-00880.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting26-00889.png"
+          },
+          {
+            "num": 27,
+            "name": "Hair 27",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base27-00883.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting27-00892.png"
+          },
+          {
+            "num": 28,
+            "name": "Hair 28",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base28-00894.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting28-00887.png"
+          },
+          {
+            "num": 29,
+            "name": "Hair 29",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base29-00893.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting29-00886.png"
+          },
+          {
+            "num": 30,
+            "name": "Hair 30",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base30-00885.png",
+            "lighting": null
+          },
+          {
+            "num": 31,
+            "name": "Hair 31",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base31-00884.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting31-00888.png"
+          },
+          {
+            "num": 32,
+            "name": "Hair 32",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base32-00881.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting32-00890.png"
+          },
+          {
+            "num": 33,
+            "name": "Hair 33",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base33-00882.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting33-00891.png"
+          },
+          {
+            "num": 34,
+            "name": "Hair 34",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base34-01252.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting34-01260.png"
+          },
+          {
+            "num": 35,
+            "name": "Hair 35",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base35-01253.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting35-01261.png"
+          },
+          {
+            "num": 36,
+            "name": "Hair 36",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base36-01255.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting36-01259.png"
+          },
+          {
+            "num": 37,
+            "name": "Hair 37",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base37-01254.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting37-01258.png"
+          },
+          {
+            "num": 38,
+            "name": "Hair 38",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base38-01256.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting38-01250.png"
+          },
+          {
+            "num": 39,
+            "name": "Hair 39",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base39-01257.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting39-01251.png"
+          },
+          {
+            "num": 40,
+            "name": "Hair 40",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base40-01322.png",
+            "lighting": null
+          },
+          {
+            "num": 41,
+            "name": "Hair 41",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base41-01333.png",
+            "lighting": null
+          },
+          {
+            "num": 42,
+            "name": "Hair 42",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base42-01331.png",
+            "lighting": null
+          },
+          {
+            "num": 43,
+            "name": "Hair 43",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base43-01330.png",
+            "lighting": null
+          },
+          {
+            "num": 44,
+            "name": "Hair 44",
+            "base": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-base44-01327.png",
+            "lighting": "/assets/appearance/Hair/Male/Young_Adult/a16_faces-male-stage3-hair-lighting44-01344.png"
+          }
+        ]
+      },
+      "Adult": {
+        "styles": [
+          {
+            "num": 1,
+            "name": "Hair 1",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base1-00637.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting1-00652.png"
+          },
+          {
+            "num": 2,
+            "name": "Hair 2",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base2-00639.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting2-00647.png"
+          },
+          {
+            "num": 3,
+            "name": "Hair 3",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base3-00638.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting3-00644.png"
+          },
+          {
+            "num": 4,
+            "name": "Hair 4",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base4-00643.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting4-00660.png"
+          },
+          {
+            "num": 5,
+            "name": "Hair 5",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base5-00642.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting5-00653.png"
+          },
+          {
+            "num": 6,
+            "name": "Hair 6",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base6-00640.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting6-00661.png"
+          },
+          {
+            "num": 7,
+            "name": "Hair 7",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base7-00641.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting7-00664.png"
+          },
+          {
+            "num": 8,
+            "name": "Hair 8",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base8-00684.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting8-00674.png"
+          },
+          {
+            "num": 9,
+            "name": "Hair 9",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base9-00683.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting9-00669.png"
+          },
+          {
+            "num": 10,
+            "name": "Hair 10",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base10-00676.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting10-00662.png"
+          },
+          {
+            "num": 11,
+            "name": "Hair 11",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base11-00675.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting11-00663.png"
+          },
+          {
+            "num": 12,
+            "name": "Hair 12",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base12-00677.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting12-00657.png"
+          },
+          {
+            "num": 13,
+            "name": "Hair 13",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base13-00682.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting13-00656.png"
+          },
+          {
+            "num": 14,
+            "name": "Hair 14",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base14-00670.png",
+            "lighting": null
+          },
+          {
+            "num": 15,
+            "name": "Hair 15",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base15-00673.png",
+            "lighting": null
+          },
+          {
+            "num": 16,
+            "name": "Hair 16",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base16-00668.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting16-00649.png"
+          },
+          {
+            "num": 17,
+            "name": "Hair 17",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base17-00665.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting17-00650.png"
+          },
+          {
+            "num": 18,
+            "name": "Hair 18",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base18-00654.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting18-00681.png"
+          },
+          {
+            "num": 19,
+            "name": "Hair 19",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base19-00659.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting19-00678.png"
+          },
+          {
+            "num": 20,
+            "name": "Hair 20",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base20-00651.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting20-00666.png"
+          },
+          {
+            "num": 21,
+            "name": "Hair 21",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base21-00648.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting21-00667.png"
+          },
+          {
+            "num": 22,
+            "name": "Hair 22",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base22-00645.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting22-00672.png"
+          },
+          {
+            "num": 23,
+            "name": "Hair 23",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base23-00646.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting23-00671.png"
+          },
+          {
+            "num": 24,
+            "name": "Hair 24",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base24-00655.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting24-00680.png"
+          },
+          {
+            "num": 25,
+            "name": "Hair 25",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base25-00658.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting25-00679.png"
+          },
+          {
+            "num": 26,
+            "name": "Hair 26",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base26-00981.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting26-00984.png"
+          },
+          {
+            "num": 27,
+            "name": "Hair 27",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base27-00978.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting27-00987.png"
+          },
+          {
+            "num": 28,
+            "name": "Hair 28",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base28-00982.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting28-00975.png"
+          },
+          {
+            "num": 29,
+            "name": "Hair 29",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base29-00983.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting29-00974.png"
+          },
+          {
+            "num": 30,
+            "name": "Hair 30",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base30-00976.png",
+            "lighting": null
+          },
+          {
+            "num": 31,
+            "name": "Hair 31",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base31-00977.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting31-00988.png"
+          },
+          {
+            "num": 32,
+            "name": "Hair 32",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base32-00980.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting32-00985.png"
+          },
+          {
+            "num": 33,
+            "name": "Hair 33",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base33-00979.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting33-00986.png"
+          },
+          {
+            "num": 34,
+            "name": "Hair 34",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base34-01313.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting34-01316.png"
+          },
+          {
+            "num": 35,
+            "name": "Hair 35",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base35-01312.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting35-01317.png"
+          },
+          {
+            "num": 36,
+            "name": "Hair 36",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base36-01310.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting36-01319.png"
+          },
+          {
+            "num": 37,
+            "name": "Hair 37",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base37-01311.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting37-01318.png"
+          },
+          {
+            "num": 38,
+            "name": "Hair 38",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base38-01321.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting38-01314.png"
+          },
+          {
+            "num": 39,
+            "name": "Hair 39",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base39-01320.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting39-01315.png"
+          },
+          {
+            "num": 40,
+            "name": "Hair 40",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base40-01325.png",
+            "lighting": null
+          },
+          {
+            "num": 41,
+            "name": "Hair 41",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base41-01326.png",
+            "lighting": null
+          },
+          {
+            "num": 42,
+            "name": "Hair 42",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base42-01328.png",
+            "lighting": null
+          },
+          {
+            "num": 43,
+            "name": "Hair 43",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base43-01329.png",
+            "lighting": null
+          },
+          {
+            "num": 44,
+            "name": "Hair 44",
+            "base": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-base44-01332.png",
+            "lighting": "/assets/appearance/Hair/Male/Adult/a16_faces-male-stage4-hair-lighting44-01345.png"
+          }
+        ]
+      },
+      "Elder": {
+        "styles": [
+          {
+            "num": 1,
+            "name": "Hair 1",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base1-00737.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting1-00742.png"
+          },
+          {
+            "num": 2,
+            "name": "Hair 2",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base2-00735.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting2-00740.png"
+          },
+          {
+            "num": 3,
+            "name": "Hair 3",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base3-00736.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting3-00741.png"
+          },
+          {
+            "num": 4,
+            "name": "Hair 4",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base4-00733.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting4-00738.png"
+          },
+          {
+            "num": 5,
+            "name": "Hair 5",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base5-00734.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting5-00739.png"
+          },
+          {
+            "num": 6,
+            "name": "Hair 6",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base6-00911.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting6-00923.png"
+          },
+          {
+            "num": 7,
+            "name": "Hair 7",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base7-00910.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting7-00922.png"
+          },
+          {
+            "num": 8,
+            "name": "Hair 8",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base8-00930.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting8-00919.png"
+          },
+          {
+            "num": 9,
+            "name": "Hair 9",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base9-00933.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting9-00920.png"
+          },
+          {
+            "num": 10,
+            "name": "Hair 10",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base10-00925.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting10-00921.png"
+          },
+          {
+            "num": 11,
+            "name": "Hair 11",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base11-00924.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting11-00918.png"
+          },
+          {
+            "num": 12,
+            "name": "Hair 12",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base12-00926.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting12-00916.png"
+          },
+          {
+            "num": 13,
+            "name": "Hair 13",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base13-00927.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting13-00917.png"
+          },
+          {
+            "num": 14,
+            "name": "Hair 14",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base14-00931.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting14-00912.png"
+          },
+          {
+            "num": 15,
+            "name": "Hair 15",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base15-00932.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting15-00913.png"
+          },
+          {
+            "num": 16,
+            "name": "Hair 16",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base16-00929.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting16-00915.png"
+          },
+          {
+            "num": 17,
+            "name": "Hair 17",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base17-00928.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting17-00914.png"
+          },
+          {
+            "num": 18,
+            "name": "Hair 18",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base18-01286.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting18-01296.png"
+          },
+          {
+            "num": 19,
+            "name": "Hair 19",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base19-01287.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting19-01297.png"
+          },
+          {
+            "num": 20,
+            "name": "Hair 20",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base20-01291.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting20-01293.png"
+          },
+          {
+            "num": 21,
+            "name": "Hair 21",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base21-01290.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting21-01292.png"
+          },
+          {
+            "num": 22,
+            "name": "Hair 22",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base22-01288.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting22-01294.png"
+          },
+          {
+            "num": 23,
+            "name": "Hair 23",
+            "base": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-base23-01289.png",
+            "lighting": "/assets/appearance/Hair/Male/Elder/a16_faces-male-stage5-hair-lighting23-01295.png"
+          }
+        ]
+      }
+    },
+    "Female": {
+      "Baby": {
+        "styles": [
+          {
+            "num": 1,
+            "name": "Hair 1",
+            "base": "/assets/appearance/Hair/Female/Baby/a16_faces-female-stage0-hair-base1-00776.png",
+            "lighting": null
+          },
+          {
+            "num": 2,
+            "name": "Hair 2",
+            "base": "/assets/appearance/Hair/Female/Baby/a16_faces-female-stage0-hair-base2-00777.png",
+            "lighting": "/assets/appearance/Hair/Female/Baby/a16_faces-female-stage0-hair-lighting2-00775.png"
+          },
+          {
+            "num": 3,
+            "name": "Hair 3",
+            "base": "/assets/appearance/Hair/Female/Baby/a16_faces-female-stage0-hair-base3-00778.png",
+            "lighting": null
+          },
+          {
+            "num": 1003,
+            "name": "Hair Acc 3",
+            "base": "/assets/appearance/Hair/Female/Baby/a16_faces-female-stage0-hair-accessory-base3-00779.png",
+            "lighting": null
+          }
+        ]
+      },
+      "Child": {
+        "styles": [
+          {
+            "num": 1,
+            "name": "Hair 1",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base1-00749.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting1-00771.png"
+          },
+          {
+            "num": 2,
+            "name": "Hair 2",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base2-00748.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting2-00773.png"
+          },
+          {
+            "num": 3,
+            "name": "Hair 3",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base3-00747.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting3-00774.png"
+          },
+          {
+            "num": 4,
+            "name": "Hair 4",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base4-00753.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting4-00766.png"
+          },
+          {
+            "num": 5,
+            "name": "Hair 5",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base5-00750.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting5-00769.png"
+          },
+          {
+            "num": 6,
+            "name": "Hair 6",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base6-00754.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting6-00764.png"
+          },
+          {
+            "num": 7,
+            "name": "Hair 7",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base7-00755.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting7-00761.png"
+          },
+          {
+            "num": 8,
+            "name": "Hair 8",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base8-00770.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting8-00751.png"
+          },
+          {
+            "num": 9,
+            "name": "Hair 9",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base9-00765.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting9-00752.png"
+          },
+          {
+            "num": 10,
+            "name": "Hair 10",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base10-00768.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting10-00758.png"
+          },
+          {
+            "num": 11,
+            "name": "Hair 11",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base11-00767.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting11-00759.png"
+          },
+          {
+            "num": 12,
+            "name": "Hair 12",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base12-00762.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting12-00757.png"
+          },
+          {
+            "num": 13,
+            "name": "Hair 13",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base13-00763.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting13-00756.png"
+          },
+          {
+            "num": 14,
+            "name": "Hair 14",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base14-01270.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting14-01265.png"
+          },
+          {
+            "num": 15,
+            "name": "Hair 15",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base15-01271.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting15-01264.png"
+          },
+          {
+            "num": 16,
+            "name": "Hair 16",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base16-01273.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting16-01266.png"
+          },
+          {
+            "num": 17,
+            "name": "Hair 17",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base17-01272.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting17-01267.png"
+          },
+          {
+            "num": 18,
+            "name": "Hair 18",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base18-01262.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting18-01269.png"
+          },
+          {
+            "num": 19,
+            "name": "Hair 19",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base19-01263.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting19-01268.png"
+          },
+          {
+            "num": 20,
+            "name": "Hair 20",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base20-01349.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting20-01365.png"
+          },
+          {
+            "num": 21,
+            "name": "Hair 21",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base21-01348.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting21-01366.png"
+          },
+          {
+            "num": 22,
+            "name": "Hair 22",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base22-01351.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting22-01370.png"
+          },
+          {
+            "num": 23,
+            "name": "Hair 23",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base23-01352.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting23-01369.png"
+          },
+          {
+            "num": 24,
+            "name": "Hair 24",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-base24-01346.png",
+            "lighting": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-lighting24-01362.png"
+          },
+          {
+            "num": 1001,
+            "name": "Hair Acc 1",
+            "base": "/assets/appearance/Hair/Female/Child/a16_faces-female-stage1-hair-accessory-base1-00760.png",
+            "lighting": null
+          }
+        ]
+      },
+      "Teen": {
+        "styles": [
+          {
+            "num": 1,
+            "name": "Hair 1",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base1-00484.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting1-00518.png"
+          },
+          {
+            "num": 2,
+            "name": "Hair 2",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base2-00478.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting2-00516.png"
+          },
+          {
+            "num": 3,
+            "name": "Hair 3",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base3-00483.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting3-00515.png"
+          },
+          {
+            "num": 4,
+            "name": "Hair 4",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base4-00489.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting4-00520.png"
+          },
+          {
+            "num": 5,
+            "name": "Hair 5",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base5-00494.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting5-00519.png"
+          },
+          {
+            "num": 6,
+            "name": "Hair 6",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base6-00500.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting6-00521.png"
+          },
+          {
+            "num": 7,
+            "name": "Hair 7",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base7-00495.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting7-00522.png"
+          },
+          {
+            "num": 8,
+            "name": "Hair 8",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base8-00505.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting8-00476.png"
+          },
+          {
+            "num": 9,
+            "name": "Hair 9",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base9-00508.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting9-00475.png"
+          },
+          {
+            "num": 10,
+            "name": "Hair 10",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base10-00496.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting10-00481.png"
+          },
+          {
+            "num": 11,
+            "name": "Hair 11",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base11-00499.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting11-00480.png"
+          },
+          {
+            "num": 12,
+            "name": "Hair 12",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base12-00493.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting12-00486.png"
+          },
+          {
+            "num": 13,
+            "name": "Hair 13",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base13-00490.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting13-00487.png"
+          },
+          {
+            "num": 14,
+            "name": "Hair 14",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base14-00482.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting14-00497.png"
+          },
+          {
+            "num": 15,
+            "name": "Hair 15",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base15-00479.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting15-00498.png"
+          },
+          {
+            "num": 16,
+            "name": "Hair 16",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base16-00485.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting16-00492.png"
+          },
+          {
+            "num": 17,
+            "name": "Hair 17",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base17-00488.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting17-00491.png"
+          },
+          {
+            "num": 18,
+            "name": "Hair 18",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base18-00514.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting18-00502.png"
+          },
+          {
+            "num": 19,
+            "name": "Hair 19",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base19-00511.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting19-00503.png"
+          },
+          {
+            "num": 20,
+            "name": "Hair 20",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base20-00501.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting20-00513.png"
+          },
+          {
+            "num": 21,
+            "name": "Hair 21",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base21-00504.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting21-00512.png"
+          },
+          {
+            "num": 22,
+            "name": "Hair 22",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base22-00507.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting22-00509.png"
+          },
+          {
+            "num": 24,
+            "name": "Hair 24",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base24-00847.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting24-00837.png"
+          },
+          {
+            "num": 25,
+            "name": "Hair 25",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base25-00844.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting25-00838.png"
+          },
+          {
+            "num": 26,
+            "name": "Hair 26",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base26-00842.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting26-00841.png"
+          },
+          {
+            "num": 28,
+            "name": "Hair 28",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base28-00833.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting28-00834.png"
+          },
+          {
+            "num": 29,
+            "name": "Hair 29",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base29-00832.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting29-00835.png"
+          },
+          {
+            "num": 30,
+            "name": "Hair 30",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base30-00846.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting30-00836.png"
+          },
+          {
+            "num": 31,
+            "name": "Hair 31",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base31-00845.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting31-00839.png"
+          },
+          {
+            "num": 32,
+            "name": "Hair 32",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base32-01208.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting32-01206.png"
+          },
+          {
+            "num": 33,
+            "name": "Hair 33",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base33-01211.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting33-01205.png"
+          },
+          {
+            "num": 34,
+            "name": "Hair 34",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base34-01202.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting34-01213.png"
+          },
+          {
+            "num": 35,
+            "name": "Hair 35",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base35-01203.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting35-01212.png"
+          },
+          {
+            "num": 36,
+            "name": "Hair 36",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base36-01207.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting36-01209.png"
+          },
+          {
+            "num": 37,
+            "name": "Hair 37",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base37-01204.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting37-01210.png"
+          },
+          {
+            "num": 38,
+            "name": "Hair 38",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base38-01356.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting38-01355.png"
+          },
+          {
+            "num": 39,
+            "name": "Hair 39",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base39-01357.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting39-01354.png"
+          },
+          {
+            "num": 40,
+            "name": "Hair 40",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base40-01376.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting40-01381.png"
+          },
+          {
+            "num": 41,
+            "name": "Hair 41",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base41-01377.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting41-01380.png"
+          },
+          {
+            "num": 42,
+            "name": "Hair 42",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-base42-01373.png",
+            "lighting": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-lighting42-01384.png"
+          },
+          {
+            "num": 1007,
+            "name": "Hair Acc 7",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-accessory-base7-00477.png",
+            "lighting": null
+          },
+          {
+            "num": 1008,
+            "name": "Hair Acc 8",
+            "base": "/assets/appearance/Hair/Female/Teen/a16_faces-female-stage2-hair-accessory-base8-00517.png",
+            "lighting": null
+          }
+        ]
+      },
+      "Young_Adult": {
+        "styles": [
+          {
+            "num": 1,
+            "name": "Hair 1",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base1-00549.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting1-00538.png"
+          },
+          {
+            "num": 2,
+            "name": "Hair 2",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base2-00554.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting2-00533.png"
+          },
+          {
+            "num": 3,
+            "name": "Hair 3",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base3-00553.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting3-00534.png"
+          },
+          {
+            "num": 4,
+            "name": "Hair 4",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base4-00546.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting4-00524.png"
+          },
+          {
+            "num": 5,
+            "name": "Hair 5",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base5-00545.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting5-00525.png"
+          },
+          {
+            "num": 6,
+            "name": "Hair 6",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base6-00541.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting6-00529.png"
+          },
+          {
+            "num": 7,
+            "name": "Hair 7",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base7-00542.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting7-00528.png"
+          },
+          {
+            "num": 8,
+            "name": "Hair 8",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base8-00564.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting8-00577.png"
+          },
+          {
+            "num": 9,
+            "name": "Hair 9",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base9-00563.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting9-00578.png"
+          },
+          {
+            "num": 10,
+            "name": "Hair 10",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base10-00527.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting10-00540.png"
+          },
+          {
+            "num": 11,
+            "name": "Hair 11",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base11-00530.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting11-00543.png"
+          },
+          {
+            "num": 12,
+            "name": "Hair 12",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base12-00526.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting12-00547.png"
+          },
+          {
+            "num": 13,
+            "name": "Hair 13",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base13-00523.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting13-00544.png"
+          },
+          {
+            "num": 14,
+            "name": "Hair 14",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base14-00536.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting14-00556.png"
+          },
+          {
+            "num": 15,
+            "name": "Hair 15",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base15-00531.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting15-00551.png"
+          },
+          {
+            "num": 16,
+            "name": "Hair 16",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base16-00537.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting16-00548.png"
+          },
+          {
+            "num": 17,
+            "name": "Hair 17",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base17-00539.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting17-00550.png"
+          },
+          {
+            "num": 18,
+            "name": "Hair 18",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base18-00573.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting18-00560.png"
+          },
+          {
+            "num": 19,
+            "name": "Hair 19",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base19-00570.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting19-00557.png"
+          },
+          {
+            "num": 20,
+            "name": "Hair 20",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base20-00574.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting20-00566.png"
+          },
+          {
+            "num": 21,
+            "name": "Hair 21",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base21-00575.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting21-00567.png"
+          },
+          {
+            "num": 22,
+            "name": "Hair 22",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base22-00579.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting22-00565.png"
+          },
+          {
+            "num": 23,
+            "name": "Hair 23",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base23-00576.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting23-00562.png"
+          },
+          {
+            "num": 24,
+            "name": "Hair 24",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base24-00572.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting24-00559.png"
+          },
+          {
+            "num": 25,
+            "name": "Hair 25",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base25-00571.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting25-00558.png"
+          },
+          {
+            "num": 26,
+            "name": "Hair 26",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base26-00568.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting26-00561.png"
+          },
+          {
+            "num": 27,
+            "name": "Hair 27",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base27-00569.png",
+            "lighting": null
+          },
+          {
+            "num": 28,
+            "name": "Hair 28",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base28-00535.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting28-00555.png"
+          },
+          {
+            "num": 30,
+            "name": "Hair 30",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base30-00875.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting30-00865.png"
+          },
+          {
+            "num": 31,
+            "name": "Hair 31",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base31-00874.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting31-00864.png"
+          },
+          {
+            "num": 32,
+            "name": "Hair 32",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base32-00872.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting32-00866.png"
+          },
+          {
+            "num": 34,
+            "name": "Hair 34",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base34-00876.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting34-00870.png"
+          },
+          {
+            "num": 35,
+            "name": "Hair 35",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base35-00877.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting35-00871.png"
+          },
+          {
+            "num": 36,
+            "name": "Hair 36",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base36-00879.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting36-00869.png"
+          },
+          {
+            "num": 37,
+            "name": "Hair 37",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base37-00878.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting37-00868.png"
+          },
+          {
+            "num": 38,
+            "name": "Hair 38",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base38-01238.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting38-01240.png"
+          },
+          {
+            "num": 39,
+            "name": "Hair 39",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base39-01239.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting39-01241.png"
+          },
+          {
+            "num": 40,
+            "name": "Hair 40",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base40-01244.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting40-01246.png"
+          },
+          {
+            "num": 41,
+            "name": "Hair 41",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base41-01245.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting41-01247.png"
+          },
+          {
+            "num": 42,
+            "name": "Hair 42",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base42-01243.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting42-01249.png"
+          },
+          {
+            "num": 43,
+            "name": "Hair 43",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base43-01242.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting43-01248.png"
+          },
+          {
+            "num": 44,
+            "name": "Hair 44",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base44-01360.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting44-01378.png"
+          },
+          {
+            "num": 45,
+            "name": "Hair 45",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base45-01359.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting45-01375.png"
+          },
+          {
+            "num": 46,
+            "name": "Hair 46",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base46-01361.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting46-01372.png"
+          },
+          {
+            "num": 47,
+            "name": "Hair 47",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base47-01363.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting47-01374.png"
+          },
+          {
+            "num": 48,
+            "name": "Hair 48",
+            "base": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-base48-01358.png",
+            "lighting": "/assets/appearance/Hair/Female/Young_Adult/a16_faces-female-stage3-hair-lighting48-01350.png"
+          }
+        ]
+      },
+      "Adult": {
+        "styles": [
+          {
+            "num": 1,
+            "name": "Hair 1",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base1-00607.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting1-00618.png"
+          },
+          {
+            "num": 2,
+            "name": "Hair 2",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base2-00604.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting2-00624.png"
+          },
+          {
+            "num": 3,
+            "name": "Hair 3",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base3-00601.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting3-00621.png"
+          },
+          {
+            "num": 4,
+            "name": "Hair 4",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base4-00593.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting4-00615.png"
+          },
+          {
+            "num": 5,
+            "name": "Hair 5",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base5-00592.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting5-00614.png"
+          },
+          {
+            "num": 6,
+            "name": "Hair 6",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base6-00597.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting6-00610.png"
+          },
+          {
+            "num": 7,
+            "name": "Hair 7",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base7-00598.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting7-00611.png"
+          },
+          {
+            "num": 8,
+            "name": "Hair 8",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base8-00623.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting8-00603.png"
+          },
+          {
+            "num": 9,
+            "name": "Hair 9",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base9-00622.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting9-00602.png"
+          },
+          {
+            "num": 10,
+            "name": "Hair 10",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base10-00587.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting10-00606.png"
+          },
+          {
+            "num": 11,
+            "name": "Hair 11",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base11-00586.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting11-00608.png"
+          },
+          {
+            "num": 12,
+            "name": "Hair 12",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base12-00588.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting12-00605.png"
+          },
+          {
+            "num": 13,
+            "name": "Hair 13",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base13-00589.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting13-00600.png"
+          },
+          {
+            "num": 14,
+            "name": "Hair 14",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base14-00582.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting14-00595.png"
+          },
+          {
+            "num": 15,
+            "name": "Hair 15",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base15-00585.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting15-00590.png"
+          },
+          {
+            "num": 16,
+            "name": "Hair 16",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base16-00581.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting16-00596.png"
+          },
+          {
+            "num": 17,
+            "name": "Hair 17",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base17-00580.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting17-00599.png"
+          },
+          {
+            "num": 18,
+            "name": "Hair 18",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base18-00631.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting18-00626.png"
+          },
+          {
+            "num": 19,
+            "name": "Hair 19",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base19-00634.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting19-00619.png"
+          },
+          {
+            "num": 20,
+            "name": "Hair 20",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base20-00630.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting20-00609.png"
+          },
+          {
+            "num": 21,
+            "name": "Hair 21",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base21-00629.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting21-00612.png"
+          },
+          {
+            "num": 22,
+            "name": "Hair 22",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base22-00627.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting22-00616.png"
+          },
+          {
+            "num": 23,
+            "name": "Hair 23",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base23-00628.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting23-00613.png"
+          },
+          {
+            "num": 24,
+            "name": "Hair 24",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base24-00632.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting24-00625.png"
+          },
+          {
+            "num": 25,
+            "name": "Hair 25",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base25-00633.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting25-00620.png"
+          },
+          {
+            "num": 26,
+            "name": "Hair 26",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base26-00636.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting26-00617.png"
+          },
+          {
+            "num": 27,
+            "name": "Hair 27",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base27-00635.png",
+            "lighting": null
+          },
+          {
+            "num": 28,
+            "name": "Hair 28",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base28-00583.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting28-00594.png"
+          },
+          {
+            "num": 30,
+            "name": "Hair 30",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base30-00860.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting30-00855.png"
+          },
+          {
+            "num": 31,
+            "name": "Hair 31",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base31-00861.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting31-00854.png"
+          },
+          {
+            "num": 32,
+            "name": "Hair 32",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base32-00863.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting32-00852.png"
+          },
+          {
+            "num": 34,
+            "name": "Hair 34",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base34-00859.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting34-00848.png"
+          },
+          {
+            "num": 35,
+            "name": "Hair 35",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base35-00858.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting35-00849.png"
+          },
+          {
+            "num": 36,
+            "name": "Hair 36",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base36-00856.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting36-00851.png"
+          },
+          {
+            "num": 37,
+            "name": "Hair 37",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base37-00857.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting37-00850.png"
+          },
+          {
+            "num": 38,
+            "name": "Hair 38",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base38-01215.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting38-01216.png"
+          },
+          {
+            "num": 39,
+            "name": "Hair 39",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base39-01214.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting39-01217.png"
+          },
+          {
+            "num": 40,
+            "name": "Hair 40",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base40-01219.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting40-01224.png"
+          },
+          {
+            "num": 41,
+            "name": "Hair 41",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base41-01218.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting41-01225.png"
+          },
+          {
+            "num": 42,
+            "name": "Hair 42",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base42-01220.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting42-01223.png"
+          },
+          {
+            "num": 43,
+            "name": "Hair 43",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base43-01221.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting43-01222.png"
+          },
+          {
+            "num": 44,
+            "name": "Hair 44",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base44-01368.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting44-01382.png"
+          },
+          {
+            "num": 45,
+            "name": "Hair 45",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base45-01371.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting45-01379.png"
+          },
+          {
+            "num": 46,
+            "name": "Hair 46",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base46-01367.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting46-01383.png"
+          },
+          {
+            "num": 47,
+            "name": "Hair 47",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base47-01364.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting47-01385.png"
+          },
+          {
+            "num": 48,
+            "name": "Hair 48",
+            "base": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-base48-01353.png",
+            "lighting": "/assets/appearance/Hair/Female/Adult/a16_faces-female-stage4-hair-lighting48-01347.png"
+          }
+        ]
+      },
+      "Elder": {
+        "styles": [
+          {
+            "num": 1,
+            "name": "Hair 1",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base1-00462.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting1-00463.png"
+          },
+          {
+            "num": 2,
+            "name": "Hair 2",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base2-00464.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting2-00465.png"
+          },
+          {
+            "num": 3,
+            "name": "Hair 3",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base3-00467.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting3-00466.png"
+          },
+          {
+            "num": 4,
+            "name": "Hair 4",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base4-00470.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting4-00471.png"
+          },
+          {
+            "num": 5,
+            "name": "Hair 5",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base5-00473.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting5-00472.png"
+          },
+          {
+            "num": 7,
+            "name": "Hair 7",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base7-00942.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting7-00943.png"
+          },
+          {
+            "num": 8,
+            "name": "Hair 8",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base8-00954.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting8-00955.png"
+          },
+          {
+            "num": 9,
+            "name": "Hair 9",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base9-00963.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting9-00962.png"
+          },
+          {
+            "num": 10,
+            "name": "Hair 10",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base10-00937.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting10-00952.png"
+          },
+          {
+            "num": 11,
+            "name": "Hair 11",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base11-00934.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting11-00951.png"
+          },
+          {
+            "num": 12,
+            "name": "Hair 12",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base12-00938.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting12-00945.png"
+          },
+          {
+            "num": 13,
+            "name": "Hair 13",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base13-00941.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting13-00946.png"
+          },
+          {
+            "num": 14,
+            "name": "Hair 14",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base14-00950.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting14-00935.png"
+          },
+          {
+            "num": 15,
+            "name": "Hair 15",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base15-00953.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting15-00936.png"
+          },
+          {
+            "num": 16,
+            "name": "Hair 16",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base16-00947.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting16-00940.png"
+          },
+          {
+            "num": 17,
+            "name": "Hair 17",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base17-00944.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting17-00939.png"
+          },
+          {
+            "num": 18,
+            "name": "Hair 18",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base18-00957.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting18-00970.png"
+          },
+          {
+            "num": 19,
+            "name": "Hair 19",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base19-00960.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting19-00971.png"
+          },
+          {
+            "num": 20,
+            "name": "Hair 20",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base20-00973.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting20-00959.png"
+          },
+          {
+            "num": 21,
+            "name": "Hair 21",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base21-00968.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting21-00958.png"
+          },
+          {
+            "num": 22,
+            "name": "Hair 22",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base22-00966.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting22-00964.png"
+          },
+          {
+            "num": 23,
+            "name": "Hair 23",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base23-00967.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting23-00965.png"
+          },
+          {
+            "num": 24,
+            "name": "Hair 24",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base24-00956.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting24-00969.png"
+          },
+          {
+            "num": 25,
+            "name": "Hair 25",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base25-00961.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting25-00972.png"
+          },
+          {
+            "num": 26,
+            "name": "Hair 26",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base26-01305.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting26-01307.png"
+          },
+          {
+            "num": 27,
+            "name": "Hair 27",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base27-01304.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting27-01306.png"
+          },
+          {
+            "num": 28,
+            "name": "Hair 28",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base28-01300.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting28-01298.png"
+          },
+          {
+            "num": 29,
+            "name": "Hair 29",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base29-01301.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting29-01299.png"
+          },
+          {
+            "num": 30,
+            "name": "Hair 30",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base30-01302.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting30-01308.png"
+          },
+          {
+            "num": 31,
+            "name": "Hair 31",
+            "base": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-base31-01303.png",
+            "lighting": "/assets/appearance/Hair/Female/Elder/a16_faces-female-stage5-hair-lighting31-01309.png"
+          }
+        ]
+      }
+    }
+  },
+  "Brows": {
+    "Male": {
+      "Baby": [
+        {
+          "num": 1,
+          "name": "Brows 1",
+          "angry": "/assets/appearance/Brows/Male/Baby/a16_faces-male-stage0-eyebrows-angry1-00261.png",
+          "happy": "/assets/appearance/Brows/Male/Baby/a16_faces-male-stage0-eyebrows-happy1-00255.png",
+          "sad": "/assets/appearance/Brows/Male/Baby/a16_faces-male-stage0-eyebrows-sad1-00262.png"
+        },
+        {
+          "num": 2,
+          "name": "Brows 2",
+          "angry": "/assets/appearance/Brows/Male/Baby/a16_faces-male-stage0-eyebrows-angry2-00264.png",
+          "happy": "/assets/appearance/Brows/Male/Baby/a16_faces-male-stage0-eyebrows-happy2-00256.png",
+          "sad": "/assets/appearance/Brows/Male/Baby/a16_faces-male-stage0-eyebrows-sad2-00266.png"
+        },
+        {
+          "num": 3,
+          "name": "Brows 3",
+          "angry": "/assets/appearance/Brows/Male/Baby/a16_faces-male-stage0-eyebrows-angry3-00265.png",
+          "happy": "/assets/appearance/Brows/Male/Baby/a16_faces-male-stage0-eyebrows-happy3-00257.png",
+          "sad": "/assets/appearance/Brows/Male/Baby/a16_faces-male-stage0-eyebrows-sad3-00263.png"
+        },
+        {
+          "num": 4,
+          "name": "Brows 4",
+          "angry": "/assets/appearance/Brows/Male/Baby/a16_faces-male-stage0-eyebrows-angry4-00259.png",
+          "happy": "/assets/appearance/Brows/Male/Baby/a16_faces-male-stage0-eyebrows-happy4-00258.png",
+          "sad": "/assets/appearance/Brows/Male/Baby/a16_faces-male-stage0-eyebrows-sad4-00260.png"
+        }
+      ],
+      "Child": [
+        {
+          "num": 1,
+          "name": "Brows 1",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry1-00172.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy1-00139.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad1-00152.png"
+        },
+        {
+          "num": 2,
+          "name": "Brows 2",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry2-00185.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy2-00141.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad2-00165.png"
+        },
+        {
+          "num": 3,
+          "name": "Brows 3",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry3-00174.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy3-00140.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad3-00156.png"
+        },
+        {
+          "num": 4,
+          "name": "Brows 4",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry4-00164.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy4-00145.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad4-00184.png"
+        },
+        {
+          "num": 5,
+          "name": "Brows 5",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry5-00157.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy5-00144.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad5-00175.png"
+        },
+        {
+          "num": 6,
+          "name": "Brows 6",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry6-00149.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy6-00142.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad6-00167.png"
+        },
+        {
+          "num": 7,
+          "name": "Brows 7",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry7-00153.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy7-00143.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad7-00173.png"
+        },
+        {
+          "num": 8,
+          "name": "Brows 8",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry8-00130.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy8-00147.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad8-00118.png"
+        },
+        {
+          "num": 9,
+          "name": "Brows 9",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry9-00125.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy9-00146.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad9-00111.png"
+        },
+        {
+          "num": 10,
+          "name": "Brows 10",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry10-00135.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy10-00122.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad10-00176.png"
+        },
+        {
+          "num": 11,
+          "name": "Brows 11",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry11-00134.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy11-00121.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad11-00183.png"
+        },
+        {
+          "num": 12,
+          "name": "Brows 12",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry12-00126.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy12-00113.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad12-00171.png"
+        },
+        {
+          "num": 13,
+          "name": "Brows 13",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry13-00129.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy13-00116.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad13-00168.png"
+        },
+        {
+          "num": 14,
+          "name": "Brows 14",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry14-00114.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy14-00127.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad14-00154.png"
+        },
+        {
+          "num": 15,
+          "name": "Brows 15",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry15-00115.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy15-00128.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad15-00148.png"
+        },
+        {
+          "num": 16,
+          "name": "Brows 16",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry16-00123.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy16-00136.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad16-00155.png"
+        },
+        {
+          "num": 17,
+          "name": "Brows 17",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry17-00120.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy17-00133.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad17-00166.png"
+        },
+        {
+          "num": 18,
+          "name": "Brows 18",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry18-00179.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy18-00158.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad18-00138.png"
+        },
+        {
+          "num": 19,
+          "name": "Brows 19",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry19-00180.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy19-00163.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad19-00131.png"
+        },
+        {
+          "num": 20,
+          "name": "Brows 20",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry20-00151.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy20-00170.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad20-00112.png"
+        },
+        {
+          "num": 21,
+          "name": "Brows 21",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry21-00150.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy21-00169.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad21-00117.png"
+        },
+        {
+          "num": 22,
+          "name": "Brows 22",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry22-00160.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy22-00178.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad22-00124.png"
+        },
+        {
+          "num": 23,
+          "name": "Brows 23",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry23-00161.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy23-00181.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad23-00119.png"
+        },
+        {
+          "num": 24,
+          "name": "Brows 24",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry24-00177.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy24-00159.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad24-00137.png"
+        },
+        {
+          "num": 25,
+          "name": "Brows 25",
+          "angry": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-angry25-00182.png",
+          "happy": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-happy25-00162.png",
+          "sad": "/assets/appearance/Brows/Male/Child/a16_faces-male-stage1-eyebrows-sad25-00132.png"
+        }
+      ],
+      "Teen": [
+        {
+          "num": 1,
+          "name": "Brows 1",
+          "angry": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-angry1-00020.png",
+          "happy": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-happy1-00002.png",
+          "sad": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-sad1-00011.png"
+        },
+        {
+          "num": 2,
+          "name": "Brows 2",
+          "angry": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-angry2-00018.png",
+          "happy": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-happy2-00000.png",
+          "sad": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-sad2-00013.png"
+        },
+        {
+          "num": 3,
+          "name": "Brows 3",
+          "angry": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-angry3-00019.png",
+          "happy": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-happy3-00001.png",
+          "sad": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-sad3-00012.png"
+        },
+        {
+          "num": 4,
+          "name": "Brows 4",
+          "angry": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-angry4-00014.png",
+          "happy": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-happy4-00003.png",
+          "sad": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-sad4-00010.png"
+        },
+        {
+          "num": 5,
+          "name": "Brows 5",
+          "angry": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-angry5-00015.png",
+          "happy": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-happy5-00004.png",
+          "sad": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-sad5-00009.png"
+        },
+        {
+          "num": 6,
+          "name": "Brows 6",
+          "angry": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-angry6-00017.png",
+          "happy": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-happy6-00006.png",
+          "sad": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-sad6-00007.png"
+        },
+        {
+          "num": 7,
+          "name": "Brows 7",
+          "angry": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-angry7-00016.png",
+          "happy": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-happy7-00005.png",
+          "sad": "/assets/appearance/Brows/Male/Teen/a16_faces-male-stage2-eyebrows-sad7-00008.png"
+        }
+      ],
+      "Young_Adult": [
+        {
+          "num": 1,
+          "name": "Brows 1",
+          "angry": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-angry1-00302.png",
+          "happy": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-happy1-00287.png",
+          "sad": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-sad1-00291.png"
+        },
+        {
+          "num": 2,
+          "name": "Brows 2",
+          "angry": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-angry2-00301.png",
+          "happy": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-happy2-00286.png",
+          "sad": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-sad2-00293.png"
+        },
+        {
+          "num": 3,
+          "name": "Brows 3",
+          "angry": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-angry3-00300.png",
+          "happy": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-happy3-00285.png",
+          "sad": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-sad3-00292.png"
+        },
+        {
+          "num": 4,
+          "name": "Brows 4",
+          "angry": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-angry4-00298.png",
+          "happy": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-happy4-00289.png",
+          "sad": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-sad4-00296.png"
+        },
+        {
+          "num": 5,
+          "name": "Brows 5",
+          "angry": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-angry5-00297.png",
+          "happy": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-happy5-00288.png",
+          "sad": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-sad5-00295.png"
+        },
+        {
+          "num": 6,
+          "name": "Brows 6",
+          "angry": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-angry6-00299.png",
+          "happy": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-happy6-00290.png",
+          "sad": "/assets/appearance/Brows/Male/Young_Adult/a16_faces-male-stage3-eyebrows-sad6-00294.png"
+        }
+      ],
+      "Adult": [
+        {
+          "num": 1,
+          "name": "Brows 1",
+          "angry": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-angry1-00274.png",
+          "happy": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-happy1-00270.png",
+          "sad": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-sad1-00278.png"
+        },
+        {
+          "num": 2,
+          "name": "Brows 2",
+          "angry": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-angry2-00277.png",
+          "happy": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-happy2-00272.png",
+          "sad": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-sad2-00275.png"
+        },
+        {
+          "num": 3,
+          "name": "Brows 3",
+          "angry": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-angry3-00276.png",
+          "happy": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-happy3-00271.png",
+          "sad": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-sad3-00273.png"
+        },
+        {
+          "num": 4,
+          "name": "Brows 4",
+          "angry": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-angry4-00284.png",
+          "happy": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-happy4-00269.png",
+          "sad": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-sad4-00281.png"
+        },
+        {
+          "num": 5,
+          "name": "Brows 5",
+          "angry": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-angry5-00283.png",
+          "happy": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-happy5-00268.png",
+          "sad": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-sad5-00279.png"
+        },
+        {
+          "num": 6,
+          "name": "Brows 6",
+          "angry": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-angry6-00280.png",
+          "happy": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-happy6-00267.png",
+          "sad": "/assets/appearance/Brows/Male/Adult/a16_faces-male-stage4-eyebrows-sad6-00282.png"
+        }
+      ],
+      "Elder": [
+        {
+          "num": 1,
+          "name": "Brows 1",
+          "angry": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-angry1-00101.png",
+          "happy": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-happy1-00098.png",
+          "sad": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-sad1-00109.png"
+        },
+        {
+          "num": 2,
+          "name": "Brows 2",
+          "angry": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-angry2-00104.png",
+          "happy": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-happy2-00099.png",
+          "sad": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-sad2-00107.png"
+        },
+        {
+          "num": 3,
+          "name": "Brows 3",
+          "angry": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-angry3-00105.png",
+          "happy": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-happy3-00100.png",
+          "sad": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-sad3-00106.png"
+        },
+        {
+          "num": 4,
+          "name": "Brows 4",
+          "angry": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-angry4-00108.png",
+          "happy": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-happy4-00096.png",
+          "sad": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-sad4-00103.png"
+        },
+        {
+          "num": 5,
+          "name": "Brows 5",
+          "angry": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-angry5-00110.png",
+          "happy": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-happy5-00097.png",
+          "sad": "/assets/appearance/Brows/Male/Elder/a16_faces-male-stage5-eyebrows-sad5-00102.png"
+        }
+      ]
+    },
+    "Female": {
+      "Baby": [
+        {
+          "num": 1,
+          "name": "Brows 1",
+          "angry": "/assets/appearance/Brows/Female/Baby/a16_faces-female-stage0-eyebrows-angry1-00195.png",
+          "happy": "/assets/appearance/Brows/Female/Baby/a16_faces-female-stage0-eyebrows-happy1-00190.png",
+          "sad": "/assets/appearance/Brows/Female/Baby/a16_faces-female-stage0-eyebrows-sad1-00188.png"
+        },
+        {
+          "num": 2,
+          "name": "Brows 2",
+          "angry": "/assets/appearance/Brows/Female/Baby/a16_faces-female-stage0-eyebrows-angry2-00196.png",
+          "happy": "/assets/appearance/Brows/Female/Baby/a16_faces-female-stage0-eyebrows-happy2-00191.png",
+          "sad": "/assets/appearance/Brows/Female/Baby/a16_faces-female-stage0-eyebrows-sad2-00186.png"
+        },
+        {
+          "num": 3,
+          "name": "Brows 3",
+          "angry": "/assets/appearance/Brows/Female/Baby/a16_faces-female-stage0-eyebrows-angry3-00197.png",
+          "happy": "/assets/appearance/Brows/Female/Baby/a16_faces-female-stage0-eyebrows-happy3-00192.png",
+          "sad": "/assets/appearance/Brows/Female/Baby/a16_faces-female-stage0-eyebrows-sad3-00187.png"
+        },
+        {
+          "num": 4,
+          "name": "Brows 4",
+          "angry": "/assets/appearance/Brows/Female/Baby/a16_faces-female-stage0-eyebrows-angry4-00194.png",
+          "happy": "/assets/appearance/Brows/Female/Baby/a16_faces-female-stage0-eyebrows-happy4-00193.png",
+          "sad": "/assets/appearance/Brows/Female/Baby/a16_faces-female-stage0-eyebrows-sad4-00189.png"
+        }
+      ],
+      "Child": [
+        {
+          "num": 1,
+          "name": "Brows 1",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry1-00088.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy1-00044.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad1-00036.png"
+        },
+        {
+          "num": 2,
+          "name": "Brows 2",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry2-00094.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy2-00048.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad2-00031.png"
+        },
+        {
+          "num": 3,
+          "name": "Brows 3",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry3-00091.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy3-00045.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad3-00032.png"
+        },
+        {
+          "num": 4,
+          "name": "Brows 4",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry4-00086.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy4-00060.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad4-00022.png"
+        },
+        {
+          "num": 5,
+          "name": "Brows 5",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry5-00085.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy5-00057.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad5-00023.png"
+        },
+        {
+          "num": 6,
+          "name": "Brows 6",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry6-00081.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy6-00049.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad6-00027.png"
+        },
+        {
+          "num": 7,
+          "name": "Brows 7",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry7-00082.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy7-00056.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad7-00026.png"
+        },
+        {
+          "num": 8,
+          "name": "Brows 8",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry8-00033.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy8-00066.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad8-00092.png"
+        },
+        {
+          "num": 9,
+          "name": "Brows 9",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry9-00030.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy9-00061.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad9-00093.png"
+        },
+        {
+          "num": 10,
+          "name": "Brows 10",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry10-00063.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy10-00072.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad10-00021.png"
+        },
+        {
+          "num": 11,
+          "name": "Brows 11",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry11-00064.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy11-00073.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad11-00024.png"
+        },
+        {
+          "num": 12,
+          "name": "Brows 12",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry12-00070.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy12-00078.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad12-00028.png"
+        },
+        {
+          "num": 13,
+          "name": "Brows 13",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry13-00067.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy13-00075.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad13-00025.png"
+        },
+        {
+          "num": 14,
+          "name": "Brows 14",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry14-00077.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy14-00069.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad14-00037.png"
+        },
+        {
+          "num": 15,
+          "name": "Brows 15",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry15-00076.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy15-00068.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad15-00035.png"
+        },
+        {
+          "num": 16,
+          "name": "Brows 16",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry16-00071.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy16-00062.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad16-00029.png"
+        },
+        {
+          "num": 17,
+          "name": "Brows 17",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry17-00074.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy17-00065.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad17-00034.png"
+        },
+        {
+          "num": 18,
+          "name": "Brows 18",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry18-00043.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy18-00053.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad18-00083.png"
+        },
+        {
+          "num": 19,
+          "name": "Brows 19",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry19-00038.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy19-00052.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad19-00080.png"
+        },
+        {
+          "num": 20,
+          "name": "Brows 20",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry20-00058.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy20-00046.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad20-00090.png"
+        },
+        {
+          "num": 21,
+          "name": "Brows 21",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry21-00059.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy21-00047.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad21-00095.png"
+        },
+        {
+          "num": 22,
+          "name": "Brows 22",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry22-00054.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy22-00041.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad22-00089.png"
+        },
+        {
+          "num": 23,
+          "name": "Brows 23",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry23-00051.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy23-00040.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad23-00087.png"
+        },
+        {
+          "num": 24,
+          "name": "Brows 24",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry24-00042.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy24-00055.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad24-00084.png"
+        },
+        {
+          "num": 25,
+          "name": "Brows 25",
+          "angry": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-angry25-00039.png",
+          "happy": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-happy25-00050.png",
+          "sad": "/assets/appearance/Brows/Female/Child/a16_faces-female-stage1-eyebrows-sad25-00079.png"
+        }
+      ],
+      "Teen": [
+        {
+          "num": 1,
+          "name": "Brows 1",
+          "angry": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-angry1-00215.png",
+          "happy": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-happy1-00202.png",
+          "sad": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-sad1-00203.png"
+        },
+        {
+          "num": 2,
+          "name": "Brows 2",
+          "angry": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-angry2-00213.png",
+          "happy": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-happy2-00198.png",
+          "sad": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-sad2-00199.png"
+        },
+        {
+          "num": 3,
+          "name": "Brows 3",
+          "angry": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-angry3-00214.png",
+          "happy": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-happy3-00201.png",
+          "sad": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-sad3-00200.png"
+        },
+        {
+          "num": 4,
+          "name": "Brows 4",
+          "angry": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-angry4-00210.png",
+          "happy": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-happy4-00204.png",
+          "sad": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-sad4-00205.png"
+        },
+        {
+          "num": 5,
+          "name": "Brows 5",
+          "angry": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-angry5-00211.png",
+          "happy": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-happy5-00207.png",
+          "sad": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-sad5-00206.png"
+        },
+        {
+          "num": 6,
+          "name": "Brows 6",
+          "angry": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-angry6-00212.png",
+          "happy": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-happy6-00209.png",
+          "sad": "/assets/appearance/Brows/Female/Teen/a16_faces-female-stage2-eyebrows-sad6-00208.png"
+        }
+      ],
+      "Young_Adult": [
+        {
+          "num": 1,
+          "name": "Brows 1",
+          "angry": "/assets/appearance/Brows/Female/Young_Adult/a16_faces-female-stage3-eyebrows-angry1-00314.png",
+          "happy": "/assets/appearance/Brows/Female/Young_Adult/a16_faces-female-stage3-eyebrows-happy1-00306.png",
+          "sad": "/assets/appearance/Brows/Female/Young_Adult/a16_faces-female-stage3-eyebrows-sad1-00310.png"
+        },
+        {
+          "num": 2,
+          "name": "Brows 2",
+          "angry": "/assets/appearance/Brows/Female/Young_Adult/a16_faces-female-stage3-eyebrows-angry2-00313.png",
+          "happy": "/assets/appearance/Brows/Female/Young_Adult/a16_faces-female-stage3-eyebrows-happy2-00305.png",
+          "sad": "/assets/appearance/Brows/Female/Young_Adult/a16_faces-female-stage3-eyebrows-sad2-00307.png"
+        },
+        {
+          "num": 3,
+          "name": "Brows 3",
+          "angry": "/assets/appearance/Brows/Female/Young_Adult/a16_faces-female-stage3-eyebrows-angry3-00312.png",
+          "happy": "/assets/appearance/Brows/Female/Young_Adult/a16_faces-female-stage3-eyebrows-happy3-00304.png",
+          "sad": "/assets/appearance/Brows/Female/Young_Adult/a16_faces-female-stage3-eyebrows-sad3-00308.png"
+        },
+        {
+          "num": 4,
+          "name": "Brows 4",
+          "angry": "/assets/appearance/Brows/Female/Young_Adult/a16_faces-female-stage3-eyebrows-angry4-00311.png",
+          "happy": "/assets/appearance/Brows/Female/Young_Adult/a16_faces-female-stage3-eyebrows-happy4-00309.png",
+          "sad": "/assets/appearance/Brows/Female/Young_Adult/a16_faces-female-stage3-eyebrows-sad4-00303.png"
+        }
+      ],
+      "Adult": [
+        {
+          "num": 1,
+          "name": "Brows 1",
+          "angry": "/assets/appearance/Brows/Female/Adult/a16_faces-female-stage4-eyebrows-angry1-00251.png",
+          "happy": "/assets/appearance/Brows/Female/Adult/a16_faces-female-stage4-eyebrows-happy1-00248.png",
+          "sad": "/assets/appearance/Brows/Female/Adult/a16_faces-female-stage4-eyebrows-sad1-00244.png"
+        },
+        {
+          "num": 2,
+          "name": "Brows 2",
+          "angry": "/assets/appearance/Brows/Female/Adult/a16_faces-female-stage4-eyebrows-angry2-00253.png",
+          "happy": "/assets/appearance/Brows/Female/Adult/a16_faces-female-stage4-eyebrows-happy2-00250.png",
+          "sad": "/assets/appearance/Brows/Female/Adult/a16_faces-female-stage4-eyebrows-sad2-00245.png"
+        },
+        {
+          "num": 3,
+          "name": "Brows 3",
+          "angry": "/assets/appearance/Brows/Female/Adult/a16_faces-female-stage4-eyebrows-angry3-00252.png",
+          "happy": "/assets/appearance/Brows/Female/Adult/a16_faces-female-stage4-eyebrows-happy3-00249.png",
+          "sad": "/assets/appearance/Brows/Female/Adult/a16_faces-female-stage4-eyebrows-sad3-00246.png"
+        },
+        {
+          "num": 4,
+          "name": "Brows 4",
+          "angry": "/assets/appearance/Brows/Female/Adult/a16_faces-female-stage4-eyebrows-angry4-00254.png",
+          "happy": "/assets/appearance/Brows/Female/Adult/a16_faces-female-stage4-eyebrows-happy4-00247.png",
+          "sad": "/assets/appearance/Brows/Female/Adult/a16_faces-female-stage4-eyebrows-sad4-00243.png"
+        }
+      ],
+      "Elder": [
+        {
+          "num": 1,
+          "name": "Brows 1",
+          "angry": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-angry1-00234.png",
+          "happy": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-happy1-00229.png",
+          "sad": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-sad1-00216.png"
+        },
+        {
+          "num": 2,
+          "name": "Brows 2",
+          "angry": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-angry2-00237.png",
+          "happy": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-happy2-00230.png",
+          "sad": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-sad2-00219.png"
+        },
+        {
+          "num": 3,
+          "name": "Brows 3",
+          "angry": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-angry3-00238.png",
+          "happy": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-happy3-00231.png",
+          "sad": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-sad3-00220.png"
+        },
+        {
+          "num": 4,
+          "name": "Brows 4",
+          "angry": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-angry4-00241.png",
+          "happy": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-happy4-00227.png",
+          "sad": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-sad4-00223.png"
+        },
+        {
+          "num": 5,
+          "name": "Brows 5",
+          "angry": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-angry5-00242.png",
+          "happy": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-happy5-00228.png",
+          "sad": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-sad5-00224.png"
+        },
+        {
+          "num": 6,
+          "name": "Brows 6",
+          "angry": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-angry6-00240.png",
+          "happy": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-happy6-00226.png",
+          "sad": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-sad6-00222.png"
+        },
+        {
+          "num": 7,
+          "name": "Brows 7",
+          "angry": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-angry7-00239.png",
+          "happy": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-happy7-00225.png",
+          "sad": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-sad7-00221.png"
+        },
+        {
+          "num": 8,
+          "name": "Brows 8",
+          "angry": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-angry8-00217.png",
+          "happy": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-happy8-00232.png",
+          "sad": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-sad8-00235.png"
+        },
+        {
+          "num": 9,
+          "name": "Brows 9",
+          "angry": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-angry9-00218.png",
+          "happy": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-happy9-00233.png",
+          "sad": "/assets/appearance/Brows/Female/Elder/a16_faces-female-stage5-eyebrows-sad9-00236.png"
+        }
+      ]
+    }
+  },
+  "Eyes": {
+    "Male": {
+      "Baby": {
+        "eye_base": "/assets/appearance/Eyes/Male/Baby/a16_faces-male-stage0-eye-base-00370.png",
+        "iris_base": "/assets/appearance/Eyes/Male/Baby/a16_faces-male-stage0-iris-base-00373.png",
+        "iris_lighting": "/assets/appearance/Eyes/Male/Baby/a16_faces-male-stage0-iris-lighting-00371.png"
+      },
+      "Child": {
+        "eye_base": "/assets/appearance/Eyes/Male/Child/a16_faces-male-stage1-eye-base-00361.png",
+        "iris_base": "/assets/appearance/Eyes/Male/Child/a16_faces-male-stage1-iris-base-00365.png",
+        "iris_lighting": "/assets/appearance/Eyes/Male/Child/a16_faces-male-stage1-iris-lighting-00363.png"
+      },
+      "Teen": {
+        "eye_base": "/assets/appearance/Eyes/Male/Teen/a16_faces-male-stage2-eye-base-00396.png",
+        "iris_base": "/assets/appearance/Eyes/Male/Teen/a16_faces-male-stage2-iris-base-00394.png",
+        "iris_lighting": "/assets/appearance/Eyes/Male/Teen/a16_faces-male-stage2-iris-lighting-00393.png"
+      },
+      "Young_Adult": {
+        "eye_base": "/assets/appearance/Eyes/Male/Young_Adult/a16_faces-male-stage3-eye-base-00386.png",
+        "iris_base": "/assets/appearance/Eyes/Male/Young_Adult/a16_faces-male-stage3-iris-base-00383.png",
+        "iris_lighting": "/assets/appearance/Eyes/Male/Young_Adult/a16_faces-male-stage3-iris-lighting-00382.png"
+      },
+      "Adult": {
+        "eye_base": "/assets/appearance/Eyes/Male/Adult/a16_faces-male-stage4-eye-base-00416.png",
+        "iris_base": "/assets/appearance/Eyes/Male/Adult/a16_faces-male-stage4-iris-base-00412.png",
+        "iris_lighting": "/assets/appearance/Eyes/Male/Adult/a16_faces-male-stage4-iris-lighting-00411.png"
+      },
+      "Elder": {
+        "eye_base": "/assets/appearance/Eyes/Male/Elder/a16_faces-male-stage5-eye-base-00404.png",
+        "iris_base": "/assets/appearance/Eyes/Male/Elder/a16_faces-male-stage5-iris-base-00401.png",
+        "iris_lighting": "/assets/appearance/Eyes/Male/Elder/a16_faces-male-stage5-iris-lighting-00399.png"
+      }
+    },
+    "Female": {
+      "Baby": {
+        "eye_base": "/assets/appearance/Eyes/Female/Baby/a16_faces-female-stage0-eye-base-00353.png",
+        "iris_base": "/assets/appearance/Eyes/Female/Baby/a16_faces-female-stage0-iris-base-00348.png",
+        "iris_lighting": "/assets/appearance/Eyes/Female/Baby/a16_faces-female-stage0-iris-lighting-00352.png"
+      },
+      "Child": {
+        "eye_base": "/assets/appearance/Eyes/Female/Child/a16_faces-female-stage1-eye-base-00390.png",
+        "iris_base": "/assets/appearance/Eyes/Female/Child/a16_faces-female-stage1-iris-base-00392.png",
+        "iris_lighting": "/assets/appearance/Eyes/Female/Child/a16_faces-female-stage1-iris-lighting-00389.png"
+      },
+      "Teen": {
+        "eye_base": "/assets/appearance/Eyes/Female/Teen/a16_faces-female-stage2-eye-base-00342.png",
+        "iris_base": "/assets/appearance/Eyes/Female/Teen/a16_faces-female-stage2-iris-base-00346.png",
+        "iris_lighting": "/assets/appearance/Eyes/Female/Teen/a16_faces-female-stage2-iris-lighting-00345.png"
+      },
+      "Young_Adult": {
+        "eye_base": "/assets/appearance/Eyes/Female/Young_Adult/a16_faces-female-stage3-eye-base-00376.png",
+        "iris_base": "/assets/appearance/Eyes/Female/Young_Adult/a16_faces-female-stage3-iris-base-00375.png",
+        "iris_lighting": "/assets/appearance/Eyes/Female/Young_Adult/a16_faces-female-stage3-iris-lighting-00378.png"
+      },
+      "Adult": {
+        "eye_base": "/assets/appearance/Eyes/Female/Adult/a16_faces-female-stage4-eye-base-00357.png",
+        "iris_base": "/assets/appearance/Eyes/Female/Adult/a16_faces-female-stage4-iris-base-00355.png",
+        "iris_lighting": "/assets/appearance/Eyes/Female/Adult/a16_faces-female-stage4-iris-lighting-00358.png"
+      },
+      "Elder": {
+        "eye_base": "/assets/appearance/Eyes/Female/Elder/a16_faces-female-stage5-eye-base-00405.png",
+        "iris_base": "/assets/appearance/Eyes/Female/Elder/a16_faces-female-stage5-iris-base-00409.png",
+        "iris_lighting": "/assets/appearance/Eyes/Female/Elder/a16_faces-female-stage5-iris-lighting-00408.png"
+      }
+    }
+  },
+  "Facial_Hair": {
+    "Male": {
+      "Baby": [],
+      "Child": [],
+      "Teen": [],
+      "Young_Adult": [
+        {
+          "num": 1,
+          "name": "Style 1",
+          "file": "/assets/appearance/Facial_Hair/Male/Young_Adult/a16_faces-male-stage3-facial-hair1-00321.png"
+        },
+        {
+          "num": 2,
+          "name": "Style 2",
+          "file": "/assets/appearance/Facial_Hair/Male/Young_Adult/a16_faces-male-stage3-facial-hair2-00325.png"
+        },
+        {
+          "num": 3,
+          "name": "Style 3",
+          "file": "/assets/appearance/Facial_Hair/Male/Young_Adult/a16_faces-male-stage3-facial-hair3-00322.png"
+        },
+        {
+          "num": 4,
+          "name": "Style 4",
+          "file": "/assets/appearance/Facial_Hair/Male/Young_Adult/a16_faces-male-stage3-facial-hair4-00318.png"
+        },
+        {
+          "num": 5,
+          "name": "Style 5",
+          "file": "/assets/appearance/Facial_Hair/Male/Young_Adult/a16_faces-male-stage3-facial-hair5-00317.png"
+        },
+        {
+          "num": 6,
+          "name": "Style 6",
+          "file": "/assets/appearance/Facial_Hair/Male/Young_Adult/a16_faces-male-stage3-facial-hair6-00315.png"
+        },
+        {
+          "num": 7,
+          "name": "Style 7",
+          "file": "/assets/appearance/Facial_Hair/Male/Young_Adult/a16_faces-male-stage3-facial-hair7-00316.png"
+        },
+        {
+          "num": 8,
+          "name": "Style 8",
+          "file": "/assets/appearance/Facial_Hair/Male/Young_Adult/a16_faces-male-stage3-facial-hair8-00327.png"
+        },
+        {
+          "num": 9,
+          "name": "Style 9",
+          "file": "/assets/appearance/Facial_Hair/Male/Young_Adult/a16_faces-male-stage3-facial-hair9-00326.png"
+        },
+        {
+          "num": 10,
+          "name": "Style 10",
+          "file": "/assets/appearance/Facial_Hair/Male/Young_Adult/a16_faces-male-stage3-facial-hair10-00324.png"
+        },
+        {
+          "num": 11,
+          "name": "Style 11",
+          "file": "/assets/appearance/Facial_Hair/Male/Young_Adult/a16_faces-male-stage3-facial-hair11-00323.png"
+        },
+        {
+          "num": 12,
+          "name": "Style 12",
+          "file": "/assets/appearance/Facial_Hair/Male/Young_Adult/a16_faces-male-stage3-facial-hair12-00319.png"
+        },
+        {
+          "num": 13,
+          "name": "Style 13",
+          "file": "/assets/appearance/Facial_Hair/Male/Young_Adult/a16_faces-male-stage3-facial-hair13-00320.png"
+        }
+      ],
+      "Adult": [
+        {
+          "num": 1,
+          "name": "Style 1",
+          "file": "/assets/appearance/Facial_Hair/Male/Adult/a16_faces-male-stage4-facial-hair1-00334.png"
+        },
+        {
+          "num": 2,
+          "name": "Style 2",
+          "file": "/assets/appearance/Facial_Hair/Male/Adult/a16_faces-male-stage4-facial-hair2-00335.png"
+        },
+        {
+          "num": 3,
+          "name": "Style 3",
+          "file": "/assets/appearance/Facial_Hair/Male/Adult/a16_faces-male-stage4-facial-hair3-00336.png"
+        },
+        {
+          "num": 4,
+          "name": "Style 4",
+          "file": "/assets/appearance/Facial_Hair/Male/Adult/a16_faces-male-stage4-facial-hair4-00339.png"
+        },
+        {
+          "num": 5,
+          "name": "Style 5",
+          "file": "/assets/appearance/Facial_Hair/Male/Adult/a16_faces-male-stage4-facial-hair5-00340.png"
+        },
+        {
+          "num": 6,
+          "name": "Style 6",
+          "file": "/assets/appearance/Facial_Hair/Male/Adult/a16_faces-male-stage4-facial-hair6-00338.png"
+        },
+        {
+          "num": 7,
+          "name": "Style 7",
+          "file": "/assets/appearance/Facial_Hair/Male/Adult/a16_faces-male-stage4-facial-hair7-00337.png"
+        },
+        {
+          "num": 8,
+          "name": "Style 8",
+          "file": "/assets/appearance/Facial_Hair/Male/Adult/a16_faces-male-stage4-facial-hair8-00328.png"
+        },
+        {
+          "num": 9,
+          "name": "Style 9",
+          "file": "/assets/appearance/Facial_Hair/Male/Adult/a16_faces-male-stage4-facial-hair9-00329.png"
+        },
+        {
+          "num": 10,
+          "name": "Style 10",
+          "file": "/assets/appearance/Facial_Hair/Male/Adult/a16_faces-male-stage4-facial-hair10-00331.png"
+        },
+        {
+          "num": 11,
+          "name": "Style 11",
+          "file": "/assets/appearance/Facial_Hair/Male/Adult/a16_faces-male-stage4-facial-hair11-00330.png"
+        },
+        {
+          "num": 12,
+          "name": "Style 12",
+          "file": "/assets/appearance/Facial_Hair/Male/Adult/a16_faces-male-stage4-facial-hair12-00332.png"
+        },
+        {
+          "num": 13,
+          "name": "Style 13",
+          "file": "/assets/appearance/Facial_Hair/Male/Adult/a16_faces-male-stage4-facial-hair13-00333.png"
+        }
+      ],
+      "Elder": [
+        {
+          "num": 1,
+          "name": "Style 1",
+          "file": "/assets/appearance/Facial_Hair/Male/Elder/a16_faces-male-stage5-facial-hair1-00999.png"
+        },
+        {
+          "num": 2,
+          "name": "Style 2",
+          "file": "/assets/appearance/Facial_Hair/Male/Elder/a16_faces-male-stage5-facial-hair2-00998.png"
+        },
+        {
+          "num": 3,
+          "name": "Style 3",
+          "file": "/assets/appearance/Facial_Hair/Male/Elder/a16_faces-male-stage5-facial-hair3-00997.png"
+        },
+        {
+          "num": 4,
+          "name": "Style 4",
+          "file": "/assets/appearance/Facial_Hair/Male/Elder/a16_faces-male-stage5-facial-hair4-00992.png"
+        },
+        {
+          "num": 5,
+          "name": "Style 5",
+          "file": "/assets/appearance/Facial_Hair/Male/Elder/a16_faces-male-stage5-facial-hair5-00989.png"
+        },
+        {
+          "num": 6,
+          "name": "Style 6",
+          "file": "/assets/appearance/Facial_Hair/Male/Elder/a16_faces-male-stage5-facial-hair6-00994.png"
+        },
+        {
+          "num": 7,
+          "name": "Style 7",
+          "file": "/assets/appearance/Facial_Hair/Male/Elder/a16_faces-male-stage5-facial-hair7-00995.png"
+        },
+        {
+          "num": 8,
+          "name": "Style 8",
+          "file": "/assets/appearance/Facial_Hair/Male/Elder/a16_faces-male-stage5-facial-hair8-01001.png"
+        },
+        {
+          "num": 9,
+          "name": "Style 9",
+          "file": "/assets/appearance/Facial_Hair/Male/Elder/a16_faces-male-stage5-facial-hair9-01000.png"
+        },
+        {
+          "num": 10,
+          "name": "Style 10",
+          "file": "/assets/appearance/Facial_Hair/Male/Elder/a16_faces-male-stage5-facial-hair10-00991.png"
+        },
+        {
+          "num": 11,
+          "name": "Style 11",
+          "file": "/assets/appearance/Facial_Hair/Male/Elder/a16_faces-male-stage5-facial-hair11-00990.png"
+        },
+        {
+          "num": 12,
+          "name": "Style 12",
+          "file": "/assets/appearance/Facial_Hair/Male/Elder/a16_faces-male-stage5-facial-hair12-00993.png"
+        },
+        {
+          "num": 13,
+          "name": "Style 13",
+          "file": "/assets/appearance/Facial_Hair/Male/Elder/a16_faces-male-stage5-facial-hair13-00996.png"
+        }
+      ]
+    },
+    "Female": {
+      "Baby": [],
+      "Child": [],
+      "Teen": [],
+      "Young_Adult": [],
+      "Adult": [],
+      "Elder": []
+    }
+  }
+}

@@ -1,0 +1,3701 @@
+{
+  "politician": {
+    "offices": [
+      {
+        "id": "school_board",
+        "title": "School Board Director",
+        "level": "Local",
+        "minAge": 18,
+        "termYears": 4,
+        "salary": 20000,
+        "campaignCost": 10000,
+        "minSmarts": 40,
+        "description": "Direct local educational policies and school budgets."
+      },
+      {
+        "id": "mayor",
+        "title": "Mayor",
+        "level": "City",
+        "minAge": 25,
+        "termYears": 4,
+        "salary": 85000,
+        "campaignCost": 50000,
+        "minSmarts": 50,
+        "description": "Govern municipal operations, policing, and city development."
+      },
+      {
+        "id": "governor",
+        "title": "Governor",
+        "level": "Regional / State",
+        "minAge": 30,
+        "termYears": 4,
+        "salary": 180000,
+        "campaignCost": 300000,
+        "minSmarts": 60,
+        "description": "Command the state government, pass state bills, and oversee state commerce."
+      },
+      {
+        "id": "president",
+        "title": "President",
+        "level": "National",
+        "minAge": 35,
+        "termYears": 4,
+        "salary": 400000,
+        "campaignCost": 1500000,
+        "minSmarts": 75,
+        "description": "Leader of the Free World. Command military, foreign affairs, and national legislation."
+      }
+    ],
+    "parties": [
+      {
+        "name": "Democrat",
+        "original": "liberal",
+        "appeal": 5,
+        "commonness": 5,
+        "national": true,
+        "regional": true,
+        "city": true,
+        "local": false
+      },
+      {
+        "name": "Republican",
+        "original": "conservative",
+        "appeal": 5,
+        "commonness": 5,
+        "national": true,
+        "regional": true,
+        "city": true,
+        "local": false
+      },
+      {
+        "name": "Green",
+        "original": "green",
+        "appeal": 3,
+        "commonness": 3,
+        "national": true,
+        "regional": true,
+        "city": true,
+        "local": false
+      },
+      {
+        "name": "Libertarian",
+        "original": "libertarian",
+        "appeal": 2,
+        "commonness": 2,
+        "national": true,
+        "regional": true,
+        "city": false,
+        "local": false
+      },
+      {
+        "name": "Nationalist",
+        "original": "nationalist",
+        "appeal": 2,
+        "commonness": 2,
+        "national": true,
+        "regional": false,
+        "city": false,
+        "local": false
+      },
+      {
+        "name": "Socialist",
+        "original": "socialist",
+        "appeal": 3,
+        "commonness": 3,
+        "national": true,
+        "regional": true,
+        "city": true,
+        "local": false
+      },
+      {
+        "name": "Fascist",
+        "original": "fascist",
+        "appeal": 1,
+        "commonness": 1,
+        "national": true,
+        "regional": false,
+        "city": false,
+        "local": false
+      }
+    ],
+    "laws": [
+      {
+        "id": "1",
+        "law": "ban the sharing of Hulu login credentials",
+        "approvalImpact": -4
+      },
+      {
+        "id": "2",
+        "law": "ban bear wrestling",
+        "approvalImpact": 1
+      },
+      {
+        "id": "3",
+        "law": "make manspreading illegal",
+        "approvalImpact": 3
+      },
+      {
+        "id": "4",
+        "law": "make trolling on social media illegal",
+        "approvalImpact": 1
+      },
+      {
+        "id": "5",
+        "law": "force all prisoners in solitary confinement to listen to Britney Spears on a repeated loop",
+        "approvalImpact": 1
+      },
+      {
+        "id": "6",
+        "law": "legalize the removal of mattress tags",
+        "approvalImpact": 1
+      },
+      {
+        "id": "8",
+        "law": "fine people for peeing on toilet seats",
+        "approvalImpact": 2
+      },
+      {
+        "id": "9",
+        "law": "ban highway horse racing",
+        "approvalImpact": 5
+      },
+      {
+        "id": "10",
+        "law": "ban shows that don't get good until the second season",
+        "approvalImpact": 4
+      },
+      {
+        "id": "11",
+        "law": "ban ad traps",
+        "approvalImpact": 5
+      },
+      {
+        "id": "12",
+        "law": "ban the word 'yummy'",
+        "approvalImpact": 3
+      },
+      {
+        "id": "13",
+        "law": "give the smartest people additional ballots for voting in elections",
+        "approvalImpact": 2
+      },
+      {
+        "id": "14",
+        "law": "make it illegal to wear a mustache on Sundays",
+        "approvalImpact": -3
+      },
+      {
+        "id": "15",
+        "law": "ban improper fractions",
+        "approvalImpact": 2
+      },
+      {
+        "id": "16",
+        "law": "make it illegal for parents to buy lingerie for their grown children",
+        "approvalImpact": 5
+      },
+      {
+        "id": "17",
+        "law": "require that any hole punched in a wall be framed, and must remain for a minimum of num10-24 months",
+        "approvalImpact": 2
+      },
+      {
+        "id": "18",
+        "law": "ban the consumption of scorpion lollipops",
+        "approvalImpact": 3
+      },
+      {
+        "id": "19",
+        "law": "make it illegal to behave in a boomerly manner",
+        "approvalImpact": 4
+      },
+      {
+        "id": "20",
+        "law": "illegalize the assignment of homework",
+        "approvalImpact": 2
+      },
+      {
+        "id": "21",
+        "law": "ban 2nd and 3rd place trophies",
+        "approvalImpact": -1
+      },
+      {
+        "id": "22",
+        "law": "require restaurants to serve pizza on Fridays",
+        "approvalImpact": 5
+      },
+      {
+        "id": "23",
+        "law": "supplement teachers with robot teachers",
+        "approvalImpact": 3
+      },
+      {
+        "id": "24",
+        "law": "ban the movie 'Jack and Jill'",
+        "approvalImpact": 4
+      },
+      {
+        "id": "25",
+        "law": "give life sentences for white-collar crimes",
+        "approvalImpact": 4
+      },
+      {
+        "id": "26",
+        "law": "increase funding specifically for nutritional education in schools",
+        "approvalImpact": 5
+      },
+      {
+        "id": "27",
+        "law": "start a video game design program at each school",
+        "approvalImpact": 5
+      },
+      {
+        "id": "28",
+        "law": "require that all politicians receive a massage every day",
+        "approvalImpact": -5
+      },
+      {
+        "id": "29",
+        "law": "provide each citizen older than num10-18 a free iMac computer",
+        "approvalImpact": 5
+      },
+      {
+        "id": "30",
+        "law": "ban plastic bags",
+        "approvalImpact": 3
+      },
+      {
+        "id": "31",
+        "law": "ban sleeveless shirts in public",
+        "approvalImpact": -2
+      },
+      {
+        "id": "32",
+        "law": "make hunting in cemeteries illegal",
+        "approvalImpact": 1
+      },
+      {
+        "id": "33",
+        "law": "ban mint-flavored chewing gum",
+        "approvalImpact": -3
+      },
+      {
+        "id": "34",
+        "law": "make it illegal for parents to give stupid names to their children",
+        "approvalImpact": -2
+      },
+      {
+        "id": "35",
+        "law": "prohibit people from hiking naked",
+        "approvalImpact": 2
+      },
+      {
+        "id": "36",
+        "law": "punish those who feed park pigeons",
+        "approvalImpact": 1
+      },
+      {
+        "id": "37",
+        "law": "ban nuclear testing at outdoor facilities",
+        "approvalImpact": 3
+      },
+      {
+        "id": "38",
+        "law": "require grown children to visit their parents weekly",
+        "approvalImpact": -2
+      },
+      {
+        "id": "39",
+        "law": "make it illegal to wear anything camo patterned",
+        "approvalImpact": -1
+      },
+      {
+        "id": "40",
+        "law": "make it a crime to forget the birthday of an immediate family member",
+        "approvalImpact": -1
+      },
+      {
+        "id": "41",
+        "law": "criminalize the killing of Bigfoot, if found",
+        "approvalImpact": 2
+      },
+      {
+        "id": "42",
+        "law": "ban feather-stuffed pillows",
+        "approvalImpact": 1
+      },
+      {
+        "id": "43",
+        "law": "restrict people from walking around supermarkets suspiciously",
+        "approvalImpact": 2
+      },
+      {
+        "id": "44",
+        "law": "ban mobile games",
+        "approvalImpact": -5
+      },
+      {
+        "id": "45",
+        "law": "criminalize parents who bring crying babies onto airplanes",
+        "approvalImpact": 4
+      },
+      {
+        "id": "46",
+        "law": "prohibit TikTok dancing in public",
+        "approvalImpact": 2
+      },
+      {
+        "id": "47",
+        "law": "ban people from using Photoshop on application photos",
+        "approvalImpact": 1
+      },
+      {
+        "id": "48",
+        "law": "criminalize wielding a sword without a proper shield",
+        "approvalImpact": 1
+      },
+      {
+        "id": "49",
+        "law": "criminalize people who scare-prank others",
+        "approvalImpact": 2
+      },
+      {
+        "id": "50",
+        "law": "make it illegal to step on money left on the ground",
+        "approvalImpact": -1
+      },
+      {
+        "id": "51",
+        "law": "ban the chugging of expensive wine",
+        "approvalImpact": -2
+      }
+    ],
+    "rumors": [
+      "is addicted to meth",
+      "has a third nipple",
+      "is planning to stage a coup",
+      "is the leader of the Illuminati",
+      "lives on the dark web",
+      "hates babies",
+      "owns a copy of 'The Communist Manifesto' by Karl Marx",
+      "has no chill when it comes to Netflix",
+      "drinks milk straight from the carton",
+      "wears granny panties",
+      "was once an exotic dancer",
+      "dyes his pubes hot pink",
+      "is a boomer's boomer",
+      "has a pierced navel",
+      "has experienced the Devil's Triangle",
+      "hearts Charles Manson",
+      "wasn't hugged enough as a child",
+      "was voted \"Most Likely to Fail\" in high school",
+      "once slapped a baby",
+      "purchases Belle Delphine's dirty bathwater",
+      "has identified the sheep as the animal he best relates to",
+      "cuts down trees for fun",
+      "ate his identical twin in the womb",
+      "burns money for fun",
+      "kisses everyone on the lips",
+      "is scared of ghosts",
+      "doesn't make his bed",
+      "is an ugly crier",
+      "has no sense of direction, both literally and figuratively",
+      "asks Siri for political advice"
+    ],
+    "bribes": [
+      {
+        "scenario": "You have been offered amount to release random-person-indefinite from prison.",
+        "minAmount": 100000,
+        "maxAmount": 1000000
+      },
+      {
+        "scenario": "A corporation is offering you amount to prevent a rival corporation from moving its headquarters to your jurisdiction.",
+        "minAmount": 1000000,
+        "maxAmount": 10000000
+      },
+      {
+        "scenario": "Small family businesses are collectively offering you amount to keep big businesses out of your jurisdiction.",
+        "minAmount": 10000,
+        "maxAmount": 100000
+      },
+      {
+        "scenario": "A local sports franchise offers you amount to help persuade taxpayers to pay for the construction of the team's new stadium.",
+        "minAmount": 5000000,
+        "maxAmount": 50000000
+      },
+      {
+        "scenario": "A high-ranking official from country-other has secretly offered you amount to impose a trade sanction on several other countries.",
+        "minAmount": 5000000,
+        "maxAmount": 500000000
+      },
+      {
+        "scenario": "A drug cartel from country-other is offering you amount to let them run their operation in your jurisdiction.",
+        "minAmount": 5000000,
+        "maxAmount": 50000000
+      },
+      {
+        "scenario": "a pharmaceutical company is offering you amount to pass a law that would benefit their interests.",
+        "minAmount": 1000000,
+        "maxAmount": 100000000
+      },
+      {
+        "scenario": "A wealthy businessman offers you amount to introduce him to the high-ranking officials that you know.",
+        "minAmount": 20000,
+        "maxAmount": 10000000
+      },
+      {
+        "scenario": "a pharmaceutical company is offering you amount to help their organization cover up a scandal.",
+        "minAmount": 1000000,
+        "maxAmount": 100000000
+      },
+      {
+        "scenario": "A parent is offering you amount to ensure that her child make the soccer team at his school.",
+        "minAmount": 100,
+        "maxAmount": 10000
+      },
+      {
+        "scenario": "A parent is offering you amount to ensure that his child is the valedictorian at his school.",
+        "minAmount": 100,
+        "maxAmount": 10000
+      },
+      {
+        "scenario": "A parent is offering you amount to ensure that her child gets perfect grades.",
+        "minAmount": 100,
+        "maxAmount": 50000
+      },
+      {
+        "scenario": "A teacher is offering you amount to put her least favorite student in another teacher's class.",
+        "minAmount": 100,
+        "maxAmount": 100000
+      },
+      {
+        "scenario": "A teacher is offering you amount to let him have the classroom next to the hot teacher's classroom.",
+        "minAmount": 10,
+        "maxAmount": 500
+      },
+      {
+        "scenario": "A teacher is offering you amount to let her have the classroom next to the hot teacher's classroom.",
+        "minAmount": 10,
+        "maxAmount": 500
+      },
+      {
+        "scenario": "A teacher is offering you amount to allow her to handpick which students will be in her class.",
+        "minAmount": 10,
+        "maxAmount": 10000
+      },
+      {
+        "scenario": "The political-office of country-other is offering you amount to have your country burn all history books that reflect poorly on his country.",
+        "minAmount": 1000000,
+        "maxAmount": 100000000
+      },
+      {
+        "scenario": "The president of a university offers you amount to steer potential students toward her school.",
+        "minAmount": 10000,
+        "maxAmount": 2000000
+      },
+      {
+        "scenario": "a real estate company offers you amount to allow them to develop at their ideal location.",
+        "minAmount": 50000,
+        "maxAmount": 10000000
+      },
+      {
+        "scenario": "A godfather offers you amount to let one of his guys infiltrate your military department.",
+        "minAmount": 1000000,
+        "maxAmount": 20000000
+      }
+    ]
+  },
+  "mafia": {
+    "mobs": [
+      {
+        "name": "Sicilian mafia",
+        "country": "it",
+        "notoriety": 5,
+        "money": 4,
+        "ranks": [
+          "Associate",
+          "Soldier",
+          "Caporegime",
+          "Underboss",
+          "Godfather"
+        ]
+      },
+      {
+        "name": "Triad",
+        "country": "cn",
+        "notoriety": 2,
+        "money": 2,
+        "ranks": [
+          "Associate",
+          "Soldier",
+          "Captain",
+          "Underboss",
+          "Chairman"
+        ]
+      },
+      {
+        "name": "Yakuza",
+        "country": "jp",
+        "notoriety": 4,
+        "money": 3,
+        "ranks": [
+          "Associate",
+          "Soldier",
+          "Captain",
+          "Underboss",
+          "Chairman"
+        ]
+      },
+      {
+        "name": "Mafia",
+        "country": "it",
+        "notoriety": 5,
+        "money": 4,
+        "ranks": [
+          "Associate",
+          "Soldier",
+          "Caporegime",
+          "Underboss",
+          "Godfather"
+        ]
+      },
+      {
+        "name": "Irish mob",
+        "country": "ie",
+        "notoriety": 3,
+        "money": 2,
+        "ranks": [
+          "Associate",
+          "Soldier",
+          "Captain",
+          "Underboss",
+          "Skipper"
+        ]
+      },
+      {
+        "name": "Russian mafia",
+        "country": "ru",
+        "notoriety": 5,
+        "money": 4,
+        "ranks": [
+          "Associate",
+          "Soldier",
+          "Captain",
+          "Underboss",
+          "Czar"
+        ]
+      },
+      {
+        "name": "Latin mafia",
+        "country": "mx",
+        "notoriety": 4,
+        "money": 2,
+        "ranks": [
+          "Associate",
+          "Soldier",
+          "Captain",
+          "Underboss",
+          "Padrino"
+        ]
+      }
+    ],
+    "crimes": [
+      {
+        "snippet": "intercept some baggage arriving at the airport",
+        "past": "intercepted some baggage at the airport",
+        "seriousness": 1,
+        "risk": 1,
+        "crime": "larceny"
+      },
+      {
+        "snippet": "mow down a debtor with a Family-owned vehicle",
+        "past": "mowed down a debtor with a Family-owned vehicle",
+        "seriousness": 5,
+        "risk": 3,
+        "crime": "attempted murder"
+      },
+      {
+        "snippet": "make \"an example\" of someone refusing to pay the Family",
+        "past": "made \"an example\" of someone refusing to pay the Family",
+        "seriousness": 4,
+        "risk": 3,
+        "crime": "attempted murder"
+      },
+      {
+        "snippet": "rob a convenience store using a pistol to coerce the owner to pay mafia-family for security",
+        "past": "robbed a convenience store using rb to coerce the owner to pay mafia-family for security",
+        "seriousness": 3,
+        "risk": 3,
+        "crime": "armed robbery"
+      },
+      {
+        "snippet": "trash a convenience store owned by mafia-rival-family",
+        "past": "trashed a rb owned by mafia-rival-family",
+        "seriousness": 3,
+        "risk": 3,
+        "crime": "criminal mischief"
+      },
+      {
+        "snippet": "tag a construction site owned by one of the Family's debtors",
+        "past": "tagged a rb owned by one of the Family's debtors",
+        "seriousness": 1,
+        "risk": 1,
+        "crime": "criminal mischief"
+      },
+      {
+        "snippet": "convince a fighter to take a dive in the fourth round for a bet",
+        "past": "convinced a fighter to take a dive in the rb round for a bet",
+        "seriousness": 3,
+        "risk": 3,
+        "crime": "match fixing"
+      },
+      {
+        "snippet": "beat one of the Family's debtors with a baseball bat",
+        "past": "beat one of the Family's debtors with a rb",
+        "seriousness": 3,
+        "risk": 3,
+        "crime": "assault"
+      },
+      {
+        "snippet": "beat a member of mafia-rival-family with a baseball bat",
+        "past": "beat a member of mafia-rival-family with a rb",
+        "seriousness": 3,
+        "risk": 3,
+        "crime": "assault and battery"
+      },
+      {
+        "snippet": "beat one of the Family's debtors with a rubber chicken",
+        "past": "beat one of the Family's debtors with a rb",
+        "seriousness": 2,
+        "risk": 2,
+        "crime": "assault"
+      },
+      {
+        "snippet": "beat one of the mafia-rival-family members with a rubber chicken",
+        "past": "beat one of the mafia-rival-family members with a rb",
+        "seriousness": 2,
+        "risk": 2,
+        "crime": "assault"
+      },
+      {
+        "snippet": "transport one kilos of nose candy to one of mafia-family-possessive safe houses",
+        "past": "transported rb kilos of nose candy to one of mafia-family-possessive safe houses",
+        "seriousness": 4,
+        "risk": 2,
+        "crime": "drug trafficking"
+      },
+      {
+        "snippet": "steal an Aston Martin One-77 from a dealership owned by mafia-rival-family",
+        "past": "stole rb from a dealership owned by mafia-rival-family",
+        "seriousness": 4,
+        "risk": 3,
+        "crime": "grand theft auto"
+      },
+      {
+        "snippet": "steal an Aston Martin One-77 from a dealership owned by one of the Family's debtors",
+        "past": "stole rb from a dealership owned by one of the Family's debtors",
+        "seriousness": 4,
+        "risk": 3,
+        "crime": "grand theft auto"
+      },
+      {
+        "snippet": "steal a clown car from a dealership owned by mafia-rival-family",
+        "past": "stole a rb from a dealership owned by mafia-rival-family",
+        "seriousness": 3,
+        "risk": 2,
+        "crime": "grand theft auto"
+      },
+      {
+        "snippet": "steal a clown car from a dealership owned by one of the Family's debtors",
+        "past": "stole a rb from a dealership owned by one of the Family's debtors",
+        "seriousness": 3,
+        "risk": 2,
+        "crime": "grand theft auto"
+      },
+      {
+        "snippet": "dox an individual begging for an incest update to one of the Family's games",
+        "past": "doxxed an individual begging for an incest update to one of the Family's games",
+        "seriousness": 5,
+        "risk": 3,
+        "crime": "cybercrime"
+      },
+      {
+        "snippet": "transport a truck full of meat stuffed with various drugs to city-other",
+        "past": "transported a truck full of meat stuffed with various drugs to city-other",
+        "seriousness": 5,
+        "risk": 3,
+        "crime": "drug trafficking"
+      },
+      {
+        "snippet": "whack off a guy who owes the Family money",
+        "past": "whacked off a rb who owed the Family money",
+        "seriousness": 4,
+        "risk": 3,
+        "crime": "murder"
+      },
+      {
+        "snippet": "shove balloons full of illegal substances inside rubber chickens for safe transport",
+        "past": "shoved balloons full of illegal substances inside rb for safe transport",
+        "seriousness": 4,
+        "risk": 2,
+        "crime": "drug possession"
+      },
+      {
+        "snippet": "coerce a jockey to make his horse come in second at the racetrack to settle a bet",
+        "past": "coerced a jockey to make his horse come in rb at the racetrack to settle a bet",
+        "seriousness": 4,
+        "risk": 3,
+        "crime": "match fixing"
+      },
+      {
+        "snippet": "bribe the cops who patrol the Family's popular hangouts to pretend they don't see anything that happens",
+        "past": "bribed the cops who patrol the Family's popular hangouts to pretend they don't see anything that happens",
+        "seriousness": 5,
+        "risk": 4,
+        "crime": "bribery"
+      },
+      {
+        "snippet": "blackmail the attorney general with scandalous pictures of him enjoying the company of a prostitute",
+        "past": "blackmailed the attorney general with scandalous rb1 of him enjoying the company of a prostitute",
+        "seriousness": 5,
+        "risk": 3,
+        "crime": "blackmail"
+      },
+      {
+        "snippet": "guarantee that a Family captain wins a local election by threatening voters at the polls",
+        "past": "guaranteed that a Family captain won a local election by threatening voters at the polls",
+        "seriousness": 5,
+        "risk": 4,
+        "crime": "corruption"
+      },
+      {
+        "snippet": "toss bags of fecal matter around a store owned by mafia-rival-family",
+        "past": "tossed bags of fecal matter around a store owned by mafia-rival-family",
+        "seriousness": 2,
+        "risk": 2,
+        "crime": "criminal mischief"
+      },
+      {
+        "snippet": "plant evidence suggesting mafia-rival-family committed a crime done by mafia-family",
+        "past": "planted evidence suggesting mafia-rival-family committed a crime done by mafia-family",
+        "seriousness": 3,
+        "risk": 1,
+        "crime": "obstruction of justice"
+      },
+      {
+        "snippet": "smuggle an associate out of the country",
+        "past": "smuggled an associate out of the country",
+        "seriousness": 4,
+        "risk": 2,
+        "crime": "harboring a fugitive"
+      },
+      {
+        "snippet": "dump a body down a manhole",
+        "past": "dumped a body down a manhole",
+        "seriousness": 4,
+        "risk": 3,
+        "crime": "accomplice to murder"
+      },
+      {
+        "snippet": "bribe a valet attendant to illegally park cars so a tow truck owned by mafia-family could collect them",
+        "past": "bribed a valet attendant to illegally park cars so a tow truck owned by mafia-family could collect them",
+        "seriousness": 1,
+        "risk": 1,
+        "crime": "grand theft auto"
+      },
+      {
+        "snippet": "break into mafia-rival-family-possessive safehouse and leave mafia-calling-card to threaten them off the Family's turf",
+        "past": "broke into mafia-rival-family-possessive safehouse and left mafia-calling-card to threaten them off the Family's turf",
+        "seriousness": 1,
+        "risk": 2,
+        "crime": "breaking and entering"
+      },
+      {
+        "snippet": "steal a platypus from the city zoo",
+        "past": "stole a rb from the city zoo",
+        "seriousness": 4,
+        "risk": 4,
+        "crime": "theft"
+      },
+      {
+        "snippet": "steal the winning horse from the Kentucky Derby",
+        "past": "stole the winning horse from the Kentucky Derby",
+        "seriousness": 4,
+        "risk": 4,
+        "crime": "theft"
+      },
+      {
+        "snippet": "shoot a key witness in a case against the Family in an alley",
+        "past": "shoot a key witness in a case against the Family rb",
+        "seriousness": 5,
+        "risk": 3,
+        "crime": "murder"
+      },
+      {
+        "snippet": "shoot up a cop's house with two other associates",
+        "past": "shot up a cop's house with rb other associates",
+        "seriousness": 3,
+        "risk": 3,
+        "crime": "attempted murder"
+      },
+      {
+        "snippet": "force a member of mafia-rival-family to watch his brother get beaten with dildos",
+        "past": "forced a member of mafia-rival-family to watch his rb1 get beaten with rb2",
+        "seriousness": 2,
+        "risk": 2,
+        "crime": "assault and battery"
+      },
+      {
+        "snippet": "perform Chinese Water Torture on a member of mafia-rival-family to obtain the combination to a safe full of jewelry",
+        "past": "performed Chinese Water Torture on a member of mafia-rival-family to obtain the combination to a safe full of rb",
+        "seriousness": 2,
+        "risk": 2,
+        "crime": "torture"
+      },
+      {
+        "snippet": "set one of mafia-rival-family-possessive convenience stores on fire",
+        "past": "set one of mafia-rival-family-possessive rb on fire",
+        "seriousness": 3,
+        "risk": 2,
+        "crime": "arson"
+      },
+      {
+        "snippet": "plant a bomb in one of mafia-rival-family-possessive convenience stores",
+        "past": "planted a bomb in one of mafia-rival-family-possessive rb",
+        "seriousness": 3,
+        "risk": 2,
+        "crime": "conspiracy to murder"
+      },
+      {
+        "snippet": "poison the beer kegs at one of mafia-rival-family-possessive restaurants",
+        "past": "poisoned the rb at one of mafia-rival-family-possessive restaurants",
+        "seriousness": 3,
+        "risk": 1,
+        "crime": "murder"
+      },
+      {
+        "snippet": "whack off a member of mafia-rival-family with a tommy gun",
+        "past": "whacked off a member of mafia-rival-family with rb",
+        "seriousness": 4,
+        "risk": 2,
+        "crime": "murder"
+      }
+    ],
+    "extortions": [
+      {
+        "business": "Corporate",
+        "target": "owner, CEO",
+        "moneyScore": 5
+      },
+      {
+        "business": "Newspaper",
+        "target": "owner, editor",
+        "moneyScore": 1
+      },
+      {
+        "business": "Restaurant",
+        "target": "owner, waiter",
+        "moneyScore": 3
+      },
+      {
+        "business": "Strip Club",
+        "target": "owner",
+        "moneyScore": 3
+      },
+      {
+        "business": "Mortuary",
+        "target": "owner, mortician",
+        "moneyScore": 2
+      },
+      {
+        "business": "Small Business",
+        "target": "owner, CEO",
+        "moneyScore": 2
+      },
+      {
+        "business": "Gay Bar",
+        "target": "owner, bouncer, bartender, manager",
+        "moneyScore": 3
+      },
+      {
+        "business": "Bar",
+        "target": "owner, bouncer, bartender, manager",
+        "moneyScore": 3
+      },
+      {
+        "business": "Fertility Clinic",
+        "target": "owner, manager",
+        "moneyScore": 4
+      },
+      {
+        "business": "Bike Shop",
+        "target": "owner, manager",
+        "moneyScore": 2
+      },
+      {
+        "business": "Bowling Alley",
+        "target": "owner, manager, ball buffer",
+        "moneyScore": 2
+      },
+      {
+        "business": "Donut Shop",
+        "target": "owner, manager",
+        "moneyScore": 1
+      },
+      {
+        "business": "Florist",
+        "target": "owner, manager, florist",
+        "moneyScore": 1
+      },
+      {
+        "business": "Cafe",
+        "target": "owner, manager, barista",
+        "moneyScore": 2
+      },
+      {
+        "business": "Hotel",
+        "target": "owner, manager, housekeeper",
+        "moneyScore": 4
+      },
+      {
+        "business": "Pizza Chain",
+        "target": "owner, manager",
+        "moneyScore": 3
+      },
+      {
+        "business": "Convent",
+        "target": "nun",
+        "moneyScore": 1
+      },
+      {
+        "business": "Jeweler",
+        "target": "owner, manager",
+        "moneyScore": 5
+      },
+      {
+        "business": "Escort Agency",
+        "target": "owner, manager, escort",
+        "moneyScore": 3
+      },
+      {
+        "business": "Grocery Store",
+        "target": "owner, manager, cashier",
+        "moneyScore": 4
+      },
+      {
+        "business": "Salon",
+        "target": "owner, manager, stylist, manicurist",
+        "moneyScore": 2
+      },
+      {
+        "business": "Bank",
+        "target": "owner, manager, CEO",
+        "moneyScore": 5
+      },
+      {
+        "business": "Nightclub",
+        "target": "owner, manager, bouncer",
+        "moneyScore": 3
+      }
+    ],
+    "executions": [
+      {
+        "method": "Cement Block Drowning",
+        "description": "You put person-possessive feet in cement blocks and tossed him into the ocean!"
+      },
+      {
+        "method": "Battery Acid",
+        "description": "You dunked person into a vat of battery acid and watched him turn into soup!"
+      },
+      {
+        "method": "Liquid Nitrogen Bath",
+        "description": "You dipped person-possessive limbs into liquid nitrogen, then shattered them one by one!"
+      },
+      {
+        "method": "The Meat Grinder",
+        "description": "You threw person into a meat grinder, then fed him to some pigs!"
+      },
+      {
+        "method": "Grenade Luncheon",
+        "description": "You forced person to swallow a live grenade in the middle of a field!"
+      },
+      {
+        "method": "Wet Cement Burial",
+        "description": "You tied up person and threw him into a hole, then filled it with wet cement!"
+      },
+      {
+        "method": "Jet Engine Vacuum",
+        "description": "You put person on the rim of a jet engine, then started the plane, sucking his body through the propellers!"
+      },
+      {
+        "method": "Body Part Distribution",
+        "description": "You chopped person-possessive body into num8-15 pieces and buried them in random locations throughout city!"
+      },
+      {
+        "method": "The Meat Hook",
+        "description": "You impaled person on a hook and hung him in a meat freezer!"
+      },
+      {
+        "method": "Fish Food",
+        "description": "You tossed person into a tank full of piranhas and watched as they consumed him!"
+      },
+      {
+        "method": "Jammed in the Junkyard",
+        "description": "You stuffed person into the trunk of a car and crushed it with a junkyard compactor!"
+      },
+      {
+        "method": "Take 'em Skydiving",
+        "description": "You threw person out of a plane with no parachute while flying over an abandoned field!"
+      },
+      {
+        "method": "Flame On",
+        "description": "You burned person alive in an incinerator!"
+      },
+      {
+        "method": "The Iron Lady",
+        "description": "You encased person in an iron maiden and left him to bleed out!"
+      },
+      {
+        "method": "Vacuum-Sealed Coffin",
+        "description": "You encased person in a vacuum-sealed body bag and left him to suffocate!"
+      },
+      {
+        "method": "Reduced to Rubble",
+        "description": "You chained person to a radiator in a dilapidated skyscraper scheduled for demolition!"
+      },
+      {
+        "method": "The Shaft",
+        "description": "You dumped person-possessive body into an abandoned mine shaft, then detonated it with dynamite!"
+      },
+      {
+        "method": "Deep Fried",
+        "description": "You shoved person into a deep fryer!"
+      },
+      {
+        "method": "Body of Steel",
+        "description": "You covered person in a tub of molten steel!"
+      },
+      {
+        "method": "Tank the Trunk",
+        "description": "You stuffed person into the trunk of a car and sunk it to the bottom of a lake!"
+      }
+    ]
+  },
+  "musician": {
+    "genres": [
+      {
+        "genre": "Pop",
+        "singerTitle": "pop singer",
+        "famousTitle": "pop star",
+        "solo": true,
+        "band": true,
+        "minBand": 3,
+        "maxBand": 7
+      },
+      {
+        "genre": "Rap",
+        "singerTitle": "rapper",
+        "famousTitle": "famous rapper",
+        "solo": false,
+        "band": false,
+        "minBand": 3,
+        "maxBand": 4
+      },
+      {
+        "genre": "K-pop",
+        "singerTitle": "K-pop artist",
+        "famousTitle": "K-pop star",
+        "solo": false,
+        "band": false,
+        "minBand": 3,
+        "maxBand": 7
+      },
+      {
+        "genre": "Rock",
+        "singerTitle": "singer",
+        "famousTitle": "rock star",
+        "solo": true,
+        "band": true,
+        "minBand": 3,
+        "maxBand": 7
+      },
+      {
+        "genre": "Country",
+        "singerTitle": "country singer",
+        "famousTitle": "country star",
+        "solo": true,
+        "band": true,
+        "minBand": 3,
+        "maxBand": 7
+      },
+      {
+        "genre": "Alternative",
+        "singerTitle": "singer",
+        "famousTitle": "rock star",
+        "solo": false,
+        "band": true,
+        "minBand": 3,
+        "maxBand": 7
+      },
+      {
+        "genre": "Folk",
+        "singerTitle": "folk singer",
+        "famousTitle": "folk star",
+        "solo": true,
+        "band": true,
+        "minBand": 3,
+        "maxBand": 7
+      },
+      {
+        "genre": "Heavy metal",
+        "singerTitle": "singer",
+        "famousTitle": "rock star",
+        "solo": false,
+        "band": true,
+        "minBand": 5,
+        "maxBand": 7
+      },
+      {
+        "genre": "Reggae",
+        "singerTitle": "singer",
+        "famousTitle": "reggae star",
+        "solo": false,
+        "band": true,
+        "minBand": 4,
+        "maxBand": 7
+      },
+      {
+        "genre": "Worship",
+        "singerTitle": "singer",
+        "famousTitle": "famous singer",
+        "solo": false,
+        "band": true,
+        "minBand": 4,
+        "maxBand": 7
+      },
+      {
+        "genre": "Rhythm and blues",
+        "singerTitle": "R&B singer",
+        "famousTitle": "R&B star",
+        "solo": true,
+        "band": true,
+        "minBand": 3,
+        "maxBand": 5
+      }
+    ],
+    "instruments": [
+      {
+        "name": "Accordion",
+        "category": "woodwind",
+        "minCost": 500,
+        "maxCost": 2500,
+        "canBusk": true
+      },
+      {
+        "name": "Banjo",
+        "category": "string",
+        "minCost": 400,
+        "maxCost": 1500,
+        "canBusk": true
+      },
+      {
+        "name": "Bass guitar",
+        "category": "string",
+        "minCost": 300,
+        "maxCost": 3500,
+        "canBusk": true
+      },
+      {
+        "name": "Cello",
+        "category": "string",
+        "minCost": 200,
+        "maxCost": 2500,
+        "canBusk": true
+      },
+      {
+        "name": "Didgeridoo",
+        "category": "novelty",
+        "minCost": 100,
+        "maxCost": 1000,
+        "canBusk": true
+      },
+      {
+        "name": "Flute",
+        "category": "woodwind",
+        "minCost": 500,
+        "maxCost": 2000,
+        "canBusk": true
+      },
+      {
+        "name": "Guitar",
+        "category": "string",
+        "minCost": 500,
+        "maxCost": 1500,
+        "canBusk": true
+      },
+      {
+        "name": "Harmonica",
+        "category": "novelty",
+        "minCost": 15,
+        "maxCost": 100,
+        "canBusk": true
+      },
+      {
+        "name": "Harp",
+        "category": "string",
+        "minCost": 300,
+        "maxCost": 2000,
+        "canBusk": true
+      },
+      {
+        "name": "Kazoo",
+        "category": "novelty",
+        "minCost": 5,
+        "maxCost": 15,
+        "canBusk": true
+      },
+      {
+        "name": "Keyboard",
+        "category": "keyboard",
+        "minCost": 200,
+        "maxCost": 1000,
+        "canBusk": true
+      },
+      {
+        "name": "Pan flute",
+        "category": "woodwind",
+        "minCost": 20,
+        "maxCost": 60,
+        "canBusk": true
+      },
+      {
+        "name": "Recorder",
+        "category": "woodwind",
+        "minCost": 5,
+        "maxCost": 35,
+        "canBusk": true
+      },
+      {
+        "name": "Saxophone",
+        "category": "brass",
+        "minCost": 800,
+        "maxCost": 2000,
+        "canBusk": true
+      },
+      {
+        "name": "Steel drum",
+        "category": "percussion",
+        "minCost": 100,
+        "maxCost": 500,
+        "canBusk": true
+      },
+      {
+        "name": "Tambourine",
+        "category": "percussion",
+        "minCost": 15,
+        "maxCost": 300,
+        "canBusk": true
+      },
+      {
+        "name": "Triangle",
+        "category": "novelty",
+        "minCost": 25,
+        "maxCost": 100,
+        "canBusk": true
+      },
+      {
+        "name": "Trombone",
+        "category": "brass",
+        "minCost": 400,
+        "maxCost": 2500,
+        "canBusk": true
+      },
+      {
+        "name": "Trumpet",
+        "category": "brass",
+        "minCost": 400,
+        "maxCost": 2000,
+        "canBusk": true
+      },
+      {
+        "name": "Tuba",
+        "category": "brass",
+        "minCost": 800,
+        "maxCost": 2000,
+        "canBusk": true
+      },
+      {
+        "name": "Violin",
+        "category": "string",
+        "minCost": 600,
+        "maxCost": 2000,
+        "canBusk": true
+      },
+      {
+        "name": "Drums",
+        "category": "percussion",
+        "minCost": 200,
+        "maxCost": 2500,
+        "canBusk": false
+      },
+      {
+        "name": "Organ",
+        "category": "keyboard",
+        "minCost": 500,
+        "maxCost": 3000,
+        "canBusk": false
+      },
+      {
+        "name": "Piano",
+        "category": "keyboard",
+        "minCost": 500,
+        "maxCost": 3000,
+        "canBusk": false
+      },
+      {
+        "name": "Voice",
+        "category": "voice",
+        "minCost": 200,
+        "maxCost": 2000,
+        "canBusk": false
+      },
+      {
+        "name": "Midi keyboard",
+        "category": "keyboard",
+        "minCost": 500,
+        "maxCost": 3000,
+        "canBusk": false
+      }
+    ],
+    "recordLabels": [
+      {
+        "name": "Drippy Center Studios",
+        "genre": "hip-hop"
+      },
+      {
+        "name": "Gold-Mine Records",
+        "genre": "hip-hop"
+      },
+      {
+        "name": "Blockhouse Studios",
+        "genre": "hip-hop"
+      },
+      {
+        "name": "Grooves of the Isles",
+        "genre": "reggae"
+      },
+      {
+        "name": "Breeze of Greens Music",
+        "genre": "reggae"
+      },
+      {
+        "name": "Rastafari Studios",
+        "genre": "reggae"
+      },
+      {
+        "name": "Kong Studios",
+        "genre": "alternative"
+      },
+      {
+        "name": "Dead Waters Music Group",
+        "genre": "alternative"
+      },
+      {
+        "name": "The Backroom Studios",
+        "genre": "alternative"
+      },
+      {
+        "name": "SFM Entertainment",
+        "genre": "k-pop"
+      },
+      {
+        "name": "Qube Entertainment",
+        "genre": "k-pop"
+      },
+      {
+        "name": "Horizon-0 Studios",
+        "genre": "k-pop"
+      },
+      {
+        "name": "Byeongshin Entertainment",
+        "genre": "k-pop"
+      },
+      {
+        "name": "Zombies with Nukes Studios",
+        "genre": "heavy metal"
+      },
+      {
+        "name": "Eargasm-Plasm Studios",
+        "genre": "heavy metal"
+      },
+      {
+        "name": "Thunderhelm Records",
+        "genre": "heavy metal"
+      },
+      {
+        "name": "Jailedbird Studios",
+        "genre": "rock"
+      },
+      {
+        "name": "Save The World Studios",
+        "genre": "rock"
+      },
+      {
+        "name": "Rock and Stone Records",
+        "genre": "rock"
+      },
+      {
+        "name": "E-Mortal Portal",
+        "genre": "EDM"
+      },
+      {
+        "name": "Ultra-Man Music",
+        "genre": "EDM"
+      },
+      {
+        "name": "SUPASONIC Records",
+        "genre": "EDM"
+      },
+      {
+        "name": "V-Neck Studios",
+        "genre": "rhythm and blues"
+      },
+      {
+        "name": "G-Vine Records",
+        "genre": "rhythm and blues"
+      },
+      {
+        "name": "LushVibes Records",
+        "genre": "rhythm and blues"
+      },
+      {
+        "name": "Juvie Cash Entertainment",
+        "genre": "rap"
+      },
+      {
+        "name": "Top Katz Entertainment",
+        "genre": "rap"
+      },
+      {
+        "name": "UrbanNova Records",
+        "genre": "rap"
+      },
+      {
+        "name": "Celtics Alliance Music Group",
+        "genre": "folk"
+      },
+      {
+        "name": "Village Spirit Music Group",
+        "genre": "folk"
+      }
+    ],
+    "albumTypes": [
+      "Studio Album",
+      "Live Album",
+      "Single",
+      "EP",
+      "Acoustic Album"
+    ]
+  },
+  "actor": {
+    "genres": [
+      {
+        "genre": "Action",
+        "budget": 5
+      },
+      {
+        "genre": "Bollywood",
+        "budget": 2
+      },
+      {
+        "genre": "Comedy",
+        "budget": 2
+      },
+      {
+        "genre": "Drama",
+        "budget": 3
+      },
+      {
+        "genre": "Fantasy",
+        "budget": 4
+      },
+      {
+        "genre": "Horror",
+        "budget": 3
+      },
+      {
+        "genre": "Indie",
+        "budget": 1
+      },
+      {
+        "genre": "Musical",
+        "budget": 2
+      },
+      {
+        "genre": "Romance",
+        "budget": 3
+      },
+      {
+        "genre": "Romantic comedy",
+        "budget": 2
+      },
+      {
+        "genre": "Sci-fi",
+        "budget": 5
+      },
+      {
+        "genre": "Thriller",
+        "budget": 4
+      },
+      {
+        "genre": "Western",
+        "budget": 2
+      },
+      {
+        "genre": "Childrens",
+        "budget": 2
+      }
+    ],
+    "extraRoles": [
+      {
+        "role": "Fan",
+        "gender": "male",
+        "minAge": 6
+      },
+      {
+        "role": "Pedestrian",
+        "gender": "male",
+        "minAge": 12
+      },
+      {
+        "role": "Grocery store shopper",
+        "gender": "female",
+        "minAge": 16
+      },
+      {
+        "role": "Airplane passenger",
+        "gender": "female",
+        "minAge": 16
+      },
+      {
+        "role": "Partygoer",
+        "gender": "male",
+        "minAge": 21
+      },
+      {
+        "role": "Receptionist",
+        "gender": "female",
+        "minAge": 25
+      },
+      {
+        "role": "Sex store shopper",
+        "gender": "male",
+        "minAge": 25
+      },
+      {
+        "role": "Pet store shopper",
+        "gender": "female",
+        "minAge": 18
+      },
+      {
+        "role": "Gardener",
+        "gender": "male",
+        "minAge": 25
+      },
+      {
+        "role": "Landscaper",
+        "gender": "male",
+        "minAge": 25
+      },
+      {
+        "role": "Hotel housekeeper",
+        "gender": "female",
+        "minAge": 18
+      },
+      {
+        "role": "Factory worker",
+        "gender": "male",
+        "minAge": 18
+      },
+      {
+        "role": "Cruise ship passenger",
+        "gender": "female",
+        "minAge": 18
+      },
+      {
+        "role": "Tourist",
+        "gender": "male",
+        "minAge": 18
+      },
+      {
+        "role": "Sorority sister",
+        "gender": "female",
+        "minAge": 18
+      },
+      {
+        "role": "Fraternity brother",
+        "gender": "male",
+        "minAge": 18
+      },
+      {
+        "role": "College student",
+        "gender": "female",
+        "minAge": 18
+      },
+      {
+        "role": "Community college student",
+        "gender": "male",
+        "minAge": 18
+      },
+      {
+        "role": "Fast food worker",
+        "gender": "male",
+        "minAge": 16
+      },
+      {
+        "role": "Restaurant diner",
+        "gender": "female",
+        "minAge": 16
+      },
+      {
+        "role": "Fast food diner",
+        "gender": "male",
+        "minAge": 16
+      },
+      {
+        "role": "Line cook",
+        "gender": "male",
+        "minAge": 18
+      },
+      {
+        "role": "Sailor",
+        "gender": "male",
+        "minAge": 18
+      },
+      {
+        "role": "Prisoner",
+        "gender": "male",
+        "minAge": 18
+      },
+      {
+        "role": "Bus passenger",
+        "gender": "female",
+        "minAge": 18
+      },
+      {
+        "role": "Hospital patient",
+        "gender": "male",
+        "minAge": 18
+      },
+      {
+        "role": "Juror",
+        "gender": "female",
+        "minAge": 18
+      },
+      {
+        "role": "Office worker",
+        "gender": "female",
+        "minAge": 18
+      },
+      {
+        "role": "Gangster",
+        "gender": "male",
+        "minAge": 18
+      },
+      {
+        "role": "Construction worker",
+        "gender": "male",
+        "minAge": 18
+      }
+    ],
+    "films": [
+      "A Final Engagement",
+      "Infinity",
+      "Snitches Get Pinches",
+      "The Revengers",
+      "Mr. & Mrs. Smythe",
+      "Bottom Gun",
+      "Arachnid-Man",
+      "The Starvation Games",
+      "Majority Report",
+      "Babysitters of the Galaxy",
+      "Crush Time",
+      "I Dream of Bombs",
+      "High-Tail it to the Boat",
+      "Detonator",
+      "A Most Deceptive Game",
+      "Ready, Set, Boom",
+      "Ninjas at Sunset",
+      "One in the Holster",
+      "The Issue of the Ex",
+      "The Australian Candidate",
+      "Wings at War",
+      "Bamboozled in Mumbai",
+      "Slumdog Billionaire",
+      "A Fistful of Rupees",
+      "Typhoon Wedding",
+      "Article 13",
+      "The Sky is Purple",
+      "Madame",
+      "Innocent",
+      "Hellbottoms"
+    ],
+    "roles": [
+      "Extra",
+      "Supporting Actor",
+      "Lead Actor",
+      "Co-Star"
+    ]
+  },
+  "athlete": {
+    "sports": [
+      {
+        "sport": "Football",
+        "seasonGames": 16,
+        "minAge": 21,
+        "minSalary": 510000,
+        "maxSalary": 50000000
+      },
+      {
+        "sport": "Basketball",
+        "seasonGames": 82,
+        "minAge": 18,
+        "minSalary": 893310,
+        "maxSalary": 45000000
+      },
+      {
+        "sport": "Baseball",
+        "seasonGames": 162,
+        "minAge": 18,
+        "minSalary": 563500,
+        "maxSalary": 45000000
+      },
+      {
+        "sport": "Hockey",
+        "seasonGames": 82,
+        "minAge": 18,
+        "minSalary": 650000,
+        "maxSalary": 16000000
+      },
+      {
+        "sport": "Soccer",
+        "seasonGames": 38,
+        "minAge": 16,
+        "minSalary": 500000,
+        "maxSalary": 50000000
+      },
+      {
+        "sport": "Rugby",
+        "seasonGames": 25,
+        "minAge": 18,
+        "minSalary": 50000,
+        "maxSalary": 750000
+      },
+      {
+        "sport": "Volleyball",
+        "seasonGames": 40,
+        "minAge": 18,
+        "minSalary": 100000,
+        "maxSalary": 5000000
+      }
+    ],
+    "positions": {
+      "soccer": [
+        {
+          "position": "Goalkeeper",
+          "moneyScore": 3,
+          "fameScore": 3,
+          "skills": [
+            "dribbling",
+            "passing",
+            "defending",
+            "goalkeeping",
+            "tricks",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Defender",
+          "moneyScore": 4,
+          "fameScore": 4,
+          "skills": [
+            "shooting",
+            "dribbling",
+            "passing",
+            "tricks",
+            "defending",
+            "headers",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Midfielder",
+          "moneyScore": 5,
+          "fameScore": 4,
+          "skills": [
+            "shooting",
+            "dribbling",
+            "passing",
+            "tricks",
+            "defending",
+            "headers",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Forward",
+          "moneyScore": 5,
+          "fameScore": 5,
+          "skills": [
+            "shooting",
+            "dribbling",
+            "passing",
+            "tricks",
+            "defending",
+            "headers",
+            "celebrations"
+          ]
+        }
+      ],
+      "basketball": [
+        {
+          "position": "Point guard",
+          "moneyScore": 5,
+          "fameScore": 4,
+          "skills": [
+            "shooting",
+            "dribbling",
+            "passing",
+            "tricks",
+            "defending",
+            "rebounding",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Shooting guard",
+          "moneyScore": 4,
+          "fameScore": 5,
+          "skills": [
+            "shooting",
+            "dribbling",
+            "passing",
+            "tricks",
+            "defending",
+            "rebounding",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Small forward",
+          "moneyScore": 5,
+          "fameScore": 5,
+          "skills": [
+            "shooting",
+            "dribbling",
+            "passing",
+            "tricks",
+            "defending",
+            "rebounding",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Power forward",
+          "moneyScore": 4,
+          "fameScore": 4,
+          "skills": [
+            "shooting",
+            "dribbling",
+            "passing",
+            "tricks",
+            "defending",
+            "rebounding",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Center",
+          "moneyScore": 3,
+          "fameScore": 5,
+          "skills": [
+            "shooting",
+            "dribbling",
+            "passing",
+            "tricks",
+            "defending",
+            "rebounding",
+            "celebrations"
+          ]
+        }
+      ],
+      "football": [
+        {
+          "position": "Quarterback",
+          "moneyScore": 5,
+          "fameScore": 5,
+          "skills": [
+            "passing",
+            "rushing",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Running back",
+          "moneyScore": 3,
+          "fameScore": 5,
+          "skills": [
+            "rushing",
+            "receiving",
+            "blocking",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Wide receiver",
+          "moneyScore": 4,
+          "fameScore": 4,
+          "skills": [
+            "receiving",
+            "rushing",
+            "blocking",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Tight end",
+          "moneyScore": 2,
+          "fameScore": 2,
+          "skills": [
+            "receiving",
+            "rushing",
+            "blocking",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Offensive lineman",
+          "moneyScore": 3,
+          "fameScore": 2,
+          "skills": [
+            "blocking",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Defensive lineman",
+          "moneyScore": 4,
+          "fameScore": 4,
+          "skills": [
+            "tackling",
+            "defending",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Linebacker",
+          "moneyScore": 4,
+          "fameScore": 5,
+          "skills": [
+            "tackling",
+            "defending",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Cornerback",
+          "moneyScore": 3,
+          "fameScore": 3,
+          "skills": [
+            "tackling",
+            "defending",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Safety",
+          "moneyScore": 3,
+          "fameScore": 3,
+          "skills": [
+            "tackling",
+            "defending",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Kicker",
+          "moneyScore": 1,
+          "fameScore": 2,
+          "skills": [
+            "kicking",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Punter",
+          "moneyScore": 1,
+          "fameScore": 1,
+          "skills": [
+            "kicking",
+            "celebrations"
+          ]
+        }
+      ],
+      "baseball": [
+        {
+          "position": "Pitcher",
+          "moneyScore": 5,
+          "fameScore": 5,
+          "skills": [
+            "pitching",
+            "throwing",
+            "fielding",
+            "catching",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Catcher",
+          "moneyScore": 3,
+          "fameScore": 2,
+          "skills": [
+            "hitting",
+            "base running",
+            "fielding",
+            "catching",
+            "throwing",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "First baseman",
+          "moneyScore": 5,
+          "fameScore": 5,
+          "skills": [
+            "hitting",
+            "base running",
+            "fielding",
+            "catching",
+            "throwing",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Second baseman",
+          "moneyScore": 3,
+          "fameScore": 3,
+          "skills": [
+            "hitting",
+            "base running",
+            "fielding",
+            "catching",
+            "throwing",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Third baseman",
+          "moneyScore": 4,
+          "fameScore": 3,
+          "skills": [
+            "hitting",
+            "base running",
+            "fielding",
+            "catching",
+            "throwing",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Shortstop",
+          "moneyScore": 3,
+          "fameScore": 3,
+          "skills": [
+            "hitting",
+            "base running",
+            "fielding",
+            "catching",
+            "throwing",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Outfielder",
+          "moneyScore": 5,
+          "fameScore": 5,
+          "skills": [
+            "hitting",
+            "base running",
+            "fielding",
+            "catching",
+            "throwing",
+            "celebrations"
+          ]
+        }
+      ],
+      "hockey": [
+        {
+          "position": "Center",
+          "moneyScore": 5,
+          "fameScore": 5,
+          "skills": [
+            "skating",
+            "shooting",
+            "passing",
+            "defending",
+            "stick handling",
+            "tricks",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Winger",
+          "moneyScore": 4,
+          "fameScore": 5,
+          "skills": [
+            "skating",
+            "shooting",
+            "passing",
+            "defending",
+            "stick handling",
+            "tricks",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Defender",
+          "moneyScore": 3,
+          "fameScore": 4,
+          "skills": [
+            "skating",
+            "shooting",
+            "passing",
+            "defending",
+            "stick handling",
+            "tricks",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Goaltender",
+          "moneyScore": 3,
+          "fameScore": 3,
+          "skills": [
+            "goaltending",
+            "defending",
+            "skating",
+            "passing",
+            "stick handling",
+            "celebrations"
+          ]
+        }
+      ],
+      "rugby": [
+        {
+          "position": "Full-back",
+          "moneyScore": 4,
+          "fameScore": 3,
+          "skills": [
+            "passing",
+            "tackling",
+            "running",
+            "catching",
+            "kicking",
+            "defending",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Winger",
+          "moneyScore": 3,
+          "fameScore": 3,
+          "skills": [
+            "passing",
+            "tackling",
+            "running",
+            "catching",
+            "kicking",
+            "defending",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Centre",
+          "moneyScore": 4,
+          "fameScore": 3,
+          "skills": [
+            "passing",
+            "tackling",
+            "running",
+            "catching",
+            "kicking",
+            "defending",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Fly-half",
+          "moneyScore": 5,
+          "fameScore": 5,
+          "skills": [
+            "passing",
+            "tackling",
+            "running",
+            "catching",
+            "kicking",
+            "defending",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Scrum-half",
+          "moneyScore": 5,
+          "fameScore": 5,
+          "skills": [
+            "passing",
+            "tackling",
+            "running",
+            "catching",
+            "kicking",
+            "defending",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "8-man",
+          "moneyScore": 4,
+          "fameScore": 4,
+          "skills": [
+            "passing",
+            "tackling",
+            "running",
+            "catching",
+            "kicking",
+            "defending",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Flanker",
+          "moneyScore": 4,
+          "fameScore": 4,
+          "skills": [
+            "passing",
+            "tackling",
+            "running",
+            "catching",
+            "kicking",
+            "defending",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Lock",
+          "moneyScore": 3,
+          "fameScore": 3,
+          "skills": [
+            "passing",
+            "tackling",
+            "running",
+            "catching",
+            "kicking",
+            "defending",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Prop",
+          "moneyScore": 3,
+          "fameScore": 5,
+          "skills": [
+            "passing",
+            "tackling",
+            "running",
+            "catching",
+            "kicking",
+            "defending",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Hooker",
+          "moneyScore": 3,
+          "fameScore": 5,
+          "skills": [
+            "passing",
+            "tackling",
+            "running",
+            "catching",
+            "kicking",
+            "defending",
+            "celebrations"
+          ]
+        }
+      ],
+      "volleyball": [
+        {
+          "position": "Setter",
+          "moneyScore": 5,
+          "fameScore": 4,
+          "skills": [
+            "bumping",
+            "setting",
+            "digging",
+            "spiking",
+            "blocking",
+            "serving",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Outside hitter",
+          "moneyScore": 5,
+          "fameScore": 5,
+          "skills": [
+            "bumping",
+            "setting",
+            "digging",
+            "spiking",
+            "blocking",
+            "serving",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Opposite hitter",
+          "moneyScore": 5,
+          "fameScore": 5,
+          "skills": [
+            "bumping",
+            "setting",
+            "digging",
+            "spiking",
+            "blocking",
+            "serving",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Middle blocker",
+          "moneyScore": 5,
+          "fameScore": 3,
+          "skills": [
+            "bumping",
+            "setting",
+            "digging",
+            "spiking",
+            "blocking",
+            "serving",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Libero",
+          "moneyScore": 5,
+          "fameScore": 5,
+          "skills": [
+            "bumping",
+            "setting",
+            "digging",
+            "serving",
+            "celebrations"
+          ]
+        },
+        {
+          "position": "Defensive specialist",
+          "moneyScore": 5,
+          "fameScore": 4,
+          "skills": [
+            "bumping",
+            "setting",
+            "digging",
+            "spiking",
+            "serving",
+            "celebrations"
+          ]
+        }
+      ]
+    },
+    "teams": {
+      "football": [
+        "Arizona Swallows",
+        "Atlanta Pelicans",
+        "Baltimore Ravers",
+        "Buffalo Wills",
+        "Carolina Calicos",
+        "Cincinnati Bungles",
+        "Chicago Teddies",
+        "Cleveland Oranges",
+        "Dallas Buckaroos",
+        "Denver Mustangs",
+        "Detroit Manes",
+        "Green Bay Baggers",
+        "Houston Americans",
+        "Indianapolis Fillies",
+        "Kansas City Karens",
+        "Los Angeles Joggers",
+        "Los Angeles Rims",
+        "Jacksonville Leopards",
+        "Miami Sharks",
+        "Minnesota People Eaters",
+        "New England Deflatriots",
+        "New Orleans Diablos",
+        "New York Empires",
+        "New York Planes",
+        "Las Vegas Burglars",
+        "Philadelphia Warblers",
+        "San Francisco 96ers",
+        "Seattle Seagulls",
+        "Pittsburgh Thieves",
+        "Tampa Bay Poopdeckers",
+        "Tennessee Behemoths",
+        "Washington Potato Skins"
+      ],
+      "basketball": [
+        "Atlanta Hooters",
+        "Boston Leprechauns",
+        "Charlotte Horny Toads",
+        "Chicago Balls",
+        "Cleveland Calves",
+        "Detroit Grinders",
+        "Indiana Pacemakers",
+        "Miami Humidity",
+        "Milwaukee Stags",
+        "Brooklyn Nuts",
+        "New York Knickers",
+        "Orlando Spell",
+        "Philadelphia 69ers",
+        "Toronto T-Rexes",
+        "Washington Magicians",
+        "Dallas Gooses",
+        "Denver Nugs",
+        "Golden State Fighters",
+        "Houston Beards",
+        "Los Angeles Clappers",
+        "Los Angeles Lickers",
+        "Memphis Gristle",
+        "Minnesota Howlers",
+        "New Orleans Pelotons",
+        "Oklahoma City Tornados",
+        "Phoenix Novas",
+        "Portland 420ers",
+        "Sacramento Princes",
+        "San Antonio Saddles",
+        "Utah Scat",
+        "Atlanta Wet Dream",
+        "Chicago Clouds",
+        "Connecticut Glitter",
+        "Indiana Hot Flashes",
+        "New York Freedom",
+        "Washington Spirit",
+        "Dallas Red Wings",
+        "Las Vegas Flunkies",
+        "Los Angeles Flickers",
+        "Minnesota Licks",
+        "Phoenix Mars",
+        "Seattle Downpour"
+      ],
+      "baseball": [
+        "Arizona Rattlers",
+        "Atlanta Cowards",
+        "Baltimore Albatrosses",
+        "Boston Bloody Sox",
+        "Chicago Toesocks",
+        "Chicago Kodiaks",
+        "Cincinnati Rods",
+        "Cleveland Satchels",
+        "Colorado Sandies",
+        "Detroit Tires",
+        "Houston Astroturfs",
+        "Kansas City Commoners",
+        "Los Angeles Angelinos",
+        "Los Angeles Suckers",
+        "Miami Carps",
+        "Milwaukee Growers",
+        "Minnesota Triplets",
+        "New York Yankers",
+        "New York Matzah Balls",
+        "Oakland Players",
+        "Philadelphia Willies",
+        "Pittsburgh Booties",
+        "San Diego Priests",
+        "San Francisco Titanics",
+        "Seattle Fishermen",
+        "St. Louis Wrens",
+        "Tampa Bay Irwins",
+        "Texas Tumbleweeds",
+        "Toronto Blue Balls",
+        "Washington Internationals"
+      ],
+      "hockey": [
+        "Carolina Cyclones",
+        "Columbus Yellow Jackets",
+        "New Jersey Demons",
+        "New York Mainlanders",
+        "New York Ringers",
+        "Philadelphia Floaters",
+        "Pittsburgh Emperors",
+        "Washington White Collars",
+        "Boston Bruises",
+        "Buffalo Swords",
+        "Detroit Red Flings",
+        "Florida Panties",
+        "Montreal Poutines",
+        "Ottawa Politics",
+        "Tampa Bay Thunder",
+        "Toronto Treestars",
+        "Chicago Black Cox",
+        "Colorado Snowdrift",
+        "Dallas Sunbeams",
+        "Minnesota Civilization",
+        "Nashville Preys",
+        "St. Louis Rhapsodies",
+        "Winnipeg Planes",
+        "Anaheim Quacks",
+        "Arizona Roadrunners",
+        "Calgary Sparkers",
+        "Edmonton Greasers",
+        "Los Angeles Paupers",
+        "San Jose Minnows",
+        "Vancouver Cucks",
+        "Las Vegas Gamblers"
+      ],
+      "soccer": [
+        "Arson Hall FC",
+        "Aston FC",
+        "Sunderland",
+        "Queens Park FC",
+        "Blues FC",
+        "Palace FC",
+        "Goodison FC",
+        "Derby",
+        "Leeds",
+        "Leicester",
+        "Liverpool",
+        "City FC",
+        "Manchester",
+        "Newcastle",
+        "Norwich",
+        "Southampton",
+        "Tottenham",
+        "Nottingham",
+        "West Ham",
+        "Wolverhampton",
+        "Zaragoza",
+        "Bilbao",
+        "Atletico",
+        "Barcelona",
+        "Vigo",
+        "Espa\\361ol de F\\372tbol",
+        "Eibar",
+        "La Coru\\361a",
+        "Getafe",
+        "Granada",
+        "Mallorca",
+        "Levante",
+        "Pamplona",
+        "Betis",
+        "Madrid",
+        "La Sociedad",
+        "Valladolid",
+        "Sevilla",
+        "Valencia",
+        "Villarreal",
+        "Bergamo",
+        "Benevento",
+        "Bologna",
+        "Cagliari",
+        "Catania",
+        "Firenze",
+        "Genoa",
+        "Inter",
+        "Bianconeri",
+        "Lazio",
+        "Milan",
+        "Napoli",
+        "Parma",
+        "Roma",
+        "Sampdoria",
+        "Sassuolo",
+        "La Spezia",
+        "Torino",
+        "Udine",
+        "Verona",
+        "Munich",
+        "Dortmund",
+        "Leipzig",
+        "M\\366nchengladbach",
+        "Leverkusen",
+        "Hoffenheim",
+        "Wolfsburg",
+        "Freiburg",
+        "Frankfurt",
+        "Berlin",
+        "K\\366penick",
+        "Schalke",
+        "Mainz",
+        "K\\366ln",
+        "Augsburg",
+        "Bremen",
+        "Hamburg",
+        "Stuttgart",
+        "Chicago FC",
+        "Houston FC",
+        "North Carolina FC",
+        "Tacoma FC",
+        "Orlando FC",
+        "Portland FC",
+        "New Jersey FC",
+        "Utah FC",
+        "Washington FC",
+        "Arson Hall FC",
+        "Aston FC",
+        "Birmingham",
+        "Brighton",
+        "Bristol",
+        "Blues FC",
+        "Goodison FC",
+        "City FC",
+        "Manchester",
+        "Reading",
+        "Tottenham",
+        "West Ham",
+        "Athletico-PR",
+        "Atl\\351tico",
+        "Galo",
+        "Bahia",
+        "Botafogo",
+        "Cear\\341",
+        "Sport Club Paulista",
+        "Curitiba",
+        "Fortaleza",
+        "Flamingos",
+        "Fluminense",
+        "Porto Alegre",
+        "Goi\\341s",
+        "Internacional",
+        "Esportiva Perdizes",
+        "Bragan\\347a Paulista",
+        "Santos",
+        "S\\343o Paulo",
+        "Recife",
+        "Vasco da Gama"
+      ],
+      "rugby": [
+        "Brisbane Mustangs",
+        "Canberra Braiders",
+        "Canterbury-Bankstown Poodles",
+        "Cronulla-Sutherland Barks",
+        "Gold Coast Gods",
+        "Manly Warringah Seagulls",
+        "Melbourne Typhoon",
+        "New Zealand Worriers",
+        "Newcastle Nights",
+        "North Queensland Bullboys",
+        "Parramatta Morays",
+        "Penrith Calicos",
+        "South Sydney Bunnies",
+        "St. George Illawarra Lizards",
+        "Sydney Cocks",
+        "Wests Bengals",
+        "Castleford Cats",
+        "Catalans Geckos",
+        "Huddersfield Gnats",
+        "Hull A.C.",
+        "Hull Kingston Movers",
+        "Leeds Horns",
+        "Salford Blue Devils",
+        "St. Helens J.Z.Z.",
+        "Wakefield Threesomes",
+        "Warrington Wolverines",
+        "Wigan Fighters"
+      ],
+      "volleyball": [
+        "Chicago Chic",
+        "New York Liberties",
+        "Los Angeles Atomic Cougars",
+        "Scottsdale Scrappies",
+        "Philadelphia Freeballers",
+        "Dallas Dinks",
+        "Miami Floaters",
+        "New Orleans Beignets",
+        "San Francisco Rainbows",
+        "Detroit Block City",
+        "Boulder Blockers",
+        "Portland Pancakes",
+        "Seattle Servers",
+        "Atlanta Overhanders",
+        "Salt Lake City Saints",
+        "Milwaukee Roofers",
+        "Baltimore Backsetters",
+        "Boston Facials",
+        "Cleveland Karens",
+        "Washington Wands",
+        "Pittsburgh Poppers",
+        "Minneapolis Minnies",
+        "Houston Hustlers",
+        "San Antonio Susans",
+        "San Diego Diggers",
+        "Las Vegas Lollipops",
+        "Honolulu Hotties",
+        "Mexico City Choppers",
+        "Toronto Tools",
+        "Vancouver Volleys",
+        "Anchorage Whalers",
+        "Biloxi Blues"
+      ]
+    }
+  },
+  "model": {
+    "ranks": [
+      {
+        "title": "Body Part Model",
+        "jobsToPromo": 0,
+        "minLooks": 50,
+        "minSalary": 65000,
+        "maxSalary": 80000,
+        "canBeFamous": false
+      },
+      {
+        "title": "Stock Photo Model",
+        "jobsToPromo": 8,
+        "minLooks": 65,
+        "minSalary": 85000,
+        "maxSalary": 95000,
+        "canBeFamous": false
+      },
+      {
+        "title": "Catalog Model",
+        "jobsToPromo": 24,
+        "minLooks": 75,
+        "minSalary": 100000,
+        "maxSalary": 130000,
+        "canBeFamous": false
+      },
+      {
+        "title": "Elite Model",
+        "jobsToPromo": 35,
+        "minLooks": 85,
+        "minSalary": 200000,
+        "maxSalary": 250000,
+        "canBeFamous": true
+      },
+      {
+        "title": "Supermodel",
+        "jobsToPromo": 0,
+        "minLooks": 95,
+        "minSalary": 500000,
+        "maxSalary": 15000000,
+        "canBeFamous": true
+      }
+    ],
+    "gigs": [
+      {
+        "name": "Print ad",
+        "commonness": 5
+      },
+      {
+        "name": "Video ad",
+        "commonness": 4
+      },
+      {
+        "name": "Fashion editorial",
+        "commonness": 3
+      },
+      {
+        "name": "Billboard",
+        "commonness": 2
+      },
+      {
+        "name": "Fashion show",
+        "commonness": 3
+      }
+    ],
+    "agencies": [
+      "Elite Model Management",
+      "IMG Models",
+      "Ford Models",
+      "Next Management",
+      "Wilhelmina Models"
+    ]
+  },
+  "astronaut": {
+    "ranks": [
+      {
+        "rank": "Cadet",
+        "missionsToPromo": 3,
+        "minSmarts": 60,
+        "minHealth": 50,
+        "minSalary": 65000,
+        "maxSalary": 75000
+      },
+      {
+        "rank": "Captain",
+        "missionsToPromo": 3,
+        "minSmarts": 70,
+        "minHealth": 60,
+        "minSalary": 76000,
+        "maxSalary": 100000
+      },
+      {
+        "rank": "Major",
+        "missionsToPromo": 4,
+        "minSmarts": 80,
+        "minHealth": 70,
+        "minSalary": 101000,
+        "maxSalary": 175000
+      },
+      {
+        "rank": "General",
+        "missionsToPromo": 5,
+        "minSmarts": 90,
+        "minHealth": 80,
+        "minSalary": 180000,
+        "maxSalary": 375000
+      }
+    ],
+    "trainingQuestions": [
+      {
+        "question": "What keeps an astronaut attached to a spacecraft while on a spacewalk?",
+        "correct": "A tether system",
+        "wrong": [
+          "Prayer",
+          "An umbilical cord",
+          "A taut rope"
+        ]
+      },
+      {
+        "question": "What makes it possible for the Earth to orbit the Sun?",
+        "correct": "Gravity",
+        "wrong": [
+          "The Sun orbits the Earth...Duh",
+          "Astronomical acceleration",
+          "The stellar velocity ratio"
+        ]
+      },
+      {
+        "question": "The Great Red Spot appears on which planet?",
+        "correct": "Jupiter",
+        "wrong": [
+          "Neptune",
+          "Uranus",
+          "Saturn"
+        ]
+      },
+      {
+        "question": "How long does it take light from the Sun to reach Earth?",
+        "correct": "About 8 minutes",
+        "wrong": [
+          "Long enough",
+          "10 minutes",
+          "10 milliseconds"
+        ]
+      },
+      {
+        "question": "How often does the Earth revolve around the Sun?",
+        "correct": "Once per year",
+        "wrong": [
+          "Every 24 hours",
+          "Every day",
+          "Twice per year"
+        ]
+      },
+      {
+        "question": "What is the name of our moon?",
+        "correct": "Moon",
+        "wrong": [
+          "Diana",
+          "Artemis",
+          "Lua"
+        ]
+      },
+      {
+        "question": "What is the name of the galaxy that will collide with the Milky Way someday?",
+        "correct": "The Andromeda Galaxy",
+        "wrong": [
+          "The Collision Galaxy",
+          "The Melancholia Galaxy",
+          "The Apocalypse Galaxy"
+        ]
+      },
+      {
+        "question": "How old is the Earth?",
+        "correct": "About 4.5 billion years old",
+        "wrong": [
+          "Old enough",
+          "6000 years old",
+          "7.1 million years old"
+        ]
+      },
+      {
+        "question": "Who invented the telescope?",
+        "correct": "Hans Lippershey",
+        "wrong": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Sir Edward Hubble"
+        ]
+      },
+      {
+        "question": "What was the first mammal in space?",
+        "correct": "A dog",
+        "wrong": [
+          "A human",
+          "A monkey",
+          "A gorilla"
+        ]
+      },
+      {
+        "question": "What is the purpose of the solar panels on satellites?",
+        "correct": "To power the satellite",
+        "wrong": [
+          "To power the Earth",
+          "To get info about the Sun",
+          "To catch gamma waves"
+        ]
+      },
+      {
+        "question": "What's the name for the point at which nothing can escape a black hole's gravitational pull?",
+        "correct": "The event horizon",
+        "wrong": [
+          "The Hoover Boundary",
+          "The spatial vacuum",
+          "The space suck"
+        ]
+      },
+      {
+        "question": "What is the official term for an astronaut's spacesuit?",
+        "correct": "An Extravehicular Mobility Unit",
+        "wrong": [
+          "A starsuit",
+          "A space outfit",
+          "An Extravehicular Mobility Uniform"
+        ]
+      },
+      {
+        "question": "Where did the Moon Landing take place in 1969?",
+        "correct": "The Moon",
+        "wrong": [
+          "A television studio",
+          "Los Angeles",
+          "Area 51"
+        ]
+      },
+      {
+        "question": "Which instrument measures the mix and concentration of the air astronauts breathe inside a spacecraft?",
+        "correct": "Oxygen sensor",
+        "wrong": [
+          "Carbon Monoxide detector",
+          "Carbon emissions unit",
+          "Oxygenator"
+        ]
+      },
+      {
+        "question": "What is the name of the robotic arm used by astronauts to manipulate objects outside the spacecraft?",
+        "correct": "Canadarm",
+        "wrong": [
+          "RoboArm",
+          "AstroArm",
+          "StarArm"
+        ]
+      },
+      {
+        "question": "Which type of rocket engine is used to maneuver spacecraft during flight and adjust their trajectory?",
+        "correct": "Maneuvering thrusters",
+        "wrong": [
+          "Solid rocket engine",
+          "Hybrid rocket engine",
+          "Fiery rocket engine"
+        ]
+      },
+      {
+        "question": "What is the name of the tool used by astronauts to collect samples of rock and soil from the surface of the moon?",
+        "correct": "Rock hammer",
+        "wrong": [
+          "Super Scooper 5000",
+          "Space dust collector",
+          "Dirt devil"
+        ]
+      },
+      {
+        "question": "What keeps astronauts in place when sleeping in zero-gravity?",
+        "correct": "Velcro",
+        "wrong": [
+          "Handcuffs",
+          "A tether system",
+          "Ropes"
+        ]
+      },
+      {
+        "question": "What is the reflective glass covering on an astronaut's spacesuit called?",
+        "correct": "The helmet visor",
+        "wrong": [
+          "The space shield",
+          "The face shield",
+          "The sun visor"
+        ]
+      },
+      {
+        "question": "How many astronauts have set foot on the Moon?",
+        "correct": "12",
+        "wrong": [
+          "2",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "question": "What is the name of the device that astronauts wear to regulate the flow of oxygen and remove carbon dioxide while in space?",
+        "correct": "Liquid Cooling & Ventilation Garment",
+        "wrong": [
+          "Extravehicular Assembly",
+          "Extravehicular Mobility Unit",
+          "Deoxidizing Hydration System"
+        ]
+      },
+      {
+        "question": "What's the name of the machine that simulates the effects of gravity on the human body?",
+        "correct": "Centrifuge",
+        "wrong": [
+          "Gravitron",
+          "Gravity Generator",
+          "Oppressive Force Generator"
+        ]
+      },
+      {
+        "question": "What type of spacecraft is used to transport astronauts from Earth to and from the International Space Station?",
+        "correct": "Soyuz spacecraft",
+        "wrong": [
+          "Space shuttle",
+          "Orbiter",
+          "Orion spacecraft"
+        ]
+      },
+      {
+        "question": "Stars are fueled by the nuclear fusion of what gas?",
+        "correct": "Hydrogen",
+        "wrong": [
+          "Oxygen",
+          "Flatulence",
+          "Nitrogen"
+        ]
+      },
+      {
+        "question": "What is the speed of light?",
+        "correct": "300 million meters per second",
+        "wrong": [
+          "100 million meters per second",
+          "200 million meters per second",
+          "400 million meters per second"
+        ]
+      },
+      {
+        "question": "What is the most common propellant for a rocket?",
+        "correct": "Liquid hydrogen",
+        "wrong": [
+          "Alcohol",
+          "TNT",
+          "High octane petrol"
+        ]
+      },
+      {
+        "question": "What does the acronym LEO stand for?",
+        "correct": "Low-Earth Orbit",
+        "wrong": [
+          "Let's Eat Oreos",
+          "Lost Elvis Object",
+          "Little Extraterrestrial Office"
+        ]
+      },
+      {
+        "question": "What is a meteorite?",
+        "correct": "Rock from space that hits Earth",
+        "wrong": [
+          "A club drug",
+          "A detergent pod",
+          "An electrolyte"
+        ]
+      },
+      {
+        "question": "What is a comet?",
+        "correct": "Ball of ice traveling in space",
+        "wrong": [
+          "Wallace's dog",
+          "A bathroom cleanser",
+          "A dying star"
+        ]
+      },
+      {
+        "question": "What is the purpose of the nose cone on a rocket?",
+        "correct": "Reduce air resistance",
+        "wrong": [
+          "It looks good",
+          "It improves penetration",
+          "To protect the nose"
+        ]
+      },
+      {
+        "question": "What is the payload of a rocket?",
+        "correct": "The cargo taken into space",
+        "wrong": [
+          "Astronaut sewage",
+          "How much it costs",
+          "The fuel tanks"
+        ]
+      },
+      {
+        "question": "What is the closest star to Earth?",
+        "correct": "The Sun",
+        "wrong": [
+          "Alpha Centauri",
+          "Proxima Centauri",
+          "Sirius"
+        ]
+      },
+      {
+        "question": "What is a constellation?",
+        "correct": "A pattern of stars",
+        "wrong": [
+          "Our galaxy",
+          "A prize",
+          "Space dust"
+        ]
+      },
+      {
+        "question": "How long does it take the space station to orbit once around Earth?",
+        "correct": "90 minutes",
+        "wrong": [
+          "All day",
+          "24 hours",
+          "Six hours"
+        ]
+      },
+      {
+        "question": "How many Earths can fit inside the Sun?",
+        "correct": "One million",
+        "wrong": [
+          "100 thousand",
+          "420 thousand",
+          "Ten thousand"
+        ]
+      },
+      {
+        "question": "At 450 degrees celsius, which planet is the hottest in the solar system?",
+        "correct": "Venus",
+        "wrong": [
+          "Mercury",
+          "Earth",
+          "Mars"
+        ]
+      },
+      {
+        "question": "What protective layer surrounds a rocket to protect it from the intense heat generated during re-entry into Earth's atmosphere?",
+        "correct": "The heat shield",
+        "wrong": [
+          "The blanket",
+          "Reflective tape",
+          "Titanium veneer"
+        ]
+      },
+      {
+        "question": "Who was the first person to step foot on the Moon?",
+        "correct": "Neil Armstrong",
+        "wrong": [
+          "Buzz Aldrin",
+          "Pete Conrad",
+          "Alan Bean"
+        ]
+      },
+      {
+        "question": "How long does it take to travel from Earth to the Moon?",
+        "correct": "Three days",
+        "wrong": [
+          "A week",
+          "A couple of hours",
+          "Ten days"
+        ]
+      }
+    ],
+    "lunarMissions": [
+      {
+        "type": "Collect Data",
+        "snippet": "he is requesting for a crew member to collect a soil sample from a crater near destination-moon.",
+        "danger": 1
+      },
+      {
+        "type": "Collect Data",
+        "snippet": "he needs a crew member to create a topographical map of a mountain just north of destination-moon.",
+        "danger": 3
+      },
+      {
+        "type": "Collect Data",
+        "snippet": "he wants a crew member to retrieve a mineral sample from destination-moon.",
+        "danger": 1
+      },
+      {
+        "type": "Collect Data",
+        "snippet": "he wants a crew member to set up a laser ranging system near destination-moon to measure its distance from Earth.",
+        "danger": 4
+      },
+      {
+        "type": "Collect Data",
+        "snippet": "he wants a crew member to set up an ultraviolet telescope and gather data on unusual shifts in the Moon's atmosphere around destination-moon.",
+        "danger": 4
+      },
+      {
+        "type": "Collect Data",
+        "snippet": "he wants a crew member to investigate an area near destination-moon that he suspects contains water.",
+        "danger": 3
+      },
+      {
+        "type": "Collect Data",
+        "snippet": "he wants a crew member to collect data on the magnetic field of the moon using a kitchen magnet on a string.",
+        "danger": 5
+      },
+      {
+        "type": "Collect Data",
+        "snippet": "he wants a crew member to document temperature variations of the Moon's surface around destination-moon at different times of the day.",
+        "danger": 5
+      },
+      {
+        "type": "Delivery",
+        "snippet": "he is asking for a crew member to deliver some antennas to the site of a future communication relay system near destination-moon.",
+        "danger": 2
+      },
+      {
+        "type": "Delivery",
+        "snippet": "he wants a crew member to deliver a digitizer to the site of a future seismic sensor system near destination-moon.",
+        "danger": 3
+      },
+      {
+        "type": "Delivery",
+        "snippet": "he is asking for a crew member to deliver a payload of potting soil to the site of a future biosphere on the Moon near destination-moon.",
+        "danger": 2
+      },
+      {
+        "type": "Collect Data",
+        "snippet": "he needs a crew member to survey the area near destination-moon to determine if it's feasible to build base in that location.",
+        "danger": 4
+      },
+      {
+        "type": "Delivery",
+        "snippet": "he is asking for a crew member to deliver a vat of water to the site of a future irrigation system near destination-moon.",
+        "danger": 3
+      },
+      {
+        "type": "Delivery",
+        "snippet": "he needs a crew member to deliver bags of cement to the site of a future landing pad near destination-moon.",
+        "danger": 1
+      },
+      {
+        "type": "Delivery",
+        "snippet": "he wants a crew member to deliver building materials for a food bunker needed by a future lunar base construction crew.",
+        "danger": 2
+      },
+      {
+        "type": "Delivery",
+        "snippet": "he needs a crew member to deliver erection materials for a long runway that will soon be built by a lunar construction crew.",
+        "danger": 3
+      },
+      {
+        "type": "Delivery",
+        "snippet": "he is asking for a volunteer from the crew to introduce a small amount of an unstable element into the lunar atmosphere and observe the results.",
+        "danger": 5
+      }
+    ]
+  },
+  "hustler": {
+    "scams": [
+      {
+        "name": "Counterfeit merchandise scam",
+        "description": "Sell victim fake merchandise for a high price"
+      },
+      {
+        "name": "Bump-and-grab scam",
+        "description": "Bump into victim and steal his valuables"
+      },
+      {
+        "name": "Item drop scam",
+        "description": "Bump into victim and drop a valuable item, then demand he compensates you for it"
+      },
+      {
+        "name": "Fake monk scam",
+        "description": "Ask victim for a charitable donation to your fake monastery in exchange for a cheap beaded bracelet"
+      },
+      {
+        "name": "Craps game",
+        "description": "Draw victim into a game of craps with loaded dice"
+      },
+      {
+        "name": "Bag-cutting scam",
+        "description": "Cut open the bottom of victim-possessive bag and steal his belongings"
+      },
+      {
+        "name": "Fake injury scam",
+        "description": "Fall after passing victim on the street and claim he injured you, then demand compensation"
+      },
+      {
+        "name": "Charity collection scam",
+        "description": "Ask victim to donate money to your charity"
+      },
+      {
+        "name": "Vip ticket scam",
+        "description": "Sell victim a bogus VIP ticket to an upcoming concert"
+      },
+      {
+        "name": "Gold ring scam",
+        "description": "Pretend to find a ring on the ground and ask victim if it's his, then offer to sell it to him when he says it's not"
+      },
+      {
+        "name": "Shell game",
+        "description": "Offer victim a wager to find a ball under three shells while using sleight of hand to move the ball to a different position"
+      },
+      {
+        "name": "Three card monte",
+        "description": "Offer victim a wager to find the right card out of a set of three while using sleight of hand to change the position of the correct card"
+      },
+      {
+        "name": "Fake weed scam",
+        "description": "Sell victim a bag of dried herbs passed off as marijuana"
+      },
+      {
+        "name": "Nightclub promoter scam",
+        "description": "Swindle victim out of money in exchange for information about a fake nightclub"
+      },
+      {
+        "name": "Fake arrest scam",
+        "description": "Pose as a police officer and tell victim that he is about to be arrested but can avoid arrest by paying a small fee"
+      },
+      {
+        "name": "Fake escort scam",
+        "description": "Proposition victim and steal his wallet when you get the chance"
+      },
+      {
+        "name": "Black widow scam",
+        "description": "Invite victim to get drinks with you, then spike his beverage and rob him blind after he passes out"
+      }
+    ],
+    "performActs": [
+      {
+        "name": "Breakdancing",
+        "moneyScore": 3,
+        "difficulty": 4
+      },
+      {
+        "name": "Magic",
+        "moneyScore": 5,
+        "difficulty": 4
+      },
+      {
+        "name": "Sword swallowing",
+        "moneyScore": 5,
+        "difficulty": 5
+      },
+      {
+        "name": "Mime",
+        "moneyScore": 4,
+        "difficulty": 3
+      },
+      {
+        "name": "Fire eating",
+        "moneyScore": 5,
+        "difficulty": 5
+      },
+      {
+        "name": "Living statue",
+        "moneyScore": 2,
+        "difficulty": 1
+      },
+      {
+        "name": "Juggling",
+        "moneyScore": 2,
+        "difficulty": 2
+      },
+      {
+        "name": "Ventriloquist",
+        "moneyScore": 3,
+        "difficulty": 3
+      },
+      {
+        "name": "Puppeteer",
+        "moneyScore": 3,
+        "difficulty": 2
+      },
+      {
+        "name": "Flatulist",
+        "moneyScore": 1,
+        "difficulty": 5
+      }
+    ],
+    "panhandleStrategies": [
+      "Ask nicely with a cardboard sign",
+      "Traffic median cup rattling",
+      "Sing a sad song on the sidewalk",
+      "Offer unsolicited car windshield washing"
+    ]
+  },
+  "dealer": {
+    "cartels": [
+      "Varicose Vixens",
+      "city Mules",
+      "Dirty Dozens",
+      "Krazy Krew",
+      "Candy Crew",
+      "Bad Bunnies",
+      "Brain Ticklers",
+      "Triple Sevens",
+      "Alphabet Mafia",
+      "Snow Surfers",
+      "Flameheads",
+      "Fang Gang",
+      "Screwball Crew",
+      "city Angels",
+      "Forty Elephants",
+      "Silent Bazookas",
+      "Sugar Cubes",
+      "Blow Darts",
+      "White Lightning",
+      "Vapor Jitters"
+    ],
+    "drugs": [
+      {
+        "name": "Dingle dangle",
+        "streetValue": 40,
+        "baseDemand": 2,
+        "addictiveness": 0
+      },
+      {
+        "name": "Bath pepper",
+        "streetValue": 60,
+        "baseDemand": 1,
+        "addictiveness": 2
+      },
+      {
+        "name": "Horny cougar weed",
+        "streetValue": 20,
+        "baseDemand": 5,
+        "addictiveness": 1
+      },
+      {
+        "name": "Glitter",
+        "streetValue": 30,
+        "baseDemand": 3,
+        "addictiveness": 1
+      },
+      {
+        "name": "Chadderall",
+        "streetValue": 50,
+        "baseDemand": 2,
+        "addictiveness": 3
+      },
+      {
+        "name": "Devil dust",
+        "streetValue": 80,
+        "baseDemand": 1,
+        "addictiveness": 2
+      },
+      {
+        "name": "Coyote",
+        "streetValue": 50,
+        "baseDemand": 3,
+        "addictiveness": 3
+      },
+      {
+        "name": "Nitro",
+        "streetValue": 70,
+        "baseDemand": 3,
+        "addictiveness": 3
+      },
+      {
+        "name": "Phallium",
+        "streetValue": 20,
+        "baseDemand": 4,
+        "addictiveness": 1
+      },
+      {
+        "name": "Stimmy",
+        "streetValue": 20,
+        "baseDemand": 1,
+        "addictiveness": 2
+      },
+      {
+        "name": "Yaya",
+        "streetValue": 15,
+        "baseDemand": 3,
+        "addictiveness": 4
+      },
+      {
+        "name": "Messalotamine",
+        "streetValue": 30,
+        "baseDemand": 2,
+        "addictiveness": 2
+      },
+      {
+        "name": "Mbda",
+        "streetValue": 70,
+        "baseDemand": 4,
+        "addictiveness": 2
+      },
+      {
+        "name": "Lolly",
+        "streetValue": 20,
+        "baseDemand": 5,
+        "addictiveness": 4
+      },
+      {
+        "name": "Ascetic",
+        "streetValue": 10,
+        "baseDemand": 2,
+        "addictiveness": 1
+      },
+      {
+        "name": "Ketazyn",
+        "streetValue": 40,
+        "baseDemand": 2,
+        "addictiveness": 1
+      },
+      {
+        "name": "Moxihardone",
+        "streetValue": 80,
+        "baseDemand": 5,
+        "addictiveness": 5
+      }
+    ],
+    "ranks": [
+      "Corner Boy",
+      "Runner",
+      "Distributor",
+      "Underboss",
+      "Kingpin"
+    ]
+  },
+  "business": {
+    "industries": [
+      {
+        "industry": "Brewery",
+        "launchCost": 15000,
+        "facility": "brewery"
+      },
+      {
+        "industry": "Adult toys",
+        "launchCost": 15000,
+        "facility": "store"
+      },
+      {
+        "industry": "Marijuana dispensary",
+        "launchCost": 15000,
+        "facility": "dispensary"
+      },
+      {
+        "industry": "Robotics",
+        "launchCost": 1000000,
+        "facility": "plant"
+      },
+      {
+        "industry": "Food truck",
+        "launchCost": 2500,
+        "facility": "truck"
+      },
+      {
+        "industry": "Beauty supply",
+        "launchCost": 100000,
+        "facility": "store"
+      },
+      {
+        "industry": "Car manufacturer",
+        "launchCost": 50000000,
+        "facility": "factory"
+      },
+      {
+        "industry": "Clothing outlet",
+        "launchCost": 75000,
+        "facility": "store"
+      },
+      {
+        "industry": "Coffeehouse",
+        "launchCost": 5000,
+        "facility": "cafe"
+      },
+      {
+        "industry": "Consumer electronics",
+        "launchCost": 10000000,
+        "facility": "factory"
+      },
+      {
+        "industry": "Dairy farm",
+        "launchCost": 50000,
+        "facility": "farm"
+      },
+      {
+        "industry": "Distillery",
+        "launchCost": 100000,
+        "facility": "distillery"
+      },
+      {
+        "industry": "Footwear",
+        "launchCost": 50000,
+        "facility": "store"
+      },
+      {
+        "industry": "Gift shop",
+        "launchCost": 5000,
+        "facility": "shop"
+      },
+      {
+        "industry": "Health food store",
+        "launchCost": 9000,
+        "facility": "store"
+      },
+      {
+        "industry": "Jewelry",
+        "launchCost": 50000,
+        "facility": "store"
+      },
+      {
+        "industry": "Kitchenware",
+        "launchCost": 20000,
+        "facility": "store"
+      },
+      {
+        "industry": "Lingerie boutique",
+        "launchCost": 18000,
+        "facility": "boutique"
+      },
+      {
+        "industry": "Musical instrument",
+        "launchCost": 28000,
+        "facility": "store"
+      },
+      {
+        "industry": "Novelty",
+        "launchCost": 5000,
+        "facility": "store"
+      },
+      {
+        "industry": "Pet supply",
+        "launchCost": 14000,
+        "facility": "store"
+      },
+      {
+        "industry": "Pharmaceutical",
+        "launchCost": 25000000,
+        "facility": "facility"
+      },
+      {
+        "industry": "Semiconductor",
+        "launchCost": 42000000,
+        "facility": "foundry"
+      },
+      {
+        "industry": "Sporting goods",
+        "launchCost": 13000,
+        "facility": "store"
+      },
+      {
+        "industry": "Winery",
+        "launchCost": 1200000,
+        "facility": "winery"
+      }
+    ]
+  }
+}

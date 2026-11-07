@@ -1,3 +1,39 @@
-node_modules
-dist
-release
+# Dependencies
+node_modules/
+
+# Production builds & packages
+dist/
+release/
+out/
+build/
+
+# Large binaries & packages (never commit to GitHub)
+*.apk
+*.aab
+*.exe
+*.dmg
+*.iso
+*.tar.gz
+*.zip
+
+# Python cache & virtualenvs
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.venv/
+venv/
+env/
+
+# Logs & temp dumps
+*.log
+*.dump
+*_dump.txt
+*.tmp
+*.bak
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

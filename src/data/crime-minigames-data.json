@@ -1,0 +1,9030 @@
+{
+ "murderMethods": [
+  {
+   "method": "Strangle Them",
+   "effectiveness": 2,
+   "retaliation": 4,
+   "getCaught": 3,
+   "requiresLicense": false,
+   "requiresVehicle": false
+  },
+  {
+   "method": "Drive-By",
+   "effectiveness": 5,
+   "retaliation": 1,
+   "getCaught": 1,
+   "requiresLicense": true,
+   "requiresVehicle": true
+  },
+  {
+   "method": "Electrocute Them",
+   "effectiveness": 4,
+   "retaliation": 3,
+   "getCaught": 1,
+   "requiresLicense": false,
+   "requiresVehicle": false
+  },
+  {
+   "method": "Club Them",
+   "effectiveness": 3,
+   "retaliation": 4,
+   "getCaught": 4,
+   "requiresLicense": false,
+   "requiresVehicle": false
+  },
+  {
+   "method": "Atomic Wedgie",
+   "effectiveness": 1,
+   "retaliation": 2,
+   "getCaught": 2,
+   "requiresLicense": false,
+   "requiresVehicle": false
+  },
+  {
+   "method": "Push Down Stairs",
+   "effectiveness": 3,
+   "retaliation": 3,
+   "getCaught": 2,
+   "requiresLicense": false,
+   "requiresVehicle": false
+  },
+  {
+   "method": "Poison Them",
+   "effectiveness": 4,
+   "retaliation": 2,
+   "getCaught": 3,
+   "requiresLicense": false,
+   "requiresVehicle": false
+  },
+  {
+   "method": "Fastball to Head",
+   "effectiveness": 1,
+   "retaliation": 2,
+   "getCaught": 2,
+   "requiresLicense": false,
+   "requiresVehicle": false
+  },
+  {
+   "method": "Push Off Cliff",
+   "effectiveness": 5,
+   "retaliation": 3,
+   "getCaught": 4,
+   "requiresLicense": false,
+   "requiresVehicle": false
+  },
+  {
+   "method": "Bear Trap",
+   "effectiveness": 1,
+   "retaliation": 4,
+   "getCaught": 3,
+   "requiresLicense": false,
+   "requiresVehicle": false
+  },
+  {
+   "method": "Elephant Laxative",
+   "effectiveness": 1,
+   "retaliation": 1,
+   "getCaught": 3,
+   "requiresLicense": false,
+   "requiresVehicle": false
+  },
+  {
+   "method": "Scare to Death",
+   "effectiveness": 3,
+   "retaliation": 3,
+   "getCaught": 3,
+   "requiresLicense": false,
+   "requiresVehicle": false
+  },
+  {
+   "method": "Impale Them",
+   "effectiveness": 4,
+   "retaliation": 2,
+   "getCaught": 2,
+   "requiresLicense": false,
+   "requiresVehicle": false
+  },
+  {
+   "method": "Burn Them",
+   "effectiveness": 5,
+   "retaliation": 4,
+   "getCaught": 3,
+   "requiresLicense": false,
+   "requiresVehicle": false
+  },
+  {
+   "method": "Decapitate Them",
+   "effectiveness": 5,
+   "retaliation": 4,
+   "getCaught": 4,
+   "requiresLicense": false,
+   "requiresVehicle": false
+  }
+ ],
+ "bankRobbery": {
+  "weapons": [
+   {
+    "name": "toy gun",
+    "plural": false,
+    "effectiveness": 5
+   },
+   {
+    "name": "bear spray",
+    "plural": true,
+    "effectiveness": 2
+   },
+   {
+    "name": "silly string",
+    "plural": true,
+    "effectiveness": 3
+   },
+   {
+    "name": "pepper spray",
+    "plural": true,
+    "effectiveness": 2
+   },
+   {
+    "name": "BB gun",
+    "plural": false,
+    "effectiveness": 5
+   },
+   {
+    "name": "baseball bat",
+    "plural": false,
+    "effectiveness": 2
+   },
+   {
+    "name": "blowgun",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "crossbow",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "bow & arrow",
+    "plural": false,
+    "effectiveness": 2
+   },
+   {
+    "name": "taser",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "golf club",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "chainsaw",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "horse whip",
+    "plural": false,
+    "effectiveness": 2
+   },
+   {
+    "name": "frying pan",
+    "plural": false,
+    "effectiveness": 2
+   },
+   {
+    "name": "hatchet",
+    "plural": false,
+    "effectiveness": 4
+   },
+   {
+    "name": "shovel",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "nunchucks",
+    "plural": true,
+    "effectiveness": 3
+   },
+   {
+    "name": "spear",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "meat cleaver",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "sword",
+    "plural": false,
+    "effectiveness": 4
+   },
+   {
+    "name": "billy club",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "baton",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "bayonet",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "club",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "bullwhip",
+    "plural": false,
+    "effectiveness": 2
+   },
+   {
+    "name": "harpoon",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "pickaxe",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "stun gun",
+    "plural": false,
+    "effectiveness": 5
+   },
+   {
+    "name": "spiked mace",
+    "plural": false,
+    "effectiveness": 4
+   },
+   {
+    "name": "sickle",
+    "plural": false,
+    "effectiveness": 4
+   },
+   {
+    "name": "scythe",
+    "plural": false,
+    "effectiveness": 4
+   },
+   {
+    "name": "slingshot",
+    "plural": false,
+    "effectiveness": 2
+   },
+   {
+    "name": "croquet mallet",
+    "plural": false,
+    "effectiveness": 2
+   },
+   {
+    "name": "ninja stars",
+    "plural": true,
+    "effectiveness": 2
+   },
+   {
+    "name": "Molotov cocktail",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "sharp pencil",
+    "plural": false,
+    "effectiveness": 1
+   },
+   {
+    "name": "unravelled paperclip",
+    "plural": false,
+    "effectiveness": 1
+   },
+   {
+    "name": "sharp acrylic nails",
+    "plural": true,
+    "effectiveness": 2
+   },
+   {
+    "name": "machete",
+    "plural": false,
+    "effectiveness": 3
+   },
+   {
+    "name": "pitchfork",
+    "plural": false,
+    "effectiveness": 2
+   }
+  ],
+  "disguises": [
+   {
+    "name": "nun",
+    "desc": "disguised as a nun",
+    "effectiveness": 3
+   },
+   {
+    "name": "Joker",
+    "desc": "disguised as the Joker",
+    "effectiveness": 3
+   },
+   {
+    "name": "Scream mask",
+    "desc": "wearing a Scream mask",
+    "effectiveness": 3
+   },
+   {
+    "name": "black plague doctor",
+    "desc": "disguised as a black plague doctor",
+    "effectiveness": 4
+   },
+   {
+    "name": "masquerade ball mask",
+    "desc": "wearing a masquerade mask",
+    "effectiveness": 2
+   },
+   {
+    "name": "Purge mask",
+    "desc": "wearing a Purge mask",
+    "effectiveness": 3
+   },
+   {
+    "name": "Michael Myers",
+    "desc": "disguised as Michael Myers",
+    "effectiveness": 4
+   },
+   {
+    "name": "Jason Voorhees",
+    "desc": "disguised as Jason Voorhees",
+    "effectiveness": 5
+   },
+   {
+    "name": "Guy Fawkes mask",
+    "desc": "wearing a Guy Fawkes mask",
+    "effectiveness": 4
+   },
+   {
+    "name": "face paint",
+    "desc": "wearing face paint",
+    "effectiveness": 1
+   },
+   {
+    "name": "Iron Man",
+    "desc": "disguised as Iron Man",
+    "effectiveness": 5
+   },
+   {
+    "name": "Darth Vader",
+    "desc": "disguised as Darth Vader",
+    "effectiveness": 5
+   },
+   {
+    "name": "Zorro",
+    "desc": "disguised as Zorro",
+    "effectiveness": 2
+   },
+   {
+    "name": "banker",
+    "desc": "disguised as a banker",
+    "effectiveness": 4
+   },
+   {
+    "name": "fat suit",
+    "desc": "wearing a fat suit",
+    "effectiveness": 1
+   },
+   {
+    "name": "Slenderman",
+    "desc": "disguised as Slenderman",
+    "effectiveness": 4
+   },
+   {
+    "name": "gladiator",
+    "desc": "disguised as a gladiator",
+    "effectiveness": 2
+   },
+   {
+    "name": "clown",
+    "desc": "disguised as a clown",
+    "effectiveness": 3
+   },
+   {
+    "name": "pantyhose mask",
+    "desc": "wearing a pantyhose mask",
+    "effectiveness": 1
+   },
+   {
+    "name": "Predator",
+    "desc": "disguised as Predator",
+    "effectiveness": 4
+   },
+   {
+    "name": "Rorschach",
+    "desc": "disguised as Rorschach",
+    "effectiveness": 5
+   },
+   {
+    "name": "Batman",
+    "desc": "disguised as Batman",
+    "effectiveness": 4
+   },
+   {
+    "name": "Venetian jester",
+    "desc": "disguised as a Venetian jester",
+    "effectiveness": 3
+   },
+   {
+    "name": "fake moustache",
+    "desc": "wearing a fake moustache",
+    "effectiveness": 1
+   },
+   {
+    "name": "monk",
+    "desc": "disguised as a monk",
+    "effectiveness": 1
+   },
+   {
+    "name": "Mrs. Doubtfire",
+    "desc": "disguised as Mrs. Doubtfire",
+    "effectiveness": 5
+   },
+   {
+    "name": "knight",
+    "desc": "disguised as a knight",
+    "effectiveness": 2
+   },
+   {
+    "name": "furry suit",
+    "desc": "wearing a furry suit",
+    "effectiveness": 3
+   },
+   {
+    "name": "Shrek",
+    "desc": "disguised as Shrek",
+    "effectiveness": 3
+   },
+   {
+    "name": "Willy Wonka",
+    "desc": "disguised as Willy Wonka",
+    "effectiveness": 2
+   },
+   {
+    "name": "prison inmate",
+    "desc": "disguised as an inmate",
+    "effectiveness": 1
+   },
+   {
+    "name": "Metroid Varia suit",
+    "desc": "wearing a Metroid Varia suit",
+    "effectiveness": 4
+   },
+   {
+    "name": "Mariachi suit",
+    "desc": "disguised as a mariachi",
+    "effectiveness": 2
+   },
+   {
+    "name": "Persian sultan",
+    "desc": "disguised as a Persian sultan",
+    "effectiveness": 3
+   },
+   {
+    "name": "police officer",
+    "desc": "disguised as a police officer",
+    "effectiveness": 5
+   },
+   {
+    "name": "ninja",
+    "desc": "disguised as a ninja",
+    "effectiveness": 4
+   },
+   {
+    "name": "pimp",
+    "desc": "disguised as a pimp",
+    "effectiveness": 2
+   },
+   {
+    "name": "child",
+    "desc": "disguised as a child",
+    "effectiveness": 2
+   },
+   {
+    "name": "military general",
+    "desc": "disguised as a military general",
+    "effectiveness": 5
+   },
+   {
+    "name": "airline pilot",
+    "desc": "disguised as an airline pilot",
+    "effectiveness": 4
+   },
+   {
+    "name": "homeless person",
+    "desc": "disguised as a homeless person",
+    "effectiveness": 2
+   },
+   {
+    "name": "colored contact lenses",
+    "desc": "wearing colored contact lenses",
+    "effectiveness": 1
+   },
+   {
+    "name": "security guard",
+    "desc": "disguised as a security guard",
+    "effectiveness": 4
+   },
+   {
+    "name": "fisherman",
+    "desc": "disguised as a fisherman",
+    "effectiveness": 2
+   },
+   {
+    "name": "ski mask",
+    "desc": "wearing a ski mask",
+    "effectiveness": 2
+   },
+   {
+    "name": "politician",
+    "desc": "disguised as a politician",
+    "effectiveness": 5
+   },
+   {
+    "name": "Fortnite skin",
+    "desc": "wearing a Fortnite costume",
+    "effectiveness": 2
+   },
+   {
+    "name": "Minecraft helmet",
+    "desc": "wearing a Minecraft helmet",
+    "effectiveness": 3
+   },
+   {
+    "name": "Santa Claus",
+    "desc": "disguised as Santa Claus",
+    "effectiveness": 2
+   },
+   {
+    "name": "mummy",
+    "desc": "disguised as a mummy",
+    "effectiveness": 3
+   }
+  ],
+  "getaways": [
+   {
+    "name": "foot",
+    "desc": "on foot",
+    "effectiveness": 3
+   },
+   {
+    "name": "skateboard",
+    "desc": "on a skateboard",
+    "effectiveness": 2
+   },
+   {
+    "name": "bicycle",
+    "desc": "on a bicycle",
+    "effectiveness": 4
+   },
+   {
+    "name": "electric scooter",
+    "desc": "on an electric scooter",
+    "effectiveness": 5
+   },
+   {
+    "name": "scooter",
+    "desc": "on a scooter",
+    "effectiveness": 2
+   },
+   {
+    "name": "unicycle",
+    "desc": "on a unicycle",
+    "effectiveness": 1
+   },
+   {
+    "name": "tricycle",
+    "desc": "on a tricycle",
+    "effectiveness": 1
+   },
+   {
+    "name": "tandem bike",
+    "desc": "on a tandem bike",
+    "effectiveness": 3
+   },
+   {
+    "name": "hoverboard",
+    "desc": "on a hoverboard",
+    "effectiveness": 2
+   },
+   {
+    "name": "rideshare app",
+    "desc": "using a rideshare app",
+    "effectiveness": 1
+   },
+   {
+    "name": "train",
+    "desc": "on a train",
+    "effectiveness": 5
+   },
+   {
+    "name": "bus",
+    "desc": "on a bus",
+    "effectiveness": 5
+   },
+   {
+    "name": "trolley",
+    "desc": "on a trolley",
+    "effectiveness": 3
+   },
+   {
+    "name": "taxi",
+    "desc": "in a taxi",
+    "effectiveness": 5
+   },
+   {
+    "name": "golf cart",
+    "desc": "in a golf cart",
+    "effectiveness": 3
+   },
+   {
+    "name": "Onewheel",
+    "desc": "on a Onewheel",
+    "effectiveness": 2
+   },
+   {
+    "name": "pogo stick",
+    "desc": "on a pogo stick",
+    "effectiveness": 1
+   },
+   {
+    "name": "Heelys",
+    "desc": "on Heelys",
+    "effectiveness": 1
+   },
+   {
+    "name": "moon shoes",
+    "desc": "wearing moon shoes",
+    "effectiveness": 1
+   },
+   {
+    "name": "rollerblades",
+    "desc": "on rollerblades",
+    "effectiveness": 2
+   },
+   {
+    "name": "rollerskates",
+    "desc": "on rollerskates",
+    "effectiveness": 1
+   },
+   {
+    "name": "subway",
+    "desc": "on the subway",
+    "effectiveness": 2
+   },
+   {
+    "name": "RipStik",
+    "desc": "on a RipStik",
+    "effectiveness": 1
+   },
+   {
+    "name": "Go-kart",
+    "desc": "in a go-kart",
+    "effectiveness": 3
+   }
+  ]
+ },
+ "hitmen": [
+  {
+   "name": "Agent 47",
+   "gender": "male"
+  },
+  {
+   "name": "Boba Fett",
+   "gender": "male"
+  },
+  {
+   "name": "Jason Bourne",
+   "gender": "male"
+  },
+  {
+   "name": "Jango Fett",
+   "gender": "male"
+  },
+  {
+   "name": "Darth Maul",
+   "gender": "male"
+  },
+  {
+   "name": "Anton Chigurh",
+   "gender": "male"
+  },
+  {
+   "name": "Snake Plissken",
+   "gender": "male"
+  },
+  {
+   "name": "Tony Montana",
+   "gender": "male"
+  },
+  {
+   "name": "Arya Stark",
+   "gender": "female"
+  },
+  {
+   "name": "Guy of Gisbourne",
+   "gender": "male"
+  },
+  {
+   "name": "Ezio Auditore",
+   "gender": "male"
+  },
+  {
+   "name": "Deadpool",
+   "gender": "male"
+  },
+  {
+   "name": "Dexter Morgan",
+   "gender": "male"
+  },
+  {
+   "name": "Vincent Vega",
+   "gender": "male"
+  },
+  {
+   "name": "Jules Winnfield",
+   "gender": "male"
+  },
+  {
+   "name": "John Wilkes Booth",
+   "gender": "male"
+  },
+  {
+   "name": "Kenshin Himura",
+   "gender": "male"
+  },
+  {
+   "name": "Kaine Parker",
+   "gender": "male"
+  },
+  {
+   "name": "David Cain",
+   "gender": "male"
+  },
+  {
+   "name": "Sweeney Todd",
+   "gender": "male"
+  },
+  {
+   "name": "Hannibal Lecter",
+   "gender": "male"
+  },
+  {
+   "name": "Patrick Bateman",
+   "gender": "male"
+  },
+  {
+   "name": "John Doe",
+   "gender": "male"
+  },
+  {
+   "name": "Buffalo Bill",
+   "gender": "male"
+  },
+  {
+   "name": "Mickey Knox",
+   "gender": "male"
+  },
+  {
+   "name": "Mallory Knox",
+   "gender": "female"
+  },
+  {
+   "name": "Arthur Mitchell",
+   "gender": "male"
+  },
+  {
+   "name": "Catherine Trammell",
+   "gender": "female"
+  },
+  {
+   "name": "John Wick",
+   "gender": "male"
+  },
+  {
+   "name": "Bugsy Siegel",
+   "gender": "male"
+  },
+  {
+   "name": "Al Capone",
+   "gender": "male"
+  },
+  {
+   "name": "John Dillinger",
+   "gender": "male"
+  },
+  {
+   "name": "Baby Face Nelson",
+   "gender": "male"
+  },
+  {
+   "name": "Pretty Boy Floyd",
+   "gender": "male"
+  },
+  {
+   "name": "Machine Gun Kelly",
+   "gender": "male"
+  },
+  {
+   "name": "Billy the Kid",
+   "gender": "male"
+  },
+  {
+   "name": "Jesse James",
+   "gender": "male"
+  },
+  {
+   "name": "Pablo Escobar",
+   "gender": "male"
+  },
+  {
+   "name": "Fat Tony",
+   "gender": "male"
+  },
+  {
+   "name": "Big Boy Caprice",
+   "gender": "male"
+  },
+  {
+   "name": "Paul Vitti",
+   "gender": "male"
+  },
+  {
+   "name": "Jabba the Hutt",
+   "gender": "male"
+  },
+  {
+   "name": "Marsellus Wallace",
+   "gender": "male"
+  },
+  {
+   "name": "Keyser Soze",
+   "gender": "male"
+  },
+  {
+   "name": "Frank Costello",
+   "gender": "male"
+  },
+  {
+   "name": "Michael Corleone",
+   "gender": "male"
+  },
+  {
+   "name": "Tony Soprano",
+   "gender": "male"
+  },
+  {
+   "name": "Vito Corleone",
+   "gender": "male"
+  },
+  {
+   "name": "James Bond",
+   "gender": "male"
+  },
+  {
+   "name": "T-800",
+   "gender": "male"
+  },
+  {
+   "name": "Wolverine",
+   "gender": "male"
+  },
+  {
+   "name": "The Winter Soldier",
+   "gender": "male"
+  },
+  {
+   "name": "Deadshot",
+   "gender": "male"
+  },
+  {
+   "name": "Mystique",
+   "gender": "female"
+  },
+  {
+   "name": "Bane",
+   "gender": "male"
+  },
+  {
+   "name": "Kakashi Hatake",
+   "gender": "male"
+  },
+  {
+   "name": "T-1000",
+   "gender": "male"
+  },
+  {
+   "name": "T-X",
+   "gender": "female"
+  },
+  {
+   "name": "Jane Smith",
+   "gender": "female"
+  },
+  {
+   "name": "O-Ren Ishii",
+   "gender": "female"
+  },
+  {
+   "name": "Joe Goldberg",
+   "gender": "male"
+  },
+  {
+   "name": "Luca Brasi",
+   "gender": "male"
+  },
+  {
+   "name": "Desmond Miles",
+   "gender": "male"
+  },
+  {
+   "name": "Mike Ehrmantraut",
+   "gender": "male"
+  },
+  {
+   "name": "Marcus Brutus",
+   "gender": "male"
+  },
+  {
+   "name": "Sonny Corleone",
+   "gender": "male"
+  },
+  {
+   "name": "Lex Luthor",
+   "gender": "male"
+  },
+  {
+   "name": "Harley Quinn",
+   "gender": "female"
+  },
+  {
+   "name": "Thanos",
+   "gender": "male"
+  },
+  {
+   "name": "Albert Wesker",
+   "gender": "male"
+  },
+  {
+   "name": "Jigsaw",
+   "gender": "male"
+  },
+  {
+   "name": "Leon",
+   "gender": "male"
+  },
+  {
+   "name": "Max Payne",
+   "gender": "male"
+  },
+  {
+   "name": "Sideshow Bob",
+   "gender": "male"
+  },
+  {
+   "name": "Pinhead",
+   "gender": "male"
+  },
+  {
+   "name": "Norman Bates",
+   "gender": "male"
+  },
+  {
+   "name": "Leatherface",
+   "gender": "male"
+  },
+  {
+   "name": "Jason Voorhees",
+   "gender": "male"
+  },
+  {
+   "name": "Freddy Krueger",
+   "gender": "male"
+  },
+  {
+   "name": "Michael Myers",
+   "gender": "male"
+  },
+  {
+   "name": "Shao Kahn",
+   "gender": "male"
+  }
+ ],
+ "dealer": {
+  "cartelStreetNames": [
+   {
+    "name": "Druggie Hauser",
+    "addStreetType": true,
+    "commonness": 2
+   },
+   {
+    "name": "Beat St",
+    "addStreetType": false,
+    "commonness": 3
+   },
+   {
+    "name": "Bump Blvd",
+    "addStreetType": false,
+    "commonness": 3
+   },
+   {
+    "name": "Rail Rd",
+    "addStreetType": false,
+    "commonness": 3
+   },
+   {
+    "name": "Cook",
+    "addStreetType": true,
+    "commonness": 5
+   },
+   {
+    "name": "Mary J",
+    "addStreetType": true,
+    "commonness": 3
+   },
+   {
+    "name": "Reefer",
+    "addStreetType": true,
+    "commonness": 3
+   },
+   {
+    "name": "Puff Pass",
+    "addStreetType": false,
+    "commonness": 3
+   },
+   {
+    "name": "Stone St",
+    "addStreetType": false,
+    "commonness": 4
+   },
+   {
+    "name": "Delirium Dr",
+    "addStreetType": false,
+    "commonness": 2
+   },
+   {
+    "name": "Dazey",
+    "addStreetType": true,
+    "commonness": 3
+   },
+   {
+    "name": "High Rd",
+    "addStreetType": false,
+    "commonness": 4
+   },
+   {
+    "name": "Silk Rd",
+    "addStreetType": false,
+    "commonness": 2
+   },
+   {
+    "name": "Fast Ln",
+    "addStreetType": false,
+    "commonness": 5
+   },
+   {
+    "name": "Cheech St",
+    "addStreetType": false,
+    "commonness": 2
+   },
+   {
+    "name": "Chong",
+    "addStreetType": true,
+    "commonness": 2
+   },
+   {
+    "name": "Wacky Way",
+    "addStreetType": false,
+    "commonness": 3
+   },
+   {
+    "name": "Snoop",
+    "addStreetType": true,
+    "commonness": 1
+   },
+   {
+    "name": "Dimebag Dr",
+    "addStreetType": false,
+    "commonness": 4
+   },
+   {
+    "name": "Booger Sugar Blvd",
+    "addStreetType": false,
+    "commonness": 5
+   },
+   {
+    "name": "Stash St",
+    "addStreetType": false,
+    "commonness": 3
+   },
+   {
+    "name": "Rabbit Hole Hwy",
+    "addStreetType": false,
+    "commonness": 2
+   },
+   {
+    "name": "XTC Street",
+    "addStreetType": false,
+    "commonness": 2
+   },
+   {
+    "name": "Shakedown St",
+    "addStreetType": false,
+    "commonness": 3
+   },
+   {
+    "name": "Good Kush",
+    "addStreetType": true,
+    "commonness": 2
+   },
+   {
+    "name": "Molly",
+    "addStreetType": true,
+    "commonness": 3
+   },
+   {
+    "name": "Green St",
+    "addStreetType": false,
+    "commonness": 1
+   },
+   {
+    "name": "Mule",
+    "addStreetType": true,
+    "commonness": 2
+   },
+   {
+    "name": "Hookup",
+    "addStreetType": true,
+    "commonness": 1
+   },
+   {
+    "name": "Dabbing",
+    "addStreetType": true,
+    "commonness": 1
+   },
+   {
+    "name": "Sizzurp",
+    "addStreetType": true,
+    "commonness": 3
+   },
+   {
+    "name": "Crank Ln",
+    "addStreetType": false,
+    "commonness": 4
+   },
+   {
+    "name": "Vanilla Sky",
+    "addStreetType": true,
+    "commonness": 3
+   },
+   {
+    "name": "Tussin",
+    "addStreetType": true,
+    "commonness": 2
+   },
+   {
+    "name": "Crystal",
+    "addStreetType": true,
+    "commonness": 3
+   },
+   {
+    "name": "Chronic",
+    "addStreetType": true,
+    "commonness": 4
+   },
+   {
+    "name": "Speed St",
+    "addStreetType": false,
+    "commonness": 3
+   },
+   {
+    "name": "Blow Blvd",
+    "addStreetType": false,
+    "commonness": 3
+   },
+   {
+    "name": "Poppers Hwy",
+    "addStreetType": false,
+    "commonness": 2
+   },
+   {
+    "name": "Inconspicuous",
+    "addStreetType": true,
+    "commonness": 2
+   },
+   {
+    "name": "Narcos",
+    "addStreetType": true,
+    "commonness": 3
+   },
+   {
+    "name": "Falcon",
+    "addStreetType": true,
+    "commonness": 1
+   },
+   {
+    "name": "Mad Hatter",
+    "addStreetType": true,
+    "commonness": 2
+   },
+   {
+    "name": "Pusher Place",
+    "addStreetType": false,
+    "commonness": 4
+   },
+   {
+    "name": "Lean Ln",
+    "addStreetType": false,
+    "commonness": 3
+   },
+   {
+    "name": "Glee St",
+    "addStreetType": false,
+    "commonness": 3
+   },
+   {
+    "name": "Dank Dr",
+    "addStreetType": false,
+    "commonness": 3
+   },
+   {
+    "name": "Bongwater Way",
+    "addStreetType": false,
+    "commonness": 4
+   }
+  ],
+  "cartelThreats": [
+   {
+    "snippet": "threatened that if you didn't do better in the future, something unfortunate would happen to your family",
+    "kingpinOnly": true,
+    "minStanding": null,
+    "maxStanding": null
+   },
+   {
+    "snippet": "said you'd better put your head in the game if you want to keep it",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": 49
+   },
+   {
+    "snippet": "told you to get real smart real quick",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": 49
+   },
+   {
+    "snippet": "said you're beginning to disappoint him, and he doesn't like being disappointed",
+    "kingpinOnly": false,
+    "minStanding": 50,
+    "maxStanding": null
+   },
+   {
+    "snippet": "threatened to rough you up if you didn't start acting smarter",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": null
+   },
+   {
+    "snippet": "said you should wise up if you don't want to end up in a vat of cement",
+    "kingpinOnly": true,
+    "minStanding": null,
+    "maxStanding": 30
+   },
+   {
+    "snippet": "said that he expects better of you",
+    "kingpinOnly": false,
+    "minStanding": 66,
+    "maxStanding": null
+   },
+   {
+    "snippet": "said that you're too valuable to his operation to act this stupid",
+    "kingpinOnly": true,
+    "minStanding": 66,
+    "maxStanding": null
+   },
+   {
+    "snippet": "said that he would turn a blind eye; this time",
+    "kingpinOnly": false,
+    "minStanding": 80,
+    "maxStanding": null
+   },
+   {
+    "snippet": "said nothing while looking at you as if you were a speck of dirt",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": 20
+   },
+   {
+    "snippet": "asked if you know what happens to people who mess up like this",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": 50
+   },
+   {
+    "snippet": "said you were cruising for a bruising",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": null
+   },
+   {
+    "snippet": "said you should be careful, or you might \"accidentally\" fall off a cliff someday",
+    "kingpinOnly": true,
+    "minStanding": null,
+    "maxStanding": 25
+   },
+   {
+    "snippet": "asked if you were dropped on your head as a baby",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": null
+   },
+   {
+    "snippet": "said that being part of his organization is an honor not everyone deserves",
+    "kingpinOnly": true,
+    "minStanding": null,
+    "maxStanding": null
+   },
+   {
+    "snippet": "said this type of clownery was beneath you",
+    "kingpinOnly": false,
+    "minStanding": 50,
+    "maxStanding": null
+   },
+   {
+    "snippet": "laughed threateningly in your face",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": null
+   },
+   {
+    "snippet": "threw a paperweight at you",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": null
+   },
+   {
+    "snippet": "said that he would hate to put you on thin ice",
+    "kingpinOnly": false,
+    "minStanding": 60,
+    "maxStanding": null
+   },
+   {
+    "snippet": "threatened you with an extended vacation to the desert",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": null
+   },
+   {
+    "snippet": "asked if you wanted to keep all of your fingers",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": 50
+   },
+   {
+    "snippet": "muttered that it's a good thing you've been so loyal thus far",
+    "kingpinOnly": false,
+    "minStanding": 70,
+    "maxStanding": null
+   },
+   {
+    "snippet": "wondered aloud how anyone could be this useless",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": null
+   },
+   {
+    "snippet": "raised his hand as if to backhand you, then put it down",
+    "kingpinOnly": true,
+    "minStanding": null,
+    "maxStanding": null
+   },
+   {
+    "snippet": "silently drew his finger across his throat",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": 20
+   },
+   {
+    "snippet": "reminded you that there's no such thing as an off day here",
+    "kingpinOnly": false,
+    "minStanding": 50,
+    "maxStanding": null
+   },
+   {
+    "snippet": "said that you were making the cartel look bad",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": null
+   },
+   {
+    "snippet": "suggested you get yourself some good health insurance, because you never know",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": 50
+   },
+   {
+    "snippet": "threatened you with a double roundhouse kick, stopping just short of your nose",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": 65
+   },
+   {
+    "snippet": "said you're challenging his personal commitment to not kill anyone this year",
+    "kingpinOnly": false,
+    "minStanding": null,
+    "maxStanding": 50
+   }
+  ],
+  "cutDrugNames": [
+   {
+    "name": "Chloroform Dreamz",
+    "baseDrug": "",
+    "commonness": 3
+   },
+   {
+    "name": "Rawr Power",
+    "baseDrug": "horny cougar weed",
+    "commonness": 5
+   },
+   {
+    "name": "Raw Law",
+    "baseDrug": "horny cougar weed",
+    "commonness": 5
+   },
+   {
+    "name": "Flower Power",
+    "baseDrug": "",
+    "commonness": 3
+   },
+   {
+    "name": "Full Throttle",
+    "baseDrug": "dingle dangle",
+    "commonness": 5
+   },
+   {
+    "name": "Good Golly",
+    "baseDrug": "",
+    "commonness": 3
+   },
+   {
+    "name": "Pinch",
+    "baseDrug": "bath pepper",
+    "commonness": 5
+   },
+   {
+    "name": "Renaissance",
+    "baseDrug": "ascetic",
+    "commonness": 3
+   },
+   {
+    "name": "Karma Train",
+    "baseDrug": "ascetic",
+    "commonness": 5
+   },
+   {
+    "name": "Dreams Reborn",
+    "baseDrug": "ascetic",
+    "commonness": 5
+   },
+   {
+    "name": "Brain Grout",
+    "baseDrug": "ascetic",
+    "commonness": 2
+   },
+   {
+    "name": "Spice Grrrrls",
+    "baseDrug": "bath pepper",
+    "commonness": 3
+   },
+   {
+    "name": "Pico Champagne",
+    "baseDrug": "bath pepper",
+    "commonness": 5
+   },
+   {
+    "name": "Chili Pie",
+    "baseDrug": "bath pepper",
+    "commonness": 4
+   },
+   {
+    "name": "Crazy Eyes",
+    "baseDrug": "bath pepper",
+    "commonness": 5
+   },
+   {
+    "name": "Florida man",
+    "baseDrug": "bath pepper",
+    "commonness": 2
+   },
+   {
+    "name": "Man in Finance",
+    "baseDrug": "chadderall",
+    "commonness": 4
+   },
+   {
+    "name": "Boat Shoes",
+    "baseDrug": "chadderall",
+    "commonness": 3
+   },
+   {
+    "name": "Mewing Gum",
+    "baseDrug": "chadderall",
+    "commonness": 2
+   },
+   {
+    "name": "Alpha Whale",
+    "baseDrug": "chadderall",
+    "commonness": 4
+   },
+   {
+    "name": "Sandworms",
+    "baseDrug": "coyote",
+    "commonness": 5
+   },
+   {
+    "name": "Cactus spikes",
+    "baseDrug": "coyote",
+    "commonness": 5
+   },
+   {
+    "name": "Seedfire",
+    "baseDrug": "coyote",
+    "commonness": 3
+   },
+   {
+    "name": "Oreo Pear",
+    "baseDrug": "coyote",
+    "commonness": 3
+   },
+   {
+    "name": "Lava Nectar",
+    "baseDrug": "coyote",
+    "commonness": 4
+   },
+   {
+    "name": "Sandy Cheekz",
+    "baseDrug": "coyote",
+    "commonness": 1
+   },
+   {
+    "name": "Fyre Festival",
+    "baseDrug": "devil dust",
+    "commonness": 4
+   },
+   {
+    "name": "Jack the Whipper",
+    "baseDrug": "devil dust",
+    "commonness": 3
+   },
+   {
+    "name": "Stranger Danger",
+    "baseDrug": "devil dust",
+    "commonness": 3
+   },
+   {
+    "name": "Insane Frown Posse",
+    "baseDrug": "devil dust",
+    "commonness": 2
+   },
+   {
+    "name": "Buzzkilla",
+    "baseDrug": "devil dust",
+    "commonness": 5
+   },
+   {
+    "name": "Sugarman",
+    "baseDrug": "dingle dangle",
+    "commonness": 5
+   },
+   {
+    "name": "Cherry Blossom",
+    "baseDrug": "dingle dangle",
+    "commonness": 3
+   },
+   {
+    "name": "River Whale",
+    "baseDrug": "dingle dangle",
+    "commonness": 2
+   },
+   {
+    "name": "Bee Queen",
+    "baseDrug": "dingle dangle",
+    "commonness": 3
+   },
+   {
+    "name": "Gargoyle King",
+    "baseDrug": "dingle dangle",
+    "commonness": 3
+   },
+   {
+    "name": "Evernever",
+    "baseDrug": "dingle dangle",
+    "commonness": 5
+   },
+   {
+    "name": "Space Dust",
+    "baseDrug": "glitter",
+    "commonness": 5
+   },
+   {
+    "name": "Twinkle Toes",
+    "baseDrug": "glitter",
+    "commonness": 5
+   },
+   {
+    "name": "frosty Tinsel",
+    "baseDrug": "glitter",
+    "commonness": 3
+   },
+   {
+    "name": "guava Fairy",
+    "baseDrug": "glitter",
+    "commonness": 3
+   },
+   {
+    "name": "Booty Call",
+    "baseDrug": "horny cougar weed",
+    "commonness": 5
+   },
+   {
+    "name": "Cheekclapper",
+    "baseDrug": "horny cougar weed",
+    "commonness": 4
+   },
+   {
+    "name": "Stacy's Mom",
+    "baseDrug": "horny cougar weed",
+    "commonness": 2
+   },
+   {
+    "name": "Bricked Up",
+    "baseDrug": "horny cougar weed",
+    "commonness": 3
+   },
+   {
+    "name": "Hat Man",
+    "baseDrug": "ketazyn",
+    "commonness": 2
+   },
+   {
+    "name": "Cake Hole",
+    "baseDrug": "ketazyn",
+    "commonness": 5
+   },
+   {
+    "name": "Honey Badger",
+    "baseDrug": "ketazyn",
+    "commonness": 3
+   },
+   {
+    "name": "Squid Ink",
+    "baseDrug": "ketazyn",
+    "commonness": 5
+   },
+   {
+    "name": "Licorice Breath",
+    "baseDrug": "lolly",
+    "commonness": 4
+   },
+   {
+    "name": "Jellybean Popcorn",
+    "baseDrug": "lolly",
+    "commonness": 3
+   },
+   {
+    "name": "Bon Bon",
+    "baseDrug": "lolly",
+    "commonness": 5
+   },
+   {
+    "name": "caramel Mist",
+    "baseDrug": "lolly",
+    "commonness": 4
+   },
+   {
+    "name": "Peace Signz",
+    "baseDrug": "MBDA",
+    "commonness": 3
+   },
+   {
+    "name": "Dance Apocalyptic",
+    "baseDrug": "MBDA",
+    "commonness": 5
+   },
+   {
+    "name": "Moon Juice",
+    "baseDrug": "MBDA",
+    "commonness": 5
+   },
+   {
+    "name": "Happy Shoes",
+    "baseDrug": "MBDA",
+    "commonness": 3
+   },
+   {
+    "name": "Glass Jaw",
+    "baseDrug": "messalotamine",
+    "commonness": 3
+   },
+   {
+    "name": "Salt Rim",
+    "baseDrug": "messalotamine",
+    "commonness": 5
+   },
+   {
+    "name": "Sweet Christine",
+    "baseDrug": "messalotamine",
+    "commonness": 3
+   },
+   {
+    "name": "Devious Lick",
+    "baseDrug": "messalotamine",
+    "commonness": 2
+   },
+   {
+    "name": "REM Envy",
+    "baseDrug": "moxihardone",
+    "commonness": 5
+   },
+   {
+    "name": "Last Tango in Paris",
+    "baseDrug": "moxihardone",
+    "commonness": 2
+   },
+   {
+    "name": "Decrescendo",
+    "baseDrug": "moxihardone",
+    "commonness": 4
+   },
+   {
+    "name": "Shotgun Wedding",
+    "baseDrug": "moxihardone",
+    "commonness": 3
+   },
+   {
+    "name": "Feral Werewolf",
+    "baseDrug": "moxihardone",
+    "commonness": 3
+   },
+   {
+    "name": "Libby Dough",
+    "baseDrug": "moxihardone",
+    "commonness": 5
+   },
+   {
+    "name": "Afternoon Delight",
+    "baseDrug": "moxihardone",
+    "commonness": 3
+   },
+   {
+    "name": "Baked Potato",
+    "baseDrug": "moxihardone",
+    "commonness": 5
+   },
+   {
+    "name": "Gigglepig",
+    "baseDrug": "nitro",
+    "commonness": 5
+   },
+   {
+    "name": "Buzzy Nebula",
+    "baseDrug": "nitro",
+    "commonness": 3
+   },
+   {
+    "name": "Vaporwave",
+    "baseDrug": "nitro",
+    "commonness": 5
+   },
+   {
+    "name": "Carbon Raspberry",
+    "baseDrug": "nitro",
+    "commonness": 3
+   },
+   {
+    "name": "Stiffcake",
+    "baseDrug": "phallium",
+    "commonness": 3
+   },
+   {
+    "name": "Strawberry Piston",
+    "baseDrug": "phallium",
+    "commonness": 4
+   },
+   {
+    "name": "Lubricious",
+    "baseDrug": "phallium",
+    "commonness": 5
+   },
+   {
+    "name": "Fully loaded",
+    "baseDrug": "phallium",
+    "commonness": 5
+   },
+   {
+    "name": "Surfboart",
+    "baseDrug": "phallium",
+    "commonness": 1
+   },
+   {
+    "name": "Pocket Rocket",
+    "baseDrug": "phallium",
+    "commonness": 2
+   },
+   {
+    "name": "Apollo's Chariot",
+    "baseDrug": "stimmy",
+    "commonness": 2
+   },
+   {
+    "name": "Leopard Spots",
+    "baseDrug": "stimmy",
+    "commonness": 5
+   },
+   {
+    "name": "Nimble Limousine",
+    "baseDrug": "stimmy",
+    "commonness": 3
+   },
+   {
+    "name": "Boomstick",
+    "baseDrug": "stimmy",
+    "commonness": 4
+   },
+   {
+    "name": "Krispee Kream",
+    "baseDrug": "yaya",
+    "commonness": 2
+   },
+   {
+    "name": "Lidocaine",
+    "baseDrug": "yaya",
+    "commonness": 5
+   },
+   {
+    "name": "pearly Gates",
+    "baseDrug": "yaya",
+    "commonness": 4
+   },
+   {
+    "name": "Chalk Dust",
+    "baseDrug": "yaya",
+    "commonness": 5
+   },
+   {
+    "name": "Speedracer",
+    "baseDrug": "yaya",
+    "commonness": 4
+   },
+   {
+    "name": "Clark Dent",
+    "baseDrug": "yaya",
+    "commonness": 3
+   },
+   {
+    "name": "Motor Oil",
+    "baseDrug": "",
+    "commonness": 4
+   },
+   {
+    "name": "Dirt a la Mode",
+    "baseDrug": "",
+    "commonness": 3
+   },
+   {
+    "name": "Duke Starkiller",
+    "baseDrug": "",
+    "commonness": 2
+   },
+   {
+    "name": "Graham Crackers",
+    "baseDrug": "",
+    "commonness": 5
+   },
+   {
+    "name": "Kamchatkan Thunderduck",
+    "baseDrug": "",
+    "commonness": 3
+   },
+   {
+    "name": "east Coast Swing",
+    "baseDrug": "",
+    "commonness": 3
+   },
+   {
+    "name": "Flying Sushi",
+    "baseDrug": "",
+    "commonness": 3
+   },
+   {
+    "name": "Kaiju Jive",
+    "baseDrug": "",
+    "commonness": 2
+   },
+   {
+    "name": "Confetticore",
+    "baseDrug": "",
+    "commonness": 2
+   },
+   {
+    "name": "Whackjack",
+    "baseDrug": "",
+    "commonness": 5
+   },
+   {
+    "name": "Harpers Bizarre",
+    "baseDrug": "",
+    "commonness": 2
+   },
+   {
+    "name": "Chicken and Waffles",
+    "baseDrug": "",
+    "commonness": 2
+   },
+   {
+    "name": "Sheep Ballz",
+    "baseDrug": "",
+    "commonness": 4
+   },
+   {
+    "name": "Bombastic Side-Eye",
+    "baseDrug": "",
+    "commonness": 1
+   },
+   {
+    "name": "Gone Cliffdiving",
+    "baseDrug": "",
+    "commonness": 3
+   },
+   {
+    "name": "5G Network",
+    "baseDrug": "",
+    "commonness": 2
+   },
+   {
+    "name": "Redeye Flight",
+    "baseDrug": "",
+    "commonness": 5
+   },
+   {
+    "name": "Fish Sauce",
+    "baseDrug": "",
+    "commonness": 3
+   },
+   {
+    "name": "Fruity Tootie",
+    "baseDrug": "",
+    "commonness": 4
+   },
+   {
+    "name": "Canadian Tuxedo",
+    "baseDrug": "",
+    "commonness": 1
+   }
+  ],
+  "packageTypes": [
+   {
+    "name": "unlubricated condoms",
+    "breakChance": 3,
+    "commonness": 3
+   },
+   {
+    "name": "hollow glass figurines",
+    "breakChance": 5,
+    "commonness": 3
+   },
+   {
+    "name": "life preservers",
+    "breakChance": 1,
+    "commonness": 3
+   },
+   {
+    "name": "Ziploc baggies",
+    "breakChance": 2,
+    "commonness": 3
+   },
+   {
+    "name": "violin cases",
+    "breakChance": 3,
+    "commonness": 4
+   },
+   {
+    "name": "terracotta vases",
+    "breakChance": 4,
+    "commonness": 4
+   },
+   {
+    "name": "hollow books",
+    "breakChance": 1,
+    "commonness": 2
+   },
+   {
+    "name": "mason jars",
+    "breakChance": 4,
+    "commonness": 3
+   },
+   {
+    "name": "pill bottles",
+    "breakChance": 2,
+    "commonness": 5
+   },
+   {
+    "name": "canvas cornhole bags",
+    "breakChance": 3,
+    "commonness": 3
+   },
+   {
+    "name": "drinking straws",
+    "breakChance": 3,
+    "commonness": 3
+   },
+   {
+    "name": "chess pieces",
+    "breakChance": 3,
+    "commonness": 2
+   },
+   {
+    "name": "test tubes",
+    "breakChance": 5,
+    "commonness": 4
+   },
+   {
+    "name": "glass perfume bottles",
+    "breakChance": 5,
+    "commonness": 5
+   },
+   {
+    "name": "pool noodles",
+    "breakChance": 4,
+    "commonness": 2
+   },
+   {
+    "name": "bags of dorito",
+    "breakChance": 3,
+    "commonness": 4
+   },
+   {
+    "name": "bubble wrap",
+    "breakChance": 4,
+    "commonness": 3
+   },
+   {
+    "name": "baby diapers",
+    "breakChance": 4,
+    "commonness": 1
+   },
+   {
+    "name": "printer ink cartridges",
+    "breakChance": 3,
+    "commonness": 2
+   },
+   {
+    "name": "pizza boxes",
+    "breakChance": 3,
+    "commonness": 3
+   },
+   {
+    "name": "containers of deodorant",
+    "breakChance": 1,
+    "commonness": 4
+   },
+   {
+    "name": "boxes of cereal",
+    "breakChance": 3,
+    "commonness": 4
+   },
+   {
+    "name": "tubes of lipstick",
+    "breakChance": 1,
+    "commonness": 3
+   },
+   {
+    "name": "hollow stiletto heels",
+    "breakChance": 1,
+    "commonness": 2
+   },
+   {
+    "name": "mattresses",
+    "breakChance": 2,
+    "commonness": 3
+   },
+   {
+    "name": "leather wallets",
+    "breakChance": 2,
+    "commonness": 2
+   },
+   {
+    "name": "pairs of socks",
+    "breakChance": 3,
+    "commonness": 3
+   },
+   {
+    "name": "underwear with crotch pockets",
+    "breakChance": 2,
+    "commonness": 1
+   },
+   {
+    "name": "stainless steel water bottles",
+    "breakChance": 2,
+    "commonness": 3
+   },
+   {
+    "name": "hollowed-out pens",
+    "breakChance": 1,
+    "commonness": 4
+   },
+   {
+    "name": "empty disposable lighters",
+    "breakChance": 1,
+    "commonness": 5
+   },
+   {
+    "name": "Stanley tumblers",
+    "breakChance": 2,
+    "commonness": 1
+   }
+  ],
+  "dropOffLocations": [
+   {
+    "name": "a busy highway",
+    "risk": 4,
+    "commonness": 3
+   },
+   {
+    "name": "an empty baseball field",
+    "risk": 1,
+    "commonness": 3
+   },
+   {
+    "name": "the rundown side of town",
+    "risk": 2,
+    "commonness": 3
+   },
+   {
+    "name": "a small forest",
+    "risk": 1,
+    "commonness": 3
+   },
+   {
+    "name": "a zoo",
+    "risk": 5,
+    "commonness": 2
+   },
+   {
+    "name": "a train station",
+    "risk": 4,
+    "commonness": 4
+   },
+   {
+    "name": "a parking lot",
+    "risk": 3,
+    "commonness": 5
+   },
+   {
+    "name": "a suburban backyard",
+    "risk": 2,
+    "commonness": 3
+   },
+   {
+    "name": "the upper deck of a yacht",
+    "risk": 4,
+    "commonness": 2
+   },
+   {
+    "name": "an empty back alley",
+    "risk": 1,
+    "commonness": 3
+   },
+   {
+    "name": "a graveyard",
+    "risk": 2,
+    "commonness": 1
+   },
+   {
+    "name": "a public swimming pool",
+    "risk": 5,
+    "commonness": 3
+   },
+   {
+    "name": "a post office loading dock",
+    "risk": 2,
+    "commonness": 5
+   },
+   {
+    "name": "the patio of a thai restaurant",
+    "risk": 3,
+    "commonness": 4
+   },
+   {
+    "name": "the roof of an office building",
+    "risk": 3,
+    "commonness": 4
+   },
+   {
+    "name": "a playground",
+    "risk": 5,
+    "commonness": 4
+   },
+   {
+    "name": "a beach volleyball court",
+    "risk": 4,
+    "commonness": 3
+   },
+   {
+    "name": "a rural cabin",
+    "risk": 1,
+    "commonness": 3
+   },
+   {
+    "name": "a movie set",
+    "risk": 4,
+    "commonness": 2
+   }
+  ],
+  "extortionMethods": [
+   {
+    "method": "Vehicle Damage",
+    "effectiveness": 2,
+    "commonness": 3
+   },
+   {
+    "method": "Curb Stomp",
+    "effectiveness": 4,
+    "commonness": 2
+   },
+   {
+    "method": "Manhandle",
+    "effectiveness": 3,
+    "commonness": 5
+   },
+   {
+    "method": "Pull a knife",
+    "effectiveness": 5,
+    "commonness": 2
+   },
+   {
+    "method": "Vehicle Rigging",
+    "effectiveness": 4,
+    "commonness": 3
+   },
+   {
+    "method": "Robotext",
+    "effectiveness": 1,
+    "commonness": 1
+   },
+   {
+    "method": "Stalk",
+    "effectiveness": 3,
+    "commonness": 2
+   },
+   {
+    "method": "Family Threats",
+    "effectiveness": 5,
+    "commonness": 5
+   },
+   {
+    "method": "Assault",
+    "effectiveness": 4,
+    "commonness": 4
+   },
+   {
+    "method": "Music torture",
+    "effectiveness": 2,
+    "commonness": 2
+   },
+   {
+    "method": "Dead animal intimidation",
+    "effectiveness": 3,
+    "commonness": 3
+   },
+   {
+    "method": "Acid attack",
+    "effectiveness": 5,
+    "commonness": 4
+   },
+   {
+    "method": "Fingernail torture",
+    "effectiveness": 4,
+    "commonness": 4
+   },
+   {
+    "method": "Dismember a digit",
+    "effectiveness": 5,
+    "commonness": 4
+   }
+  ],
+  "mutinyMethods": [
+   {
+    "method": "Spread lies about him",
+    "effectiveness": 3,
+    "commonness": 3
+   },
+   {
+    "method": "Promise rewards",
+    "effectiveness": 4,
+    "commonness": 2
+   },
+   {
+    "method": "Make threats",
+    "effectiveness": 4,
+    "commonness": 5
+   },
+   {
+    "method": "Talk myself up",
+    "effectiveness": 2,
+    "commonness": 4
+   },
+   {
+    "method": "Embarrass him in public",
+    "effectiveness": 1,
+    "commonness": 2
+   },
+   {
+    "method": "Harass him with bot accounts",
+    "effectiveness": 2,
+    "commonness": 3
+   },
+   {
+    "method": "Tip off the cops about him",
+    "effectiveness": 4,
+    "commonness": 3
+   },
+   {
+    "method": "Steal his clientele for myself",
+    "effectiveness": 5,
+    "commonness": 2
+   }
+  ],
+  "policeWarnings": [
+   "he says if you keep this up, he'll have no choice but to take you downtown.",
+   "he told you to ask him when he's done with his shift.",
+   "he says you must have him pegged as the wrong kind of cop.",
+   "he told you that he can't afford to fail a drug test.",
+   "he told you that his captain is already suspicious of his behavior.",
+   "he says that drug cartel is vile.",
+   "he says that his beat is too hot right now.",
+   "he says that he would, but his partner is right there.",
+   "he says that you have the intelligence of a rock.",
+   "because he's already under investigation for corruption.",
+   "he wants nothing to do with you.",
+   "he muttered that he can't be seen talking to you.",
+   "he says he is a principled pillar of this community.",
+   "he says his spouse is tired of him coming home all blitzed.",
+   "he says he's eaten too many doughnuts and can't think straight.",
+   "he says he already bought some earlier today.",
+   "he asks if you want a one-way trip to jail.",
+   "he says the sight of you disgusts him.",
+   "he says he's tempted, but you should come back another time.",
+   "he snorted and shooed you away.",
+   "he said you're cute for trying.",
+   "he put a hand on his gun while staring you down.",
+   "he says he's not going to risk his job for a hit of drug cartel.",
+   "he says some cops will look the other way, but not him.",
+   "he says that for someone of your profession, you sure don't have a lot of street smarts.",
+   "he says that one of his buddies already supplies the whole precinct.",
+   "he says he can't trust you not to tattle on him to one of his coworkers."
+  ]
+ },
+ "mafia": {
+  "joinMethods": [
+   {
+    "method": "Hang out at their club",
+    "feedback": "hanging out at their club for 100 straight days",
+    "logVersion": "hanging out at their club for 83 straight days",
+    "successScore": 4,
+    "canBePunished": false
+   },
+   {
+    "method": "Wait tables",
+    "feedback": "waiting tables at their restaurant for three months and giving them a percentage of your tips each shift",
+    "logVersion": "waiting tables at their restaurant for rb months and giving them a percentage of my tips each shift",
+    "successScore": 4,
+    "canBePunished": false
+   },
+   {
+    "method": "Offer to do favors",
+    "feedback": "doing menial tasks for them for 59 days",
+    "logVersion": "doing menial tasks for them for 92 days",
+    "successScore": 4,
+    "canBePunished": false
+   },
+   {
+    "method": "Deliver packages",
+    "feedback": "delivering packages and asking no questions for two months",
+    "logVersion": "delivering packages and asking no questions for rb months",
+    "successScore": 4,
+    "canBePunished": false
+   },
+   {
+    "method": "Chauffeur them around town",
+    "feedback": "chauffeuring their members around town whenever they needed a driver",
+    "logVersion": "chauffeuring their members around town whenever they needed a driver",
+    "successScore": 4,
+    "canBePunished": false
+   },
+   {
+    "method": "Provide alibis",
+    "feedback": "providing alibis whenever the police asked about shady activity in the vicinity",
+    "logVersion": "providing alibis whenever the police asked about shady activity in the vicinity",
+    "successScore": 4,
+    "canBePunished": false
+   },
+   {
+    "method": "Wash cars",
+    "feedback": "washing Family members' cars in the parking lots of their popular hangouts",
+    "logVersion": "washing Family members' cars in the parking lots of their popular hangouts",
+    "successScore": 3,
+    "canBePunished": true
+   },
+   {
+    "method": "Relay messages",
+    "feedback": "relaying messages between captains and their associates for two months",
+    "logVersion": "relaying messages between captains and their associates for rb months",
+    "successScore": 3,
+    "canBePunished": false
+   },
+   {
+    "method": "Do yard work",
+    "feedback": "doing yard work for a captain every week for two months",
+    "logVersion": "doing yard work for rb1 every week for rb2 months",
+    "successScore": 2,
+    "canBePunished": true
+   },
+   {
+    "method": "Deliver baked goods",
+    "feedback": "baking an array of sweets and treats for members of the Family for one month",
+    "logVersion": "baking an array of sweets and treats for members of the Family for rb",
+    "successScore": 2,
+    "canBePunished": true
+   },
+   {
+    "method": "Ask straight-out",
+    "feedback": "asking to join every day for a month",
+    "logVersion": "asking to join every day for a month",
+    "successScore": 1,
+    "canBePunished": true
+   }
+  ],
+  "joinRejections": [
+   "mafia family made it clear that your nose is too clean to ever end up in the Family.",
+   "mafia family warned you to stop trying to get close to the Family.",
+   "mafia family said you look like a snitch.",
+   "mafia family said you could never appreciate the more delicate aspects of their lifestyle.",
+   "mafia family said you don't know what it means to get your hands dirty.",
+   "mafia family made it clear that you haven't proven yourself worthy of their attention.",
+   "mafia family warned you about asking too many questions.",
+   "mafia family warned you about drawing the wrong kind of attention to yourself.",
+   "mafia family made it clear that you don't know what it means to risk your neck for some cash.",
+   "mafia family said you're too soft to be hard.",
+   "mafia family said you're too soft to live a hard-knock life.",
+   "mafia family wants reassurance that you can respect their lifestyle and its risks.",
+   "mafia family suggested you come back after you intimately know the thrill of the hunt.",
+   "mafia family suggested you come back after you've proven you can respect the lifestyle.",
+   "mafia family suggested you work harder to prove you're a stand-up individual.",
+   "mafia family sent a warning saying your mouth is starting to write checks that your rear-end can't cash.",
+   "mafia family warned you that it would be easy to make you disappear, no questions asked.",
+   "mafia family complained that you're all talk and no action.",
+   "mafia family said to either put up or shut up.",
+   "mafia family suggested you stop asking questions and spend more time proving yourself to them.",
+   "mafia family said you should come back after you've had some experience in the field.",
+   "mafia family warned you that your application is about to be permanently declined.",
+   "mafia family warned you against being a nuisance, as they have a habit of vanishing without a trace.",
+   "mafia family said you ain't got the chops to make it in this business.",
+   "mafia family said you're asking to play a high-stakes game with a low-value chip.",
+   "mafia family said you're too green. Prove you can make a name for yourself and come back.",
+   "mafia family said the fact that you're asking again already proves you don't understand how this works.",
+   "mafia family said you need to chill out, or you'll be put on ice.",
+   "mafia family said you're as wholesome as a family film.",
+   "mafia family said you're not ready for the underbelly of BitLife.",
+   "mafia family said you couldn't comprehend the rules of the crime game because you've never played before.",
+   "mafia family didn't believe you were serious and laughed in your face.",
+   "mafia family said you were more suited for selling flowers than being in the mob.",
+   "mafia family said you don't have the looks or the stomach for this type of business.",
+   "mafia family said there are playground bullies who are tougher than you.",
+   "mafia family said you have become a disturbing nuisance.",
+   "mafia family said you've become a gnat buzzing around the Family that someone needs to swat.",
+   "mafia family said you keep popping up like a whack-a-mole who needs a final whack.",
+   "mafia family said a skeleton has more guts than you'll ever have.",
+   "mafia family said that thinking you're a badass doesn't make you one.",
+   "mafia family said your attempts to join the Family are irritating.",
+   "mafia family said your criminal record is appropriate for all ages.",
+   "mafia family said your criminal record rivals that of mother teresa."
+  ],
+  "shakedownMethods": [
+   {
+    "method": "Chop off his finger",
+    "effectiveness": 4
+   },
+   {
+    "method": "Pierce with ice pick",
+    "effectiveness": 4
+   },
+   {
+    "method": "Break a limb",
+    "effectiveness": 4
+   },
+   {
+    "method": "Break his nose",
+    "effectiveness": 3
+   },
+   {
+    "method": "Give him a black eye",
+    "effectiveness": 3
+   },
+   {
+    "method": "Punch his genitals",
+    "effectiveness": 3
+   },
+   {
+    "method": "Kick his genitals",
+    "effectiveness": 3
+   },
+   {
+    "method": "Choke him",
+    "effectiveness": 4
+   },
+   {
+    "method": "Sledgehammer to the knee",
+    "effectiveness": 5
+   },
+   {
+    "method": "Smash toes with a hammer",
+    "effectiveness": 3
+   },
+   {
+    "method": "Curb-stomp his hand",
+    "effectiveness": 3
+   },
+   {
+    "method": "Drag him behind a car",
+    "effectiveness": 4
+   },
+   {
+    "method": "Chop off his ear",
+    "effectiveness": 4
+   },
+   {
+    "method": "Pull some teeth",
+    "effectiveness": 4
+   },
+   {
+    "method": "Nail him",
+    "effectiveness": 5
+   },
+   {
+    "method": "Glue his lips shut",
+    "effectiveness": 3
+   },
+   {
+    "method": "Rip his fingernails off",
+    "effectiveness": 5
+   },
+   {
+    "method": "Rip his toenails off",
+    "effectiveness": 5
+   },
+   {
+    "method": "Throw him out of a window",
+    "effectiveness": 3
+   },
+   {
+    "method": "Step on his toes",
+    "effectiveness": 1
+   },
+   {
+    "method": "Slap his face",
+    "effectiveness": 1
+   },
+   {
+    "method": "Punch his throat",
+    "effectiveness": 2
+   },
+   {
+    "method": "Dart his head",
+    "effectiveness": 2
+   },
+   {
+    "method": "Mace his face",
+    "effectiveness": 2
+   }
+  ],
+  "scareMethods": [
+   {
+    "method": "Firebomb his house",
+    "effectiveness": 4,
+    "getCaught": 2
+   },
+   {
+    "method": "Torch his spouse",
+    "effectiveness": 5,
+    "getCaught": 4
+   },
+   {
+    "method": "Toilet paper his house",
+    "effectiveness": 1,
+    "getCaught": 2
+   },
+   {
+    "method": "Key his car",
+    "effectiveness": 2,
+    "getCaught": 1
+   },
+   {
+    "method": "Slash car tires",
+    "effectiveness": 2,
+    "getCaught": 1
+   },
+   {
+    "method": "Bust house windows",
+    "effectiveness": 4,
+    "getCaught": 3
+   },
+   {
+    "method": "Bust car windows",
+    "effectiveness": 3,
+    "getCaught": 2
+   },
+   {
+    "method": "Torch his yard",
+    "effectiveness": 4,
+    "getCaught": 3
+   },
+   {
+    "method": "Sink his car in a lake",
+    "effectiveness": 3,
+    "getCaught": 3
+   },
+   {
+    "method": "Trash his house",
+    "effectiveness": 4,
+    "getCaught": 2
+   },
+   {
+    "method": "Send him a package",
+    "effectiveness": 4,
+    "getCaught": 3
+   },
+   {
+    "method": "Blow up his car",
+    "effectiveness": 5,
+    "getCaught": 2
+   },
+   {
+    "method": "Smash his phone",
+    "effectiveness": 1,
+    "getCaught": 1
+   },
+   {
+    "method": "Cut his brakes",
+    "effectiveness": 4,
+    "getCaught": 2
+   },
+   {
+    "method": "Jump scare",
+    "effectiveness": 1,
+    "getCaught": 1
+   },
+   {
+    "method": "Poop on his front porch",
+    "effectiveness": 1,
+    "getCaught": 2
+   }
+  ],
+  "temptations": [
+   {
+    "scenario": "While transporting some cash, you come across an extra bundle of notes that the Family hadn't already accounted for.",
+    "logVersion": "I had an opportunity to pocket an extra bundle of notes that the Family hadn't noticed.",
+    "minAmount": 10000,
+    "maxAmount": 100000,
+    "getCaught": 1
+   },
+   {
+    "scenario": "While robbing a mouthy karen's mobile home during a kid's birthday party, you notice a wallet under a bed with some cash stuffed inside that your colleagues didn't see.",
+    "logVersion": "I had the opportunity to steal a wallet during a robbery and not tell my colleagues about it.",
+    "minAmount": 5,
+    "maxAmount": 300,
+    "getCaught": 1
+   },
+   {
+    "scenario": "During a jewel heist, you notice a pair two carat pink diamond earrings that would fetch a hefty price at a pawn shop and could easily slip into your pocket without anyone noticing.",
+    "logVersion": "I had the opportunity to quietly pocket a rb.",
+    "minAmount": 46750,
+    "maxAmount": 737000,
+    "getCaught": 5
+   },
+   {
+    "scenario": "While emptying the safe at one of the Family's bugged warehouses, you figure you could slip a couple stacks of cash into your own bag. No one would notice.",
+    "logVersion": "I had the opportunity to skim some money from the Family vault.",
+    "minAmount": 5000,
+    "maxAmount": 25000,
+    "getCaught": 4
+   },
+   {
+    "scenario": "While looting a random nerd's house with some colleagues, you notice an ultra-rare 1st edition shiny charizard pokemon card. You could easily slip it into your coat and pawn the loot; you know it's worth a bundle and your colleagues are clueless.",
+    "logVersion": "I had the opportunity to steal an ultra-rare rb from a random nerd's house without the Family knowing.",
+    "minAmount": 400,
+    "maxAmount": 220000,
+    "getCaught": 1
+   },
+   {
+    "scenario": "While surfing the Dark Web, you read about how to hack into electronic bank accounts and begin to consider transferring money from the Family's account to your own. They wouldn't notice; it's just online, after all.",
+    "logVersion": "I had the opportunity to transfer money from the Family's bank account to my own.",
+    "minAmount": 2000,
+    "maxAmount": 50000,
+    "getCaught": 3
+   },
+   {
+    "scenario": "While looting the house of a boomer who owes the Family money, you notice a white gold cartier watch on the nightstand that your accomplices have overlooked.",
+    "logVersion": "I had the opportunity to take a rb and pawn it off without the Family knowing.",
+    "minAmount": 2500,
+    "maxAmount": 25000,
+    "getCaught": 2
+   },
+   {
+    "scenario": "While shaking down a dry cleaner who owes the family money, you get the idea to pocket the money the Family is owed and lie about whether or not the rb paid the debt.",
+    "logVersion": "I had the opportunity to lie about a settled debt and pocket the cash.",
+    "minAmount": 5000,
+    "maxAmount": 15000,
+    "getCaught": 4
+   },
+   {
+    "scenario": "While raiding one of their safehouses, you discover two pistols that are not with the other weapons the Family is looting. You could swipe them and sell them on the black market for yourself.",
+    "logVersion": "I had the opportunity to conceal stolen weapons from the Family and pocket the cash from selling them.",
+    "minAmount": 1400,
+    "maxAmount": 3500,
+    "getCaught": 2
+   },
+   {
+    "scenario": "While raiding one of their members' houses, you notice a piggy bank full of coins in one of the kids' rooms. You could easily slip it into your own bag and keep the money for yourself.",
+    "logVersion": "I had the opportunity to steal a kid's rb and not tell the Family about it.",
+    "minAmount": 10,
+    "maxAmount": 50,
+    "getCaught": 3
+   },
+   {
+    "scenario": "While chopping up the body of an unfortunate soul who couldn't pay his debt, you consider harvesting the corpse's heart and selling it on the black market to make some extra money on the side.",
+    "logVersion": "I had the opportunity to harvest a rb from a corpse and sell it on the black market.",
+    "minAmount": 30000,
+    "maxAmount": 170000,
+    "getCaught": 4
+   },
+   {
+    "scenario": "While transporting some cocaine for the Family, you realize you could take a few bags that the Family hasn't accounted for and sell them on your own.",
+    "logVersion": "I had the opportunity to pilfer some of the Family's rb and sell it for my own gain.",
+    "minAmount": 300,
+    "maxAmount": 800,
+    "getCaught": 2
+   },
+   {
+    "scenario": "While gambling at one of the Family's casinos, you notice a pile of chips sitting carelessly unattended near one of the tables.",
+    "logVersion": "I had the opportunity to cash in chips I didn't earn at one of the Family's casinos.",
+    "minAmount": 400,
+    "maxAmount": 16000,
+    "getCaught": 4
+   },
+   {
+    "scenario": "After pulling off a heist with some of your colleagues, you have the opportunity to lie about the amount of money you were able to snatch.",
+    "logVersion": "I had the opportunity to lie about how much cash I stole from a bank heist.",
+    "minAmount": 5000,
+    "maxAmount": 75000,
+    "getCaught": 4
+   },
+   {
+    "scenario": "While shaking down a chef, the terrified sap offers you more money than you came to collect.",
+    "logVersion": "I had the opportunity shake a rb down for more than what the Family was owed and pocket the excess.",
+    "minAmount": 1000,
+    "maxAmount": 3000,
+    "getCaught": 2
+   },
+   {
+    "scenario": "While picking up exactly 38 kilos of cocaine from a Family connection, you notice an extra ten kilos has been loaded into your vehicle, and you know a guy across town who will buy it immediately, no questions asked.",
+    "logVersion": "I had an opportunity to skim ten kilos of rb that belonged to the Family and sell it for my own personal gain.",
+    "minAmount": 200000,
+    "maxAmount": 350000,
+    "getCaught": 3
+   },
+   {
+    "scenario": "While chopping up the body of a debtor who didn't pay off the Family, you discover a hidden groin purse containing a large uncut gem that you could easily take and sell without anyone noticing.",
+    "logVersion": "I had an opportunity to pocket rb that belonged to the family and sell it for my own personal gain.",
+    "minAmount": 2200,
+    "maxAmount": 22000,
+    "getCaught": 1
+   },
+   {
+    "scenario": "While running large stacks of bills through the money counter after a massive drug deal, you discover a couple of extra bands of cash the Family isn't expecting.",
+    "logVersion": "I had an opportunity to steal stacks of cash from the Family.",
+    "minAmount": 10000,
+    "maxAmount": 20000,
+    "getCaught": 4
+   },
+   {
+    "scenario": "While at the shooting range, you see a Family snitch in the booth next to you, and you immediately point a gun to his head. He offers you a briefcase full of cash to let him walk.",
+    "logVersion": "I had an opportunity to receive hush money to let a Family snitch walk away.",
+    "minAmount": 5000,
+    "maxAmount": 25000,
+    "getCaught": 3
+   },
+   {
+    "scenario": "While covertly robbing a local savings bank on behalf of the Family, a customer walks in and hands you a large cash deposit, thinking you work there. You can put the money in the bag or in your pocket.",
+    "logVersion": "I had an opportunity to keep some bank-heist money that belonged to the Family.",
+    "minAmount": 1500,
+    "maxAmount": 10000,
+    "getCaught": 2
+   },
+   {
+    "scenario": "Just after collecting the Family's security money from a local gas company, the building explodes, killing everyone inside. You realize it would be easy to say the building blew up before you collected the money.",
+    "logVersion": "I had an opportunity to keep security money for myself that belonged to the family.",
+    "minAmount": 10000,
+    "maxAmount": 40000,
+    "getCaught": 3
+   },
+   {
+    "scenario": "While at a nightclub with some associates, a Family member gets annoyingly drunk and loses his Rolex. You spot the watch under a chair and could easily sell it for some quick cash.",
+    "logVersion": "I had an opportunity to pocket a Family member's Rolex and sell it for quick cash.",
+    "minAmount": 3000,
+    "maxAmount": 9000,
+    "getCaught": 1
+   },
+   {
+    "scenario": "Your mission was to hijack an auto transport trailer with eight new ferraris aboard, but as you pull off the heist, you realize there is a ninth vehicle unaccounted for that you could quickly sell on the black market.",
+    "logVersion": "I had an opportunity to cash-in on an exotic car that belonged to the Family.",
+    "minAmount": 75000,
+    "maxAmount": 190000,
+    "getCaught": 4
+   }
+  ],
+  "nicknames": [
+   "first name Meatballs",
+   "Ice Pick first name",
+   "first name the Ear",
+   "first name Forefingers",
+   "first name two-Toes",
+   "first name \"The toe\" last name",
+   "first name fettuccini",
+   "first name amaretti",
+   "big first name",
+   "Bow-Legged first name",
+   "first name Legs",
+   "Mama first name",
+   "Papa first name",
+   "first name Porks",
+   "first name loose Lips",
+   "first name the Pickler",
+   "One-Tit first name",
+   "One-Eyed first name",
+   "first name \"Flaps\" last name",
+   "first name \"Eggs\" last name",
+   "first name No-Nads",
+   "first name the Hook",
+   "first name the clapper",
+   "first name \"Claws\" last name",
+   "first name the Cheek",
+   "first name the dealer",
+   "red first name",
+   "first name the artist",
+   "first name \"Pickles\" last name",
+   "first name the Cage",
+   "Sonny red",
+   "Lefty last name",
+   "first name Guns",
+   "Childish last name",
+   "first name the red Dragon",
+   "first name Ginsu",
+   "Kimono first name",
+   "first name the falcon",
+   "The tireless shogun",
+   "first name the masked",
+   "first name the silverback",
+   "first name the evening edge",
+   "first name the undying",
+   "first name the mute",
+   "first name the Kaiju",
+   "first name-zilla",
+   "last name-zilla",
+   "The thirsty Geisha",
+   "first name \"subaru\" last name",
+   "Lucky last name",
+   "first name \"Leggy\" last name",
+   "first name \"Blarney\" last name",
+   "first name \"Taters\" last name",
+   "first name Splats",
+   "Wee Willy last name",
+   "first name Patches O'Day",
+   "Rawhide last name",
+   "Spuds last name",
+   "first name the Bagman",
+   "Mick last name",
+   "Mickey last name",
+   "first name the Mick",
+   "Manky first name",
+   "first name the Nixer",
+   "first name \"Chippy\" last name",
+   "first name O'Clubs",
+   "first name \"Cheeks\" last name",
+   "first name \"Doc\" last name",
+   "first name \"Posh\" last name",
+   "first name O'Gratey",
+   "Winky first name",
+   "first name Two Kevins",
+   "first name McGregor",
+   "Cousin first name",
+   "Mr. first name",
+   "first name El blanco",
+   "first name La blanca",
+   "first name \"Pico\" last name",
+   "first name \"Dedos\" last name",
+   "La Llorona last name",
+   "La Chupacabra last name",
+   "El Chupacabro last name",
+   "first name el Cortador",
+   "first name la Cortadora",
+   "first name el Cuchillo",
+   "first name la Cuchilla",
+   "first name el Destripador",
+   "first name la Destripadora",
+   "first name \"Cascara Blanca\" last name",
+   "first name \"Sledge\" last name",
+   "first name la Diabla",
+   "first name el Diablo",
+   "first name the wolf",
+   "first name Caldera last name",
+   "first name el Toro blanco",
+   "first name la Vaca blanca",
+   "first name the Red Fist",
+   "first name the Red Terror",
+   "first name the Red Scare",
+   "first name the Red Flow",
+   "first name the Red Sleeper",
+   "first name the Red spray",
+   "first name the Iceman",
+   "first name Borscht",
+   "first name Kasha",
+   "first name Pelmeni",
+   "first name Dasvidaniya",
+   "first name Rockmiov",
+   "first name Slobmiov",
+   "first name Godimov",
+   "first name Kudimov",
+   "first name the Beast",
+   "first name the Red Bastard",
+   "Comrade first name",
+   "Comrade last name",
+   "first name the Bear",
+   "Smirnoff Ice",
+   "first name \"flat-fisted\" last name",
+   "black duck last name",
+   "first name the dragon",
+   "last name \"bong bong\" first name",
+   "last name \"wu kong\" first name",
+   "Wuhan first name",
+   "last name \"Big Boy\" first name",
+   "last name \"The Smile\" first name",
+   "last name the azure Dragon",
+   "last name the midnight Tortoise",
+   "last name the blank Tiger",
+   "last name the crimson Bird",
+   "first name cadillac",
+   "cadillac last name",
+   "first name brains",
+   "first name \"scarface\" last name",
+   "big tuna last name",
+   "first name the Bull",
+   "first name sangiovese",
+   "sangiovese last name",
+   "first name \"doctor sleep\" last name",
+   "first name \"Mikhas\" last name",
+   "gulag first name",
+   "gulag last name",
+   "Giuseppe \"black pepper\" Zelano"
+  ],
+  "callingCards": [
+   "blueberry cobbler",
+   "chiffon cake",
+   "dog droppings in a paper bag",
+   "prego pasta sauce",
+   "blow up doll",
+   "pig heart",
+   "tiger lily",
+   "baby shoe",
+   "broken tube of lipstick",
+   "bucket of intestines",
+   "chicken feather",
+   "cigarette pack containing one lone cigarette",
+   "cow's ear",
+   "daisy with one petal",
+   "dead blue jay",
+   "dead trout",
+   "faux pearl necklace",
+   "fishing hook",
+   "glitter bomb",
+   "octopus suckers",
+   "horse's tail",
+   "pair of knitting needles",
+   "palm frond",
+   "rusty coathanger",
+   "horse head",
+   "shark tooth",
+   "single white rose",
+   "squid beak",
+   "squid tentacle",
+   "strongly-worded letter",
+   "turkey feather",
+   "watch",
+   "adult molars",
+   "alarm clock",
+   "empty perfume bottle",
+   "empty tube of lipstick",
+   "octopus tentacle",
+   "anal beads",
+   "baby teeth",
+   "pair of soiled underwear",
+   "fingernails",
+   "fresh apple pie",
+   "moldy cheese",
+   "rat tails",
+   "rose stems",
+   "rotten fish meat",
+   "rotten tomato",
+   "sweaty gym socks",
+   "king of spades",
+   "toenails",
+   "broken vodka bottle",
+   "jug of beet juice",
+   "copy of Karl Marx's 'Communist Manifesto'",
+   "sombrero",
+   "calavera",
+   "burrito bowl",
+   "half-eaten burrito",
+   "nachos",
+   "broken tequila bottle",
+   "stale concha",
+   "tamale husks",
+   "fermented tofu",
+   "paper fan",
+   "moon cake",
+   "pu pu platter",
+   "broken rice cooker",
+   "broken sake bottle",
+   "kabuki mask",
+   "ninja mask",
+   "pork bao bun",
+   "shamrock",
+   "broken Guinness bottle",
+   "chocolate gold coin",
+   "sack of potatoes",
+   "plate of meatballs",
+   "portrait of the Pope",
+   "St. Jude statuette",
+   "empty bottle of hair grease",
+   "lasagna",
+   "gnocchi",
+   "pair of bamboo chopsticks",
+   "mung beans",
+   "bottle of tsingao beer",
+   "green tea leaves",
+   "knockoff gucci bag",
+   "pirated DVD of 'mulan'"
+  ],
+  "pastimes": [
+   "to learn how to make general tso's chicken at a Chinese cooking class",
+   "to a five-star Chinese buffet",
+   "to a baijiu distillery",
+   "to see the great wall of china",
+   "to the mausoleum of Mao Zedong",
+   "to the dragon boat races",
+   "to play mahjong in the park",
+   "to learn how to make mashed potatoes at an Irish cooking class",
+   "to a five-star Irish pub",
+   "to a Guinness brewery",
+   "to drink green beer at a true Irish drinking hole",
+   "to have a Full Irish down at a local pub",
+   "to Blarney Castle and kissed the Blarney Stone",
+   "to have limoncello",
+   "to learn how to make tiramisu at an Italian cooking class",
+   "to play bocce in the park",
+   "to a five-star italian restaurant",
+   "to a vineyard",
+   "to make mozzarella cheese",
+   "to visit the Sistine Chapel",
+   "to the Papal Palace and heard the Pope speak",
+   "wine tasting in Tuscany",
+   "to learn how to make sushi at a Japanese cooking class",
+   "to a five-star sushi bar",
+   "to a sake brewery",
+   "to a kabuki performance",
+   "to play a game in Shibuya",
+   "to see the cherry blossom trees in yoyogi park",
+   "to a geisha show in Kyoto",
+   "to learn how to make tequila at a Latin cooking class",
+   "to play dominos in the park",
+   "to a five-star chipotle",
+   "to watch flamenco dancers perform",
+   "to visit teotihuacan",
+   "to taste tequila flights by the moonlight",
+   "to watch the sunset at a construction site",
+   "to a trust-building workshop",
+   "to the horse races",
+   "to an anger management seminar",
+   "to a diversity sensitivity training seminar",
+   "to a gun show",
+   "to a gem show",
+   "to a rare coin convention",
+   "to an antique car show",
+   "to enjoy a steak dinner",
+   "to a neighborhood barbecue",
+   "an underground weapons auction",
+   "to a graveyard to pay respects",
+   "to a wake",
+   "to a wedding",
+   "on a camping trip",
+   "frolicking through a field",
+   "pole-vaulting over a river",
+   "for a nice, long drive",
+   "parasailing",
+   "hang gliding",
+   "to a drag show",
+   "to a burlesque show",
+   "to the circus",
+   "to the library to read to children",
+   "to a tantric yoga class",
+   "to a kama sutra class",
+   "to a pole-dancing class",
+   "to a strip aerobics class",
+   "cycling at the gym",
+   "to tag the underside of a freeway with graffiti",
+   "to drink 40s out of paper bags",
+   "to watch a Godfather film marathon at a local theater",
+   "to watch casino at a local theater",
+   "to binge-watch The Sopranos",
+   "to drop rocks into oncoming traffic from atop a bridge",
+   "for a spa day",
+   "to get facials",
+   "to get tested for STDs",
+   "to play the 'mafia' video game series",
+   "to play with a blowtorch",
+   "to take a glass-blowing class",
+   "to explore empty warehouses",
+   "to spend time with rescue cats",
+   "to a PTA meeting",
+   "to a wine and painting party",
+   "to a pottery class",
+   "wild",
+   "skinny-dipping",
+   "cow-tipping",
+   "birdwatching",
+   "breakdancing",
+   "shopping at the mall",
+   "wine tasting at a vineyard",
+   "on a 5k run",
+   "on a long hike through the woods",
+   "on a whiskey distillery tour",
+   "to a museum of modern art",
+   "to a tony robbins leadership conference",
+   "snowboarding in a resort town",
+   "to a fun park",
+   "go-karting on an open track",
+   "to a gay pride parade",
+   "to get a mani-pedi at the salon",
+   "to play darts at a dive bar",
+   "to musician indefinite concert",
+   "to a poetry reading",
+   "to a red-carpet event to see celebrity",
+   "to a comic con"
+  ]
+ },
+ "hustler": {
+  "buskMusicTypes": [
+   {
+    "type": "peaceful",
+    "needsMusicAppended": true,
+    "instruments": [
+     "harp",
+     "cello",
+     "triangle",
+     "violin",
+     "guitar",
+     "flute",
+     "pan flute"
+    ],
+    "bestInstruments": [
+     "harp",
+     "cello",
+     "triangle"
+    ],
+    "successScore": 4
+   },
+   {
+    "type": "classical",
+    "needsMusicAppended": true,
+    "instruments": [
+     "harp",
+     "cello",
+     "triangle",
+     "violin",
+     "guitar",
+     "flute",
+     "saxophone",
+     "trumpet",
+     "tuba",
+     "kazoo",
+     "trombone"
+    ],
+    "bestInstruments": [
+     "violin"
+    ],
+    "successScore": 4
+   },
+   {
+    "type": "classic rock",
+    "needsMusicAppended": false,
+    "instruments": [
+     "guitar",
+     "bass guitar",
+     "harmonica",
+     "flute",
+     "keyboard",
+     "tambourine",
+     "saxophone",
+     "keyboard",
+     "violin"
+    ],
+    "bestInstruments": [
+     "guitar"
+    ],
+    "successScore": 3
+   },
+   {
+    "type": "reggae",
+    "needsMusicAppended": false,
+    "instruments": [
+     "steel drum",
+     "guitar",
+     "keyboard",
+     "tambourine",
+     "cello",
+     "kazoo"
+    ],
+    "bestInstruments": [
+     "steel drum",
+     "guitar",
+     "keyboard"
+    ],
+    "successScore": 3
+   },
+   {
+    "type": "Peruvian",
+    "needsMusicAppended": true,
+    "instruments": [
+     "flute",
+     "pan flute",
+     "guitar",
+     "tambourine"
+    ],
+    "bestInstruments": [
+     "pan flute",
+     "flute"
+    ],
+    "successScore": 5
+   },
+   {
+    "type": "jazz",
+    "needsMusicAppended": false,
+    "instruments": [
+     "trombone",
+     "saxophone",
+     "trumpet",
+     "guitar",
+     "bass guitar"
+    ],
+    "bestInstruments": [
+     "saxophone",
+     "trumpet"
+    ],
+    "successScore": 5
+   },
+   {
+    "type": "romantic",
+    "needsMusicAppended": true,
+    "instruments": [
+     "violin",
+     "saxophone",
+     "harp",
+     "guitar",
+     "triangle",
+     "keyboard",
+     "triangle",
+     "flute",
+     "pan flute"
+    ],
+    "bestInstruments": [
+     "violin",
+     "saxophone",
+     "harp",
+     "guitar"
+    ],
+    "successScore": 3
+   },
+   {
+    "type": "experimental",
+    "needsMusicAppended": true,
+    "instruments": [
+     ""
+    ],
+    "bestInstruments": [
+     "kazoo",
+     "didgeridoo",
+     "triangle"
+    ],
+    "successScore": 1
+   },
+   {
+    "type": "pop",
+    "needsMusicAppended": true,
+    "instruments": [
+     "bass guitar",
+     "saxophone",
+     "guitar",
+     "keyboard",
+     "cello",
+     "trumpet",
+     "recorder",
+     "kazoo",
+     "tambourine"
+    ],
+    "bestInstruments": [
+     "keyboard"
+    ],
+    "successScore": 3
+   },
+   {
+    "type": "funk",
+    "needsMusicAppended": true,
+    "instruments": [
+     "bass guitar",
+     "saxophone",
+     "guitar",
+     "keyboard",
+     "cello",
+     "trumpet"
+    ],
+    "bestInstruments": [
+     "bass guitar"
+    ],
+    "successScore": 3
+   },
+   {
+    "type": "polka",
+    "needsMusicAppended": true,
+    "instruments": [
+     "accordion",
+     "harmonica",
+     "guitar",
+     "keyboard",
+     "banjo"
+    ],
+    "bestInstruments": [
+     "accordion",
+     "harmonica"
+    ],
+    "successScore": 1
+   },
+   {
+    "type": "country",
+    "needsMusicAppended": true,
+    "instruments": [
+     "banjo",
+     "guitar",
+     "harmonica",
+     "bass guitar",
+     "keyboard"
+    ],
+    "bestInstruments": [
+     "guitar",
+     "banjo",
+     "harmonica"
+    ],
+    "successScore": 3
+   },
+   {
+    "type": "bluegrass",
+    "needsMusicAppended": false,
+    "instruments": [
+     "banjo",
+     "guitar",
+     "harmonica",
+     "bass guitar",
+     "keyboard"
+    ],
+    "bestInstruments": [
+     "guitar",
+     "banjo",
+     "harmonica"
+    ],
+    "successScore": 2
+   },
+   {
+    "type": "folk",
+    "needsMusicAppended": true,
+    "instruments": [
+     "recorder",
+     "banjo",
+     "guitar",
+     "harmonica",
+     "pan flute"
+    ],
+    "bestInstruments": [
+     "guitar",
+     "banjo",
+     "harmonica"
+    ],
+    "successScore": 2
+   },
+   {
+    "type": "Renaissance",
+    "needsMusicAppended": true,
+    "instruments": [
+     "recorder",
+     "harp",
+     "flute",
+     "guitar",
+     "bass guitar",
+     "keyboard",
+     "tambourine"
+    ],
+    "bestInstruments": [
+     "recorder",
+     "flute",
+     "harp",
+     "tambourine"
+    ],
+    "successScore": 1
+   },
+   {
+    "type": "new age",
+    "needsMusicAppended": true,
+    "instruments": [
+     "keyboard",
+     "flute",
+     "triangle",
+     "harp",
+     "guitar",
+     "pan flute",
+     "didgeridoo"
+    ],
+    "bestInstruments": [
+     "keyboard",
+     "flute",
+     "triangle",
+     "harp"
+    ],
+    "successScore": 2
+   },
+   {
+    "type": "adult contemporary",
+    "needsMusicAppended": true,
+    "instruments": [
+     "guitar",
+     "saxophone",
+     "keyboard",
+     "trumpet",
+     "harp"
+    ],
+    "bestInstruments": [
+     "guitar",
+     "saxophone"
+    ],
+    "successScore": 3
+   },
+   {
+    "type": "house music",
+    "needsMusicAppended": false,
+    "instruments": [
+     "bass guitar",
+     "guitar",
+     "keyboard"
+    ],
+    "bestInstruments": [
+     "bass guitar",
+     "guitar"
+    ],
+    "successScore": 3
+   },
+   {
+    "type": "synth-pop",
+    "needsMusicAppended": false,
+    "instruments": [
+     "keyboard",
+     "harp"
+    ],
+    "bestInstruments": [
+     "keyboard"
+    ],
+    "successScore": 2
+   },
+   {
+    "type": "world music",
+    "needsMusicAppended": false,
+    "instruments": [
+     "guitar",
+     "keyboard",
+     "steel drum",
+     "saxophone",
+     "flute",
+     "pan flute",
+     "didgeridoo",
+     "triangle",
+     "cello",
+     "kazoo"
+    ],
+    "bestInstruments": [
+     "guitar",
+     "keyboard",
+     "flute",
+     "steel drum"
+    ],
+    "successScore": 4
+   },
+   {
+    "type": "funk carioca",
+    "needsMusicAppended": false,
+    "instruments": [
+     "bass guitar",
+     "keyboard"
+    ],
+    "bestInstruments": [
+     "keyboard"
+    ],
+    "successScore": 5
+   },
+   {
+    "type": "bossa nova",
+    "needsMusicAppended": true,
+    "instruments": [
+     "guitar",
+     "keyboard",
+     "tambourine",
+     "saxophone"
+    ],
+    "bestInstruments": [
+     "guitar",
+     "keyboard"
+    ],
+    "successScore": 5
+   },
+   {
+    "type": "indie",
+    "needsMusicAppended": true,
+    "instruments": [
+     "guitar",
+     "bass guitar",
+     "harmonica",
+     "keyboard",
+     "saxophone"
+    ],
+    "bestInstruments": [
+     "guitar",
+     "bass guitar"
+    ],
+    "successScore": 3
+   },
+   {
+    "type": "elevator music",
+    "needsMusicAppended": false,
+    "instruments": [
+     "keyboard",
+     "bass guitar",
+     "guitar",
+     "violin",
+     "steel drum",
+     "saxophone",
+     "harp",
+     "triangle",
+     "flute"
+    ],
+    "bestInstruments": [
+     "keyboard",
+     "bass guitar",
+     "guitar"
+    ],
+    "successScore": 4
+   },
+   {
+    "type": "worship",
+    "needsMusicAppended": true,
+    "instruments": [
+     "keyboard",
+     "guitar",
+     "harmonica",
+     "flute",
+     "recorder",
+     "harp"
+    ],
+    "bestInstruments": [
+     "keyboard",
+     "guitar"
+    ],
+    "successScore": 1
+   },
+   {
+    "type": "blues",
+    "needsMusicAppended": false,
+    "instruments": [
+     "guitar",
+     "bass guitar",
+     "harmonica",
+     "trombone",
+     "trumpet",
+     "saxophone"
+    ],
+    "bestInstruments": [
+     "harmonica",
+     "bass guitar",
+     "guitar",
+     "saxophone"
+    ],
+    "successScore": 5
+   },
+   {
+    "type": "kawaii metal",
+    "needsMusicAppended": false,
+    "instruments": [
+     "bass guitar",
+     "guitar",
+     "keyboard"
+    ],
+    "bestInstruments": [
+     "bass guitar",
+     "guitar"
+    ],
+    "successScore": 4
+   },
+   {
+    "type": "grunge",
+    "needsMusicAppended": true,
+    "instruments": [
+     "bass guitar",
+     "guitar",
+     "keyboard"
+    ],
+    "bestInstruments": [
+     "bass guitar",
+     "guitar"
+    ],
+    "successScore": 1
+   },
+   {
+    "type": "punk rock",
+    "needsMusicAppended": false,
+    "instruments": [
+     "bass guitar",
+     "guitar",
+     "keyboard"
+    ],
+    "bestInstruments": [
+     "bass guitar",
+     "guitar"
+    ],
+    "successScore": 1
+   },
+   {
+    "type": "screamo",
+    "needsMusicAppended": true,
+    "instruments": [
+     "bass guitar",
+     "guitar",
+     "keyboard"
+    ],
+    "bestInstruments": [
+     "bass guitar",
+     "guitar"
+    ],
+    "successScore": 1
+   },
+   {
+    "type": "emo pop",
+    "needsMusicAppended": false,
+    "instruments": [
+     "bass guitar",
+     "guitar",
+     "keyboard"
+    ],
+    "bestInstruments": [
+     "bass guitar",
+     "guitar"
+    ],
+    "successScore": 2
+   },
+   {
+    "type": "disco",
+    "needsMusicAppended": true,
+    "instruments": [
+     "keyboard"
+    ],
+    "bestInstruments": [
+     "keyboard"
+    ],
+    "successScore": 3
+   }
+  ],
+  "attire": [
+   {
+    "name": "lederhosen",
+    "attention": 3
+   },
+   {
+    "name": "rubber catsuit",
+    "attention": 5
+   },
+   {
+    "name": "patchwork coat",
+    "attention": 1
+   },
+   {
+    "name": "three-piece suit",
+    "attention": 2
+   },
+   {
+    "name": "cowboy outfit",
+    "attention": 4
+   },
+   {
+    "name": "denim jacket",
+    "attention": 1
+   },
+   {
+    "name": "Medieval bard attire",
+    "attention": 5
+   },
+   {
+    "name": "flannel shirt",
+    "attention": null
+   },
+   {
+    "name": "trenchcoat",
+    "attention": 3
+   },
+   {
+    "name": "black turtleneck",
+    "attention": 2
+   },
+   {
+    "name": "Dirndl dress",
+    "attention": 4
+   },
+   {
+    "name": "linen sundress",
+    "attention": 3
+   },
+   {
+    "name": "clown costume",
+    "attention": 4
+   },
+   {
+    "name": "construction worker outfit",
+    "attention": 4
+   },
+   {
+    "name": "police officer outfit",
+    "attention": 3
+   },
+   {
+    "name": "firefighter outfit",
+    "attention": 3
+   },
+   {
+    "name": "pink tutu",
+    "attention": 2
+   },
+   {
+    "name": "angel costume",
+    "attention": 3
+   },
+   {
+    "name": "devil costume",
+    "attention": 3
+   },
+   {
+    "name": "Sgt. Pepper's suit",
+    "attention": 5
+   },
+   {
+    "name": "ripped jeans and a flannel",
+    "attention": 3
+   },
+   {
+    "name": "schoolgirl uniform",
+    "attention": 5
+   },
+   {
+    "name": "camo fatigues",
+    "attention": 2
+   },
+   {
+    "name": "muscle tee",
+    "attention": 2
+   },
+   {
+    "name": "scrubs",
+    "attention": 4
+   },
+   {
+    "name": "mask",
+    "attention": 1
+   },
+   {
+    "name": "chaps",
+    "attention": 4
+   },
+   {
+    "name": "drug rug",
+    "attention": 4
+   },
+   {
+    "name": "poncho",
+    "attention": 4
+   },
+   {
+    "name": "tuxedo",
+    "attention": 3
+   },
+   {
+    "name": "shirtless",
+    "attention": 3
+   },
+   {
+    "name": "leathers",
+    "attention": 2
+   },
+   {
+    "name": "muumuu",
+    "attention": 2
+   },
+   {
+    "name": "caftan",
+    "attention": 2
+   },
+   {
+    "name": "ball gown",
+    "attention": 4
+   },
+   {
+    "name": "wedding dress",
+    "attention": 5
+   },
+   {
+    "name": "black wedding dress",
+    "attention": 5
+   },
+   {
+    "name": "halter top & booty shorts",
+    "attention": 5
+   },
+   {
+    "name": "red sweater",
+    "attention": 1
+   },
+   {
+    "name": "white polo",
+    "attention": 1
+   },
+   {
+    "name": "leggings",
+    "attention": 1
+   },
+   {
+    "name": "yoga pants",
+    "attention": 1
+   },
+   {
+    "name": "studded leather harness",
+    "attention": 4
+   },
+   {
+    "name": "horse head mask",
+    "attention": 4
+   },
+   {
+    "name": "straw hat & overalls",
+    "attention": 5
+   },
+   {
+    "name": "long johns",
+    "attention": 4
+   },
+   {
+    "name": "petticoat skirt",
+    "attention": 3
+   },
+   {
+    "name": "plain white T-shirt",
+    "attention": 1
+   },
+   {
+    "name": "Metallica T-shirt",
+    "attention": 1
+   },
+   {
+    "name": "black T-shirt",
+    "attention": 1
+   },
+   {
+    "name": "tie-dye bell-bottoms",
+    "attention": 1
+   }
+  ],
+  "panhandleProps": [
+   {
+    "name": "cardboard box",
+    "maleEffectiveness": 4,
+    "femaleEffectiveness": 4
+   },
+   {
+    "name": "shopping cart",
+    "maleEffectiveness": 3,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "mildewy sleeping bag",
+    "maleEffectiveness": 3,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "walker",
+    "maleEffectiveness": 4,
+    "femaleEffectiveness": 4
+   },
+   {
+    "name": "bloody bandages",
+    "maleEffectiveness": 2,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "cast",
+    "maleEffectiveness": 3,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "crutches",
+    "maleEffectiveness": 3,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "wheelchair",
+    "maleEffectiveness": 5,
+    "femaleEffectiveness": 5
+   },
+   {
+    "name": "neck brace",
+    "maleEffectiveness": 4,
+    "femaleEffectiveness": 4
+   },
+   {
+    "name": "broken sunglasses",
+    "maleEffectiveness": 1,
+    "femaleEffectiveness": 1
+   },
+   {
+    "name": "tattered suit and tie",
+    "maleEffectiveness": 1,
+    "femaleEffectiveness": 1
+   },
+   {
+    "name": "raggedy shoes",
+    "maleEffectiveness": 2,
+    "femaleEffectiveness": 2
+   },
+   {
+    "name": "hobo sack",
+    "maleEffectiveness": 3,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "torn blanket",
+    "maleEffectiveness": 2,
+    "femaleEffectiveness": 2
+   },
+   {
+    "name": "greasy denim jacket",
+    "maleEffectiveness": 1,
+    "femaleEffectiveness": 1
+   },
+   {
+    "name": "leg braces",
+    "maleEffectiveness": 4,
+    "femaleEffectiveness": 4
+   },
+   {
+    "name": "moth-eaten shawl",
+    "maleEffectiveness": 1,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "dirty camo backpack",
+    "maleEffectiveness": 4,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "trash bags full of junk",
+    "maleEffectiveness": 2,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "eviction notice",
+    "maleEffectiveness": 4,
+    "femaleEffectiveness": 5
+   },
+   {
+    "name": "Walkman",
+    "maleEffectiveness": 5,
+    "femaleEffectiveness": 2
+   },
+   {
+    "name": "houseplant",
+    "maleEffectiveness": 3,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "empty water bottle",
+    "maleEffectiveness": 3,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "cracked iPod",
+    "maleEffectiveness": 1,
+    "femaleEffectiveness": 1
+   },
+   {
+    "name": "wooden cane",
+    "maleEffectiveness": 3,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "beekeeper's suit",
+    "maleEffectiveness": 1,
+    "femaleEffectiveness": 1
+   },
+   {
+    "name": "cheap hobo Halloween costume",
+    "maleEffectiveness": 2,
+    "femaleEffectiveness": 2
+   },
+   {
+    "name": "oversized pink overcoat",
+    "maleEffectiveness": 2,
+    "femaleEffectiveness": 2
+   },
+   {
+    "name": "matted fur coat",
+    "maleEffectiveness": 3,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "tattered hoodie",
+    "maleEffectiveness": 3,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "blonde wig",
+    "maleEffectiveness": 3,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "bandages smeared with ketchup",
+    "maleEffectiveness": 3,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "head bandage",
+    "maleEffectiveness": 3,
+    "femaleEffectiveness": 3
+   },
+   {
+    "name": "straw hat",
+    "maleEffectiveness": 2,
+    "femaleEffectiveness": 2
+   },
+   {
+    "name": "matted poncho",
+    "maleEffectiveness": 2,
+    "femaleEffectiveness": 2
+   },
+   {
+    "name": "fake pregnant belly",
+    "maleEffectiveness": 1,
+    "femaleEffectiveness": 4
+   },
+   {
+    "name": "hazmat suit",
+    "maleEffectiveness": 1,
+    "femaleEffectiveness": 1
+   },
+   {
+    "name": "beggar wig",
+    "maleEffectiveness": 2,
+    "femaleEffectiveness": 2
+   },
+   {
+    "name": "fake grey beard",
+    "maleEffectiveness": 4,
+    "femaleEffectiveness": 0
+   },
+   {
+    "name": "clown nose",
+    "maleEffectiveness": 1,
+    "femaleEffectiveness": 1
+   },
+   {
+    "name": "baggy camo pants",
+    "maleEffectiveness": 2,
+    "femaleEffectiveness": 2
+   }
+  ],
+  "panhandleStrategies": [
+   {
+    "name": "ask for money in a traffic median",
+    "effectiveness": 4,
+    "policeRisk": 2,
+    "theftRisk": 1,
+    "confrontationRisk": 3
+   },
+   {
+    "name": "pass out on the street",
+    "effectiveness": 2,
+    "policeRisk": 2,
+    "theftRisk": 5,
+    "confrontationRisk": 1
+   },
+   {
+    "name": "shake collection box at pedestrians",
+    "effectiveness": 3,
+    "policeRisk": 2,
+    "theftRisk": 3,
+    "confrontationRisk": 2
+   },
+   {
+    "name": "flash pedestrians",
+    "effectiveness": 4,
+    "policeRisk": 5,
+    "theftRisk": 3,
+    "confrontationRisk": 2
+   },
+   {
+    "name": "rush up to pedestrians",
+    "effectiveness": 1,
+    "policeRisk": 3,
+    "theftRisk": 1,
+    "confrontationRisk": 4
+   },
+   {
+    "name": "shout at pedestrians",
+    "effectiveness": 2,
+    "policeRisk": 5,
+    "theftRisk": 2,
+    "confrontationRisk": 4
+   },
+   {
+    "name": "walk between cars in heavy traffic",
+    "effectiveness": 4,
+    "policeRisk": 3,
+    "theftRisk": 3,
+    "confrontationRisk": 2
+   },
+   {
+    "name": "sit next to an ATM",
+    "effectiveness": 3,
+    "policeRisk": 4,
+    "theftRisk": 2,
+    "confrontationRisk": 3
+   },
+   {
+    "name": "walk around a grocery store parking lot",
+    "effectiveness": 3,
+    "policeRisk": 3,
+    "theftRisk": 3,
+    "confrontationRisk": 4
+   },
+   {
+    "name": "sit next to a dumpster",
+    "effectiveness": 5,
+    "policeRisk": 1,
+    "theftRisk": 5,
+    "confrontationRisk": 3
+   },
+   {
+    "name": "approach winners outside of a casino",
+    "effectiveness": 5,
+    "policeRisk": 4,
+    "theftRisk": 3,
+    "confrontationRisk": 2
+   },
+   {
+    "name": "approach seniors at a BINGO hall",
+    "effectiveness": 3,
+    "policeRisk": 1,
+    "theftRisk": 2,
+    "confrontationRisk": 2
+   },
+   {
+    "name": "sit in front of a church on Sunday",
+    "effectiveness": 4,
+    "policeRisk": 1,
+    "theftRisk": 1,
+    "confrontationRisk": 1
+   },
+   {
+    "name": "approach fans outside a sporting event",
+    "effectiveness": 2,
+    "policeRisk": 3,
+    "theftRisk": 4,
+    "confrontationRisk": 4
+   },
+   {
+    "name": "sit outside of a laundromat in dirty clothes",
+    "effectiveness": 4,
+    "policeRisk": 1,
+    "theftRisk": 2,
+    "confrontationRisk": 2
+   },
+   {
+    "name": "approach fisherman at a lake",
+    "effectiveness": 2,
+    "policeRisk": 2,
+    "theftRisk": 1,
+    "confrontationRisk": 2
+   },
+   {
+    "name": "stand outside the lottery headquarters",
+    "effectiveness": 2,
+    "policeRisk": 3,
+    "theftRisk": 2,
+    "confrontationRisk": 2
+   },
+   {
+    "name": "approach patrons leaving a brothel",
+    "effectiveness": 5,
+    "policeRisk": 2,
+    "theftRisk": 2,
+    "confrontationRisk": 2
+   },
+   {
+    "name": "approach customers at a gas station pump",
+    "effectiveness": 4,
+    "policeRisk": 2,
+    "theftRisk": 1,
+    "confrontationRisk": 3
+   },
+   {
+    "name": "approach diners on a restaurant patio",
+    "effectiveness": 2,
+    "policeRisk": 2,
+    "theftRisk": 1,
+    "confrontationRisk": 2
+   },
+   {
+    "name": "hang out outside of a halfway house",
+    "effectiveness": 1,
+    "policeRisk": 1,
+    "theftRisk": 5,
+    "confrontationRisk": 4
+   },
+   {
+    "name": "go to a packed convention center",
+    "effectiveness": 5,
+    "policeRisk": 2,
+    "theftRisk": 3,
+    "confrontationRisk": 3
+   },
+   {
+    "name": "go to an office building",
+    "effectiveness": 2,
+    "policeRisk": 4,
+    "theftRisk": 1,
+    "confrontationRisk": 3
+   },
+   {
+    "name": "wander through a free car show",
+    "effectiveness": 1,
+    "policeRisk": 4,
+    "theftRisk": 2,
+    "confrontationRisk": 3
+   },
+   {
+    "name": "sit in front of a luxury resort",
+    "effectiveness": 3,
+    "policeRisk": 4,
+    "theftRisk": 2,
+    "confrontationRisk": 2
+   },
+   {
+    "name": "sit outside an adult video store",
+    "effectiveness": 2,
+    "policeRisk": 3,
+    "theftRisk": 1,
+    "confrontationRisk": 1
+   },
+   {
+    "name": "hang around a dive bar",
+    "effectiveness": 3,
+    "policeRisk": 2,
+    "theftRisk": 2,
+    "confrontationRisk": 3
+   },
+   {
+    "name": "ask for change outside of a diner",
+    "effectiveness": 1,
+    "policeRisk": 1,
+    "theftRisk": 1,
+    "confrontationRisk": 2
+   },
+   {
+    "name": "wander around a parking garage",
+    "effectiveness": 2,
+    "policeRisk": 2,
+    "theftRisk": 1,
+    "confrontationRisk": 1
+   },
+   {
+    "name": "sit next to a vending machine",
+    "effectiveness": 4,
+    "policeRisk": 1,
+    "theftRisk": 2,
+    "confrontationRisk": 2
+   },
+   {
+    "name": "approach people leaving a concert",
+    "effectiveness": 3,
+    "policeRisk": 1,
+    "theftRisk": 2,
+    "confrontationRisk": 4
+   },
+   {
+    "name": "offer hugs",
+    "effectiveness": 5,
+    "policeRisk": 3,
+    "theftRisk": 3,
+    "confrontationRisk": 3
+   },
+   {
+    "name": "walk around a farmers market",
+    "effectiveness": 3,
+    "policeRisk": 1,
+    "theftRisk": 2,
+    "confrontationRisk": 2
+   },
+   {
+    "name": "stand at the finish line of a marathon",
+    "effectiveness": 1,
+    "policeRisk": 4,
+    "theftRisk": 2,
+    "confrontationRisk": 5
+   },
+   {
+    "name": "walk around a carnival",
+    "effectiveness": 3,
+    "policeRisk": 2,
+    "theftRisk": 5,
+    "confrontationRisk": 3
+   },
+   {
+    "name": "stand on a corner known for drug dealing",
+    "effectiveness": 1,
+    "policeRisk": 4,
+    "theftRisk": 5,
+    "confrontationRisk": 4
+   },
+   {
+    "name": "walk through the red-light district",
+    "effectiveness": 2,
+    "policeRisk": 3,
+    "theftRisk": 3,
+    "confrontationRisk": 3
+   },
+   {
+    "name": "sit in front of a bank",
+    "effectiveness": 2,
+    "policeRisk": 5,
+    "theftRisk": 2,
+    "confrontationRisk": 3
+   }
+  ],
+  "performActs": [
+   {
+    "name": "breakdancing",
+    "person": "breakdancer",
+    "difficulty": 4,
+    "money": 3,
+    "danger": 1
+   },
+   {
+    "name": "magic",
+    "person": "magician",
+    "difficulty": 4,
+    "money": 5,
+    "danger": null
+   },
+   {
+    "name": "sword swallowing",
+    "person": "sword swallower",
+    "difficulty": 5,
+    "money": 5,
+    "danger": 5
+   },
+   {
+    "name": "mime",
+    "person": "mime",
+    "difficulty": 3,
+    "money": 4,
+    "danger": 2
+   },
+   {
+    "name": "fire eating",
+    "person": "fire eater",
+    "difficulty": 5,
+    "money": 5,
+    "danger": 5
+   },
+   {
+    "name": "living statue",
+    "person": "living statue",
+    "difficulty": 1,
+    "money": 2,
+    "danger": 2
+   },
+   {
+    "name": "juggling",
+    "person": "juggler",
+    "difficulty": 2,
+    "money": 2,
+    "danger": 1
+   },
+   {
+    "name": "ventriloquist",
+    "person": "ventriloquist",
+    "difficulty": 3,
+    "money": 3,
+    "danger": 1
+   },
+   {
+    "name": "puppeteer",
+    "person": "puppeteer",
+    "difficulty": 2,
+    "money": 3,
+    "danger": 1
+   },
+   {
+    "name": "flatulist",
+    "person": "flatulist",
+    "difficulty": 5,
+    "money": 1,
+    "danger": 3
+   }
+  ],
+  "scamTypes": [
+   {
+    "name": "counterfeit merchandise scam",
+    "description": "Sell victim fake merchandise for a high price",
+    "difficulty": 1,
+    "money": 2
+   },
+   {
+    "name": "bump-and-grab scam",
+    "description": "Bump into victim and steal his valuables",
+    "difficulty": 1,
+    "money": 2
+   },
+   {
+    "name": "item drop scam",
+    "description": "Bump into victim and drop a valuable item, then demand he compensates you for it",
+    "difficulty": 2,
+    "money": 2
+   },
+   {
+    "name": "fake monk scam",
+    "description": "Ask victim for a charitable donation to your fake monastery in exchange for a cheap beaded bracelet",
+    "difficulty": 2,
+    "money": 2
+   },
+   {
+    "name": "craps game",
+    "description": "Draw victim into a game of craps with loaded dice",
+    "difficulty": 2,
+    "money": 2
+   },
+   {
+    "name": "bag-cutting scam",
+    "description": "Cut open the bottom of their bag and steal his belongings",
+    "difficulty": 4,
+    "money": 4
+   },
+   {
+    "name": "fake injury scam",
+    "description": "Fall after passing victim on the street and claim he injured you, then demand compensation",
+    "difficulty": 3,
+    "money": 3
+   },
+   {
+    "name": "charity collection scam",
+    "description": "Ask victim to donate money to your charity",
+    "difficulty": 3,
+    "money": 3
+   },
+   {
+    "name": "VIP ticket scam",
+    "description": "Sell victim a bogus VIP ticket to an upcoming concert",
+    "difficulty": 4,
+    "money": 4
+   },
+   {
+    "name": "gold ring scam",
+    "description": "Pretend to find a ring on the ground and ask victim if it's his, then offer to sell it to him when he says it's not",
+    "difficulty": 3,
+    "money": 2
+   },
+   {
+    "name": "shell game",
+    "description": "Offer victim a wager to find a ball under three shells while using sleight of hand to move the ball to a different position",
+    "difficulty": 3,
+    "money": 3
+   },
+   {
+    "name": "Three Card Monte",
+    "description": "Offer victim a wager to find the right card out of a set of three while using sleight of hand to change the position of the correct card",
+    "difficulty": 3,
+    "money": 2
+   },
+   {
+    "name": "fake weed scam",
+    "description": "Sell victim a bag of dried herbs passed off as marijuana",
+    "difficulty": 3,
+    "money": 4
+   },
+   {
+    "name": "nightclub promoter scam",
+    "description": "Swindle victim out of money in exchange for information about a fake nightclub",
+    "difficulty": 4,
+    "money": 4
+   },
+   {
+    "name": "fake arrest scam",
+    "description": "Pose as a police officer and tell victim that he is about to be arrested but can avoid arrest by paying a small fee",
+    "difficulty": 5,
+    "money": 5
+   },
+   {
+    "name": "fake escort scam",
+    "description": "Proposition victim and steal his wallet when you get the chance",
+    "difficulty": 5,
+    "money": 5
+   },
+   {
+    "name": "black widow scam",
+    "description": "Invite victim to get drinks with you, then spike his beverage and rob him blind after he passes out",
+    "difficulty": 5,
+    "money": 5
+   }
+  ]
+ },
+ "secretAgent": {
+  "agencyFronts": [
+   {
+    "type": "florist",
+    "minAgents": 2,
+    "maxAgents": 4,
+    "starter": true,
+    "commonness": 4
+   },
+   {
+    "type": "bakery",
+    "minAgents": 2,
+    "maxAgents": 4,
+    "starter": true,
+    "commonness": 4
+   },
+   {
+    "type": "adult toy store",
+    "minAgents": 2,
+    "maxAgents": 4,
+    "starter": false,
+    "commonness": 1
+   },
+   {
+    "type": "boutique",
+    "minAgents": 2,
+    "maxAgents": 4,
+    "starter": true,
+    "commonness": 4
+   },
+   {
+    "type": "nail salon",
+    "minAgents": 4,
+    "maxAgents": 6,
+    "starter": false,
+    "commonness": 3
+   },
+   {
+    "type": "cafe",
+    "minAgents": 3,
+    "maxAgents": 6,
+    "starter": false,
+    "commonness": 2
+   },
+   {
+    "type": "tailor",
+    "minAgents": 4,
+    "maxAgents": 6,
+    "starter": false,
+    "commonness": 2
+   },
+   {
+    "type": "laundromat",
+    "minAgents": 6,
+    "maxAgents": 8,
+    "starter": false,
+    "commonness": 3
+   },
+   {
+    "type": "bookstore",
+    "minAgents": 5,
+    "maxAgents": 8,
+    "starter": false,
+    "commonness": 3
+   },
+   {
+    "type": "liquor store",
+    "minAgents": 6,
+    "maxAgents": 8,
+    "starter": false,
+    "commonness": 2
+   },
+   {
+    "type": "pawn shop",
+    "minAgents": 8,
+    "maxAgents": 10,
+    "starter": false,
+    "commonness": 3
+   },
+   {
+    "type": "pub",
+    "minAgents": 8,
+    "maxAgents": 10,
+    "starter": false,
+    "commonness": 3
+   },
+   {
+    "type": "spa",
+    "minAgents": 6,
+    "maxAgents": 10,
+    "starter": false,
+    "commonness": 3
+   },
+   {
+    "type": "art gallery",
+    "minAgents": 7,
+    "maxAgents": 10,
+    "starter": false,
+    "commonness": 1
+   },
+   {
+    "type": "gym",
+    "minAgents": 9,
+    "maxAgents": 12,
+    "starter": false,
+    "commonness": 2
+   },
+   {
+    "type": "used car dealership",
+    "minAgents": 9,
+    "maxAgents": 12,
+    "starter": false,
+    "commonness": 1
+   }
+  ],
+  "gadgets": [
+   {
+    "name": "banana taser",
+    "specialization": "assassination",
+    "description": "Pumps 50,000 volts into a target. Orange you glad it's not you?",
+    "minCost": 5000,
+    "maxCost": 10000,
+    "level": 1
+   },
+   {
+    "name": "stun gloves",
+    "specialization": "assassination",
+    "description": "Bring targets to their knees with a single touch!",
+    "minCost": 20000,
+    "maxCost": 50000,
+    "level": 2
+   },
+   {
+    "name": "jetpack",
+    "specialization": "assassination",
+    "description": "They won't even see you coming.",
+    "minCost": 100000,
+    "maxCost": 150000,
+    "level": 3
+   },
+   {
+    "name": "cyborg dog",
+    "specialization": "assassination",
+    "description": "Terrorize your targets with this terminating terrier!",
+    "minCost": 1000000,
+    "maxCost": 2500000,
+    "level": 4
+   },
+   {
+    "name": "EMP bracelet",
+    "specialization": "hacking",
+    "description": "Disable security systems within a 50-foot radius with the press of a button!",
+    "minCost": 3500,
+    "maxCost": 7500,
+    "level": 1
+   },
+   {
+    "name": "data spike wristwatch",
+    "specialization": "hacking",
+    "description": "Scramble computer systems with ease! Just point and click.",
+    "minCost": 10000,
+    "maxCost": 35000,
+    "level": 2
+   },
+   {
+    "name": "cryptographic disruptor",
+    "specialization": "hacking",
+    "description": "Malware in the palm of your hands!",
+    "minCost": 75000,
+    "maxCost": 125000,
+    "level": 3
+   },
+   {
+    "name": "discreet data vacuum",
+    "specialization": "hacking",
+    "description": "Digitally suck up nearby data from the palm of your hand.",
+    "minCost": 750000,
+    "maxCost": 1500000,
+    "level": 4
+   },
+   {
+    "name": "fuzzy handcuffs",
+    "specialization": "honeypot",
+    "description": "Feel-good restraints that can help coax any information out of any target!",
+    "minCost": 25,
+    "maxCost": 150,
+    "level": 1
+   },
+   {
+    "name": "pheromone spray",
+    "specialization": "honeypot",
+    "description": "Just one spritz will bring any target to heel!",
+    "minCost": 5000,
+    "maxCost": 15000,
+    "level": 2
+   },
+   {
+    "name": "riding crop stun baton",
+    "specialization": "honeypot",
+    "description": "Who says electricity can't be sexy?",
+    "minCost": 25000,
+    "maxCost": 65000,
+    "level": 3
+   },
+   {
+    "name": "truth serum lip balm",
+    "specialization": "honeypot",
+    "description": "Just one kiss, and your target will bare it all!",
+    "minCost": 200000,
+    "maxCost": 450000,
+    "level": 4
+   },
+   {
+    "name": "suction cup",
+    "specialization": "stealth",
+    "description": "Scale walls within minutes!",
+    "minCost": 200,
+    "maxCost": 1000,
+    "level": 1
+   },
+   {
+    "name": "zip-line belt",
+    "specialization": "stealth",
+    "description": "For when leaving through the front door isn't an option.",
+    "minCost": 2500,
+    "maxCost": 6500,
+    "level": 2
+   },
+   {
+    "name": "smoke bomb walking cane",
+    "specialization": "stealth",
+    "description": "Press the button under the handle to make your own cover!",
+    "minCost": 7500,
+    "maxCost": 15000,
+    "level": 3
+   },
+   {
+    "name": "pigeon drone",
+    "specialization": "stealth",
+    "description": "Coo, coo, coo--it's spying on you!",
+    "minCost": 100000,
+    "maxCost": 150000,
+    "level": 4
+   }
+  ],
+  "securityFeatures": [
+   {
+    "name": "surveillance cameras",
+    "function": "Monitors the premises",
+    "minCost": 2000,
+    "maxCost": 5000,
+    "coverScore": 1
+   },
+   {
+    "name": "blast doors",
+    "function": "Protects entryways",
+    "minCost": 50000,
+    "maxCost": 150000,
+    "coverScore": 4
+   },
+   {
+    "name": "security drone",
+    "function": "Guards the halls",
+    "minCost": 150000,
+    "maxCost": 300000,
+    "coverScore": 5
+   },
+   {
+    "name": "biometric scanner",
+    "function": "Verifies identities",
+    "minCost": 25000,
+    "maxCost": 60000,
+    "coverScore": 3
+   },
+   {
+    "name": "voice recognition system",
+    "function": "Verifies identities",
+    "minCost": 25000,
+    "maxCost": 60000,
+    "coverScore": 3
+   },
+   {
+    "name": "Faraday shield",
+    "function": "Blocks signals",
+    "minCost": 30000,
+    "maxCost": 75000,
+    "coverScore": 4
+   },
+   {
+    "name": "motion sensor plates",
+    "function": "Detects motion",
+    "minCost": 15000,
+    "maxCost": 25000,
+    "coverScore": 2
+   },
+   {
+    "name": "laser grid",
+    "function": "Detects motion",
+    "minCost": 30000,
+    "maxCost": 50000,
+    "coverScore": 2
+   },
+   {
+    "name": "security shutters",
+    "function": "Seals windows",
+    "minCost": 4500,
+    "maxCost": 7500,
+    "coverScore": 1
+   },
+   {
+    "name": "mood detection gate",
+    "function": "Detects guilt",
+    "minCost": 1000000,
+    "maxCost": 1500000,
+    "coverScore": 5
+   },
+   {
+    "name": "intrusion detection system",
+    "function": "Monitors network traffic",
+    "minCost": 15000,
+    "maxCost": 45000,
+    "coverScore": 2
+   },
+   {
+    "name": "zero trust architecture",
+    "function": "Verifies identities",
+    "minCost": 300000,
+    "maxCost": 450000,
+    "coverScore": 5
+   },
+   {
+    "name": "anomaly detection software",
+    "function": "Protects against network intrusions",
+    "minCost": 100000,
+    "maxCost": 150000,
+    "coverScore": 3
+   }
+  ],
+  "codeNames": [
+   {
+    "name": "Princess",
+    "gender": "female"
+   },
+   {
+    "name": "Chungus",
+    "gender": ""
+   },
+   {
+    "name": "Ghostfire",
+    "gender": ""
+   },
+   {
+    "name": "Backfat",
+    "gender": "male"
+   },
+   {
+    "name": "Beefcake",
+    "gender": ""
+   },
+   {
+    "name": "Darknight",
+    "gender": ""
+   },
+   {
+    "name": "Contessa",
+    "gender": "female"
+   },
+   {
+    "name": "Conch",
+    "gender": ""
+   },
+   {
+    "name": "Blockhead",
+    "gender": ""
+   },
+   {
+    "name": "Fungus",
+    "gender": ""
+   },
+   {
+    "name": "Dung Beetle",
+    "gender": ""
+   },
+   {
+    "name": "Tiger Claw",
+    "gender": ""
+   },
+   {
+    "name": "Spitfire",
+    "gender": ""
+   },
+   {
+    "name": "Darkwater",
+    "gender": ""
+   },
+   {
+    "name": "Backfat",
+    "gender": ""
+   },
+   {
+    "name": "DILF Tickler",
+    "gender": ""
+   },
+   {
+    "name": "MILF Tickler",
+    "gender": ""
+   },
+   {
+    "name": "Sausage Fingers",
+    "gender": ""
+   },
+   {
+    "name": "IPAholic",
+    "gender": ""
+   },
+   {
+    "name": "Basket Case",
+    "gender": ""
+   },
+   {
+    "name": "Riddle",
+    "gender": ""
+   },
+   {
+    "name": "Athena",
+    "gender": "female"
+   },
+   {
+    "name": "Aphrodite",
+    "gender": "female"
+   },
+   {
+    "name": "Hades",
+    "gender": "male"
+   },
+   {
+    "name": "Zeus",
+    "gender": "male"
+   },
+   {
+    "name": "Orpheus",
+    "gender": "male"
+   },
+   {
+    "name": "Oracle",
+    "gender": "female"
+   },
+   {
+    "name": "Artemis",
+    "gender": "female"
+   },
+   {
+    "name": "Apollo",
+    "gender": "male"
+   },
+   {
+    "name": "Twilight",
+    "gender": ""
+   },
+   {
+    "name": "Midnight",
+    "gender": ""
+   },
+   {
+    "name": "Darkstar",
+    "gender": ""
+   },
+   {
+    "name": "Lightning",
+    "gender": ""
+   },
+   {
+    "name": "Diddler",
+    "gender": ""
+   },
+   {
+    "name": "Finger",
+    "gender": ""
+   },
+   {
+    "name": "Lobe",
+    "gender": ""
+   },
+   {
+    "name": "Dangler",
+    "gender": ""
+   },
+   {
+    "name": "Swole",
+    "gender": ""
+   },
+   {
+    "name": "Cheeks",
+    "gender": ""
+   },
+   {
+    "name": "Edge Lord",
+    "gender": "male"
+   },
+   {
+    "name": "Giga Chad",
+    "gender": "male"
+   },
+   {
+    "name": "Precious",
+    "gender": ""
+   },
+   {
+    "name": "Diamond",
+    "gender": ""
+   },
+   {
+    "name": "Emerald",
+    "gender": ""
+   },
+   {
+    "name": "Sapphire",
+    "gender": ""
+   },
+   {
+    "name": "Big Load",
+    "gender": ""
+   },
+   {
+    "name": "Squirt",
+    "gender": ""
+   },
+   {
+    "name": "Orange",
+    "gender": ""
+   },
+   {
+    "name": "Sea",
+    "gender": ""
+   },
+   {
+    "name": "Tullmen",
+    "gender": "male"
+   },
+   {
+    "name": "Provocateur",
+    "gender": ""
+   },
+   {
+    "name": "Ovconsent",
+    "gender": ""
+   },
+   {
+    "name": "Wavy Gravy",
+    "gender": ""
+   },
+   {
+    "name": "Neckbeard",
+    "gender": "male"
+   },
+   {
+    "name": "Hotthot",
+    "gender": "female"
+   },
+   {
+    "name": "Striptease",
+    "gender": "female"
+   },
+   {
+    "name": "Blaquole",
+    "gender": ""
+   },
+   {
+    "name": "Tullpusch",
+    "gender": ""
+   },
+   {
+    "name": "Cunning",
+    "gender": ""
+   },
+   {
+    "name": "Zorro",
+    "gender": ""
+   },
+   {
+    "name": "Princip",
+    "gender": ""
+   },
+   {
+    "name": "Oswald",
+    "gender": ""
+   },
+   {
+    "name": "Booth",
+    "gender": ""
+   },
+   {
+    "name": "Payload",
+    "gender": ""
+   },
+   {
+    "name": "Backdoor",
+    "gender": ""
+   },
+   {
+    "name": "Spoophish",
+    "gender": ""
+   },
+   {
+    "name": "Fleming",
+    "gender": ""
+   },
+   {
+    "name": "Assange",
+    "gender": ""
+   },
+   {
+    "name": "Sherlock",
+    "gender": ""
+   },
+   {
+    "name": "Bourne",
+    "gender": ""
+   },
+   {
+    "name": "Angus",
+    "gender": ""
+   },
+   {
+    "name": "p-Wagon",
+    "gender": ""
+   },
+   {
+    "name": "Humpalot",
+    "gender": ""
+   },
+   {
+    "name": "Dumpsterfire",
+    "gender": ""
+   },
+   {
+    "name": "Spitz",
+    "gender": ""
+   },
+   {
+    "name": "Swallows",
+    "gender": ""
+   },
+   {
+    "name": "Baby Batter",
+    "gender": ""
+   },
+   {
+    "name": "X",
+    "gender": ""
+   }
+  ],
+  "missionAdjectives": [
+   "Wild",
+   "Hurried",
+   "Tainted",
+   "Rotten",
+   "Pure",
+   "Extravagant",
+   "Unintended",
+   "Doomed",
+   "Liberated",
+   "Captivated",
+   "Unpeeled",
+   "Dark",
+   "Disheveled",
+   "Mistaken",
+   "Tender",
+   "Brave",
+   "Swift",
+   "Barren",
+   "Yellow",
+   "Orange",
+   "Pink",
+   "Gray",
+   "Blue",
+   "Green",
+   "Chartreuse",
+   "Plump",
+   "Distressed",
+   "Shadow",
+   "Hyper",
+   "Juicy",
+   "Squishy",
+   "Moist",
+   "Royal",
+   "Resplendent",
+   "Danger",
+   "Neon",
+   "Delicate",
+   "Hefty",
+   "Leaky",
+   "Dire",
+   "Squeaky",
+   "Unstable",
+   "Enigmatic",
+   "Compromised",
+   "Abstract",
+   "Dangerous",
+   "Disastrous"
+  ],
+  "missionNouns": [
+   "Walrus",
+   "Heart",
+   "Donkey",
+   "Zebra",
+   "Waitress",
+   "Orange",
+   "Apple",
+   "Cherry",
+   "Kumquat",
+   "Kitten",
+   "Socialite",
+   "Beaver",
+   "Wood",
+   "Bear",
+   "Yellowjacket",
+   "Bumblebee",
+   "Honeybee",
+   "Avocado",
+   "Stinger",
+   "Buzzer",
+   "Rose",
+   "Dogpile",
+   "Piledriver",
+   "Jackhammer",
+   "Stroker",
+   "Mountain",
+   "Dogwood",
+   "Diva",
+   "Spike",
+   "Bottle",
+   "Peach",
+   "Beehive",
+   "Tank",
+   "Cat",
+   "Dingo",
+   "Twilight",
+   "Bride",
+   "Flow",
+   "Taco",
+   "Honeycomb",
+   "Encryption",
+   "Cipher",
+   "Carnivore",
+   "Virus",
+   "Cobbler",
+   "Floater",
+   "Ghoul"
+  ],
+  "assassinationMethods": [
+   {
+    "method": "Shank Them",
+    "effectiveness": 3,
+    "retaliation": 2,
+    "getCaught": 1
+   },
+   {
+    "method": "Electrocute Them",
+    "effectiveness": 2,
+    "retaliation": 3,
+    "getCaught": 4
+   },
+   {
+    "method": "Dismember Them",
+    "effectiveness": 5,
+    "retaliation": 4,
+    "getCaught": 4
+   },
+   {
+    "method": "Snipe Them",
+    "effectiveness": 5,
+    "retaliation": 1,
+    "getCaught": 1
+   },
+   {
+    "method": "Blowgun Them",
+    "effectiveness": 3,
+    "retaliation": 3,
+    "getCaught": 1
+   },
+   {
+    "method": "Strangle Them",
+    "effectiveness": 4,
+    "retaliation": 4,
+    "getCaught": 2
+   },
+   {
+    "method": "Inject Them",
+    "effectiveness": 4,
+    "retaliation": 2,
+    "getCaught": 1
+   },
+   {
+    "method": "Melt Them",
+    "effectiveness": 1,
+    "retaliation": 3,
+    "getCaught": 3
+   },
+   {
+    "method": "Anvil Them",
+    "effectiveness": 5,
+    "retaliation": 1,
+    "getCaught": 3
+   },
+   {
+    "method": "Mow Them Down",
+    "effectiveness": 2,
+    "retaliation": 4,
+    "getCaught": 4
+   },
+   {
+    "method": "Decapitate Them",
+    "effectiveness": 5,
+    "retaliation": 1,
+    "getCaught": 3
+   }
+  ],
+  "hackDriveNames": [
+   "Ender",
+   "Bender",
+   "Terminator",
+   "NaughtyXXX",
+   "Quantum",
+   "Nebula",
+   "Titan",
+   "Athena",
+   "Perseus",
+   "Troglodyte",
+   "Dickens",
+   "Matrix",
+   "Hyper",
+   "Over",
+   "Death",
+   "Xterminate",
+   "Thanatos",
+   "Shut_Up_And",
+   "Bendover",
+   "That_One",
+   "Wonder",
+   "Blunder",
+   "WebNet",
+   "Flexer",
+   "ChronoSync",
+   "Impulse",
+   "Cipher_Vault",
+   "Pile",
+   "Floppy",
+   "Thumb",
+   "Hard",
+   "Dumb",
+   "Hardcore",
+   "Softcore",
+   "Midcore",
+   "X_Treme",
+   "Excel",
+   "DD",
+   "B",
+   "C",
+   "D",
+   "Secret",
+   "Hidden",
+   "Shadow",
+   "Ze_Vault",
+   "Default",
+   "XXX",
+   "Personal_Stuff",
+   "Cheyenne_Mountain",
+   "Deseret",
+   "Moonlight",
+   "Four_Wheel",
+   "High_Five",
+   "Shuck_And",
+   "You",
+   "Power",
+   "Rodeo",
+   "Ocean",
+   "Sunset",
+   "I_Cant",
+   "Sex"
+  ],
+  "infiltrationPasswords": [
+   {
+    "password": "Apple",
+    "hints": "Keeps the doctor away, Juicy and full of flavor",
+    "incorrectChoices": [
+     "Nurse_Ratchet",
+     "Thicc_Bacon",
+     "WaterBottle",
+     "Prayer",
+     "Vitamin_Gummies",
+     "Spit_Swapping",
+     "Vicks"
+    ]
+   },
+   {
+    "password": "Guest",
+    "hints": "Temporary entity, Frequent flyer, Wears out the welcome",
+    "incorrectChoices": [
+     "Virus",
+     "Host",
+     "Resident",
+     "Renter",
+     "Time",
+     "Graphite_Pencil",
+     "Dinosaurs"
+    ]
+   },
+   {
+    "password": "Password",
+    "hints": "Required for entry, Keycode, Digital locking mechanism, Key that isn't a key",
+    "incorrectChoices": [
+     "Open_Sesame",
+     "SolarPower",
+     "Electricity",
+     "A_Door",
+     "Legz4Dayz",
+     "Lanyard",
+     "Keyring"
+    ]
+   },
+   {
+    "password": "Ajar",
+    "hints": "A door that's not a door, Wide-open entryway, Open for business",
+    "incorrectChoices": [
+     "Door",
+     "Adore",
+     "Opening",
+     "Agape",
+     "Open",
+     "Easy",
+     "Friendly_Port"
+    ]
+   },
+   {
+    "password": "Clock",
+    "hints": "It has hands but cannot clap, The original tick-tock",
+    "incorrectChoices": [
+     "Shadow",
+     "Gloves",
+     "Mittens",
+     "Clockmaker",
+     "Puppets",
+     "Starfish",
+     "Killer_Whales"
+    ]
+   },
+   {
+    "password": "Shadow",
+    "hints": "Always follows and never leads, Always cast but never returned, Everyone's other half",
+    "incorrectChoices": [
+     "Reflection",
+     "Footprint",
+     "Darkness",
+     "Sleep",
+     "Fishing_Line",
+     "HeadvsHeart",
+     "Da_Nose"
+    ]
+   },
+   {
+    "password": "Peanut",
+    "hints": "Often roasted, Grows underground, Used to make butter, Popular baseball-stadium snack",
+    "incorrectChoices": [
+     "Celebrity",
+     "Cheese",
+     "Cheerleader",
+     "Lettuce",
+     "Garbanzo",
+     "Tobacco"
+    ]
+   },
+   {
+    "password": "Vibrator",
+    "hints": "Fun for adults, Delivered in unmarked packaging, Phallic-shaped",
+    "incorrectChoices": [
+     "Florida",
+     "Teenagers",
+     "Radio",
+     "Flashlight",
+     "Potato",
+     "Roman_Empire",
+     "Obelisk"
+    ]
+   },
+   {
+    "password": "Cheeseburger",
+    "hints": "Contains dairy, Not low-calorie, Fast-food favorite",
+    "incorrectChoices": [
+     "Caviar",
+     "Pumpernickel",
+     "Vegan",
+     "Quinoa",
+     "Beeswax",
+     "Tortoise"
+    ]
+   },
+   {
+    "password": "Birthday",
+    "hints": "Cause for a celebration, More means less, Occurs annually",
+    "incorrectChoices": [
+     "Constipation",
+     "Snowboard",
+     "Shower",
+     "Cosmetologist",
+     "Hurricane",
+     "Dandelion"
+    ]
+   },
+   {
+    "password": "Halitosis",
+    "hints": "Dragon's breath, Don't get too close, Orally off-putting",
+    "incorrectChoices": [
+     "Flatulence",
+     "Cigarette",
+     "Fantasy",
+     "Lipstick",
+     "Boogeyman",
+     "Toothpaste"
+    ]
+   },
+   {
+    "password": "Dingleberry",
+    "hints": "Hanging by a hair, It's not a fruit, An issue for a tissue",
+    "incorrectChoices": [
+     "Loitering",
+     "Tomato",
+     "Hooligan",
+     "Barnacles",
+     "Pomegranate",
+     "Crustacean"
+    ]
+   },
+   {
+    "password": "Fornication",
+    "hints": "Nuptials not needed, Dipping the wick unhitched, Ass before alter",
+    "incorrectChoices": [
+     "Bridesmaid",
+     "Cheeseburger",
+     "Dildo",
+     "Masturbation",
+     "Adulthood",
+     "Dominatrix"
+    ]
+   },
+   {
+    "password": "Zanzibar",
+    "hints": "Tanzania, Freddie Mercury, City on an island",
+    "incorrectChoices": [
+     "Madagascar",
+     "Prince",
+     "Carthaginian",
+     "Hannibal",
+     "Happy_Hour",
+     "Drummer"
+    ]
+   },
+   {
+    "password": "Elephantiasis",
+    "hints": "Serious inflammation, Not a pachyderm, Parasitic disease",
+    "incorrectChoices": [
+     "Jaundice",
+     "Halitosis",
+     "Toe_Jam",
+     "Proctologist",
+     "Antioxidant",
+     "Dumbo"
+    ]
+   },
+   {
+    "password": "Mastication",
+    "hints": "Got the munchies, Will swallow, A gnawing feeling",
+    "incorrectChoices": [
+     "Marijuana",
+     "Fellation",
+     "Prostitute",
+     "Anxiety",
+     "Stuffing",
+     "Starvation"
+    ]
+   },
+   {
+    "password": "Bumfiddler",
+    "hints": "A saboteur, Deliberate damage, Destroyer of documents",
+    "incorrectChoices": [
+     "Graffiti",
+     "Plagiarist",
+     "Whistleblower",
+     "Shredder",
+     "Conquistador",
+     "Termite"
+    ]
+   },
+   {
+    "password": "Starbucks",
+    "hints": "Size matters, Misspelled names, Room for cream",
+    "incorrectChoices": [
+     "Brothel",
+     "Gigolo",
+     "Erection",
+     "Prostitute",
+     "Bodybuilder",
+     "Supermodel",
+     "Beefcake"
+    ]
+   },
+   {
+    "password": "DogLife",
+    "hints": "Nobody asked for this",
+    "incorrectChoices": [
+     "Inflation",
+     "Pandemics",
+     "Bullets",
+     "Diarrhea",
+     "Corruption",
+     "Robo_Callers",
+     "Telemarketers"
+    ]
+   },
+   {
+    "password": "Antiquity",
+    "hints": "A long time ago, Roman Empire, The OG millennials",
+    "incorrectChoices": [
+     "Vintage",
+     "Retrograde",
+     "Yesteryear",
+     "Backwards",
+     "Formation",
+     "Legendary"
+    ]
+   },
+   {
+    "password": "Manspreading",
+    "hints": "Crotch Shot, You can't unsee it, Airing out the boys",
+    "incorrectChoices": [
+     "Tighty_Whities",
+     "Traumatic",
+     "Athleticism",
+     "Subway",
+     "Pervert",
+     "Big_Jim"
+    ]
+   },
+   {
+    "password": "Pantomime",
+    "hints": "Hand gestures, Non-verbal, Theatrical entertainment",
+    "incorrectChoices": [
+     "Politicking",
+     "Charades",
+     "Masturbation",
+     "Furries",
+     "Defiance",
+     "Thumb_Wrestling"
+    ]
+   },
+   {
+    "password": "Gangrene",
+    "hints": "A greenish-black color, A serious tissue issue, Richard the Lionheart's final demise",
+    "incorrectChoices": [
+     "Dysentery",
+     "Medieval_Art",
+     "British_Steel",
+     "slaughter",
+     "mote",
+     "Suffocation"
+    ]
+   },
+   {
+    "password": "Washing_Machine",
+    "hints": "Takes a big load, Likes it dirty, Vibrates when it spins",
+    "incorrectChoices": [
+     "Toilet",
+     "yo_mama",
+     "dump_truck",
+     "Fleshlight",
+     "carwash",
+     "Fursuit"
+    ]
+   },
+   {
+    "password": "Penitentiary",
+    "hints": "Don't drop the soap, Three squares a day, Letters from loved ones",
+    "incorrectChoices": [
+     "nostalgia",
+     "good_grip",
+     "Sustenance",
+     "bare_minimum",
+     "Homesick",
+     "Daily_Routine"
+    ]
+   },
+   {
+    "password": "Engagement",
+    "hints": "You'll never know until you ask, A lifelong commitment, Take a knee",
+    "incorrectChoices": [
+     "Rescue_Dog",
+     "Education",
+     "Herpes",
+     "Permission",
+     "Fellatio",
+     "Ecstasy"
+    ]
+   },
+   {
+    "password": "Racehorse",
+    "hints": "Whip me faster, Ride me harder, I like it with blinders, Whips excite me, Bareback4Life",
+    "incorrectChoices": [
+     "Heavy_Cream",
+     "Steeple_Chase",
+     "Bender",
+     "Sidesaddle",
+     "Egg_White",
+     "Peaky"
+    ]
+   },
+   {
+    "password": "Cummingtonite",
+    "hints": "It's metamorphic, Named for a town, Hard as a rock",
+    "incorrectChoices": [
+     "Heavy_Metal",
+     "flaccid",
+     "Penistone_England",
+     "under_Pressure",
+     "Goldrush",
+     "Petrology"
+    ]
+   },
+   {
+    "password": "Galactic_Bulge",
+    "hints": "Stars under pressure, Unseen by the naked eye, Exciting for Astronomers",
+    "incorrectChoices": [
+     "uranus",
+     "black_hole",
+     "Grammys",
+     "MilkyWay",
+     "Performance_Anxiety",
+     "Supernova"
+    ]
+   },
+   {
+    "password": "Bunghole",
+    "hints": "Cork fits tight inside, Good for sampling, Allows gasses to release",
+    "incorrectChoices": [
+     "vinyard",
+     "Your_mouth",
+     "corkscrew",
+     "Burgundy",
+     "douche",
+     "Oak_Barrel"
+    ]
+   },
+   {
+    "password": "CatLife",
+    "hints": "Justice",
+    "incorrectChoices": [
+     "Batman",
+     "Superman",
+     "Police_Officers",
+     "Law_Enforcement",
+     "Criminal_Justice",
+     "Judge_J"
+    ]
+   },
+   {
+    "password": "Barbie",
+    "hints": "Plastic and fantastic, Silicone Valley girl, Accessories not included",
+    "incorrectChoices": [
+     "Breast_Augmentation",
+     "Life_n_Plastiq",
+     "Boob_Toob",
+     "RubberNipples",
+     "DuckLipz",
+     "Dula_Peep"
+    ]
+   },
+   {
+    "password": "Labyrinth",
+    "hints": "Davie Bowie, The home of the Goblin King, Structure designed to make people lost",
+    "incorrectChoices": [
+     "Forever_21",
+     "Fortress",
+     "Castle",
+     "Shopping_Mall",
+     "The_DMV",
+     "Road_Trips",
+     "Graveyard",
+     "Pyramid",
+     "Tomb",
+     "Cryptkeeper"
+    ]
+   },
+   {
+    "password": "Quasar",
+    "hints": "Space beacon, Burst of cosmic light",
+    "incorrectChoices": [
+     "Galactic_Fart",
+     "Black_Hole",
+     "Twinkle_Twinkle",
+     "Galaxy_Dust",
+     "Apollo_13",
+     "Spaceship",
+     "Death_Star",
+     "Starrbooty",
+     "Deez_Cheeks"
+    ]
+   },
+   {
+    "password": "Alchemy",
+    "hints": "Fullmetal brothers' trade, From lead to gold, Literal Chemistry 101",
+    "incorrectChoices": [
+     "Metallurgy",
+     "Magic",
+     "Spellcasting",
+     "Wizardry",
+     "Witchcraft"
+    ]
+   },
+   {
+    "password": "Poltergeist",
+    "hints": "Sassy spirit, They're heeeeeere, Sinister spooks",
+    "incorrectChoices": [
+     "Ghosts",
+     "Henny",
+     "DarkLiquor",
+     "Liquor_Hole",
+     "Doomtrain"
+    ]
+   }
+  ],
+  "rivalAgencies": [
+   {
+    "abbr": "THOT",
+    "name": "Tactical Handling & Operations Team"
+   },
+   {
+    "abbr": "DL",
+    "name": "Les Liaisons Dangereuses"
+   },
+   {
+    "abbr": "DOME",
+    "name": "Divisive Operatives Monitoring Everyone"
+   },
+   {
+    "abbr": "AIC",
+    "name": "Agency of Intelligence & Centrality"
+   },
+   {
+    "abbr": "SPY",
+    "name": "Shady People United"
+   },
+   {
+    "abbr": "MJOY",
+    "name": "Madjoy Intelligence Corp"
+   },
+   {
+    "abbr": "ISPY",
+    "name": "Intelligent Specialists Corp"
+   },
+   {
+    "abbr": "ODYN",
+    "name": "Organization of Dynamic Informants"
+   },
+   {
+    "abbr": "COVR",
+    "name": "Covert Operatives"
+   },
+   {
+    "abbr": "BONE",
+    "name": "Bureau of National Espionage"
+   },
+   {
+    "abbr": "TECH",
+    "name": "Tribune of Espionage, Coding, and Hacking"
+   },
+   {
+    "abbr": "SKY",
+    "name": "Society of Killers and Yesmen"
+   },
+   {
+    "abbr": "ALFA",
+    "name": "Advanced Logistics and Field Agency"
+   },
+   {
+    "abbr": "BETA",
+    "name": "Bureau of Espionage, Tactics, and Analysis"
+   },
+   {
+    "abbr": "TOP",
+    "name": "Tactical Operations & Protocols"
+   },
+   {
+    "abbr": "BTTM",
+    "name": "Bureau of Tactical Threat Management"
+   },
+   {
+    "abbr": "SILF",
+    "name": "Society of Information and Firmware"
+   },
+   {
+    "abbr": "DOH",
+    "name": "Department of Operations & Handling"
+   },
+   {
+    "abbr": "NET",
+    "name": "National Espionage Tacticians"
+   },
+   {
+    "abbr": "BURN",
+    "name": "Bureau of Urban Recon & Networking"
+   },
+   {
+    "abbr": "LOKI",
+    "name": "Legion of Killers & Interlopers"
+   },
+   {
+    "abbr": "COIL",
+    "name": "Coven of Interloping Liars"
+   },
+   {
+    "abbr": "AGB",
+    "name": "Agency of Gunners & Baddies"
+   },
+   {
+    "abbr": "CHIP",
+    "name": "Coalition of Hackers in Position"
+   },
+   {
+    "abbr": "GUS",
+    "name": "Guild of the Unintelligence Syndicate"
+   },
+   {
+    "abbr": "DREW",
+    "name": "Division of Recon, Espionage & Weaponry"
+   },
+   {
+    "abbr": "FLOP",
+    "name": "Foreign Liaison & Operations Professionals"
+   },
+   {
+    "abbr": "HUSH",
+    "name": "Homeland Undercover Surveillance & Handling"
+   },
+   {
+    "abbr": "DCC",
+    "name": "Decentralized Communications Coalition"
+   },
+   {
+    "abbr": "TUSH",
+    "name": "Trained Undercover Subversive Hackers"
+   },
+   {
+    "abbr": "DICK",
+    "name": "Department of Intel Communication Killers"
+   },
+   {
+    "abbr": "GIGO",
+    "name": "Get In Get Out"
+   },
+   {
+    "abbr": "TURD",
+    "name": "Tactical Undercover Recon Directive"
+   },
+   {
+    "abbr": "NQA",
+    "name": "No Questions Asked"
+   }
+  ],
+  "agencyNames": [
+   "Double-Hoe Sevens",
+   "Spyrens",
+   "Muscle Moles",
+   "Renegade Rogues",
+   "Blaque Ops",
+   "Queensguard",
+   "King's Guard",
+   "Eye Spy",
+   "ICU Intel",
+   "The Alliance",
+   "The Legion",
+   "L'Agency",
+   "Les Spies",
+   "The Firm",
+   "Secret Keepers",
+   "Decentralized Affairs Agency",
+   "Stoneriver Intelligence",
+   "Madjoy Intel Corps",
+   "Summeriver Operations",
+   "The Corporation",
+   "Screen Queens",
+   "The Intelligencia",
+   "their renegades",
+   "their renegades",
+   "Dangerous Liaisons",
+   "The Guard",
+   "Big brother Corp",
+   "The Shadow court",
+   "The Invisible Hands",
+   "The Dastardly Devils",
+   "SpyCorps",
+   "The Covert Queens",
+   "CovertCorp",
+   "Undercover Brothers",
+   "CipherCraft",
+   "Insight Syndicate",
+   "OmniTactica",
+   "Intel-Ops",
+   "Shadow Surveillance",
+   "Stealth Cartel",
+   "The Credence Ring",
+   "Snoop Mobb",
+   "Consortium of Cun"
+  ]
+ },
+ "prison": {
+  "gangs": [
+   {
+    "maleName": "Bitizen Mafia",
+    "femaleName": "Bitizen Mafia",
+    "type": "Bitizen",
+    "description": "You must be extremely well-respected to join this gang.",
+    "power": 100,
+    "violence": 0,
+    "requiredRespect": 90
+   },
+   {
+    "maleName": "Wrinkly Sneaks",
+    "femaleName": "Golden Girls",
+    "type": "Age",
+    "description": "You must be sufficiently old to join this gang.",
+    "power": 12,
+    "violence": 5,
+    "requiredRespect": 0
+   },
+   {
+    "maleName": "Killbillies",
+    "femaleName": "Switchblade Sisterhood",
+    "type": "Violent",
+    "description": "You must have a proven track record of violence to join this gang.",
+    "power": 90,
+    "violence": 100,
+    "requiredRespect": 90
+   },
+   {
+    "maleName": "Beefcake Bandits",
+    "femaleName": "Sexy Syndicate",
+    "type": "Looks",
+    "description": "You must have very high looks to join this gang.",
+    "power": 25,
+    "violence": 7,
+    "requiredRespect": 0
+   },
+   {
+    "maleName": "Brain Brothas",
+    "femaleName": "Smart Sistas",
+    "type": "Smarts",
+    "description": "You must have very high smarts to join this gang.",
+    "power": 30,
+    "violence": 10,
+    "requiredRespect": 0
+   },
+   {
+    "maleName": "Illegal Jailiens",
+    "femaleName": "Illegal Jailiens",
+    "type": "Foreigner",
+    "description": "You must be born in another country to join this gang.",
+    "power": 35,
+    "violence": 50,
+    "requiredRespect": 0
+   },
+   {
+    "maleName": "Cash Money Wreckers",
+    "femaleName": "Cash Money Wreckers",
+    "type": "Money",
+    "description": "You must have a very high net worth to join this gang.",
+    "power": 70,
+    "violence": 40,
+    "requiredRespect": 60
+   },
+   {
+    "maleName": "Blue Ball Bulls",
+    "femaleName": "Plastics",
+    "type": "Normal",
+    "description": "You must be well-respected and vicious to join this gang.",
+    "power": 65,
+    "violence": 70,
+    "requiredRespect": 80
+   },
+   {
+    "maleName": "Hecks Angels",
+    "femaleName": "Harleys Angels",
+    "type": "Normal",
+    "description": "You must be well-respected and feared to join this gang.",
+    "power": 80,
+    "violence": 75,
+    "requiredRespect": 85
+   },
+   {
+    "maleName": "Tattletale Squad",
+    "femaleName": "Pussyfoots",
+    "type": "Normal",
+    "description": "You don't need much of anything to join this weak gang.",
+    "power": 10,
+    "violence": 5,
+    "requiredRespect": 10
+   }
+  ],
+  "jobs": [
+   {
+    "name": "license plate maker",
+    "description": "making license plates",
+    "dailyRate": "$3",
+    "commonness": 5
+   },
+   {
+    "name": "laundry attendant",
+    "description": "as a laundry attendant",
+    "dailyRate": "$3",
+    "commonness": 5
+   },
+   {
+    "name": "commissary attendant",
+    "description": "as a commissary attendant",
+    "dailyRate": "$3",
+    "commonness": 4
+   },
+   {
+    "name": "commissary stocker",
+    "description": "as a commissary stocker",
+    "dailyRate": "$3",
+    "commonness": 4
+   },
+   {
+    "name": "landscaper",
+    "description": "as a landscaper",
+    "dailyRate": "$3",
+    "commonness": 5
+   },
+   {
+    "name": "inmate advisor",
+    "description": "as an inmate advisor",
+    "dailyRate": "$5",
+    "commonness": 1
+   },
+   {
+    "name": "boiler room maintenance",
+    "description": "in the boiler room",
+    "dailyRate": "$4",
+    "commonness": 2
+   },
+   {
+    "name": "plumber",
+    "description": "as a plumber",
+    "dailyRate": "$4",
+    "commonness": 2
+   },
+   {
+    "name": "light bulb changer",
+    "description": "changing light bulbs",
+    "dailyRate": "$2",
+    "commonness": 1
+   },
+   {
+    "name": "machine fixer",
+    "description": "fixing machines",
+    "dailyRate": "$4",
+    "commonness": 2
+   },
+   {
+    "name": "farmer",
+    "description": "as a farmer",
+    "dailyRate": "$3",
+    "commonness": 3
+   },
+   {
+    "name": "furniture maker",
+    "description": "as a furniture maker",
+    "dailyRate": "$3",
+    "commonness": 4
+   },
+   {
+    "name": "highway sign maker",
+    "description": "as a highway sign maker",
+    "dailyRate": "$3",
+    "commonness": 4
+   },
+   {
+    "name": "panty maker",
+    "description": "as a panty maker",
+    "dailyRate": "$3",
+    "commonness": 2
+   },
+   {
+    "name": "military uniform maker",
+    "description": "as a military uniform maker",
+    "dailyRate": "$3",
+    "commonness": 3
+   },
+   {
+    "name": "military bedding maker",
+    "description": "as a military bedding maker",
+    "dailyRate": "$3",
+    "commonness": 3
+   },
+   {
+    "name": "military shoe maker",
+    "description": "as a military shoe maker",
+    "dailyRate": "$3",
+    "commonness": 3
+   },
+   {
+    "name": "braille book maker",
+    "description": "as a Braille book maker",
+    "dailyRate": "$4",
+    "commonness": 1
+   },
+   {
+    "name": "fruit picker",
+    "description": "as a fruit picker",
+    "dailyRate": "$3",
+    "commonness": 5
+   },
+   {
+    "name": "craft maker",
+    "description": "as a craft maker",
+    "dailyRate": "$3",
+    "commonness": 3
+   },
+   {
+    "name": "telemarketer",
+    "description": "as a telemarketer",
+    "dailyRate": "$3",
+    "commonness": 4
+   },
+   {
+    "name": "call center representative",
+    "description": "as a call center representative",
+    "dailyRate": "$3",
+    "commonness": 4
+   },
+   {
+    "name": "canoe maker",
+    "description": "as a canoe maker",
+    "dailyRate": "$3",
+    "commonness": 1
+   },
+   {
+    "name": "painter",
+    "description": "as a painter",
+    "dailyRate": "$3",
+    "commonness": 2
+   },
+   {
+    "name": "maintenance worker",
+    "description": "as a maintenance worker",
+    "dailyRate": "$3",
+    "commonness": 4
+   },
+   {
+    "name": "warehouse worker",
+    "description": "as a warehouse worker",
+    "dailyRate": "$3",
+    "commonness": 4
+   },
+   {
+    "name": "line server",
+    "description": "as a line server",
+    "dailyRate": "$3",
+    "commonness": 5
+   },
+   {
+    "name": "sanitation worker",
+    "description": "as a sanitation worker",
+    "dailyRate": "$3",
+    "commonness": 4
+   },
+   {
+    "name": "baker",
+    "description": "as a baker",
+    "dailyRate": "$2",
+    "commonness": 3
+   },
+   {
+    "name": "librarian",
+    "description": "as a librarian",
+    "dailyRate": "$4",
+    "commonness": 2
+   },
+   {
+    "name": "library orderly",
+    "description": "as a library orderly",
+    "dailyRate": "$2",
+    "commonness": 3
+   },
+   {
+    "name": "tutor",
+    "description": "as a tutor",
+    "dailyRate": "$4",
+    "commonness": 1
+   },
+   {
+    "name": "recreation orderly",
+    "description": "as a recreation orderly",
+    "dailyRate": "$2",
+    "commonness": 3
+   },
+   {
+    "name": "referee",
+    "description": "as a referee",
+    "dailyRate": "$1",
+    "commonness": 1
+   },
+   {
+    "name": "cook",
+    "description": "as a cook",
+    "dailyRate": "$3",
+    "commonness": 4
+   },
+   {
+    "name": "chapel orderly",
+    "description": "as a chapel orderly",
+    "dailyRate": "$2",
+    "commonness": 2
+   },
+   {
+    "name": "barber",
+    "description": "as a barber",
+    "dailyRate": "$2",
+    "commonness": 2
+   },
+   {
+    "name": "meat smoker",
+    "description": "as a meat smoker",
+    "dailyRate": "$1",
+    "commonness": 1
+   }
+  ],
+  "paroleQuestions": [
+   {
+    "question": "Do you feel that you've been rehabilitated?",
+    "choices": [
+     {
+      "text": "Yeah, I'm improving every day",
+      "score": 5
+     },
+     {
+      "text": "Go on and stamp your form, Sonny",
+      "score": 3
+     },
+     {
+      "text": "I've never been to rehab",
+      "score": 1
+     },
+     {
+      "text": "Sir, yes sir!",
+      "score": 4
+     },
+     {
+      "text": "I think so",
+      "score": 4
+     },
+     {
+      "text": "There is no question about it, sir!",
+      "score": 5
+     }
+    ]
+   },
+   {
+    "question": "Do you regret your mistakes?",
+    "choices": [
+     {
+      "text": "No use crying over spilt milk",
+      "score": 2
+     },
+     {
+      "text": "#NoRegrets",
+      "score": 1
+     },
+     {
+      "text": "Not a day goes by without regret",
+      "score": 5
+     },
+     {
+      "text": "Yes, I want to right my wrongs",
+      "score": 5
+     },
+     {
+      "text": "Yes, sir!",
+      "score": 4
+     },
+     {
+      "text": "Yes, I feel guilty for my wrongdoings",
+      "score": 5
+     }
+    ]
+   },
+   {
+    "question": "Do you plan on getting a job if paroled?",
+    "choices": [
+     {
+      "text": "I'd like to be a correctional officer",
+      "score": 5
+     },
+     {
+      "text": "I can't wait to work",
+      "score": 5
+     },
+     {
+      "text": "I'll do my best to find employment",
+      "score": 5
+     },
+     {
+      "text": "Getting a job is my top priority",
+      "score": 4
+     },
+     {
+      "text": "I look forward to a work opportunity",
+      "score": 5
+     },
+     {
+      "text": "I hope to find work that will empower me",
+      "score": 5
+     }
+    ]
+   },
+   {
+    "question": "What would lead you to get arrested again?",
+    "choices": [
+     {
+      "text": "A text from my ex",
+      "score": 1
+     },
+     {
+      "text": "Getting caught",
+      "score": 1
+     },
+     {
+      "text": "Bad decision making",
+      "score": 5
+     },
+     {
+      "text": "Hanging out with the wrong people",
+      "score": 5
+     },
+     {
+      "text": "Idle hands",
+      "score": 3
+     },
+     {
+      "text": "That's not going to happen",
+      "score": 5
+     }
+    ]
+   },
+   {
+    "question": "What has been the worst part of prison?",
+    "choices": [
+     {
+      "text": "The time I've lost",
+      "score": 5
+     },
+     {
+      "text": "What happens in the showers",
+      "score": 3
+     },
+     {
+      "text": "The violence",
+      "score": 5
+     },
+     {
+      "text": "The awful food",
+      "score": 2
+     },
+     {
+      "text": "The lack of freedom",
+      "score": 5
+     },
+     {
+      "text": "The stress",
+      "score": 5
+     }
+    ]
+   },
+   {
+    "question": "What has been the best part of prison?",
+    "choices": [
+     {
+      "text": "The pruno",
+      "score": 2
+     },
+     {
+      "text": "I had lots of time to read",
+      "score": 5
+     },
+     {
+      "text": "I learned about so many things",
+      "score": 5
+     },
+     {
+      "text": "I've got into pretty good shape",
+      "score": 5
+     },
+     {
+      "text": "It's never boring",
+      "score": 3
+     },
+     {
+      "text": "Lots of interesting conversations",
+      "score": 3
+     }
+    ]
+   },
+   {
+    "question": "Why should you be released?",
+    "choices": [
+     {
+      "text": "I feel I've been corrected",
+      "score": 4
+     },
+     {
+      "text": "I have a lot to offer society",
+      "score": 5
+     },
+     {
+      "text": "I've been rehabilitated",
+      "score": 4
+     },
+     {
+      "text": "I'm innocent",
+      "score": 2
+     },
+     {
+      "text": "I've done my time",
+      "score": 3
+     },
+     {
+      "text": "I've paid my dues",
+      "score": 4
+     }
+    ]
+   },
+   {
+    "question": "What do you miss most about the outside?",
+    "choices": [
+     {
+      "text": "Strip clubs",
+      "score": 1
+     },
+     {
+      "text": "Sex...on my terms",
+      "score": 2
+     },
+     {
+      "text": "The food selection",
+      "score": 3
+     },
+     {
+      "text": "The freedom",
+      "score": 5
+     },
+     {
+      "text": "Well-adjusted people",
+      "score": 5
+     },
+     {
+      "text": "Access to quality drugs",
+      "score": 1
+     }
+    ]
+   },
+   {
+    "question": "Do you think you'll struggle to readjust to society?",
+    "choices": [
+     {
+      "text": "The struggle will be real",
+      "score": 1
+     },
+     {
+      "text": "No, I think I'm ready",
+      "score": 4
+     },
+     {
+      "text": "Maybe a little, but I'll adapt",
+      "score": 4
+     },
+     {
+      "text": "Hell no!",
+      "score": 2
+     },
+     {
+      "text": "Hell yeah!",
+      "score": 1
+     },
+     {
+      "text": "It shouldn't be a tough adjustment",
+      "score": 5
+     }
+    ]
+   },
+   {
+    "question": "If paroled, what will you miss most about prison?",
+    "choices": [
+     {
+      "text": "Craft time",
+      "score": 4
+     },
+     {
+      "text": "Prison soup",
+      "score": 3
+     },
+     {
+      "text": "3 square meals a day",
+      "score": 4
+     },
+     {
+      "text": "Cuddling with my cellmate",
+      "score": 2
+     },
+     {
+      "text": "The structure",
+      "score": 5
+     },
+     {
+      "text": "The friends I've made",
+      "score": 4
+     }
+    ]
+   }
+  ],
+  "nicknames": [
+   {
+    "nickname": "8-Ball",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Alias",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Amp",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Angel",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Animal",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Apple",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Baby",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Baby Boy",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Badger",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bait",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Baldie",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bam Bam",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bambi",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bear",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Big Daddy",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Big Tuna",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bird",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bits",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bizzy",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Blinky",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Blue",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bonnie",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Boobie",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Boogerman",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Boogie",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bookworm",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bootsie",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bozo",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bubbles",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Buck",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bugsy",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bull",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bulldog",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bullets",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Bullwinkle",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Buster",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Butterass",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Cameltoe",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Candy",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Capone",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Casper",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Catfish",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Cheek Spreader",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Cheeks",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Cherry",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Chicken Bone",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Chili",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Chunky",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Cigarette",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Clammy",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Cleo",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Clitz",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Clown",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Cock-Eyed",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Cockpit",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Cooch",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Cooter",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Corky",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Cornbread",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Cowboy",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Cowgirl",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Crash",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Crazy 8",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Crazy Eyes",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Dank",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Deadeye",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Deuce",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Diablo",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Diamond",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Dirtbox",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Dixie",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Dog",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Dollface",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Donkey",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Doobie",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Dopey",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Doris",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Dragon",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Drippy",
+    "gender": "female",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Droopy",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Dump Truck",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Dumps",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Dynamite",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Eager",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Ebenezer",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Einstein",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Fat",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Fatal",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Fats",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Fingers",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Fish",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Fish Lips",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Flaca",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Flaco",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Folds",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Freaky",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Frenchie",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Fresh",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Fresh Meat",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Furburger",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Ghost",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Goo",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Greasy",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Gullible",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Harley",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Hashtag",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Hillbilly",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Home Plate",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Hooch",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Hooter",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Horny",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Horseface",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Hot Shower",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Husky",
+    "gender": "female",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Ivy",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Jade",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Jersey",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Jiggs",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Jizzy",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Juggs",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Junior",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Killer",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Kitty",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Knuckles",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Korn",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Lamb",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Latte",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Lil",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Little One",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Little Snake",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Loads",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Lolita",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Loose",
+    "gender": "female",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Lucky",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Mad Cow",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Mad Dog",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Mafia",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Maverick",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Medusa",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Melons",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Milkers",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Minx",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Missy",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Monkey Juice",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Mosquito Bites",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Mouse",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Muff",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Muffin",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Muffin Top",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Nacho",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Nails",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Naive",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Nasty",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Nasty Booboo",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Nervous",
+    "gender": "male",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Nugget",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Pandora",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Papa Bear",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Papaya",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Patches",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Peaches",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Pearl",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Peckerwood",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Pee Wee",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Piper",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Poony",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Porn Star",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Powder",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Preacher",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Premature",
+    "gender": "male",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Psycho",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Punky",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Quacks",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Queen Bee",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Queenie",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Rabbit",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Raven",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Rebel",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Red",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Ripe",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Roach",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Rocks",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Rocky",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Rogue",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Rosie",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Satan",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Saucy",
+    "gender": "female",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Sausage",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Savage",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Scar",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Scarface",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "School Boy",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Scissors",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Scout",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Shaggy",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Shorty",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Shy Boy",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Sidewinder",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Simple",
+    "gender": "male",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Siren",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Sister",
+    "gender": "male",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Skanky",
+    "gender": "female",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Skinny",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Skittles",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Slim",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Smoke",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Smokey",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Smurf",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Snake",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Sneakers",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Sniper",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Snoop",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Soap",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Soapy",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Socks",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Soggy Box",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Sonny Black",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Sonny Blue",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Sonny Red",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Sour Pus",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Spanky",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Special K",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Spice",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Stanky",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Stiletto",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Strawberry",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Stretch",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Stroker",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Surly",
+    "gender": "male",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Sweet Tea",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "T-Bone",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Taco",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Tang",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Tasty",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Tattoo",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Tear Drop",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Teats",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Teets",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Tender",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Tequila",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "The Bike",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "The Butcher",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "The Don",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "The Garage",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "The Hunchback",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "The Tongue",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "The Wanker",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Tiger",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Time Bomb",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Tiny",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Toilet Time",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Tombstone",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Touchdown",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Touchy",
+    "gender": "both",
+    "isPrefix": true
+   },
+   {
+    "nickname": "Treats",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Tricks",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Trinity",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Trip",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Truck",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Tuna Town",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Turtle",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Udders",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Venus",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Viking",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Vito",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Vixen",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Voodoo",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Widow",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Wino",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Wish Bone",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Wobbles",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Wolf",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Worm",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Xena",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Yoga",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Young Blood",
+    "gender": "male",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Yummy",
+    "gender": "female",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Zen",
+    "gender": "both",
+    "isPrefix": false
+   },
+   {
+    "nickname": "Zero",
+    "gender": "male",
+    "isPrefix": false
+   }
+  ],
+  "gifts": [
+   {
+    "name": "heartfelt letter of support",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "letter of support",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "framed photo of himself",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "photo album",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "video of him having intercourse with someone else",
+    "fromLoverOnly": true,
+    "crazy": true,
+    "negative": true,
+    "confiscateScore": 4
+   },
+   {
+    "name": "birthday card",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "rock hammer",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 5
+   },
+   {
+    "name": "copy of the Bible",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "copy of the Koran",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "copy of the Book of Mormon",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "prayer beads",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "chewing gum",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "\"playboy\" magazine",
+    "fromLoverOnly": false,
+    "crazy": true,
+    "negative": false,
+    "confiscateScore": 5
+   },
+   {
+    "name": "\"stallion\" magazine",
+    "fromLoverOnly": false,
+    "crazy": true,
+    "negative": false,
+    "confiscateScore": 5
+   },
+   {
+    "name": "romance novel",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 2
+   },
+   {
+    "name": "\"cosmopolitan\" magazine subscription",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "comic book",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "\"new york times\" newspaper",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "nude photo of himself",
+    "fromLoverOnly": true,
+    "crazy": true,
+    "negative": false,
+    "confiscateScore": 4
+   },
+   {
+    "name": "candy",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 2
+   },
+   {
+    "name": "holiday card",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "personalized poem",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "riddle book",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "joke book",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "Sudoku book",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "crossword puzzle book",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "word search book",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "shampoo",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "deodorant",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "ramen noodles",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "stamps",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "envelopes",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "lube",
+    "fromLoverOnly": true,
+    "crazy": true,
+    "negative": true,
+    "confiscateScore": 2
+   },
+   {
+    "name": "lotion",
+    "fromLoverOnly": false,
+    "crazy": true,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "towel",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "toothbrush",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "paper",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "postcards",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "coloring book",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "playing cards",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "checkers game",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "chess set",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "a famous musician poster",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 2
+   },
+   {
+    "name": "beyonc\\351 poster",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 3
+   },
+   {
+    "name": "johnny depp poster",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 3
+   },
+   {
+    "name": "steamy love letter",
+    "fromLoverOnly": true,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 2
+   },
+   {
+    "name": "dildo",
+    "fromLoverOnly": false,
+    "crazy": true,
+    "negative": false,
+    "confiscateScore": 5
+   },
+   {
+    "name": "vibrator",
+    "fromLoverOnly": false,
+    "crazy": true,
+    "negative": false,
+    "confiscateScore": 5
+   },
+   {
+    "name": "rubber vagina",
+    "fromLoverOnly": false,
+    "crazy": true,
+    "negative": false,
+    "confiscateScore": 5
+   },
+   {
+    "name": "love doll",
+    "fromLoverOnly": false,
+    "crazy": true,
+    "negative": false,
+    "confiscateScore": 5
+   },
+   {
+    "name": "penis pump",
+    "fromLoverOnly": false,
+    "crazy": true,
+    "negative": true,
+    "confiscateScore": 5
+   },
+   {
+    "name": "potato chips",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "pretzels",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "pair of his soiled underwear",
+    "fromLoverOnly": true,
+    "crazy": true,
+    "negative": false,
+    "confiscateScore": 4
+   },
+   {
+    "name": "bottle of viagra",
+    "fromLoverOnly": false,
+    "crazy": true,
+    "negative": true,
+    "confiscateScore": 2
+   },
+   {
+    "name": "deck of 51 cards",
+    "fromLoverOnly": false,
+    "crazy": true,
+    "negative": true,
+    "confiscateScore": 1
+   },
+   {
+    "name": "dental dam",
+    "fromLoverOnly": false,
+    "crazy": true,
+    "negative": true,
+    "confiscateScore": 2
+   },
+   {
+    "name": "rabbit's foot",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "teddy bear",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "calendar",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "Starbuck's gift card",
+    "fromLoverOnly": false,
+    "crazy": true,
+    "negative": true,
+    "confiscateScore": 1
+   },
+   {
+    "name": "\"warden's boy\" T-shirt",
+    "fromLoverOnly": false,
+    "crazy": true,
+    "negative": true,
+    "confiscateScore": 1
+   },
+   {
+    "name": "Hot Cheetos",
+    "fromLoverOnly": false,
+    "crazy": false,
+    "negative": false,
+    "confiscateScore": 1
+   },
+   {
+    "name": "VHS porn tape",
+    "fromLoverOnly": false,
+    "crazy": true,
+    "negative": false,
+    "confiscateScore": 5
+   }
+  ]
+ },
+ "arrestScenarios": [
+  {
+   "scenario": "One of the officers calls you insult.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "A policeman says that you match the profile of the suspect they are looking for.",
+   "minAttitude": null,
+   "maxAttitude": null,
+   "seriousOnly": true
+  },
+  {
+   "scenario": "The officers use unnecessary, excessive force while putting you in handcuffs.",
+   "minAttitude": null,
+   "maxAttitude": 20,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "An officer puts you in handcuffs that are so tight your wrists start to hurt.",
+   "minAttitude": null,
+   "maxAttitude": 50,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "An officer tells you he is going to lock you up and throw away the key.",
+   "minAttitude": null,
+   "maxAttitude": 20,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "One of the arresting officers tells you he hopes that you will learn from your mistakes.",
+   "minAttitude": 50,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "One of the officers tells you that he sincerely hopes you can get your life back on track.",
+   "minAttitude": 80,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "An arresting officer tells you she hopes that you will learn an important life lesson from the experience.",
+   "minAttitude": 80,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "An officer tells you the world will be a better place while you are locked up.",
+   "minAttitude": null,
+   "maxAttitude": 30,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "A policewoman tells you there is no place in the world for a thug like you.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "One of the officers says that he appreciates your cooperation in the matter.",
+   "minAttitude": 80,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "One of the officers says that if you treat them with respect, they will treat you will respect.",
+   "minAttitude": 50,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "One of the police officers says that you have a very punchable face.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "A policeman tells you that you look like a thug.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "An officer tells you that he hopes you will make better decisions in the future.",
+   "minAttitude": null,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "An officer calls for backup, saying that you look like trouble.",
+   "minAttitude": null,
+   "maxAttitude": 50,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "A police officer tells you that he expects this type of behavior from a person like you.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "A policewoman tells you she doesn't understand why someone would ever commit a crime like that.",
+   "minAttitude": null,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "A police officer tells you that if you want to avoid getting arrested, you should avoid committing crimes.",
+   "minAttitude": null,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "A police officer says that you are just like all the rest of your type.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "The police officers are all mocking you while you stand in handcuffs.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "You overhear the officers discussing whether you are the right suspect or not.",
+   "minAttitude": null,
+   "maxAttitude": 30,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "A police officer tells you that you are an embarrassment to society.",
+   "minAttitude": null,
+   "maxAttitude": 20,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "An officer takes out his baton and starts slapping it against the palm of his hand as if he's hoping to hit you with it.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "You hear one of the police officers calling you a derogatory term.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "One of the arresting officers tells you they have probable cause to believe that you are a thug.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "One of the officers says if they don't convict you for this crime, they'll simply frame you for a different crime.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "You overhear an officer say, \"Put him in with the rest of the born losers\".",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "You overhear an officer say, \"Put her in with the rest of the born losers\".",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "You sense that one of the police officers is looking at you in a very perverted way.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "A police officer gets a bit too frisky while searching your body.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "The police officers double-check to make sure no one is recording the arrest.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "A policeman pats down your package when no one is looking.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "A policewoman tells you she hopes that you will make this easy for everyone.",
+   "minAttitude": 70,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "A policeman tells you this can be done the easy way or the hard way, depending on your cooperation.",
+   "minAttitude": 50,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "One of the officers tells you the police are there to protect and serve you.",
+   "minAttitude": 50,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "One of the cops reminds you that your actions will always have consequences.",
+   "minAttitude": null,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "One of the cops aggressively throws you up against the police car.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "Without warning, the officers tackle you to the ground and put you in cuffs.",
+   "minAttitude": null,
+   "maxAttitude": null,
+   "seriousOnly": true
+  },
+  {
+   "scenario": "While the other police officers are out of earshot, one of the cops tells you he would love to pat you down.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "One of the cops reminds you to not drop the soap while you are in the slammer.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "They make you put your hands on the cruiser and spread your legs, before searching you in front of a group of curious onlookers.",
+   "minAttitude": null,
+   "maxAttitude": 50,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "The officers cuff you and make you stand outside in freezing conditions.",
+   "minAttitude": null,
+   "maxAttitude": 10,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "An officer tells you to put your hands behind your back.",
+   "minAttitude": null,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "They begin interrogating you with questions about everything you've ever done.",
+   "minAttitude": null,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "They tell you to keep your hands where they can see them.",
+   "minAttitude": null,
+   "maxAttitude": 50,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "The officer that cuffs you says he's sorry that he has to arrest you.",
+   "minAttitude": 80,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "The arresting officer says she hopes that things will get better for you in the future.",
+   "minAttitude": 80,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "You overhear the officers discussing whether they have probable cause or not.",
+   "minAttitude": null,
+   "maxAttitude": 30,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "A large group of officers has their guns drawn and pointed at your head.",
+   "minAttitude": null,
+   "maxAttitude": null,
+   "seriousOnly": true
+  },
+  {
+   "scenario": "ten police officers, 8 detectives, and the chief of police are all on the scene.",
+   "minAttitude": null,
+   "maxAttitude": null,
+   "seriousOnly": true
+  },
+  {
+   "scenario": "Several people are recording the incident on their cell phones as the police cuff you.",
+   "minAttitude": null,
+   "maxAttitude": null,
+   "seriousOnly": false
+  },
+  {
+   "scenario": "Some people start harassing the police as they are questioning you.",
+   "minAttitude": null,
+   "maxAttitude": null,
+   "seriousOnly": false
+  }
+ ],
+ "socialMediaHacks": [
+  {
+   "scenario": "Your social media account account has been hacked and loaded up with gay porn.",
+   "logVersion": "My social media account account was hacked and loaded up with rb porn.",
+   "damage": 5
+  },
+  {
+   "scenario": "Someone hacked into your social media account account and followed 5964 random people.",
+   "logVersion": "Someone hacked into my social media account account and followed 41831 random people.",
+   "damage": 1
+  },
+  {
+   "scenario": "Someone hacked into your social media account account and liked 11478 random posts.",
+   "logVersion": "Someone hacked into my social media account account and liked 20354 random posts.",
+   "damage": 1
+  },
+  {
+   "scenario": "Someone hacked into your social media account account and friended 4665 random people.",
+   "logVersion": "Someone hacked into my social media account account and friended 3698 random people.",
+   "damage": 1
+  },
+  {
+   "scenario": "Someone hacked into your social media account account and left hurtful comments on other people's pages.",
+   "logVersion": "Someone hacked into my social media account account and left rb comments on other people's pages.",
+   "damage": 5
+  },
+  {
+   "scenario": "A malicious hacker got into your social media account account and posted a fake nude photo of you.",
+   "logVersion": "Someone hacked into my social media account account and posted a fake nude photo of me.",
+   "damage": 4
+  },
+  {
+   "scenario": "A highly skilled hacker got into your social media account account and liked hundreds of inappropriate comments that other users made.",
+   "logVersion": "A hacker got into my social media account account and liked hundreds of rb comments that other users made.",
+   "damage": 5
+  },
+  {
+   "scenario": "A hacker got into your social media account account and told the world that you masturbate to a famous musician videos.",
+   "logVersion": "A hacker got into my social media account account and told the world that I rb a famous musician videos.",
+   "damage": 3
+  },
+  {
+   "scenario": "A hacker got into your social media account account and told the world that you love celebrity.",
+   "logVersion": "A hacker got into my social media account account and told the world that I rb celebrity.",
+   "damage": 3
+  },
+  {
+   "scenario": "A random person hacked into your social media account account and posted an embarrassing product endorsement for an erectile dysfunction medication.",
+   "logVersion": "Someone hacked into my social media account account and posted an embarrassing product endorsement for rb.",
+   "damage": 2
+  },
+  {
+   "scenario": "An unidentified person hacked into your social media account account and used the personal information on your account to hack into your email account.",
+   "logVersion": "Someone hacked into my social media account account and used the personal information on my account to hack into my rb.",
+   "damage": 1
+  },
+  {
+   "scenario": "Someone hacked into your social media account account and posted, \"I made $668541 by giving foot rubs!\".",
+   "logVersion": "Someone hacked into my social media account account and posted, \"I made $203674 by rb.",
+   "damage": 4
+  },
+  {
+   "scenario": "parent hacked into your social media account account and posted the worst photos of you from when you were a baby.",
+   "logVersion": "My parent hacked into my social media account account and posted the rb1 photos of me from when I was a rb2.",
+   "damage": 1
+  },
+  {
+   "scenario": "Your father hacked into your social media account account and posted the worst photos of you from when you were a baby.",
+   "logVersion": "My father hacked into my social media account account and posted the rb1 photos of me from when I was a rb2.",
+   "damage": 1
+  },
+  {
+   "scenario": "lover hacked into your social media account account and posted the worst photos of you from when you were a baby.",
+   "logVersion": "lover hacked into my social media account account and posted the rb1 photos of me from when I was a rb2.",
+   "damage": 1
+  },
+  {
+   "scenario": "parent hacked into your social media account account and posted some of your most embarrassing secrets.",
+   "logVersion": "My parent hacked into my social media account account and posted some of my most embarrassing secrets.",
+   "damage": 4
+  },
+  {
+   "scenario": "Your father hacked into your social media account account and posted some of your most embarrassing secrets.",
+   "logVersion": "My father hacked into my social media account account and posted some of my most embarrassing secrets.",
+   "damage": 4
+  },
+  {
+   "scenario": "lover hacked into your social media account account and posted all of your most embarrassing secrets.",
+   "logVersion": "lover hacked into my social media account account and posted all of my most embarrassing secrets.",
+   "damage": 5
+  },
+  {
+   "scenario": "Someone hacked into your social media account account and posted, \"my fans are losers!\".",
+   "logVersion": "Someone hacked into my social media account account and posted, rb",
+   "damage": 4
+  },
+  {
+   "scenario": "parent hacked into your social media account account and posted the worst videos of you from when you were a baby.",
+   "logVersion": "My parent hacked into my social media account account and posted the rb1 videos of me from when I was a rb2.",
+   "damage": 1
+  },
+  {
+   "scenario": "Your father hacked into your social media account account and posted the worst videos of you from when you were a baby.",
+   "logVersion": "My father hacked into my social media account account and posted the rb1 videos of me from when I was a rb2.",
+   "damage": 1
+  },
+  {
+   "scenario": "lover hacked into your social media account account and posted the worst videos of you from when you were a baby.",
+   "logVersion": "lover hacked into my social media account account and posted the rb1 videos of me from when I was a rb2.",
+   "damage": 1
+  },
+  {
+   "scenario": "Someone hacked into your social media account account and changed your username to \"soggypants\".",
+   "logVersion": "Someone hacked into my social media account account and changed my username to rb.",
+   "damage": 2
+  },
+  {
+   "scenario": "Someone hacked into your social media account account and posted a banner at the top with your face saying, \"i hate dogs!\".",
+   "logVersion": "Someone hacked into my social media account account and posted a banner at the top that showed my face saying, \"rb\".",
+   "damage": 2
+  },
+  {
+   "scenario": "Someone hacked into your social media account account and posted an ad offering free tickets to an exclusive a famous musician concert.",
+   "logVersion": "Someone hacked into my social media account account and posted an ad offering free tickets to an exclusive a famous musician concert.",
+   "damage": 3
+  },
+  {
+   "scenario": "A hacker got into your social media account account and posted an announcement that says you are taking a month off to deal with a crippling outbreak of anal leakage.",
+   "logVersion": "A hacker posted an announcement on my social media account account saying I had to take a month off to deal with a crippling outbreak of rb.",
+   "damage": 2
+  }
+ ]
+}

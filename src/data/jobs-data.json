@@ -1,0 +1,7081 @@
+{
+  "careers": [
+    {
+      "name": "Turkey Sexer",
+      "companyType": "Farm",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Junior Sexer",
+        "Mid-Level Sexer",
+        "Chief Sexer"
+      ],
+      "startingSalary": 25000,
+      "salaryCap": 69696,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": true
+    },
+    {
+      "name": "Pumpkin Pie Taster",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Pie Sampler",
+        "Pie Muncher",
+        "Pie Connoisseur"
+      ],
+      "startingSalary": 15500,
+      "salaryCap": 42020,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": true
+    },
+    {
+      "name": "Cupid",
+      "companyType": "School District",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Cupid",
+        "St. Valentine"
+      ],
+      "startingSalary": 10271,
+      "salaryCap": 20271,
+      "minAge": 16,
+      "maxAge": 20,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": true
+    },
+    {
+      "name": "Leprechaun",
+      "companyType": "Treasure",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 50555,
+      "salaryCap": 5000000,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": true
+    },
+    {
+      "name": "Easter Bunny",
+      "companyType": "Egg",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 10271,
+      "salaryCap": 20271,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 50,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": true
+    },
+    {
+      "name": "Vampire",
+      "companyType": "Church",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Vampire",
+        "Dracula"
+      ],
+      "startingSalary": 16271,
+      "salaryCap": 66666,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": true
+    },
+    {
+      "name": "Witch",
+      "companyType": "Haunted House",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Witch",
+        "Wicked Witch"
+      ],
+      "startingSalary": 6666,
+      "salaryCap": 66666,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": true
+    },
+    {
+      "name": "Zombie",
+      "companyType": "Mortuary",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Junior Zombie",
+        "Zombie",
+        "Senior Zombie",
+        "Lead Zombie"
+      ],
+      "startingSalary": 12271,
+      "salaryCap": 48291,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": true
+    },
+    {
+      "name": "Pilgrim",
+      "companyType": "Colony",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 1271,
+      "salaryCap": 2571,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": true
+    },
+    {
+      "name": "Elf",
+      "companyType": "Workshop",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Junior Elf",
+        "Elf",
+        "Senior Elf",
+        "Lead Elf",
+        "Director of Elf",
+        "VP of Elf"
+      ],
+      "startingSalary": 16271,
+      "salaryCap": 33251,
+      "minAge": 16,
+      "maxAge": 20,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": true
+    },
+    {
+      "name": "Santa Claus",
+      "companyType": "Workshop",
+      "education": "Graduate",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 50555,
+      "salaryCap": 250251,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 50,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": true
+    },
+    {
+      "name": "Actor",
+      "companyType": "Film Studio",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Voiceover Actor",
+        "Actor",
+        "Lead Actor"
+      ],
+      "startingSalary": 18493,
+      "salaryCap": 3500000,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 70,
+      "minLooks": 95,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Singer",
+      "companyType": "Record Label",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Background Vocalist",
+        "Lounge Singer",
+        "Singer",
+        "Lead Singer"
+      ],
+      "startingSalary": 18493,
+      "salaryCap": 5000000,
+      "minAge": 16,
+      "maxAge": 40,
+      "minSmarts": 70,
+      "minLooks": 95,
+      "minHealth": 50,
+      "stressScore": 4,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Disk Jockey",
+      "companyType": "Record Label",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 20038,
+      "salaryCap": 214233,
+      "minAge": 16,
+      "maxAge": 40,
+      "minSmarts": 0,
+      "minLooks": 30,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Model",
+      "companyType": "Model Agency",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Foot Model",
+        "Hand Model",
+        "Catalog Model",
+        "Lingerie Model",
+        "Runway Model"
+      ],
+      "startingSalary": 20000,
+      "salaryCap": 250000,
+      "minAge": 16,
+      "maxAge": 30,
+      "minSmarts": 0,
+      "minLooks": 90,
+      "minHealth": 80,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Pornographer",
+      "companyType": "Adult Film Studio",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Porn Writer",
+        "Porn Cameraman",
+        "Porn Actor"
+      ],
+      "startingSalary": 30291,
+      "salaryCap": 250000,
+      "minAge": 18,
+      "maxAge": 30,
+      "minSmarts": 0,
+      "minLooks": 80,
+      "minHealth": 20,
+      "stressScore": 4,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Writer",
+      "companyType": "Publisher",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 19755,
+      "salaryCap": 1500000,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 90,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Reporter",
+      "companyType": "Television",
+      "education": "Undergraduate",
+      "major": [
+        "Journalism"
+      ],
+      "seniorityTrack": [
+        "Junior Reporter",
+        "Reporter",
+        "Senior Reporter",
+        "Lead Reporter"
+      ],
+      "startingSalary": 39370,
+      "salaryCap": 49213,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 70,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Magician",
+      "companyType": "Circus",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 12000,
+      "salaryCap": 317832,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 50,
+      "minHealth": 20,
+      "stressScore": 3,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Chef",
+      "companyType": "Restaurant",
+      "education": "Community College",
+      "major": [],
+      "seniorityTrack": [
+        "Line Cook",
+        "Short Order Cook",
+        "Apprentice Chef",
+        "Chef Tournant",
+        "Chef Garde Manger",
+        "Junior Sous Chef",
+        "Saucier",
+        "Sous Chef",
+        "Chef de Cuisine",
+        "Executive Chef"
+      ],
+      "startingSalary": 16575,
+      "salaryCap": 88478,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 3,
+      "commonness": 3,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Mobile App Developer",
+      "companyType": "App Developer",
+      "education": "Undergraduate",
+      "major": [
+        "Computer Science",
+        "Information Systems"
+      ],
+      "seniorityTrack": [
+        "App Tester",
+        "Jr. App Developer",
+        "App Developer",
+        "Sr. App Developer",
+        "App Designer"
+      ],
+      "startingSalary": 17950,
+      "salaryCap": 127390,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 70,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Accountant",
+      "companyType": "Corporate",
+      "education": "Undergraduate",
+      "major": [
+        "Math",
+        "Finance",
+        "Accounting",
+        "Economics"
+      ],
+      "seniorityTrack": [
+        "Junior Accountant",
+        "Accountant",
+        "Senior Accountant",
+        "Lead Accountant",
+        "Director of Accountant",
+        "VP of Accountant"
+      ],
+      "startingSalary": 36722,
+      "salaryCap": 70295,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 50,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 4,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Animator",
+      "companyType": "Small Business",
+      "education": "Undergraduate",
+      "major": [
+        "Computer Science",
+        "Graphic Design"
+      ],
+      "seniorityTrack": [
+        "Junior Animator",
+        "Animator",
+        "Senior Animator",
+        "Lead Animator"
+      ],
+      "startingSalary": 31609,
+      "salaryCap": 82039,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Archaeologist",
+      "companyType": "University District",
+      "education": "Graduate",
+      "major": [
+        "Archaeology"
+      ],
+      "seniorityTrack": [
+        "Junior Archaeologist",
+        "Archaeologist",
+        "Senior Archaeologist",
+        "Lead Archaeologist"
+      ],
+      "startingSalary": 31172,
+      "salaryCap": 73408,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 70,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Architect",
+      "companyType": "Architectural Firm",
+      "education": "Undergraduate",
+      "major": [
+        "Architecture"
+      ],
+      "seniorityTrack": [
+        "Junior Architect",
+        "Architect",
+        "Senior Architect",
+        "Lead Architect"
+      ],
+      "startingSalary": 45146,
+      "salaryCap": 104048,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 70,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Art Gallery Worker",
+      "companyType": "Museum",
+      "education": "Undergraduate",
+      "major": [
+        "Anthropology",
+        "History",
+        "Art History"
+      ],
+      "seniorityTrack": [
+        "Gallery Associate",
+        "Art Handler",
+        "Assistant Curator",
+        "Curator",
+        "Gallery Director"
+      ],
+      "startingSalary": 28851,
+      "salaryCap": 102129,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Auto Mechanic",
+      "companyType": "Car Dealer",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Auto Mechanic",
+        "Auto Mechanic",
+        "Senior Auto Mechanic",
+        "Lead Auto Mechanic",
+        "Foreman"
+      ],
+      "startingSalary": 23281,
+      "salaryCap": 61991,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 5,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Baggage Handler",
+      "companyType": "Airline",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 19586,
+      "salaryCap": 51403,
+      "minAge": 16,
+      "maxAge": 40,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 50,
+      "stressScore": 2,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Banker",
+      "companyType": "Bank",
+      "education": "Undergraduate",
+      "major": [
+        "Finance",
+        "Information Systems",
+        "Accounting",
+        "Economics"
+      ],
+      "seniorityTrack": [
+        "Junior Banker",
+        "Banker",
+        "Senior Banker",
+        "Lead Banker",
+        "Director of Banker",
+        "VP of Banker"
+      ],
+      "startingSalary": 35871,
+      "salaryCap": 164249,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 40,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 5,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Beekeeper",
+      "companyType": "Farm",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Beekeeper",
+        "Beekeeper",
+        "Senior Beekeeper",
+        "Lead Beekeeper",
+        "Foreman"
+      ],
+      "startingSalary": 24879,
+      "salaryCap": 48362,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Biotechnologist",
+      "companyType": "Engineering Firm",
+      "education": "Undergraduate",
+      "major": [
+        "Chemistry",
+        "Biology"
+      ],
+      "seniorityTrack": [
+        "Junior Biotechnologist",
+        "Biotechnologist",
+        "Senior Biotechnologist",
+        "Lead Biotechnologist"
+      ],
+      "startingSalary": 39678,
+      "salaryCap": 98897,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 40,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Brain Surgeon",
+      "companyType": "Hospital",
+      "education": "Medical",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 102571,
+      "salaryCap": 821715,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 90,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 5,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Bus Driver",
+      "companyType": "Municipal",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 20858,
+      "salaryCap": 48186,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": true,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Business Analyst",
+      "companyType": "Corporate",
+      "education": "Undergraduate",
+      "major": [
+        "Finance",
+        "Math",
+        "Information Systems",
+        "Economics"
+      ],
+      "seniorityTrack": [
+        "Junior Business Analyst",
+        "Business Analyst",
+        "Senior Business Analyst",
+        "Lead Business Analyst",
+        "Director of Business Analyst",
+        "VP of Business Analyst"
+      ],
+      "startingSalary": 48281,
+      "salaryCap": 101585,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 5,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Butcher",
+      "companyType": "Grocery Store",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Butcher",
+        "Butcher",
+        "Senior Butcher",
+        "Lead Butcher",
+        "Foreman"
+      ],
+      "startingSalary": 19851,
+      "salaryCap": 46973,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 2,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Cashier",
+      "companyType": "Retailer",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 15626,
+      "salaryCap": 25438,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 30,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Chemical Engineer",
+      "companyType": "Engineering Firm",
+      "education": "Undergraduate",
+      "major": [
+        "Engineering",
+        "Chemistry"
+      ],
+      "seniorityTrack": [
+        "Engineer I",
+        "Engineer II",
+        "Engineer III",
+        "Asst. Engineering Manager",
+        "Engineering Manager",
+        "Director of Engineering",
+        "VP of Engineering"
+      ],
+      "startingSalary": 52839,
+      "salaryCap": 113945,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 70,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Chimney Sweep",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Chimney Sweep",
+        "Chimney Sweep",
+        "Senior Chimney Sweep",
+        "Lead Chimney Sweep",
+        "Foreman"
+      ],
+      "startingSalary": 17833,
+      "salaryCap": 39171,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Chiropractor",
+      "companyType": "Medical Office",
+      "education": "Medical",
+      "major": [],
+      "seniorityTrack": [
+        "Junior Chiropractor",
+        "Chiropractor",
+        "Senior Chiropractor",
+        "Lead Chiropractor"
+      ],
+      "startingSalary": 36178,
+      "salaryCap": 117989,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 70,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 3,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Computer Programmer",
+      "companyType": "Corporate",
+      "education": "Undergraduate",
+      "major": [
+        "Computer Science",
+        "Information Systems"
+      ],
+      "seniorityTrack": [
+        "Junior Computer Programmer",
+        "Computer Programmer",
+        "Senior Computer Programmer",
+        "Lead Computer Programmer",
+        "Director of Computer Programmer",
+        "VP of Computer Programmer"
+      ],
+      "startingSalary": 39531,
+      "salaryCap": 127390,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 70,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Construction Worker",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 20933,
+      "salaryCap": 54269,
+      "minAge": 16,
+      "maxAge": 40,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 30,
+      "stressScore": 3,
+      "commonness": 5,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Database Administrator",
+      "companyType": "Corporate",
+      "education": "Undergraduate",
+      "major": [
+        "Computer Science",
+        "Information Systems"
+      ],
+      "seniorityTrack": [
+        "Junior Database Administrator",
+        "Database Administrator",
+        "Senior Database Administrator",
+        "Lead Database Administrator",
+        "Director of Database Administrator",
+        "VP of Database Administrator"
+      ],
+      "startingSalary": 40172,
+      "salaryCap": 109628,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 70,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Dental Hygienist",
+      "companyType": "Dental Office",
+      "education": "Community College",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 61250,
+      "salaryCap": 81226,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 50,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Dentist",
+      "companyType": "Dental Office",
+      "education": "Dental",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 118789,
+      "salaryCap": 197679,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 80,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 4,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Detective",
+      "companyType": "Police Department",
+      "education": "Undergraduate",
+      "major": [
+        "Criminal Justice"
+      ],
+      "seniorityTrack": [
+        "Junior Detective",
+        "Detective",
+        "Senior Detective",
+        "Lead Detective"
+      ],
+      "startingSalary": 38260,
+      "salaryCap": 98212,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 70,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 5,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Driver",
+      "companyType": "Ride Sharing App",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 25000,
+      "salaryCap": 30000,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 5,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": true,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Electrician",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Electrician",
+        "Electrician",
+        "Senior Electrician",
+        "Lead Electrician",
+        "Foreman"
+      ],
+      "startingSalary": 29701,
+      "salaryCap": 82982,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 20,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 2,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": true,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Environmental Scientist",
+      "companyType": "Engineering Firm",
+      "education": "Undergraduate",
+      "major": [
+        "Biology",
+        "Chemistry",
+        "Physics"
+      ],
+      "seniorityTrack": [
+        "Junior Environmental Scientist",
+        "Environmental Scientist",
+        "Senior Environmental Scientist",
+        "Lead Environmental Scientist"
+      ],
+      "startingSalary": 37431,
+      "salaryCap": 73973,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Factory Worker",
+      "companyType": "Corporate",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 19839,
+      "salaryCap": 47717,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 30,
+      "stressScore": 2,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Family Physician",
+      "companyType": "Hospital",
+      "education": "Medical",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 100350,
+      "salaryCap": 247368,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 80,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 4,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Farmer",
+      "companyType": "Farm",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 20176,
+      "salaryCap": 78004,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 30,
+      "stressScore": 2,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Fast Food Worker",
+      "companyType": "Fast Food",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Crew Member",
+        "Shift Manager",
+        "Restaurant Manager",
+        "General Manager"
+      ],
+      "startingSalary": 15189,
+      "salaryCap": 21779,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 5,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Financial Advisor",
+      "companyType": "Bank",
+      "education": "Undergraduate",
+      "major": [
+        "Finance",
+        "Economics",
+        "Accounting"
+      ],
+      "seniorityTrack": [
+        "Junior Financial Advisor",
+        "Financial Advisor",
+        "Senior Financial Advisor",
+        "Lead Financial Advisor",
+        "Director of Financial Advisor",
+        "VP of Financial Advisor"
+      ],
+      "startingSalary": 33632,
+      "salaryCap": 128170,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 40,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Financial Analyst",
+      "companyType": "Corporate",
+      "education": "Undergraduate",
+      "major": [
+        "Finance",
+        "Math",
+        "Economics",
+        "Accounting"
+      ],
+      "seniorityTrack": [
+        "Junior Financial Analyst",
+        "Financial Analyst",
+        "Senior Financial Analyst",
+        "Lead Financial Analyst",
+        "Director of Financial Analyst",
+        "VP of Financial Analyst"
+      ],
+      "startingSalary": 43890,
+      "salaryCap": 83004,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 5,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Firefighter",
+      "companyType": "Fire Department",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Probationary Firefighter",
+        "Firefighter",
+        "Fire Equipment Operator",
+        "Lieutenant",
+        "Captain",
+        "Battalion Chief",
+        "Assistant Chief",
+        "Fire Chief"
+      ],
+      "startingSalary": 37834,
+      "salaryCap": 85543,
+      "minAge": 16,
+      "maxAge": 35,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 50,
+      "stressScore": 5,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Fisherman",
+      "companyType": "Fishery",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 16393,
+      "salaryCap": 51088,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 30,
+      "stressScore": 4,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Flight Attendant",
+      "companyType": "Airline",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Jr. Flight Attendant",
+        "Flight Attendant",
+        "Sr. Flight Attendant",
+        "Cabin Crew Supervisor"
+      ],
+      "startingSalary": 21277,
+      "salaryCap": 72645,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 50,
+      "minHealth": 20,
+      "stressScore": 3,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Forensic Scientist",
+      "companyType": "Police Department",
+      "education": "Undergraduate",
+      "major": [
+        "Chemistry",
+        "Biology",
+        "Criminal Justice",
+        "Physics"
+      ],
+      "seniorityTrack": [
+        "Crime Scene Analyst",
+        "Crime Scene Technician",
+        "Forensic Investigator"
+      ],
+      "startingSalary": 30264,
+      "salaryCap": 71489,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 40,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 4,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": true,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Graphic Designer",
+      "companyType": "Small Business",
+      "education": "Undergraduate",
+      "major": [
+        "Graphic Design"
+      ],
+      "seniorityTrack": [
+        "Junior Graphic Designer",
+        "Graphic Designer",
+        "Senior Graphic Designer",
+        "Lead Graphic Designer"
+      ],
+      "startingSalary": 30376,
+      "salaryCap": 72550,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 20,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Grocer",
+      "companyType": "Grocery Store",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Grocer",
+        "Grocer",
+        "Senior Grocer",
+        "Lead Grocer",
+        "Foreman"
+      ],
+      "startingSalary": 16445,
+      "salaryCap": 33844,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "History Teacher",
+      "companyType": "School District",
+      "education": "Undergraduate",
+      "major": [
+        "History"
+      ],
+      "seniorityTrack": [],
+      "startingSalary": 29026,
+      "salaryCap": 45000,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Insurance Agent",
+      "companyType": "Insurance Agency",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Junior Insurance Agent",
+        "Insurance Agent",
+        "Senior Insurance Agent",
+        "Lead Insurance Agent"
+      ],
+      "startingSalary": 23286,
+      "salaryCap": 63878,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Interior Designer",
+      "companyType": "Small Business",
+      "education": "Undergraduate",
+      "major": [
+        "Graphic Design"
+      ],
+      "seniorityTrack": [
+        "Junior Interior Designer",
+        "Interior Designer",
+        "Senior Interior Designer",
+        "Lead Interior Designer"
+      ],
+      "startingSalary": 32848,
+      "salaryCap": 67072,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Internal Auditor",
+      "companyType": "Corporate",
+      "education": "Undergraduate",
+      "major": [
+        "Information Systems",
+        "Computer Science",
+        "Finance",
+        "Accounting",
+        "Economics"
+      ],
+      "seniorityTrack": [
+        "Junior Internal Auditor",
+        "Internal Auditor",
+        "Senior Internal Auditor",
+        "Lead Internal Auditor",
+        "Director of Internal Auditor",
+        "VP of Internal Auditor"
+      ],
+      "startingSalary": 51173,
+      "salaryCap": 80000,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 50,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Judge",
+      "companyType": "Municipal",
+      "education": "Law",
+      "major": [],
+      "seniorityTrack": [
+        "Magistrate",
+        "Magistrate Court Judge",
+        "District Court Judge",
+        "Associate Chief Justice",
+        "Chief Justice"
+      ],
+      "startingSalary": 154484,
+      "salaryCap": 196820,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 80,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 5,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Lawyer",
+      "companyType": "Law Firm",
+      "education": "Law",
+      "major": [],
+      "seniorityTrack": [
+        "Law Clerk",
+        "Junior Associate",
+        "Associate",
+        "Junior Partner",
+        "Partner"
+      ],
+      "startingSalary": 49894,
+      "salaryCap": 182995,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 50,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 5,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Librarian",
+      "companyType": "Library",
+      "education": "Graduate",
+      "major": [],
+      "seniorityTrack": [
+        "Clerk",
+        "Library Aide",
+        "Librarian",
+        "Sr. Librarian"
+      ],
+      "startingSalary": 28419,
+      "salaryCap": 70498,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 50,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Lobbyist",
+      "companyType": "Corporate",
+      "education": "Undergraduate",
+      "major": [
+        "Political Science",
+        "Communications",
+        "Marketing",
+        "Economics",
+        "Philosophy"
+      ],
+      "seniorityTrack": [
+        "Junior Lobbyist",
+        "Lobbyist",
+        "Senior Lobbyist",
+        "Lead Lobbyist"
+      ],
+      "startingSalary": 42646,
+      "salaryCap": 138784,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 40,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 5,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Lumberjack",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Lumberjack",
+        "Lumberjack",
+        "Senior Lumberjack",
+        "Lead Lumberjack",
+        "Foreman"
+      ],
+      "startingSalary": 20258,
+      "salaryCap": 65147,
+      "minAge": 16,
+      "maxAge": 30,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 70,
+      "stressScore": 3,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Mail Carrier",
+      "companyType": "Municipal",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Junior Mail Carrier",
+        "Mail Carrier",
+        "Senior Mail Carrier",
+        "Lead Mail Carrier"
+      ],
+      "startingSalary": 30877,
+      "salaryCap": 60414,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 3,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": true,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Marine Biologist",
+      "companyType": "Small Business",
+      "education": "Graduate",
+      "major": [],
+      "seniorityTrack": [
+        "Junior Marine Biologist",
+        "Marine Biologist",
+        "Senior Marine Biologist",
+        "Lead Marine Biologist"
+      ],
+      "startingSalary": 29600,
+      "salaryCap": 100141,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 60,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Marriage Counselor",
+      "companyType": "Mental Health Center",
+      "education": "Undergraduate",
+      "major": [
+        "Psychology"
+      ],
+      "seniorityTrack": [],
+      "startingSalary": 39518,
+      "salaryCap": 100527,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 40,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Massage Therapist",
+      "companyType": "Salon",
+      "education": "Community College",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 22942,
+      "salaryCap": 99142,
+      "minAge": 16,
+      "maxAge": 40,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 30,
+      "stressScore": 2,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Mechanical Engineer",
+      "companyType": "Engineering Firm",
+      "education": "Undergraduate",
+      "major": [
+        "Engineering",
+        "Physics",
+        "Chemistry"
+      ],
+      "seniorityTrack": [
+        "Engineer I",
+        "Engineer II",
+        "Engineer III",
+        "Asst. Engineering Manager",
+        "Engineering Manager",
+        "Director of Engineering",
+        "VP of Engineering"
+      ],
+      "startingSalary": 51369,
+      "salaryCap": 97082,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 70,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Microbiologist",
+      "companyType": "Engineering Firm",
+      "education": "Undergraduate",
+      "major": [
+        "Biology"
+      ],
+      "seniorityTrack": [
+        "Junior Microbiologist",
+        "Microbiologist",
+        "Senior Microbiologist",
+        "Lead Microbiologist"
+      ],
+      "startingSalary": 36934,
+      "salaryCap": 82853,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 60,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Midwife",
+      "companyType": "Hospital",
+      "education": "Undergraduate",
+      "major": [
+        "Nursing"
+      ],
+      "seniorityTrack": [
+        "Apprentice Midwife",
+        "Midwife",
+        "Senior Midwife",
+        "Lead Midwife",
+        "Foreman"
+      ],
+      "startingSalary": 77822,
+      "salaryCap": 120544,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Monk",
+      "companyType": "Monastery",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 8000,
+      "salaryCap": 12000,
+      "minAge": 18,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Mortician",
+      "companyType": "Mortuary",
+      "education": "Undergraduate",
+      "major": [
+        "Biology",
+        "Chemistry"
+      ],
+      "seniorityTrack": [
+        "Mortician",
+        "Sr. Embalmer",
+        "Funeral Director"
+      ],
+      "startingSalary": 29760,
+      "salaryCap": 69926,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 20,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 4,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Museum Worker",
+      "companyType": "Museum",
+      "education": "Undergraduate",
+      "major": [
+        "History",
+        "Art History",
+        "Anthropology",
+        "Archaeology"
+      ],
+      "seniorityTrack": [
+        "Docent",
+        "Exhibit Associate",
+        "Assistant Curator",
+        "Curator",
+        "Museum Director"
+      ],
+      "startingSalary": 28851,
+      "salaryCap": 99953,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Nun",
+      "companyType": "Convent",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 8000,
+      "salaryCap": 12000,
+      "minAge": 18,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Nurse",
+      "companyType": "Hospital",
+      "education": "Nursing",
+      "major": [],
+      "seniorityTrack": [
+        "Associate Nurse",
+        "Clinical Nurse",
+        "Advanced Clinician",
+        "Clinical Nurse Specialist"
+      ],
+      "startingSalary": 47066,
+      "salaryCap": 89600,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 40,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 3,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Operations Analyst",
+      "companyType": "Corporate",
+      "education": "Undergraduate",
+      "major": [
+        "Math",
+        "Information Systems",
+        "Finance"
+      ],
+      "seniorityTrack": [
+        "Junior Operations Analyst",
+        "Operations Analyst",
+        "Senior Operations Analyst",
+        "Lead Operations Analyst",
+        "Director of Operations Analyst",
+        "VP of Operations Analyst"
+      ],
+      "startingSalary": 43346,
+      "salaryCap": 96778,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Painter",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 23497,
+      "salaryCap": 55521,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 2,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Paralegal",
+      "companyType": "Law Firm",
+      "education": "Community College",
+      "major": [],
+      "seniorityTrack": [
+        "Legal Secretary",
+        "Legal Records Manager",
+        "Paralegal"
+      ],
+      "startingSalary": 29594,
+      "salaryCap": 67199,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Pet Groomer",
+      "companyType": "Veterinary Clinic",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Pet Groomer",
+        "Pet Groomer",
+        "Senior Pet Groomer",
+        "Lead Pet Groomer",
+        "Foreman"
+      ],
+      "startingSalary": 18408,
+      "salaryCap": 49864,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Pharmacist",
+      "companyType": "Medical Office",
+      "education": "Pharmacy",
+      "major": [],
+      "seniorityTrack": [
+        "Junior Pharmacist",
+        "Pharmacist",
+        "Senior Pharmacist",
+        "Lead Pharmacist"
+      ],
+      "startingSalary": 74945,
+      "salaryCap": 132709,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Physical Therapist",
+      "companyType": "Medical Office",
+      "education": "Medical",
+      "major": [],
+      "seniorityTrack": [
+        "Junior Physical Therapist",
+        "Physical Therapist",
+        "Senior Physical Therapist",
+        "Lead Physical Therapist"
+      ],
+      "startingSalary": 57565,
+      "salaryCap": 98281,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 50,
+      "minLooks": 0,
+      "minHealth": 30,
+      "stressScore": 3,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Pilot",
+      "companyType": "Airline",
+      "education": "Undergraduate",
+      "major": [
+        "Physics",
+        "Math",
+        "Chemistry",
+        "Biology",
+        "Engineering",
+        "Information Systems"
+      ],
+      "seniorityTrack": [
+        "Pilot Trainee",
+        "Co-Pilot",
+        "Pilot",
+        "Airline Captain",
+        "Chief Pilot"
+      ],
+      "startingSalary": 41374,
+      "salaryCap": 280735,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 80,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 4,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": true,
+      "isHoliday": false
+    },
+    {
+      "name": "Plumber",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Plumber",
+        "Plumber",
+        "Senior Plumber",
+        "Lead Plumber",
+        "Foreman"
+      ],
+      "startingSalary": 29358,
+      "salaryCap": 78490,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 2,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": true,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Police Officer",
+      "companyType": "Police Department",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Cadet",
+        "Patrolman",
+        "Trooper",
+        "Corporal",
+        "Sergeant",
+        "Inspector",
+        "Lieutenant",
+        "Chief of Police"
+      ],
+      "startingSalary": 31533,
+      "salaryCap": 85022,
+      "minAge": 16,
+      "maxAge": 35,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 40,
+      "stressScore": 5,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Policy Analyst",
+      "companyType": "Municipal",
+      "education": "Undergraduate",
+      "major": [
+        "Political Science",
+        "Communications",
+        "Criminal Justice",
+        "Economics",
+        "Philosophy"
+      ],
+      "seniorityTrack": [
+        "Junior Policy Analyst",
+        "Policy Analyst",
+        "Senior Policy Analyst",
+        "Lead Policy Analyst"
+      ],
+      "startingSalary": 39607,
+      "salaryCap": 81134,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 40,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Priest",
+      "companyType": "Church",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Deacon",
+        "Priest",
+        "Bishop",
+        "Archbishop",
+        "Cardinal"
+      ],
+      "startingSalary": 17172,
+      "salaryCap": 75000,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Psychiatrist",
+      "companyType": "Mental Health Center",
+      "education": "Medical",
+      "major": [],
+      "seniorityTrack": [
+        "Junior Psychiatrist",
+        "Psychiatrist",
+        "Senior Psychiatrist",
+        "Lead Psychiatrist"
+      ],
+      "startingSalary": 99370,
+      "salaryCap": 276030,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 50,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 4,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Real Estate Agent",
+      "companyType": "Real Estate",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 24402,
+      "salaryCap": 185382,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 50,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": true,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Receptionist",
+      "companyType": "Corporate",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 19530,
+      "salaryCap": 30481,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 50,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 5,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Retail Salesperson",
+      "companyType": "Retailer",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 15758,
+      "salaryCap": 36798,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 60,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "School Administrator",
+      "companyType": "School District",
+      "education": "Graduate",
+      "major": [
+        "Education"
+      ],
+      "seniorityTrack": [
+        "Asst. Principal",
+        "Principal",
+        "Asst. Superintendent",
+        "Superintendent"
+      ],
+      "startingSalary": 41158,
+      "salaryCap": 109678,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 80,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 4,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "School Psychologist",
+      "companyType": "School District",
+      "education": "Undergraduate",
+      "major": [
+        "Psychology"
+      ],
+      "seniorityTrack": [],
+      "startingSalary": 34804,
+      "salaryCap": 64449,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 40,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "School Teacher",
+      "companyType": "School District",
+      "education": "Undergraduate",
+      "major": [
+        "Education"
+      ],
+      "seniorityTrack": [],
+      "startingSalary": 38180,
+      "salaryCap": 45000,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 3,
+      "commonness": 5,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Security Guard",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 18641,
+      "salaryCap": 70462,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 30,
+      "stressScore": 3,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Stockbroker",
+      "companyType": "Stock Exchange",
+      "education": "Undergraduate",
+      "major": [
+        "Finance",
+        "Economics",
+        "Accounting"
+      ],
+      "seniorityTrack": [
+        "Junior Stockbroker",
+        "Stockbroker",
+        "Senior Stockbroker",
+        "Lead Stockbroker"
+      ],
+      "startingSalary": 39056,
+      "salaryCap": 195773,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 5,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Tailor",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Tailor",
+        "Tailor",
+        "Senior Tailor",
+        "Lead Tailor",
+        "Foreman"
+      ],
+      "startingSalary": 23348,
+      "salaryCap": 52577,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Technical Support Specialist",
+      "companyType": "Corporate",
+      "education": "Undergraduate",
+      "major": [
+        "Computer Science",
+        "Information Systems",
+        "Communications"
+      ],
+      "seniorityTrack": [
+        "Jr. IT Support",
+        "IT Support",
+        "Sr. IT Support"
+      ],
+      "startingSalary": 27122,
+      "salaryCap": 59826,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 40,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 4,
+      "commonness": 5,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Telemarketer",
+      "companyType": "Corporate",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Telemarketer",
+        "Telemarketer",
+        "Senior Telemarketer",
+        "Lead Telemarketer",
+        "Foreman"
+      ],
+      "startingSalary": 18190,
+      "salaryCap": 38474,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 4,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Translator",
+      "companyType": "Corporate",
+      "education": "Undergraduate",
+      "major": [
+        "Communications",
+        "English"
+      ],
+      "seniorityTrack": [
+        "Junior Translator",
+        "Translator",
+        "Senior Translator",
+        "Lead Translator"
+      ],
+      "startingSalary": 25370,
+      "salaryCap": 83100,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Travel Agent",
+      "companyType": "Travel Agency",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Travel Associate",
+        "Tour Operator",
+        "General Manager",
+        "Regional Manager",
+        "Agency Operator"
+      ],
+      "startingSalary": 24303,
+      "salaryCap": 52817,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 30,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Trucker",
+      "companyType": "Trucking Company",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Trucker",
+        "Trucker",
+        "Senior Trucker",
+        "Lead Trucker",
+        "Foreman"
+      ],
+      "startingSalary": 31418,
+      "salaryCap": 67915,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 5,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": true,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Veterinarian",
+      "companyType": "Veterinary Clinic",
+      "education": "Veterinary",
+      "major": [],
+      "seniorityTrack": [
+        "Junior Veterinarian",
+        "Veterinarian",
+        "Senior Veterinarian",
+        "Lead Veterinarian"
+      ],
+      "startingSalary": 52782,
+      "salaryCap": 115472,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 80,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 4,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Waste Collector",
+      "companyType": "Municipal",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Junior Waste Collector",
+        "Waste Collector",
+        "Senior Waste Collector",
+        "Lead Waste Collector"
+      ],
+      "startingSalary": 20329,
+      "salaryCap": 69710,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 1,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Professor",
+      "companyType": "University District",
+      "education": "Graduate",
+      "major": [
+        "Education"
+      ],
+      "seniorityTrack": [
+        "Professor"
+      ],
+      "startingSalary": 61420,
+      "salaryCap": 151420,
+      "minAge": 18,
+      "maxAge": 100,
+      "minSmarts": 70,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "College Dean",
+      "companyType": "University District",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 151420,
+      "salaryCap": 251420,
+      "minAge": 18,
+      "maxAge": 100,
+      "minSmarts": 70,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 4,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Fashion Designer",
+      "companyType": "Retailer",
+      "education": "Undergraduate",
+      "major": [
+        "Graphic Design"
+      ],
+      "seniorityTrack": [
+        "Junior Fashion Designer",
+        "Fashion Designer",
+        "Senior Fashion Designer",
+        "Lead Fashion Designer"
+      ],
+      "startingSalary": 32500,
+      "salaryCap": 130890,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Jeweler",
+      "companyType": "Jeweler",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Sales Associate",
+        "Assistant Manager",
+        "Store Manager"
+      ],
+      "startingSalary": 26200,
+      "salaryCap": 76915,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Carpenter",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Carpenter",
+        "Carpenter",
+        "Senior Carpenter",
+        "Lead Carpenter",
+        "Foreman"
+      ],
+      "startingSalary": 35820,
+      "salaryCap": 72695,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 2,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Casino Worker",
+      "companyType": "Casino",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Dealer",
+        "Floor Supervisor",
+        "Pit Boss",
+        "Assistant Casino Manager",
+        "Casino Manager"
+      ],
+      "startingSalary": 21842,
+      "salaryCap": 407949,
+      "minAge": 21,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 30,
+      "minHealth": 20,
+      "stressScore": 3,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Private Investigator",
+      "companyType": "Small Business",
+      "education": "Undergraduate",
+      "major": [
+        "Criminal Justice"
+      ],
+      "seniorityTrack": [
+        "Junior Private Investigator",
+        "Private Investigator",
+        "Senior Private Investigator",
+        "Lead Private Investigator"
+      ],
+      "startingSalary": 30390,
+      "salaryCap": 83951,
+      "minAge": 18,
+      "maxAge": 100,
+      "minSmarts": 50,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": true,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Baker",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Baker",
+        "Baker",
+        "Senior Baker",
+        "Lead Baker",
+        "Foreman"
+      ],
+      "startingSalary": 27636,
+      "salaryCap": 37815,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 10,
+      "stressScore": 2,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Horse Jockey",
+      "companyType": "Horse Track",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 14941,
+      "salaryCap": 1500000,
+      "minAge": 18,
+      "maxAge": 40,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 50,
+      "stressScore": 3,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Wedding Planner",
+      "companyType": "Small Business",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Junior Wedding Planner",
+        "Wedding Planner",
+        "Senior Wedding Planner",
+        "Lead Wedding Planner"
+      ],
+      "startingSalary": 33101,
+      "salaryCap": 112842,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 4,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Nail Technician",
+      "companyType": "Salon",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Nail Technician",
+        "Nail Technician",
+        "Senior Nail Technician",
+        "Lead Nail Technician",
+        "Foreman"
+      ],
+      "startingSalary": 14831,
+      "salaryCap": 43482,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Bartender",
+      "companyType": "Restaurant",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Junior Bartender",
+        "Bartender",
+        "Senior Bartender",
+        "Lead Bartender"
+      ],
+      "startingSalary": 17470,
+      "salaryCap": 88418,
+      "minAge": 18,
+      "maxAge": 40,
+      "minSmarts": 0,
+      "minLooks": 70,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 5,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Bouncer",
+      "companyType": "Nightclub",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 17388,
+      "salaryCap": 44287,
+      "minAge": 18,
+      "maxAge": 30,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 60,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Cameraman",
+      "companyType": "Television",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Cameraman",
+        "Cameraman",
+        "Senior Cameraman",
+        "Lead Cameraman",
+        "Foreman"
+      ],
+      "startingSalary": 53832,
+      "salaryCap": 99314,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 20,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 2,
+      "commonness": 2,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Cat Behavior Consultant",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 17831,
+      "salaryCap": 40611,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Choreographer",
+      "companyType": "Dance Company",
+      "education": "Undergraduate",
+      "major": [
+        "Dance"
+      ],
+      "seniorityTrack": [
+        "Junior Choreographer",
+        "Choreographer",
+        "Senior Choreographer",
+        "Lead Choreographer"
+      ],
+      "startingSalary": 20759,
+      "salaryCap": 107703,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Circus Performer",
+      "companyType": "Circus",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 23449,
+      "salaryCap": 139620,
+      "minAge": 16,
+      "maxAge": 40,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Clown",
+      "companyType": "Circus",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 16271,
+      "salaryCap": 43291,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Crab Fisherman",
+      "companyType": "Fishery",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Greenhorn",
+        "Deck Hand",
+        "Deck Boss",
+        "Engineer",
+        "Captain"
+      ],
+      "startingSalary": 31732,
+      "salaryCap": 500000,
+      "minAge": 16,
+      "maxAge": 40,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 30,
+      "stressScore": 5,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Dance Instructor",
+      "companyType": "Dance Company",
+      "education": "Undergraduate",
+      "major": [
+        "Dance"
+      ],
+      "seniorityTrack": [
+        "Assistant Dance Instructor",
+        "Dance Instructor",
+        "Dance Director"
+      ],
+      "startingSalary": 22764,
+      "salaryCap": 79827,
+      "minAge": 16,
+      "maxAge": 60,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 30,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Dancer",
+      "companyType": "Film Studio",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 15337,
+      "salaryCap": 155226,
+      "minAge": 16,
+      "maxAge": 25,
+      "minSmarts": 0,
+      "minLooks": 70,
+      "minHealth": 70,
+      "stressScore": 2,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Editor",
+      "companyType": "Newspaper",
+      "education": "Undergraduate",
+      "major": [
+        "English",
+        "Communications"
+      ],
+      "seniorityTrack": [
+        "Jr. Editor",
+        "Editor",
+        "Sr. Editor",
+        "Editor-in-Chief"
+      ],
+      "startingSalary": 58770,
+      "salaryCap": 85000,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 50,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Escort",
+      "companyType": "Escort Agency",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 18730,
+      "salaryCap": 362198,
+      "minAge": 18,
+      "maxAge": 40,
+      "minSmarts": 0,
+      "minLooks": 50,
+      "minHealth": 0,
+      "stressScore": 4,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Exorcist",
+      "companyType": "Church",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 18656,
+      "salaryCap": 39281,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 4,
+      "commonness": 3,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Exotic Dancer",
+      "companyType": "Strip Club",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 19950,
+      "salaryCap": 217722,
+      "minAge": 18,
+      "maxAge": 30,
+      "minSmarts": 0,
+      "minLooks": 70,
+      "minHealth": 20,
+      "stressScore": 2,
+      "commonness": 2,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Hairdresser",
+      "companyType": "Salon",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Hairdresser",
+        "Hairdresser",
+        "Senior Hairdresser",
+        "Lead Hairdresser",
+        "Foreman"
+      ],
+      "startingSalary": 17358,
+      "salaryCap": 59774,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 30,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 3,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Housekeeper",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 16742,
+      "salaryCap": 35598,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 1,
+      "commonness": 4,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Janitor",
+      "companyType": "Corporate",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 17172,
+      "salaryCap": 39915,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 4,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Landscaper",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Landscaper",
+        "Landscaper",
+        "Senior Landscaper",
+        "Lead Landscaper",
+        "Foreman"
+      ],
+      "startingSalary": 18174,
+      "salaryCap": 28868,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 30,
+      "stressScore": 1,
+      "commonness": 3,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Makeup Artist",
+      "companyType": "Film Studio",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Makeup Artist",
+        "Makeup Artist",
+        "Senior Makeup Artist",
+        "Lead Makeup Artist",
+        "Foreman"
+      ],
+      "startingSalary": 20597,
+      "salaryCap": 87135,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 30,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 2,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Male Stripper",
+      "companyType": "Strip Club",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 19365,
+      "salaryCap": 218391,
+      "minAge": 18,
+      "maxAge": 30,
+      "minSmarts": 0,
+      "minLooks": 80,
+      "minHealth": 30,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Moonshiner",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Moonshiner",
+        "Moonshiner",
+        "Senior Moonshiner",
+        "Lead Moonshiner",
+        "Foreman"
+      ],
+      "startingSalary": 11493,
+      "salaryCap": 36208,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Music Composer",
+      "companyType": "Record Label",
+      "education": "Undergraduate",
+      "major": [
+        "Music"
+      ],
+      "seniorityTrack": [
+        "Apprentice Music Composer",
+        "Music Composer",
+        "Senior Music Composer",
+        "Lead Music Composer",
+        "Foreman"
+      ],
+      "startingSalary": 20134,
+      "salaryCap": 1200000,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Nude Art Model",
+      "companyType": "School District",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 25458,
+      "salaryCap": 47980,
+      "minAge": 18,
+      "maxAge": 30,
+      "minSmarts": 0,
+      "minLooks": 90,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Orchestra Musician",
+      "companyType": "Orchestra",
+      "education": "Undergraduate",
+      "major": [
+        "Music"
+      ],
+      "seniorityTrack": [
+        "Triangle Player",
+        "Violin Player",
+        "First Violinist",
+        "Opera Singer",
+        "Conductor",
+        "Chief Conductor",
+        "Maestro"
+      ],
+      "startingSalary": 11920,
+      "salaryCap": 161894,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Photographer",
+      "companyType": "Newspaper",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Photographer",
+        "Photographer",
+        "Senior Photographer",
+        "Lead Photographer",
+        "Foreman"
+      ],
+      "startingSalary": 30000,
+      "salaryCap": 33000,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 20,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 2,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Porn Set Janitor",
+      "companyType": "Adult Film Studio",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 17172,
+      "salaryCap": 39915,
+      "minAge": 18,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Pornography Historian",
+      "companyType": "Adult Film Studio",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 18418,
+      "salaryCap": 38382,
+      "minAge": 18,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Porta Potty Pumper",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 31391,
+      "salaryCap": 48849,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Puppeteer",
+      "companyType": "Film Studio",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 19371,
+      "salaryCap": 42485,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Restaurant Worker",
+      "companyType": "Restaurant",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Dishwasher",
+        "Busser",
+        "Host",
+        "Food Runner",
+        "Server",
+        "Head Waiter",
+        "Expeditor",
+        "Assistant Manager",
+        "General Manager"
+      ],
+      "startingSalary": 9299,
+      "salaryCap": 39435,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 3,
+      "commonness": 5,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Roadkill Remover",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 32482,
+      "salaryCap": 47311,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": true,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Sculptor",
+      "companyType": "Municipal",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 22192,
+      "salaryCap": 50000,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Stuntman",
+      "companyType": "Film Studio",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 24482,
+      "salaryCap": 639382,
+      "minAge": 16,
+      "maxAge": 40,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 70,
+      "stressScore": 4,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Water Slide Tester",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 17784,
+      "salaryCap": 30904,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Worm Picker",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 16842,
+      "salaryCap": 26832,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Blacksmith",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Apprentice Blacksmith",
+        "Blacksmith",
+        "Senior Blacksmith",
+        "Lead Blacksmith",
+        "Foreman"
+      ],
+      "startingSalary": 34070,
+      "salaryCap": 55973,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 2,
+      "commonness": 3,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Plastic Surgeon",
+      "companyType": "Hospital",
+      "education": "Medical",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 112571,
+      "salaryCap": 621715,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 5,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Set Designer",
+      "companyType": "Film Studio",
+      "education": "Undergraduate",
+      "major": [
+        "Architecture",
+        "Art History",
+        "Graphic Design"
+      ],
+      "seniorityTrack": [
+        "Set Dresser",
+        "Assistant Set Designer",
+        "Set Designer",
+        "Set Manager",
+        "Set Director"
+      ],
+      "startingSalary": 24376,
+      "salaryCap": 151500,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Professional Mourner",
+      "companyType": "Mortuary",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Silent Mourner",
+        "Mourning Specialist",
+        "Chief Mourner"
+      ],
+      "startingSalary": 18376,
+      "salaryCap": 64133,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Psychic",
+      "companyType": "Psychic Parlor",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Palm Reader",
+        "Tarot Specialist",
+        "Spiritual Medium",
+        "Intuitive Consultant",
+        "Oracle"
+      ],
+      "startingSalary": 17172,
+      "salaryCap": 1220000,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Bill Collector",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 36934,
+      "salaryCap": 82982,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 5,
+      "commonness": 2,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Mall Santa",
+      "companyType": "Corporate",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 27000,
+      "salaryCap": 99999,
+      "minAge": 35,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": true
+    },
+    {
+      "name": "Reindeer Groomer",
+      "companyType": "Farm",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [
+        "Entry-Level Groomer",
+        "Experienced Groomer",
+        "Head Groomer"
+      ],
+      "startingSalary": 40000,
+      "salaryCap": 79000,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 1,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": true
+    },
+    {
+      "name": "Personal Trainer",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 39923,
+      "salaryCap": 310283,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 50,
+      "minHealth": 70,
+      "stressScore": 3,
+      "commonness": 3,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Sommelier",
+      "companyType": "Restaurant",
+      "education": "High School",
+      "major": [],
+      "seniorityTrack": [
+        "Introductory Sommelier",
+        "Certified Sommelier",
+        "Advanced Sommelier",
+        "Master Sommelier"
+      ],
+      "startingSalary": 28851,
+      "salaryCap": 280735,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 35,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 2,
+      "commonness": 3,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Secret Shopper",
+      "companyType": "Corporate",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 9299,
+      "salaryCap": 39915,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 3,
+      "commonness": 2,
+      "requiresCriminalClear": false,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "PR Manager",
+      "companyType": "Corporate",
+      "education": "Undergraduate",
+      "major": [
+        "Journalism",
+        "Communications",
+        "English",
+        "Psychology"
+      ],
+      "seniorityTrack": [
+        "PR Assistant",
+        "PR Specialist",
+        "PR Account Manager",
+        "Communications Director"
+      ],
+      "startingSalary": 45163,
+      "salaryCap": 215837,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 30,
+      "minLooks": 0,
+      "minHealth": 0,
+      "stressScore": 4,
+      "commonness": 3,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    },
+    {
+      "name": "Mall Cop",
+      "companyType": "Small Business",
+      "education": "None",
+      "major": [],
+      "seniorityTrack": [],
+      "startingSalary": 13738,
+      "salaryCap": 45938,
+      "minAge": 16,
+      "maxAge": 100,
+      "minSmarts": 0,
+      "minLooks": 0,
+      "minHealth": 20,
+      "stressScore": 1,
+      "commonness": 1,
+      "requiresCriminalClear": true,
+      "requiresDriverLicense": false,
+      "requiresPilotLicense": false,
+      "isHoliday": false
+    }
+  ],
+  "coworkerHookups": [
+    "You asked <coworker> to hook up with you in the <breakroom/bathroom/hall closet>.",
+    "You told <coworker> that you would really love to manspread <him/her>.",
+    "You told <coworker> that you want to <bang/sleep/fornicate/screw> your way through the glass ceiling, starting with him.",
+    "You suggestively told <coworker> that you would love to bounce some ideas off <him/her>, among other things.",
+    "You informed <coworker> that you would be down for a late-night meeting, if <he/she> is game.",
+    "You flashed a suggestive smile <coworker-possessive> way and asked <him/her> if <he/she> wants to get a workout in after work.",
+    "You complimented <coworker> on <his/her> work performance, before suggestively asking <him/her> if <he/she> performs well at everything <he/she> does.",
+    "You winked at <coworker> and told <him/her> that you have <him/her> on the top of your to-do list.",
+    "You informed <coworker> that you plan to sleep your way to the top, starting at the bottom with <him/her>.",
+    "You winked at <coworker> and told <him/her> you would like to be the boss of <him/her>.",
+    "You winked at <coworker> saying that you would like for <him/her> to be the boss of you.",
+    "You winked at <coworker> and told <him/her> your door is always open for <him/her>, both literally and figuratively.",
+    "You told <coworker> that you are happy he is on the staff, but added that you would love to be on his staff.",
+    "You suggestively asked <coworker> if <he/she> would like to enjoy the fruits of your labor.",
+    "You told <coworker> that when it comes to working with <him/her>, you would like to take a hands-on approach.",
+    "You told <coworker> that you are happy to know <his/her> body is 60% water because you are really, really thirsty.",
+    "You offered to help <coworker> on a massive project in exchange for one little kiss on the lips.",
+    "You pulled <coworker> into the supply closet, shut the door, and confided in <him/her> your secret fantasies.",
+    "You invited <coworker> to meet at a sports bar to discuss a work-related project, but when <he/she> arrived, you were already tipsy on whiskey and got real handsy.",
+    "When everyone had already gone home for the day, you stopped by <coworker-possessive> desk and suggested the two of you sneak into the broom closet for a quickie.",
+    "You told <coworker> that you needed to discuss a \"touchy subject\" with <him/her> privately. When <he/she> entered your office, you shut the door and dropped your pants.",
+    "You told <coworker> that there's a pretty package for <him/her> on the front desk, but there's an even prettier one inside your pants.",
+    "While driving back from lunch with <coworker>, you put your hand on <his/her> thigh and suggested taking a detour back to work.",
+    "You told <coworker> you'd share with <him/her> how you got to your position if <he/she> wouldn't mind \"assuming the position\" for you after work."
+  ],
+  "supervisorUnprofessional": [
+    "<supervisor> has been making crude jokes about other members of the team to you and it's beginning to make you uncomfortable.",
+    "While discussing a project with <supervisor>, you distinctly smell <alcohol/marijuana> on <his/her> breath.",
+    "You're quickly finishing up some work before leaving the office when <supervisor> pulls you aside, insisting you look at <his/her> <ingrown toenail/itchy rash/hives/worsening infection/abscessed tooth>.",
+    "Just as you arrive to work one morning, the first thing <supervisor> asks is, \"did ya get any last night\"?",
+    "You're enjoying lunch with co-workers in the breakroom when <supervisor> stops by to announce, \"whatever you people are eating in here smells like raw sewage\".",
+    "<supervisor> approaches you in the parking lot to ask if you'll pull <his/her> finger. You think it's a joke but pull it anyway. <He/She> farts, then walks off laughing.",
+    "While on a ladder in the supply room, reaching for a box up high, you feel a gentle push on your bottom. You look down to see <supervisor> smiling at you.",
+    "You approach <supervisor-possessive> office, but the door is locked. You peek through the small window and witness <him/her> doing a line of coke.",
+    "While attempting to explain a new process for the team, <supervisor> suddenly breaks down screaming that everyone of you is <insult>.",
+    "While demonstrating some new technology to your team, <supervisor> stops mid-sentence to announce <he/she> is much more comfortable not wearing underwear.",
+    "While in a closed-door meeting with <supervisor>, <he/she> matter-of-factly asks you how often you masturbate.",
+    "While closing up shop for the day, <supervisor> unlocks the supply cabinet and pulls out two new Optima 70-sheet desktop staplers. <he/she> takes one, hands you the other, then whispers, \"our secret\".",
+    "You made a simple, minor mistake at work but when <supervisor> noticed, <he/she> immediately called you <insult>.",
+    "When you arrive at the office party, you quickly realize it's just you and <supervisor>. <He/She> smiles and asks if you want to \"play doctor\" with <him/her>.",
+    "The big boss has asked for the monthly reports, and to look good, <supervisor> tells you to lie about your team's performance numbers.",
+    "<supervisor> invites everyone on your team to lunch, except you. When a co-worker asks if you are coming with them, <supervisor> interjects saying you need to lose a few pounds.",
+    "When communicating to <supervisor> that you've got too much work and not enough time, <he/she> suggests you get your hands on some <cocaine/uppers/meth/speed> to help deal with that situation in the future.",
+    "While complaining to <supervisor> that your back is aching from sitting all day, <he/she> suggests you get your hands on some <weed/opium/Methadone/opiates> to help with that situation in the future.",
+    "<supervisor> made a big mistake on <his/her> project but then told the big boss it was your fault.",
+    "<supervisor> is constantly correcting your behaviors, including those not associated with work. This morning <he/she> said you couldn't even <stir coffee correctly/walk properly/chew your food without smacking/speak in coherent sentences>.",
+    "You're having a discussion with your co-workers one morning when <supervisor> walks by, points at you and says, \"everyone always dresses so much better than you do\".",
+    "While enjoying a couple of jumbo hot dogs at the company picnic, <supervisor> confides in you that he's been suffering from erectile dysfunction.",
+    "While enjoying a couple of homebrews at the company picnic, <supervisor> confides in you that she's been suffering from a yeast infection.",
+    "While at the company golf tournament, <supervisor> asks if you wouldn't mind washing his balls.",
+    "When <supervisor> drops his pen under the conference table, and takes entirely too long to retrieve it, you discover he's down there looking up your skirt.",
+    "<supervisor> has been addressing a female co-worker as <\"Doll face\"/\"Honey\"/\"Sugar Lips\"/\"Darling\"/\"Love\"/\"Gorgeous\"/\"Beautiful\"/\"Sweet Cheeks\"/\"Babe\"/\"Precious\"/\"Muffin\"/\"Baby Cakes\"/\"Pudding\"/\"Snookums\"/\"Baby Girl\"/\"Angel Pie\"/\"Honeybun\"/\"Pumpkin\"/\"Mommy\"/\"Boo\"/\"Bubbles\"/\"Plumpy\"/\"Cankles\"/\"Kitten\"> instead of using her real name.",
+    "<supervisor> has been addressing a male coworker as <\"Honey\"/\"Darling\"/\"Love\"/\"Sweet Cheeks\"/\"Babe\"/\"Precious\"/\"Baby Cakes\"/\"Pudding\"/\"Honeybun\"/\"Pumpkin\"/\"Daddy\"/\"Boo\"/\"Stud\"/\"Stallion\"/\"Romeo\"/\"Handsome\"/\"Big D\"/\"Boner Champ\"> instead of using his real name.",
+    "<supervisor> just told your co-worker <that he is the best employee/that she is the best employee/that he is the most important employee/that she is the most important employee/that he is a favorite among the bosses/that she is a favorite among the bosses>, in front of the entire staff.",
+    "While sitting in a staff meeting, <supervisor> tells you <he/she> wishes you were as <smart/talented/skilled/organized/intelligent/honest/ambitious/positive/driven/self-motivated/reliable/committed/passionate/capable/hard-working/industrious/adept/proficient/competent/accomplished/brilliant/clever/effective> as some of the other employees are.",
+    "While sitting at your desk working, <supervisor> stops by to say that one day, <he/she> hopes you might be able to grow a bit less <dense/dull/foolish/shortsighted/basic/irrelevant/inadequate/incompetent/indecisive/inefficient/inept>.",
+    "<supervisor> just followed you into the bathroom, observed your process for <defecating/urinating/handwashing/wiping/flushing>, then said you were doing it all wrong.",
+    "<supervisor> just blamed you for a mistake that <he/she> made.",
+    "While sitting in a meeting, <supervisor> shares a brilliant idea of yours with the staff, but then takes all the credit for <himself/herself>.",
+    "<supervisor> just reminded an employee, yet again, how lucky <he/she> is to be working for <him/her>.",
+    "<supervisor> just sternly reminded you that, if you don't like <his/her> management style, you could always go back to your old job.",
+    "<supervisor> just threw a tantrum when <he didn't get his way/someone made a mistake/someone pointed out a mistake he made/someone questioned his authority/a co-worker was late for work/he didn't meet his goal/someone quit/someone was late to a meeting/someone talked during a meeting/someone forgot to flush the toilet/someone called in sick/someone asked for a raise/someone parked in his spot/someone borrowed his stapler/someone used his pen/someone sat in his chair/he got a holiday gift he didn't like>.",
+    "<supervisor> just threw a tantrum when <she didn't get her way/someone made a mistake/someone pointed out a mistake she made/someone questioned her authority/a co-worker was late for work/she didn't meet her goal/someone quit/someone was late to a meeting/someone talked during a meeting/someone forgot to flush the toilet/someone called in sick/someone asked for a raise/someone parked in her spot/someone borrowed her stapler/someone used her pen/someone sat in her chair/she got a holiday gift she didn't like>.",
+    "<supervisor> just reminded you that <he/she> is never, never, never wrong.",
+    "<supervisor> tells you <he/she> hopes that one day, you will be more like <him/her>.",
+    "<supervisor> calls you on your day off to say the work you've been doing is <mediocre at best/adequate at best/barely average/quite disappointing/pretty weak/lousy>, and <he/she> expects you to do better tomorrow.",
+    "While discussing team growth projections during a staff meeting, <supervisor> starts asking everyone who they think might have the largest penis in the office.",
+    "During a staff meeting, <supervisor> asks the entire team who they think has the nicest boobs in the office.",
+    "<supervisor> just asked a female co-worker if she would be a \"doll\" and grab him a cup of coffee.",
+    "<supervisor> just asked one of <his/her> employees to wash <his/her> car for <him/her>.",
+    "<supervisor> just asked the entire staff why we can't all be more like <him/her>.",
+    "<supervisor> just told you that the work you do is <not too bad/not terrible/mediocre/not as bad as it used to be/less awful than before/surprisingly decent>.",
+    "<supervisor> approached you to say the work you've been doing is fairly good but then adds that, regardless of how hard you try, it'll never be good enough for <him/her>.",
+    "<supervisor> just told a co-worker that being her boss makes him feel like <he owns her/he is more important than her/he's her daddy/he can control her/he can manipulate her>.",
+    "<supervisor> just told a co-worker that being his boss makes her feel like <she owns him/she is more important than him/she's his mommy/she can control him/she can manipulate him>.",
+    "While mindfully working on your own at the computer, <supervisor> walks by, and crop dusts you.",
+    "<supervisor> just commented on how <voluptuous/sexy/curvy/busty/alluring/seductive/hot/fashionable/attractive/curvaceous/well-proportioned/stacked/well-built/pretty/beautiful/gorgeous/enticing/appealing/tempting> a co-worker looks in the outfit she is currently wearing.",
+    "<supervisor> just commented on how <sexy/hot/fashionable/attractive/well-proportioned/well-built/handsome/hung/bulgy/muscular/brawny/strapping/husky/ripped/well-endowed/burly/powerful/dapper/enticing/appealing/tempting> a coworker looks in the outfit he is currently wearing.",
+    "While sitting in a staff meeting, <supervisor> tells everyone to check out how amazing <his/her> <arms/legs/abs/glutes/calves/quads/forearms/biceps> look since <he/she> started working out at the gym.",
+    "<supervisor> just conceded that it wouldn't be fair for <him/her> to expect employees to be as <productive/efficient/perfect/successful/competent> as <he/she> is.",
+    "<supervisor> just told a <racist/sexist/sexually inappropriate/crude/off-color/religious/toilet humor/penis/masturbation/death/political/drug> joke in front of everyone."
+  ],
+  "companyPrefixes": [
+    "24 Karat",
+    "AAA",
+    "Aardvark",
+    "Abacus",
+    "ABC",
+    "Absolute",
+    "Absolute Zero",
+    "Abstract",
+    "Acappella",
+    "Accent",
+    "Acme",
+    "Acoustic",
+    "Adagio",
+    "Alamo",
+    "Alchemy",
+    "Alexander",
+    "Allegiance",
+    "Allegro",
+    "Alliance",
+    "Alloy",
+    "Allure",
+    "Ally",
+    "Aloha",
+    "Altitude",
+    "Ambrosia",
+    "Amigo",
+    "Amplitude",
+    "Anytime",
+    "Aperture",
+    "Apex",
+    "Apollo",
+    "Appaloosa",
+    "Arcadia",
+    "Aria",
+    "Aristotle",
+    "Arrival",
+    "Arrow",
+    "Ash",
+    "Atlantic",
+    "Atlantis",
+    "Atlas",
+    "Atmosphere",
+    "Atomic",
+    "Atrium",
+    "Aurora",
+    "Avalon",
+    "Axis",
+    "Back Door",
+    "Baseline",
+    "Beacon",
+    "Bear Down",
+    "Beefcake",
+    "Begonia",
+    "Bellflower",
+    "Bengal",
+    "Big Load",
+    "Binary",
+    "Bishop",
+    "Black Rock",
+    "Blithe",
+    "Blowout",
+    "Blueprint",
+    "Bosom",
+    "Boulder",
+    "Bronze",
+    "Budding Rose",
+    "Budget",
+    "Butterfly",
+    "Byzantine",
+    "Cadence",
+    "Cadet",
+    "Cameo",
+    "Canopy",
+    "Capital",
+    "Cardinal",
+    "Carpe Diem",
+    "Cash Money",
+    "Catalyst",
+    "Catamaran",
+    "Caveman",
+    "Celestial",
+    "Central",
+    "Chateau",
+    "Cherry",
+    "Choice",
+    "Chrome",
+    "Climax",
+    "Cloud Nine",
+    "Clover",
+    "Coastal",
+    "Cobalt",
+    "Cocksure",
+    "Cocksure",
+    "Color",
+    "Comet",
+    "Commonwealth",
+    "Compass",
+    "Comrade",
+    "Condor",
+    "Corona",
+    "Cosmic",
+    "Countryside",
+    "Crafty",
+    "Crimson",
+    "Crown",
+    "Crystal",
+    "Cum Laude",
+    "Delta",
+    "Denali",
+    "Destiny",
+    "Diamond",
+    "Dilligent",
+    "Discount",
+    "Diversity",
+    "Divine",
+    "Dominion",
+    "Doozy",
+    "Dreamcatcher",
+    "Dynamic",
+    "Dynamite",
+    "Eager Beaver",
+    "Eagle",
+    "Easy",
+    "Eclipse",
+    "Ecosphere",
+    "Eden",
+    "Effusion",
+    "Emerald",
+    "Eminence",
+    "Empire",
+    "Encore",
+    "Ensemble",
+    "Epsilon",
+    "Equinox",
+    "Erect",
+    "Essence",
+    "Eternal",
+    "Everest",
+    "Everglade",
+    "Evolution",
+    "Falcon",
+    "Family",
+    "Farmland",
+    "Fidelity",
+    "Fingerwell",
+    "First",
+    "Focus",
+    "Fountainhead",
+    "Frontal",
+    "Fuji",
+    "Fuku",
+    "Gamma",
+    "General",
+    "Geyser",
+    "Glacier",
+    "Granite",
+    "Gravity",
+    "Green Valley",
+    "Greenhouse",
+    "Gung Ho",
+    "Handy",
+    "Harbor",
+    "Hardwood",
+    "Harmony",
+    "Harp",
+    "Heirloom",
+    "Horizon",
+    "Horseshoe",
+    "Hot Spot",
+    "Hourglass",
+    "Husky",
+    "Hyacinth",
+    "Hyperbole",
+    "Illumina",
+    "Impact",
+    "Imperial",
+    "Independent",
+    "Indica",
+    "Inertia",
+    "Infinity",
+    "Initiative",
+    "Integrity",
+    "Interstellar",
+    "Intimate",
+    "Iris",
+    "Iron",
+    "Jade",
+    "Johnson",
+    "Jones",
+    "Jubilee",
+    "Jupiter",
+    "Kama'aina",
+    "Kayak",
+    "Kief",
+    "Kingfisher",
+    "Krypton",
+    "Legacy",
+    "Lifeblood",
+    "Lilac",
+    "Lillypad",
+    "Lincoln",
+    "Liquid",
+    "Luminous",
+    "Lunar",
+    "Luxe",
+    "Maestro",
+    "Magnitude",
+    "Mahogany",
+    "Mammoth",
+    "Manhole",
+    "Maple",
+    "Marathon",
+    "Medley",
+    "Mercury",
+    "Meridian",
+    "Mesosphere",
+    "Morning Glory",
+    "Mountain",
+    "Namaste",
+    "Nebula",
+    "Neon",
+    "Neptune",
+    "Nirvana",
+    "Noble",
+    "Nourish",
+    "Nova",
+    "Nucleus",
+    "Oak Tree",
+    "Oasis",
+    "Olympus",
+    "Omni",
+    "Onyx",
+    "Opus",
+    "Oracle",
+    "Orchid",
+    "Overture",
+    "Pacific",
+    "Paddock",
+    "Paramount",
+    "Peacock",
+    "Peak",
+    "Phoenix",
+    "Pinnacle",
+    "Platinum",
+    "Plush",
+    "Pluto",
+    "Polar",
+    "Pony",
+    "Posh",
+    "Principal",
+    "Pristine",
+    "Progressive",
+    "Prominence",
+    "Prosperity",
+    "Prudent",
+    "Quantum",
+    "Quartz",
+    "Rabbit's Foot",
+    "Radial",
+    "Radiance",
+    "Rainbow",
+    "Rainier",
+    "Red Carpet",
+    "Redwood",
+    "Renaissance",
+    "Requiem",
+    "Rhythm",
+    "Rosebud",
+    "Rover",
+    "Royalty",
+    "Saguaro",
+    "Sandpiper",
+    "Sapphire",
+    "Sativa",
+    "Saturn",
+    "Scarlet",
+    "Seamen",
+    "Secret",
+    "Sedona",
+    "Sequoia",
+    "Serenade",
+    "Serenity",
+    "Shaft",
+    "Shamrock",
+    "Silicon",
+    "Skeleton Key",
+    "Smart",
+    "Smith",
+    "Sonata",
+    "Soprano",
+    "Sparkle",
+    "Spectrum",
+    "Spirit",
+    "Splendor",
+    "Spreadeagle",
+    "Spring",
+    "Spunky",
+    "Stallion",
+    "Starboard",
+    "Stoney",
+    "Stratosphere",
+    "Sublime",
+    "Summit",
+    "Sumptuous",
+    "Sunbeam",
+    "Sunflower",
+    "Sunrise",
+    "Supernova",
+    "Swagger",
+    "Swank",
+    "Swift",
+    "Symmetry",
+    "Synergy",
+    "Tango",
+    "Terrestrial",
+    "Thermal",
+    "Thoroughbred",
+    "Tidal",
+    "Tipsy",
+    "Titanium",
+    "Toucan",
+    "Transcendent",
+    "Triton",
+    "Triumph",
+    "Trojan",
+    "Union",
+    "United",
+    "Unity",
+    "Uranus",
+    "Valley",
+    "Velocity",
+    "Venus",
+    "Vigilance",
+    "Vitality",
+    "Vivacious",
+    "Vulva",
+    "Wanderlust",
+    "Watchtower",
+    "Wildcat",
+    "Willow",
+    "Wishbone",
+    "Zenith",
+    "Zion",
+    "Zodiac"
+  ],
+  "coworkerRumors": [
+    "<coworker> has, not just one, but many venereal diseases",
+    "<coworker> slept with <half the staff/a priest/a nun/a homeless man/Bob Saget/a landlord in exchange for rent/a circus clown/a drug dealer in exchange for drugs>",
+    "<coworker> once went to the emergency room because <he/she> got <a dildo/a cucumber/a vibrator/a Barbie doll/a potato/a flashlight/a carrot/a candy cane/a battery/a loaded gun/a bag of drugs/an egg/a cell phone/the boss's dildo/the boss's pen> stuck up <his/her> butt",
+    "<coworker> is homeless",
+    "<coworker-possessive> father is also <his/her> uncle",
+    "<coworker> has a crush on <his/her> cousin",
+    "<coworker> is in <a notorious street gang/the mafia/a drug cartel/the mob/the Russian mafia/the Japanese Yakuza/the KGB/the FBI/the CIA>",
+    "<coworker> pooped <his/her> pants earlier in the day",
+    "<coworker> is a vampire who preys on co-workers in the night",
+    "<coworker> has pica and is addicted to eating <glue/paper/toilet paper/chalk/hair/dirt/clay/cigarettes/rocks/paint chips/coffee grounds/sand/toothpaste/soap>",
+    "<coworker> believes the Earth is flat",
+    "<coworker> is <drug-illegal> addict",
+    "<coworker> hosts orgies at <his/her> house <every third Thursday of the month/every week/every Monday at noon/every time there is a full moon/Tuesdays and Thursdays from 5pm to 8pm/for every summer solstice/for every winter solstice/for every autumn equinox/for every spring equinox>",
+    "<coworker> has bowel incontinence, but <he/she> is trying desperately to keep it a secret",
+    "<coworker> is an alien <from Mars/from Uranus/from Coruscant/from Gallifrey/from Arda/from Erra/of the grey species/of the reptilian species/of the Nordic species>, disguised as a human",
+    "<coworker> is a cyborg designed by <Elon Musk/Bill Gates/Jeff Bezos/Mark Zuckerberg>",
+    "<coworker> secretly practices <Santeria/witchcraft/voodoo/Scientology/Satanism/Wiccan magic>",
+    "<coworker> is a serial murderer who targets <cheerleaders/priests/nuns/politicians/clowns/weebs/boomers/CEOs/soldiers/mail carriers/college boys/college girls/pedophiles/horse jockeys/lawyers/security guards/software developers/police officers/librarians/real estate agents/fashion models/truck drivers/jaywalkers/mean bosses/bullies>",
+    "<coworker> is a eunuch who lost <his/her> <pecker/wiener/penis/schlong/tool/member/phallus/dong/johnson/shaft/willy> <in a baking mishap/in a car accident/in an orgy gone wrong/in a glory hole massacre/when an ex got revenge/in a street fight/at war>",
+    "<coworker-possessive> middle name is actually <\"Arse\"/\"Flappy\"/\"Gassy\"/\"Dirt\"/\"Spicy\"/\"Trouble\"/\"Strawberry\"/\"Fatasse\"/\"Boomer\"/\"Cheeks\"/\"Osama\"/\"Stalin\"/\"Dracula\"/\"Bhabie\"/\"Malarkey\"/\"Sarcasm\"/\"Danger\"/\"Harold\"/\"Boner\"/\"Pickle\"/\"Savage\">",
+    "<coworker> is a clone that was created in <country-other>",
+    "<coworker> is deeply involved in <drug-illegal> smuggling ring",
+    "<coworker> steals co-workers' food out of the refrigerator",
+    "<coworker> leaves the toilet seat up",
+    "<coworker> always takes the last of the coffee without making a new pot",
+    "<coworker> is always <eating/sleeping/masturbating/drinking tea/getting drunk/drinking wine/praying/shaving/doing yoga/meditating/reading/hiding> in the bathroom",
+    "<coworker> is a pioneer in the anti-vaccination movement",
+    "<coworker> is a former inmate who was incarcerated for <kidnapping/homicide/larceny/manslaughter/first degree murder/second degree murder/arson/embezzlement/forgery/armed robbery/solicitation/conspiracy/DUIs/child abuse/producing child pornography/distributing child pornography/insurance fraud/perjury/racketeering/securities fraud/shoplifting/stalking/drug possession/drug trafficking/drug distribution/cyberbullying/identity theft/indecent exposure/tax evasion>",
+    "<coworker> has filmed <bondage/amateur/bisexual/furry/gang bang/incestual/softcore/clown/BDSM/femdom/cosplay/cuckold/role play> porn movies",
+    "<coworker> sees dead people",
+    "<coworker> has a <foot/hentai/bondage/voyeurism/swinger/cosplay/cameltoe/spanking/dominating/submission/role play> fetish",
+    "<coworker> has <a butt plug/an enormous dildo/furry handcuffs/a vibrator/nipple clamps/a pleasure whip/a strap-on/lube/porn magazines/a gun/a human skull/dirty socks/booze/drugs/a My Little Pony figurine/a pacifier/a saw/an unlabeled VHS tape/Vaseline/a jar of fingernail clippings> in <his/her> desk",
+    "<coworker> has a micropenis",
+    "<coworker> is a size queen",
+    "<coworker> is a cuckold",
+    "<coworker-possessive> favorite musician is <musician>",
+    "<coworker> has a crush on <Sarah Jessica Parker/Steven Tyler/Donatella Versace/Lil Wayne/David Schwimmer/Rosie O'Donnell/Steve Buscemi/Danny DeVito/Dennis Rodman/Mike Tyson/Vladimir Putin/Kim Jong-un/Shia LaBeouf/Marilyn Manson/Amy Schumer/Rowan Atkinson/Gary Busey/Rachel Dratch/Flavor Flav/IceJJFish/Mel Gibson/R. Kelly/Paris Hilton/Bill Cosby/Chris Brown>",
+    "<coworker> moonlights as <an exotic dancer/an escort/a stripper>",
+    "<coworker> has <num10-25> pet cats",
+    "<coworker> eats cereal with water",
+    "<coworker> wants to fight the boss in <a UFC/a boxing/a wrestling/a cage/a kickboxing/a karate/a judo/a kung fu/an aikido/a jujitsu/an MMA> match",
+    "<coworker> uses the copy machine to photocopy <his/her> butt",
+    "<coworker> performed sexual favors during <his/her> interview in order to secure the position",
+    "<coworker> is pregnant with <the boss's/a stranger's/a fireman's/a politician's/a gangster's/a married man's/a college guy's/a blind man's/a homeless man's/a priest's/a pool boy's> baby",
+    "<coworker> is a spy from <country-other>",
+    "<coworker> is the biggest gossiper on staff"
+  ],
+  "coworkerAnnoys": [
+    "It's nearly impossible to concentrate on your work with <coworker> sitting next to you, mouth agape as <he/she> loudly chomps <his/her> way through a bag of salted peanuts.",
+    "You enter the break room and discover <coworker> has nearly devoured all your <Popeye's fried chicken sandwich/spaghetti Bolognese/double bacon cheeseburger and fries/Hawaiian-style pizza/crispy tater tots/loaded cobb salad/braised pot roast/British-pub fish n' chips/creole jambalaya/homestyle biscuits and gravy/Toro sushi/American meatloaf/cheesy grits/Memphis-style ribs/chipotle-honey chicken wings/authentic Canadian poutine/lobster mac and cheese/New England style clam chowder/green chili enchiladas/chili cheese nachos/combo fried rice/homemade chicken pot pie/organic foot-long sausage/turkey bacon avocado sandwich/spicy teriyaki chicken/savory shrimp scampi> that <he/she> \"found\" in the fridge.",
+    "While enjoying a fresh salad for lunch in the break room, a wretched odor besieges you. You turn to discover that <coworker> is reheating leftover <kimchi jjigae/vegemite surprise/clams with fish sauce/boiled brussels sprouts/shrimp paste/spicy sauerkraut/tuna casserole> in the microwave.",
+    "As you're rushing into the bathroom to <defecate/drop a deuce/drop the kids off at the pool/make poopie/take a dump>, <coworker> brushes past you as he briskly exits the one, and only, stall. You step inside to discover he <has clogged the toilet, and it's overflowing/did not flush down the brown/peed all over the toilet seat/used up all the tissue>.",
+    "As you're rushing into the bathroom to <defecate/drop a deuce/drop the kids off at the pool/make poopie/take a dump>, <coworker> brushes past you as she briskly exits the one, and only, stall. You step inside to discover she <has clogged the toilet, and it's overflowing/did not flush down the brown/peed all over the toilet seat/used up all the tissue>.",
+    "<coworker> just squeezed out a fart as <he/she> walked past you, saying, <\"All things must pass.\"/\"Earthquake?!\"/\"Whoopsie Daisy!\"/\"They've got barking spiders in here!\"/\"Name that tune?!\"/\"Hold the phone!\"/\"Pardon my bottom.\"/\"Badger!\"/\"Who did that?\"/\"Yikes!\"/\"It wasn't me\\u2013it was the butthole behind me!\"/\"Is it windy in here?\"/\"Better out than in!\"/\"Guess what I just ate?\"/\"Safety!\"/\"Good luck!\">.",
+    "You're working hard when <coworker> keeps trying to talk to you, rambling on about <politics/cooking/office drama/gossip/anime/cosplay/sports/Hollywood gossip/the weather/soap operas/religion/God/the boss/personal problems/sewing/grammar/Nickelback/Justin Bieber/traffic>.",
+    "While enjoying your favorite fast-food combo #6, extra-large, <coworker> approaches and begins lecturing you about healthy eating.",
+    "In the morning meeting, <coworker> begins showing off <his/her> ability to belch the entire alphabet in front of everyone.",
+    "While busy working on a project, <coworker> keeps following you around, telling you why you should support the political candidate that <he/she> endorses.",
+    "<coworker>, who is a close talker, gets right up in your face and starts telling you all about <his/her> <most recent bowel movement/lunch/favorite political candidate/health issues/cavities/battle with halitosis/bowling league/latest knitting project/favorite anime character/gastrointestinal issues/favorite religious passages/investments/deepest, darkest secrets/favorite rapper/most recent enema>.",
+    "While detailing a report on the computer, you suddenly notice a highly unpleasant, vinegary aroma wafting into your workspace. You look up to discover <coworker> has taken off <his/her> shoes and socks and put <his/her> bare feet up on the table.",
+    "You get an email from <coworker> with the subject line: IMPORTANT. You open it up to discover it's the <third/fourth/fifth/sixth/seventh/eighth> chain-email <he/she> has sent this week.",
+    "<coworker> is making <his/her> annual campaign around the office, guilting everyone into buying excessive amounts of <Thin Mints/Samoas/Tagalongs/Do-si-dos/S'mores> to support <his/her> daughter's Girl Scout troop.",
+    "You're sitting in a bathroom stall at work going about your business when <coworker> begins a conversation with you from the adjoining stall about <climate change/Hollywood gossip/quantum physics/office gossip/politics/flat Earth theories/fashion/sports/anime/Disney princesses/diphthongs/dongles/manspreading/cats/spelunking/constipation/spiders in the toilet/astrology/yoga/meditation/Rasputin's penis/giraffes/snakes/silent films/hiccups/Belgian waffles/the Cleveland Browns/moisture/bees/serial murderers>.",
+    "<coworker> walks past you with a smile as you enter the breakroom. You approach the coffee maker only to discover <he/she> just took the last cup without having the common decency of brewing a new pot.",
+    "You're working at the computer when suddenly you feel something hit your <leg/arm/cheek/neck>. You turn to see <coworker> is clipping <his/her> <fingernails/toenails> right next to you.",
+    "You're hustling to finish up a task when suddenly you notice that <coworker> has <his/her> finger two knuckles deep inside <his/her> nostril, digging for gold.",
+    "You're sitting in a staff meeting when <coworker> shares an innovative idea with the team that you came up with, and told <him/her> about, earlier in the day.",
+    "While focusing intently on a project, <coworker> approaches you, uninvited, and begins pontificating endlessly about <his/her> <religious beliefs/political ideology/gluten-free diet/investment strategies/metacognition theories/purpose in life/participation in charities>.",
+    "You're having a conversation at work with <coworker>, but every time you attempt to say something, <he/she> interrupts you.",
+    "You've been assigned to collaborate with <coworker> on a project, but every time you attempt to contribute <he/she> <criticizes your ideas/refuses to hear you out/corrects your grammar/acts like a know-it-all>.",
+    "You're deeply entrenched in a project when <coworker> approaches your desk and aggressively begins soliciting a <signature/donation> to support a cause in which you have no interest.",
+    "<coworker> is enthusiastically summarizing <his/her> weekend to you; however, it\\u2019s nearly impossible to focus on what <he/she> is saying as you're completely distracted by the smell of <tuna/fish/body odor/sweat/rotten eggs/farts/gas/garbage/stinky feet/stinky socks/stinky cheese/booze/vomit/sewage/feces/urine/sweaty crotch/sweaty armpits/cigarette smoke/goat cheese> that seems to be emanating from <his/her> body.",
+    "You're having a rough day at work, and <coworker> keeps trying to cheer you up with <bad jokes/annoying clich\\351s/inspirational quotes/inappropriate jokes/stupid memes>.",
+    "Just as you are putting the final touches on a big project, <coworker> shows up reeking of alcohol and causing a ruckus.",
+    "You're concentrating on a project when <coworker> suddenly approaches and starts bombarding you with personal questions about your <family/finances/faith/home/political views/health/culture/spending habits/childhood/body>.",
+    "While very busy at work, <coworker> is enthusiastically telling you all about the political campaign rally <he/she> just attended, and why you need to vote for the candidate <he/she> supports.",
+    "After previously rejecting <his/her> offer on many occasions, <coworker> once again invited you to join <him/her> at a <political rally/poetry reading/puppet show/rodeo/church event/badminton match>.",
+    "While you're working on an important task, <coworker> is belligerently complaining to you about <work/the boss/company protocol/the office rules/other coworkers/traffic/the weather>.",
+    "Just as you arrive at the office, <coworker> approaches you and says, \"I love the fact that you couldn't care less about your appearance when you come to work\".",
+    "You're having a difficult time focusing on your work with <coworker> incessantly tapping <his/her> foot right next to you.",
+    "You're having a difficult time focusing on your work with <coworker> incessantly singing loudly and out of key.",
+    "You're having a difficult time focusing on your work with <coworker> incessantly pounding on <his/her> keyboard.",
+    "You're having a difficult time focusing on your work with <coworker> incessantly breathing loud and heavy right next to you.",
+    "You're having a difficult time focusing on your work with <coworker> incessantly shouting out profanities.",
+    "You're having a difficult time focusing on your work with <coworker> incessantly taking loud personal phone calls.",
+    "You're having a difficult time focusing on your work with <coworker> smacking on gum with <his/her> mouth wide open.",
+    "You're having a difficult time focusing on your work with <coworker> incessantly vaping right next to you.",
+    "You're having a difficult time focusing on your work with <coworker> venting out loud about <his/her> personal problems."
+  ],
+  "partTimeJobs": [
+    {
+      "name": "Admissions Assistant",
+      "companyType": "University",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": true,
+      "minSmarts": 20,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Amusement Park Attendant",
+      "companyType": "Amusement Park",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Arcade Assistant",
+      "companyType": "Mall",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Armpit Sniffer",
+      "companyType": "Small Business",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 1,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Babysitter",
+      "companyType": "Freelance",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 20,
+      "minHours": 4,
+      "maxHours": 30,
+      "minAge": 13,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 5,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Barista",
+      "companyType": "Coffee Shop",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Barnyard Sperm Extractor",
+      "companyType": "Farm",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 1,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Bellhop",
+      "companyType": "Hotel",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Beverage Cart Attendant",
+      "companyType": "Corporate",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 30,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 21,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 1,
+      "requiresDriverLicense": true
+    },
+    {
+      "name": "Bike Shop Mechanic",
+      "companyType": "Bike Shop",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Bookkeeper",
+      "companyType": "Corporate",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 50,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Boutique Associate",
+      "companyType": "Retailer",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Bowling Alley Assistant",
+      "companyType": "Bowling Alley",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Brand Ambassador",
+      "companyType": "Corporate",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 25,
+      "minHours": 8,
+      "maxHours": 20,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": true
+    },
+    {
+      "name": "Cafeteria Worker",
+      "companyType": "University",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": true,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Camp Counselor",
+      "companyType": "Small Business",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Campus Tour Guide",
+      "companyType": "University",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 20,
+      "minAge": 18,
+      "mustBeStudent": true,
+      "minSmarts": 30,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Car Wash Attendant",
+      "companyType": "Car Wash",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Caretaker",
+      "companyType": "Freelance",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Caterer",
+      "companyType": "Restaurant",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Chicken Sexer",
+      "companyType": "Farm",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 30,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 1,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Collections Specialist",
+      "companyType": "Corporate",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 25,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Concessions Attendant",
+      "companyType": "Movie Theater",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Crossing Guard",
+      "companyType": "Municipal",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 20,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Dance Instructor",
+      "companyType": "Dance Company",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 25,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Delivery Driver",
+      "companyType": "Pizza Chain",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": true
+    },
+    {
+      "name": "Department Store Associate",
+      "companyType": "Retailer",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Dog Walker",
+      "companyType": "Freelance",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 25,
+      "minHours": 6,
+      "maxHours": 20,
+      "minAge": 13,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Donut Maker",
+      "companyType": "Donut Shop",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Doorman",
+      "companyType": "Nightclub",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Fish Monger",
+      "companyType": "Fishery",
+      "minHourlyRate": 15,
+      "maxHourlyRate": 25,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 1,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Fitness Instructor",
+      "companyType": "Gym",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 40,
+      "minHours": 8,
+      "maxHours": 15,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Flower Shop Assistant",
+      "companyType": "Florist",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Go-Go Dancer",
+      "companyType": "Nightclub",
+      "minHourlyRate": 20,
+      "maxHourlyRate": 40,
+      "minHours": 6,
+      "maxHours": 10,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 1,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Golf Caddie",
+      "companyType": "Golf Course",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 20,
+      "minAge": 14,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 1,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Golf Shop Assistant",
+      "companyType": "Golf Course",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Grader",
+      "companyType": "University",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": true,
+      "minSmarts": 30,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Grocery Bagger",
+      "companyType": "Grocery Store",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Grocery Store Stocker",
+      "companyType": "Grocery Store",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Guano Collector",
+      "companyType": "Small Business",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 1,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Gym Receptionist",
+      "companyType": "Gym",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Handyman",
+      "companyType": "Freelance",
+      "minHourlyRate": 20,
+      "maxHourlyRate": 40,
+      "minHours": 5,
+      "maxHours": 30,
+      "minAge": 25,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": true
+    },
+    {
+      "name": "Hotel Concierge",
+      "companyType": "Hotel",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Hotel Front Desk Clerk",
+      "companyType": "Hotel",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 20,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Ice Cream Scooper",
+      "companyType": "Cafe",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Lab Assistant",
+      "companyType": "University",
+      "minHourlyRate": 15,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": true,
+      "minSmarts": 50,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Laser Tag Assistant",
+      "companyType": "Mall",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Lawn Mower",
+      "companyType": "Freelance",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 30,
+      "minHours": 4,
+      "maxHours": 8,
+      "minAge": 14,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Library Assistant",
+      "companyType": "Library",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": true,
+      "minSmarts": 20,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Lifeguard",
+      "companyType": "Swimming Pool",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 15,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Mailroom Attendant",
+      "companyType": "Municipal",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Mall Kiosk Worker",
+      "companyType": "Mall",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Mall Santa",
+      "companyType": "Mall",
+      "minHourlyRate": 20,
+      "maxHourlyRate": 40,
+      "minHours": 10,
+      "maxHours": 30,
+      "minAge": 50,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Mover",
+      "companyType": "Small Business",
+      "minHourlyRate": 15,
+      "maxHourlyRate": 25,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": true
+    },
+    {
+      "name": "Movie Theater Cashier",
+      "companyType": "Movie Theater",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Mystery Shopper",
+      "companyType": "Corporate",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 25,
+      "minHours": 6,
+      "maxHours": 10,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Newspaper Delivery Person",
+      "companyType": "Newspaper",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 12,
+      "minAge": 13,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Office Assistant",
+      "companyType": "Corporate",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 20,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Personal Trainer",
+      "companyType": "Gym",
+      "minHourlyRate": 15,
+      "maxHourlyRate": 40,
+      "minHours": 8,
+      "maxHours": 20,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Pet Sitter",
+      "companyType": "Freelance",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 20,
+      "minHours": 12,
+      "maxHours": 30,
+      "minAge": 13,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Pizza Maker",
+      "companyType": "Pizza Chain",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Pool Cleaner",
+      "companyType": "Swimming Pool",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 30,
+      "minHours": 8,
+      "maxHours": 15,
+      "minAge": 14,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Pool Towel Attendant",
+      "companyType": "Hotel",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 1,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Product Tester",
+      "companyType": "Corporate",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 20,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Research Assistant",
+      "companyType": "University",
+      "minHourlyRate": 15,
+      "maxHourlyRate": 25,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": true,
+      "minSmarts": 50,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Resident Assistant",
+      "companyType": "University",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": true,
+      "minSmarts": 20,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Sandwich Maker",
+      "companyType": "Cafe",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "School Bus Driver",
+      "companyType": "Municipal",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 25,
+      "minAge": 25,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": true
+    },
+    {
+      "name": "Secretary",
+      "companyType": "Corporate",
+      "minHourlyRate": 15,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 20,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Sign Holder",
+      "companyType": "Small Business",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 14,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Social Media Manager",
+      "companyType": "Small Business",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 30,
+      "minHours": 8,
+      "maxHours": 20,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 20,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Street Sweeper",
+      "companyType": "Municipal",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 1,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Swim Instructor",
+      "companyType": "Swimming Pool",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 20,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Teacher's Aide",
+      "companyType": "University",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 21,
+      "mustBeStudent": true,
+      "minSmarts": 70,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Teaching Assistant",
+      "companyType": "University",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": true,
+      "minSmarts": 70,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Tour Guide",
+      "companyType": "Travel Agency",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 25,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Tutor",
+      "companyType": "Freelance",
+      "minHourlyRate": 15,
+      "maxHourlyRate": 30,
+      "minHours": 6,
+      "maxHours": 30,
+      "minAge": 15,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Usher",
+      "companyType": "Hotel",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Valet",
+      "companyType": "Hotel",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 4,
+      "requiresDriverLicense": true
+    },
+    {
+      "name": "Video Game Tester",
+      "companyType": "App Developer",
+      "minHourlyRate": 10,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Window Cleaner",
+      "companyType": "Small Business",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 20,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 18,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 2,
+      "requiresDriverLicense": false
+    },
+    {
+      "name": "Yoga Receptionist",
+      "companyType": "Gym",
+      "minHourlyRate": 8,
+      "maxHourlyRate": 15,
+      "minHours": 8,
+      "maxHours": 30,
+      "minAge": 16,
+      "mustBeStudent": false,
+      "minSmarts": 0,
+      "commonness": 3,
+      "requiresDriverLicense": false
+    }
+  ],
+  "supervisorWarnings": [
+    "<supervisor> warned you to behave yourself.",
+    "<supervisor> told you that you are on thin ice.",
+    "<supervisor> told you that you are skating on thin ice.",
+    "<supervisor> warned you not to play with fire, figuratively speaking.",
+    "<supervisor> advised you to be on your best behavior.",
+    "<supervisor> told you to ensure that you are conducting yourself appropriately.",
+    "<supervisor> warned you to get your behaviors in check.",
+    "<supervisor> told you to get your act together.",
+    "<supervisor> reminded you to use self-control.",
+    "<supervisor> warned you to check your attitude.",
+    "<supervisor> cautioned you to control yourself.",
+    "<supervisor> warned you to move forward cautiously.",
+    "<supervisor> told you that you have to improve your behavior.",
+    "<supervisor> warned you to be more thoughtful about how you conduct yourself.",
+    "<supervisor> encouraged you to think before you act going forward.",
+    "<supervisor> encouraged you to turn it around.",
+    "<supervisor> encourage you to do the right thing.",
+    "<supervisor> encouraged you to be the best person that you can be.",
+    "<supervisor> told you that <he/she> has confidence that you will turn things around.",
+    "<supervisor> told you that <he/she> hopes you can understand how your poor choices affect you and those around you.",
+    "<supervisor> encouraged you to be your best you.",
+    "<supervisor> told you that <he/she> won't be so <lenient/forgiving/understanding/sympathetic/tolerant/easy/merciful> next time.",
+    "<supervisor> told you <he/she> trusts that you will not be such <a moron/an idiot/a dope/a dummy/a fool/a loser/a dimwit/an imbecile/a blockhead> moving forward.",
+    "<supervisor> advised you to watch your step moving forward.",
+    "<supervisor> informed you that you'll be in a world of pain if you keep it up.",
+    "<supervisor> told you that you better stop looking for trouble.",
+    "<supervisor> informed you that <he/she> will be keeping a close eye on you.",
+    "<supervisor> told you that you're asking for trouble if you keep it up.",
+    "<supervisor> told you <he/she> hopes you will learn from this experience.",
+    "<supervisor> told you that <he/she> is cheering for you to turn things around.",
+    "<supervisor> said that <he/she> won't let you off this easy next time."
+  ],
+  "companySuffixes": [
+    "Automotive",
+    "Banking Corporation",
+    "Communications",
+    "Consulting",
+    "Corp",
+    "Data",
+    "Designs",
+    "Development",
+    "Dynamics",
+    "Electronics",
+    "Energy",
+    "Fashions",
+    "Financial",
+    "Foods",
+    "Global",
+    "Group",
+    "Health",
+    "Holdings",
+    "Insurance",
+    "International",
+    "Investments",
+    "Labs",
+    "Mills",
+    "Motors",
+    "Properties",
+    "Securities",
+    "Semiconductor",
+    "Services",
+    "Systems",
+    "Technologies"
+  ],
+  "interviewQuestions": [
+    {
+      "question": "How did you hear about this position?",
+      "choices": [
+        {
+          "text": "A friend told me about it",
+          "score": 3
+        },
+        {
+          "text": "I saw a posting online",
+          "score": 4
+        },
+        {
+          "text": "I saw a \"Now Hiring\" sign",
+          "score": 3
+        },
+        {
+          "text": "I saw someone mention it on Facebook",
+          "score": 3
+        },
+        {
+          "text": "I've always wanted to work here",
+          "score": 5
+        },
+        {
+          "text": "I just happened to be walking by",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "question": "Why do you want this job?",
+      "choices": [
+        {
+          "text": "I will thrive in it",
+          "score": 5
+        },
+        {
+          "text": "I've always wanted to work here",
+          "score": 5
+        },
+        {
+          "text": "Because you\\u2019re a winner and I'm a winner",
+          "score": 4
+        },
+        {
+          "text": "It seems fun",
+          "score": 3
+        },
+        {
+          "text": "It's my dream job",
+          "score": 5
+        },
+        {
+          "text": "It's my only option",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "Why should we hire you?",
+      "choices": [
+        {
+          "text": "Hmmm, good question",
+          "score": 2
+        },
+        {
+          "text": "Why shouldn't you hire me?",
+          "score": 2
+        },
+        {
+          "text": "I'm the right fit",
+          "score": 4
+        },
+        {
+          "text": "I'm a hard worker",
+          "score": 5
+        },
+        {
+          "text": "It'll be a better place for everyone",
+          "score": 5
+        },
+        {
+          "text": "I'll be a great addition to the team",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "Which of these is your greatest strength professionally?",
+      "choices": [
+        {
+          "text": "I'm a good communicator",
+          "score": 5
+        },
+        {
+          "text": "I'm great with technology",
+          "score": 3
+        },
+        {
+          "text": "I'm very diligent",
+          "score": 5
+        },
+        {
+          "text": "I excel at problem solving",
+          "score": 5
+        },
+        {
+          "text": "I'm detail oriented",
+          "score": 5
+        },
+        {
+          "text": "I'm always prepared",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "question": "Which of these do you consider to be your biggest area of challenge?",
+      "choices": [
+        {
+          "text": "Sometimes I don't ask for help",
+          "score": 4
+        },
+        {
+          "text": "I always try to please everyone",
+          "score": 5
+        },
+        {
+          "text": "I'm not great with technology",
+          "score": 4
+        },
+        {
+          "text": "I can be shy",
+          "score": 3
+        },
+        {
+          "text": "I have some anxiety",
+          "score": 3
+        },
+        {
+          "text": "I'm too critical of myself",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "Where do you see yourself in 5 years?",
+      "choices": [
+        {
+          "text": "In a leadership role",
+          "score": 5
+        },
+        {
+          "text": "As your boss",
+          "score": 1
+        },
+        {
+          "text": "Retired",
+          "score": 1
+        },
+        {
+          "text": "Here, mastering my craft",
+          "score": 5
+        },
+        {
+          "text": "One day at a time, my friend",
+          "score": 2
+        },
+        {
+          "text": "Moving on up in the world",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "What are you looking for in a new position?",
+      "choices": [
+        {
+          "text": "A chance to develop professionally",
+          "score": 5
+        },
+        {
+          "text": "Are you sexually harassing me?",
+          "score": 1
+        },
+        {
+          "text": "A chance to advance my career",
+          "score": 4
+        },
+        {
+          "text": "An awesome salary",
+          "score": 2
+        },
+        {
+          "text": "A path toward my professional goals",
+          "score": 4
+        },
+        {
+          "text": "A way to gain work experience",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "What type of work environment do you prefer?",
+      "choices": [
+        {
+          "text": "A highly productive one",
+          "score": 5
+        },
+        {
+          "text": "One that is highly flexible",
+          "score": 3
+        },
+        {
+          "text": "One with a corporate structure",
+          "score": 3
+        },
+        {
+          "text": "I prefer to work alone",
+          "score": 2
+        },
+        {
+          "text": "I like to work remotely from home",
+          "score": 2
+        },
+        {
+          "text": "One that is very casual",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "How do you deal with stressful situations?",
+      "choices": [
+        {
+          "text": "I pop an anxiety pill",
+          "score": 1
+        },
+        {
+          "text": "I meditate",
+          "score": 4
+        },
+        {
+          "text": "One breath at a time",
+          "score": 5
+        },
+        {
+          "text": "I'm too blessed to be stressed",
+          "score": 3
+        },
+        {
+          "text": "I don't stress",
+          "score": 3
+        },
+        {
+          "text": "Often with an epic meltdown",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "What are your salary expectations?",
+      "choices": [
+        {
+          "text": "What've you got?",
+          "score": 1
+        },
+        {
+          "text": "They align with my experience",
+          "score": 4
+        },
+        {
+          "text": "They align with my qualifications",
+          "score": 4
+        },
+        {
+          "text": "I expect to be paid fairly",
+          "score": 3
+        },
+        {
+          "text": "Gimme dat cash",
+          "score": 1
+        },
+        {
+          "text": "The right fit is more important",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "Do you have any questions for us?",
+      "choices": [
+        {
+          "text": "Would I be a good fit?",
+          "score": 5
+        },
+        {
+          "text": "Can you tell me more about the job?",
+          "score": 5
+        },
+        {
+          "text": "What qualities are you looking for?",
+          "score": 5
+        },
+        {
+          "text": "What are your expectations for this role?",
+          "score": 5
+        },
+        {
+          "text": "Can you tell me more about the company?",
+          "score": 5
+        },
+        {
+          "text": "Can you tell me more about the culture?",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "Which of these secret powers would you most like to possess?",
+      "choices": [
+        {
+          "text": "Superhuman strength",
+          "score": 5
+        },
+        {
+          "text": "Telepathy",
+          "score": 5
+        },
+        {
+          "text": "Teleportation",
+          "score": 4
+        },
+        {
+          "text": "Invisibility",
+          "score": 2
+        },
+        {
+          "text": "Alchemy",
+          "score": 3
+        },
+        {
+          "text": "Psychokinesis",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "If you were 80 years old, which piece of advice would you give to an 18 year old?",
+      "choices": [
+        {
+          "text": "Everything happens for a reason",
+          "score": 5
+        },
+        {
+          "text": "Be yourself",
+          "score": 5
+        },
+        {
+          "text": "Make lemonade when given lemons",
+          "score": 5
+        },
+        {
+          "text": "Carpe diem",
+          "score": 5
+        },
+        {
+          "text": "Keep calm and carry on",
+          "score": 3
+        },
+        {
+          "text": "#YOLO",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "Which of these colors do you like the best?",
+      "choices": [
+        {
+          "text": "Red",
+          "score": 4
+        },
+        {
+          "text": "Green",
+          "score": 4
+        },
+        {
+          "text": "Orange",
+          "score": 4
+        },
+        {
+          "text": "Yellow",
+          "score": 4
+        },
+        {
+          "text": "Black",
+          "score": 3
+        },
+        {
+          "text": "Gold",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "question": "Which of these cookies do you like the best?",
+      "choices": [
+        {
+          "text": "Butter cookies",
+          "score": 3
+        },
+        {
+          "text": "Fortune cookies",
+          "score": 3
+        },
+        {
+          "text": "Peanut butter cookies",
+          "score": 4
+        },
+        {
+          "text": "Frosted sugar cookies",
+          "score": 4
+        },
+        {
+          "text": "Macaroons",
+          "score": 5
+        },
+        {
+          "text": "Snickerdoodles",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "question": "What would you do if you won the lottery?",
+      "choices": [
+        {
+          "text": "Buy a new car",
+          "score": 4
+        },
+        {
+          "text": "Buy 100,000 more lottery tickets",
+          "score": 3
+        },
+        {
+          "text": "Buy this organization",
+          "score": 1
+        },
+        {
+          "text": "Buy a professional sports franchise",
+          "score": 4
+        },
+        {
+          "text": "Buy a McDonald's restaurant",
+          "score": 3
+        },
+        {
+          "text": "Buy an airplane",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "What or who inspires you?",
+      "choices": [
+        {
+          "text": "The words of Edgar Allan Poe",
+          "score": 5
+        },
+        {
+          "text": "Nelson Mandela's fortitude",
+          "score": 5
+        },
+        {
+          "text": "Martin Luther King's dream",
+          "score": 5
+        },
+        {
+          "text": "The compassion of Mother Teresa",
+          "score": 5
+        },
+        {
+          "text": "Lionel Messi's talent",
+          "score": 4
+        },
+        {
+          "text": "The BitLife developers",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "What or who motivates you?",
+      "choices": [
+        {
+          "text": "Money",
+          "score": 3
+        },
+        {
+          "text": "My previous failures",
+          "score": 5
+        },
+        {
+          "text": "Words of praise from those I respect",
+          "score": 5
+        },
+        {
+          "text": "The desire for power",
+          "score": 1
+        },
+        {
+          "text": "A passion for learning new things",
+          "score": 5
+        },
+        {
+          "text": "Helping others",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "Which of these words best describes you?",
+      "choices": [
+        {
+          "text": "Legendary",
+          "score": 3
+        },
+        {
+          "text": "Efficient",
+          "score": 5
+        },
+        {
+          "text": "Money",
+          "score": 1
+        },
+        {
+          "text": "Entitled",
+          "score": 1
+        },
+        {
+          "text": "Lazy",
+          "score": 1
+        },
+        {
+          "text": "Cheerful",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "question": "Which of these are you most passionate about?",
+      "choices": [
+        {
+          "text": "Animal rescue",
+          "score": 5
+        },
+        {
+          "text": "Music",
+          "score": 4
+        },
+        {
+          "text": "Film",
+          "score": 4
+        },
+        {
+          "text": "Sleep",
+          "score": 3
+        },
+        {
+          "text": "Preparing for retirement",
+          "score": 2
+        },
+        {
+          "text": "Hacking",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "Which of these trees do you relate to the most?",
+      "choices": [
+        {
+          "text": "Palm tree",
+          "score": 3
+        },
+        {
+          "text": "Coconut tree",
+          "score": 4
+        },
+        {
+          "text": "Beech tree",
+          "score": 4
+        },
+        {
+          "text": "Oak tree",
+          "score": 5
+        },
+        {
+          "text": "Ash tree",
+          "score": 3
+        },
+        {
+          "text": "Weeping willow",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "If we asked your friends which animal you would be, which would they choose?",
+      "choices": [
+        {
+          "text": "A lion",
+          "score": 5
+        },
+        {
+          "text": "An eagle",
+          "score": 5
+        },
+        {
+          "text": "A bear",
+          "score": 4
+        },
+        {
+          "text": "A mouse",
+          "score": 2
+        },
+        {
+          "text": "A shark",
+          "score": 2
+        },
+        {
+          "text": "A fox",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "Which of these would you choose as your last meal?",
+      "choices": [
+        {
+          "text": "Cheeseburger",
+          "score": 5
+        },
+        {
+          "text": "Spaghetti",
+          "score": 5
+        },
+        {
+          "text": "Chicken & waffles",
+          "score": 4
+        },
+        {
+          "text": "Jambalaya",
+          "score": 5
+        },
+        {
+          "text": "A hoagie",
+          "score": 3
+        },
+        {
+          "text": "A hot dog",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "question": "If you could only eat one of these desserts for the rest of your life, what would it be?",
+      "choices": [
+        {
+          "text": "Frozen yogurt",
+          "score": 4
+        },
+        {
+          "text": "Donuts",
+          "score": 5
+        },
+        {
+          "text": "Birthday cupcakes",
+          "score": 5
+        },
+        {
+          "text": "Apple pie",
+          "score": 5
+        },
+        {
+          "text": "Pop Tarts",
+          "score": 2
+        },
+        {
+          "text": "Scones",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the best superhero?",
+      "choices": [
+        {
+          "text": "Batman",
+          "score": 4
+        },
+        {
+          "text": "Spiderman",
+          "score": 4
+        },
+        {
+          "text": "Wonder Woman",
+          "score": 5
+        },
+        {
+          "text": "Superman",
+          "score": 5
+        },
+        {
+          "text": "Captain America",
+          "score": 3
+        },
+        {
+          "text": "Thor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "Have you ever stolen a pen from work?",
+      "choices": [
+        {
+          "text": "Honestly, I don't know",
+          "score": 4
+        },
+        {
+          "text": "Who hasn't?",
+          "score": 2
+        },
+        {
+          "text": "I only use pens stolen from work",
+          "score": 1
+        },
+        {
+          "text": "I've never stolen a thing in my life",
+          "score": 5
+        },
+        {
+          "text": "No, only borrowed them",
+          "score": 4
+        },
+        {
+          "text": "I've already stolen two here today",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "Which of these would be hardest for you to live without?",
+      "choices": [
+        {
+          "text": "Family",
+          "score": 5
+        },
+        {
+          "text": "Friends",
+          "score": 5
+        },
+        {
+          "text": "Alcohol",
+          "score": 1
+        },
+        {
+          "text": "Coffee",
+          "score": 3
+        },
+        {
+          "text": "Phone",
+          "score": 2
+        },
+        {
+          "text": "Pizza",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "question": "How are you most likely to invest your money?",
+      "choices": [
+        {
+          "text": "Bonds",
+          "score": 5
+        },
+        {
+          "text": "Mutual funds",
+          "score": 5
+        },
+        {
+          "text": "Real estate",
+          "score": 5
+        },
+        {
+          "text": "Bitcoin",
+          "score": 3
+        },
+        {
+          "text": "Retirement funds",
+          "score": 5
+        },
+        {
+          "text": "Stocks",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "question": "Do you consider yourself to be a good listener?",
+      "choices": [
+        {
+          "text": "Yeah, I think so",
+          "score": 4
+        },
+        {
+          "text": "I'm working to be a better listener",
+          "score": 4
+        },
+        {
+          "text": "I hear you loud and clear",
+          "score": 2
+        },
+        {
+          "text": "It depends who's talking",
+          "score": 2
+        },
+        {
+          "text": "Yes, I listen to music every day",
+          "score": 2
+        },
+        {
+          "text": "Could you repeat the question?",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "Do you handle conflict well?",
+      "choices": [
+        {
+          "text": "I think I handle conflict with tact",
+          "score": 5
+        },
+        {
+          "text": "I tend to shy away from conflict",
+          "score": 2
+        },
+        {
+          "text": "I avoid conflict at all costs",
+          "score": 1
+        },
+        {
+          "text": "I don't like confronting people",
+          "score": 2
+        },
+        {
+          "text": "I am great at conflict resolution",
+          "score": 5
+        },
+        {
+          "text": "Yeah, I just focus on the task at hand",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "Are you a goal-oriented person?",
+      "choices": [
+        {
+          "text": "Yes, but I may set too many goals",
+          "score": 4
+        },
+        {
+          "text": "Sometimes I am overly ambitious",
+          "score": 4
+        },
+        {
+          "text": "I'm not a fan of soccer",
+          "score": 1
+        },
+        {
+          "text": "I attribute my success to goal-setting",
+          "score": 5
+        },
+        {
+          "text": "S.M.A.R.T. goals all day long!",
+          "score": 4
+        },
+        {
+          "text": "My goal is to set more goals",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "question": "Do you have any plans for future education?",
+      "choices": [
+        {
+          "text": "I'm committed to lifelong learning",
+          "score": 5
+        },
+        {
+          "text": "I'll never stop learning",
+          "score": 5
+        },
+        {
+          "text": "Education never ends",
+          "score": 5
+        },
+        {
+          "text": "I'd like to continue taking courses",
+          "score": 5
+        },
+        {
+          "text": "I'd like to continue professional learning",
+          "score": 5
+        },
+        {
+          "text": "Education is a waste of money",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "What's the worst thing you've ever done?",
+      "choices": [
+        {
+          "text": "I stole from a homeless man",
+          "score": 1
+        },
+        {
+          "text": "I lied to my mom",
+          "score": 5
+        },
+        {
+          "text": "I told a child his mom doesn't love him",
+          "score": 1
+        },
+        {
+          "text": "I stole a book from the library",
+          "score": 5
+        },
+        {
+          "text": "I defecated on my enemy's lawn",
+          "score": 2
+        },
+        {
+          "text": "I slashed my neighbor's tire",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "What is the best place to masturbate?",
+      "choices": [
+        {
+          "text": "The shower",
+          "score": 2
+        },
+        {
+          "text": "The couch",
+          "score": 2
+        },
+        {
+          "text": "My desk",
+          "score": 1
+        },
+        {
+          "text": "The bathtub",
+          "score": 2
+        },
+        {
+          "text": "My bed",
+          "score": 2
+        },
+        {
+          "text": "The kitchen",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the most respectable Disney princess?",
+      "choices": [
+        {
+          "text": "Ariel",
+          "score": 4
+        },
+        {
+          "text": "Moana",
+          "score": 4
+        },
+        {
+          "text": "Belle",
+          "score": 5
+        },
+        {
+          "text": "Tiana",
+          "score": 5
+        },
+        {
+          "text": "Rapunzel",
+          "score": 4
+        },
+        {
+          "text": "Pocahontas",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "question": "Which of these \"Game of Thrones\" characters do you relate to most?",
+      "choices": [
+        {
+          "text": "Jon Snow",
+          "score": 5
+        },
+        {
+          "text": "Arya Stark",
+          "score": 5
+        },
+        {
+          "text": "Cersei Lannister",
+          "score": 1
+        },
+        {
+          "text": "Sansa Stark",
+          "score": 3
+        },
+        {
+          "text": "Tyrion Lannister",
+          "score": 5
+        },
+        {
+          "text": "Bran Stark",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "Which of these \"Star Wars\" characters do you relate to most?",
+      "choices": [
+        {
+          "text": "Darth Vader",
+          "score": 1
+        },
+        {
+          "text": "Yoda",
+          "score": 5
+        },
+        {
+          "text": "Luke Skywalker",
+          "score": 5
+        },
+        {
+          "text": "Princess Leia",
+          "score": 5
+        },
+        {
+          "text": "Jabba the Hutt",
+          "score": 1
+        },
+        {
+          "text": "R2-D2",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "question": "Which of these \"The Office\" characters do you relate to most?",
+      "choices": [
+        {
+          "text": "Dwight",
+          "score": 3
+        },
+        {
+          "text": "Pam",
+          "score": 4
+        },
+        {
+          "text": "Michael",
+          "score": 2
+        },
+        {
+          "text": "Jim",
+          "score": 5
+        },
+        {
+          "text": "Kevin",
+          "score": 2
+        },
+        {
+          "text": "Andy",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "Which of these \"SpongeBob SquarePants\" characters do you relate to most?",
+      "choices": [
+        {
+          "text": "Patrick Star",
+          "score": 1
+        },
+        {
+          "text": "Squidward Tentacles",
+          "score": 2
+        },
+        {
+          "text": "Sandy Cheeks",
+          "score": 5
+        },
+        {
+          "text": "SpongeBob",
+          "score": 5
+        },
+        {
+          "text": "Mr. Krabs",
+          "score": 2
+        },
+        {
+          "text": "Plankton",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "Which of these \"Harry Potter\" characters do you relate to most?",
+      "choices": [
+        {
+          "text": "Lord Voldemort",
+          "score": 1
+        },
+        {
+          "text": "Professor Albus Dumbledore",
+          "score": 5
+        },
+        {
+          "text": "Hermione Granger",
+          "score": 4
+        },
+        {
+          "text": "Professor Severus Snape",
+          "score": 3
+        },
+        {
+          "text": "Ron Weasley",
+          "score": 3
+        },
+        {
+          "text": "Draco Malfoy",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "question": "Which of these \"Sex & the City\" characters do you relate to most?",
+      "choices": [
+        {
+          "text": "Samantha",
+          "score": 1
+        },
+        {
+          "text": "Charlotte",
+          "score": 4
+        },
+        {
+          "text": "Miranda",
+          "score": 4
+        },
+        {
+          "text": "Carrie",
+          "score": 5
+        },
+        {
+          "text": "Mr. Big",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "Team Edward or Team Jacob?",
+      "choices": [
+        {
+          "text": "Both",
+          "score": 2
+        },
+        {
+          "text": "Team Jacob",
+          "score": 3
+        },
+        {
+          "text": "Team Edward",
+          "score": 3
+        },
+        {
+          "text": "Neither",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "Which element do you identify with the most?",
+      "choices": [
+        {
+          "text": "Air",
+          "score": 3
+        },
+        {
+          "text": "Fire",
+          "score": 2
+        },
+        {
+          "text": "Water",
+          "score": 4
+        },
+        {
+          "text": "Earth",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "Coffee or tea?",
+      "choices": [
+        {
+          "text": "Both",
+          "score": 2
+        },
+        {
+          "text": "Coffee",
+          "score": 5
+        },
+        {
+          "text": "Tea",
+          "score": 4
+        },
+        {
+          "text": "Neither",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "Do you prefer to call or text?",
+      "choices": [
+        {
+          "text": "Text",
+          "score": 4
+        },
+        {
+          "text": "I like both",
+          "score": 3
+        },
+        {
+          "text": "I prefer to talk in person",
+          "score": 3
+        },
+        {
+          "text": "Call",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "Do you prefer to be liked or be right?",
+      "choices": [
+        {
+          "text": "Neither",
+          "score": 1
+        },
+        {
+          "text": "I'd rather be liked",
+          "score": 4
+        },
+        {
+          "text": "I'd rather be right",
+          "score": 4
+        },
+        {
+          "text": "Both",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "coworkerPranks": [
+    "You just discovered that <coworker> placed a dead fish in one of your desk drawers.",
+    "You just realized that <coworker> changed your desktop background to a picture of <the Backstreet Boys/Justin Bieber/Nicolas Cage/Betty White/the twins from the Shining/Pennywise/Freddy Krueger/snakes/spiders/rats/cockroaches/needles/Norman Bates/Hannibal Lecter/Chucky/a creepy alien/the Joker/Jack the Ripper/Ted Bundy/Jeffrey Dahmer/the boss's naked mother/John Wayne Gacy/poop/a naked old lady/a naked old man/Gwyneth Paltrow/Lindsay Lohan/a creepy dentist/unkept feet/monkeys having sex>.",
+    "You just discovered that <coworker> superglued all of your belongings to your desk.",
+    "You just realized that <coworker> hid all of your personal belongings.",
+    "You just finished using the toilet and realized that <coworker> has locked you in the bathroom.",
+    "You just came back from a bathroom break and realized that <coworker> has changed your password.",
+    "You just realized <coworker> was able to log into your email account and <he/she> sent <nasty emails to co-workers/chain emails to the entire staff/a fart joke email to the entire staff/a confession of love email to the boss/a political email to the entire staff/a resignation email to the entire staff>.",
+    "You just spent <num10-30> minutes trying to figure out why your mouse wouldn<+?f|p;; .*\u007f8;8a\u007faum!e/)2xt.*:.h/%jtrl\u007fr"
+  ]
+}

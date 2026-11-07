@@ -1,0 +1,2540 @@
+{
+  "martialArts": [
+    {
+      "name": "Jiu-Jitsu",
+      "belts": [
+        "White",
+        "Blue",
+        "Purple",
+        "Brown",
+        "Black",
+        "Red"
+      ],
+      "move1": {
+        "name": "grapple",
+        "pastVerb": "grappled",
+        "score": 4
+      },
+      "move2": {
+        "name": "spinning back kick",
+        "pastVerb": "delivered a spinning back kick to",
+        "score": 5
+      }
+    },
+    {
+      "name": "Judo",
+      "belts": [
+        "White",
+        "Yellow",
+        "Orange",
+        "Green",
+        "Brown",
+        "Black",
+        "Red"
+      ],
+      "move1": {
+        "name": "fist strike",
+        "pastVerb": "delivered a fist strike to",
+        "score": 3
+      },
+      "move2": {
+        "name": "side kick",
+        "pastVerb": "delivered a side kick to",
+        "score": 5
+      }
+    },
+    {
+      "name": "Karate",
+      "belts": [
+        "White",
+        "Yellow",
+        "Orange",
+        "Purple",
+        "Blue",
+        "Green",
+        "Brown",
+        "Black",
+        "Red"
+      ],
+      "move1": {
+        "name": "karate chop",
+        "pastVerb": "karate chopped",
+        "score": 4
+      },
+      "move2": {
+        "name": "karate kick",
+        "pastVerb": "karate kicked",
+        "score": 5
+      }
+    },
+    {
+      "name": "Kung Fu",
+      "belts": [
+        "White",
+        "Yellow",
+        "Green",
+        "Purple",
+        "Orange",
+        "Blue",
+        "Brown",
+        "Red",
+        "Black"
+      ],
+      "move1": {
+        "name": "tiger claw strike",
+        "pastVerb": "delivered a tiger claw strike to",
+        "score": 3
+      },
+      "move2": {
+        "name": "butterfly kick",
+        "pastVerb": "butterfly kicked",
+        "score": 5
+      }
+    },
+    {
+      "name": "Taekwondo",
+      "belts": [
+        "White",
+        "Yellow",
+        "Orange",
+        "Green",
+        "Purple",
+        "Blue",
+        "Brown",
+        "Red",
+        "Black"
+      ],
+      "move1": {
+        "name": "eagle strike",
+        "pastVerb": "delivered an eagle strike to",
+        "score": 3
+      },
+      "move2": {
+        "name": "double roundhouse kick",
+        "pastVerb": "double roundhouse kicked",
+        "score": 5
+      }
+    },
+    {
+      "name": "Krav Maga",
+      "belts": [
+        "White",
+        "Yellow",
+        "Orange",
+        "Green",
+        "Blue",
+        "Brown",
+        "Black"
+      ],
+      "move1": {
+        "name": "cross body punch",
+        "pastVerb": "delivered a cross body punch to",
+        "score": 3
+      },
+      "move2": {
+        "name": "axe kick",
+        "pastVerb": "axe kicked",
+        "score": 5
+      }
+    }
+  ],
+  "diets": [
+    {
+      "name": "Vegan",
+      "useArticle": false,
+      "monthlyCost": 300,
+      "healthImpact": 1,
+      "happinessImpact": -1,
+      "appearanceImpact": 3,
+      "associatedDisease": "malnutrition"
+    },
+    {
+      "name": "Keto",
+      "useArticle": false,
+      "monthlyCost": 200,
+      "healthImpact": 0,
+      "happinessImpact": -1,
+      "appearanceImpact": 2,
+      "associatedDisease": "heart disease"
+    },
+    {
+      "name": "Atkins",
+      "useArticle": true,
+      "monthlyCost": 350,
+      "healthImpact": -1,
+      "happinessImpact": -1,
+      "appearanceImpact": 2,
+      "associatedDisease": "heart disease"
+    },
+    {
+      "name": "Whole30",
+      "useArticle": true,
+      "monthlyCost": 250,
+      "healthImpact": 1,
+      "happinessImpact": -2,
+      "appearanceImpact": 1,
+      "associatedDisease": "depression"
+    },
+    {
+      "name": "Paleo",
+      "useArticle": false,
+      "monthlyCost": 250,
+      "healthImpact": 1,
+      "happinessImpact": -2,
+      "appearanceImpact": 2,
+      "associatedDisease": "depression"
+    },
+    {
+      "name": "South Beach",
+      "useArticle": true,
+      "monthlyCost": 350,
+      "healthImpact": 1,
+      "happinessImpact": 0,
+      "appearanceImpact": 2,
+      "associatedDisease": ""
+    },
+    {
+      "name": "Mediterranean",
+      "useArticle": true,
+      "monthlyCost": 200,
+      "healthImpact": 3,
+      "happinessImpact": 2,
+      "appearanceImpact": 2,
+      "associatedDisease": ""
+    },
+    {
+      "name": "Weight Watchers",
+      "useArticle": true,
+      "monthlyCost": 500,
+      "healthImpact": 2,
+      "happinessImpact": 2,
+      "appearanceImpact": 3,
+      "associatedDisease": ""
+    },
+    {
+      "name": "Vegetarian",
+      "useArticle": false,
+      "monthlyCost": 250,
+      "healthImpact": 2,
+      "happinessImpact": 0,
+      "appearanceImpact": 2,
+      "associatedDisease": "malnutrition"
+    },
+    {
+      "name": "Jenny Craig",
+      "useArticle": true,
+      "monthlyCost": 400,
+      "healthImpact": 2,
+      "happinessImpact": 1,
+      "appearanceImpact": 2,
+      "associatedDisease": ""
+    },
+    {
+      "name": "Nutrisystem",
+      "useArticle": true,
+      "monthlyCost": 500,
+      "healthImpact": 1,
+      "happinessImpact": 0,
+      "appearanceImpact": 2,
+      "associatedDisease": ""
+    },
+    {
+      "name": "High Calorie",
+      "useArticle": false,
+      "monthlyCost": 300,
+      "healthImpact": -3,
+      "happinessImpact": 3,
+      "appearanceImpact": -3,
+      "associatedDisease": "diabetes"
+    },
+    {
+      "name": "Hot Cheetos",
+      "useArticle": false,
+      "monthlyCost": 200,
+      "healthImpact": -5,
+      "happinessImpact": 5,
+      "appearanceImpact": -5,
+      "associatedDisease": "malnutrition"
+    },
+    {
+      "name": "Tapeworm",
+      "useArticle": false,
+      "monthlyCost": 200,
+      "healthImpact": -5,
+      "happinessImpact": -5,
+      "appearanceImpact": -5,
+      "associatedDisease": "diarrhea"
+    },
+    {
+      "name": "Liquid",
+      "useArticle": false,
+      "monthlyCost": 300,
+      "healthImpact": -2,
+      "happinessImpact": -2,
+      "appearanceImpact": 2,
+      "associatedDisease": "malnutrition"
+    }
+  ],
+  "books": [
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Science Fiction",
+      "pages": 237,
+      "intelligenceScore": 5,
+      "happinessScore": -1,
+      "minAge": 16
+    },
+    {
+      "title": "#IMomSoHard",
+      "author": "Kristin Hensley\\240",
+      "genre": "Comedy",
+      "pages": 272,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 16
+    },
+    {
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "genre": "Non-Fiction",
+      "pages": 256,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "genre": "Fantasy",
+      "pages": 694,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 17
+    },
+    {
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "genre": "Historical Fiction",
+      "pages": 489,
+      "intelligenceScore": 4,
+      "happinessScore": -1,
+      "minAge": 16
+    },
+    {
+      "title": "A Time to Kill",
+      "author": "John Grisham",
+      "genre": "Novel",
+      "pages": 546,
+      "intelligenceScore": 1,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "A Tree Grows in Brooklyn",
+      "author": "Betty Smith",
+      "genre": "Novel",
+      "pages": 493,
+      "intelligenceScore": 3,
+      "happinessScore": 3,
+      "minAge": 12
+    },
+    {
+      "title": "A Wrinkle in Time",
+      "author": "Madeleine L'Engle",
+      "genre": "Fantasy",
+      "pages": 260,
+      "intelligenceScore": 1,
+      "happinessScore": 4,
+      "minAge": 9
+    },
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "genre": "Fantasy",
+      "pages": 239,
+      "intelligenceScore": 6,
+      "happinessScore": 6,
+      "minAge": 9
+    },
+    {
+      "title": "All My Friends Are Dead",
+      "author": "Avery Monsen",
+      "genre": "Comedy",
+      "pages": 96,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 16
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "author": "Erich Maria Remarque",
+      "genre": "Historical Fiction",
+      "pages": 296,
+      "intelligenceScore": 3,
+      "happinessScore": -2,
+      "minAge": 16
+    },
+    {
+      "title": "Angela's Ashes",
+      "author": "Frank McCourt",
+      "genre": "Autobiography",
+      "pages": 378,
+      "intelligenceScore": 3,
+      "happinessScore": -2,
+      "minAge": 14
+    },
+    {
+      "title": "Atlas Shrugged",
+      "author": "Ayn Rand",
+      "genre": "Novel",
+      "pages": 1168,
+      "intelligenceScore": 5,
+      "happinessScore": 2,
+      "minAge": 16
+    },
+    {
+      "title": "Awaken the Giant Within",
+      "author": "Tony Robbins",
+      "genre": "Self-Help",
+      "pages": 548,
+      "intelligenceScore": 5,
+      "happinessScore": 5,
+      "minAge": 14
+    },
+    {
+      "title": "Beauty Fades, Dumb is Forever",
+      "author": "Judy Sheindlin",
+      "genre": "Comedy",
+      "pages": 190,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 18
+    },
+    {
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "genre": "Autobiography",
+      "pages": 463,
+      "intelligenceScore": 5,
+      "happinessScore": 3,
+      "minAge": 14
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "genre": "Historical Fiction",
+      "pages": 345,
+      "intelligenceScore": 5,
+      "happinessScore": -2,
+      "minAge": 15
+    },
+    {
+      "title": "Bossypants",
+      "author": "Tina Fey",
+      "genre": "Autobiography",
+      "pages": 196,
+      "intelligenceScore": 1,
+      "happinessScore": 5,
+      "minAge": 18
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Science Fiction",
+      "pages": 288,
+      "intelligenceScore": 5,
+      "happinessScore": -1,
+      "minAge": 16
+    },
+    {
+      "title": "Broke Millennial Takes On Investing",
+      "author": "Erin Lowry",
+      "genre": "Self-Help",
+      "pages": 258,
+      "intelligenceScore": 5,
+      "happinessScore": 3,
+      "minAge": 16
+    },
+    {
+      "title": "Brown Bear, Brown Bear, What Do You See?",
+      "author": "Bill Martin Jr.",
+      "genre": "Children's Picture Book",
+      "pages": 32,
+      "intelligenceScore": 3,
+      "happinessScore": 3,
+      "minAge": 2
+    },
+    {
+      "title": "Captain Underpants and the Attack of the Talking Toilets",
+      "author": "Dav Pilkey",
+      "genre": "Children's Novel",
+      "pages": 133,
+      "intelligenceScore": 1,
+      "happinessScore": 1,
+      "minAge": 6
+    },
+    {
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "genre": "Novel",
+      "pages": 453,
+      "intelligenceScore": 6,
+      "happinessScore": 1,
+      "minAge": 15
+    },
+    {
+      "title": "Charlie and the Chocolate Factory",
+      "author": "Roald Dahl",
+      "genre": "Children's Novel",
+      "pages": 178,
+      "intelligenceScore": 1,
+      "happinessScore": 5,
+      "minAge": 6
+    },
+    {
+      "title": "Charlotte's Web",
+      "author": "E.B. White",
+      "genre": "Children's Novel",
+      "pages": 196,
+      "intelligenceScore": 1,
+      "happinessScore": -2,
+      "minAge": 7
+    },
+    {
+      "title": "Cookin' with Coolio",
+      "author": "Coolio",
+      "genre": "Cookbook",
+      "pages": 224,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 16
+    },
+    {
+      "title": "Corduroy",
+      "author": "Don Freeman",
+      "genre": "Children's Picture Book",
+      "pages": 32,
+      "intelligenceScore": 3,
+      "happinessScore": 4,
+      "minAge": 2
+    },
+    {
+      "title": "Cosmos",
+      "author": "Carl Sagan",
+      "genre": "Non-Fiction",
+      "pages": 365,
+      "intelligenceScore": 5,
+      "happinessScore": 2,
+      "minAge": 16
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoyevsky",
+      "genre": "Crime Fiction",
+      "pages": 671,
+      "intelligenceScore": 5,
+      "happinessScore": -1,
+      "minAge": 18
+    },
+    {
+      "title": "Critique of Pure Reason",
+      "author": "Immanuel Kant",
+      "genre": "Non-Fiction",
+      "pages": 856,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "Dad is Fat",
+      "author": "Jim Gaffigan",
+      "genre": "Comedy",
+      "pages": 288,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 16
+    },
+    {
+      "title": "Diary of a Wimpy Kid",
+      "author": "Jeff Kinney",
+      "genre": "Children's Novel",
+      "pages": 221,
+      "intelligenceScore": 1,
+      "happinessScore": 5,
+      "minAge": 9
+    },
+    {
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "genre": "Novel",
+      "pages": 1023,
+      "intelligenceScore": 3,
+      "happinessScore": -2,
+      "minAge": 16
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "genre": "Horror Novel",
+      "pages": 488,
+      "intelligenceScore": 1,
+      "happinessScore": 1,
+      "minAge": 12
+    },
+    {
+      "title": "Everything I Know About Women I Learned From My Tractor",
+      "author": "Roger Welsch",
+      "genre": "Comedy",
+      "pages": 224,
+      "intelligenceScore": -1,
+      "happinessScore": 3,
+      "minAge": 18
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "genre": "Science Fiction",
+      "pages": 194,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 15
+    },
+    {
+      "title": "Fear and Loathing in Las Vegas",
+      "author": "Hunter S. Thompson",
+      "genre": "Novel",
+      "pages": 217,
+      "intelligenceScore": 1,
+      "happinessScore": 1,
+      "minAge": 18
+    },
+    {
+      "title": "Fifty Shades of Grey",
+      "author": "E.L. James",
+      "genre": "Romance Novel",
+      "pages": 514,
+      "intelligenceScore": -1,
+      "happinessScore": 5,
+      "minAge": 18
+    },
+    {
+      "title": "First Step 2 Forever",
+      "author": "Justin Bieber",
+      "genre": "Biography",
+      "pages": 240,
+      "intelligenceScore": -1,
+      "happinessScore": 1,
+      "minAge": 14
+    },
+    {
+      "title": "Flowers for Algernon",
+      "author": "Daniel Keyes",
+      "genre": "Science Fiction",
+      "pages": 311,
+      "intelligenceScore": 3,
+      "happinessScore": -1,
+      "minAge": 15
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Horror Novel",
+      "pages": 335,
+      "intelligenceScore": 1,
+      "happinessScore": 1,
+      "minAge": 12
+    },
+    {
+      "title": "Freedom in Exile",
+      "author": "Dalai Lama",
+      "genre": "Autobiography",
+      "pages": 304,
+      "intelligenceScore": 5,
+      "happinessScore": 5,
+      "minAge": 14
+    },
+    {
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "genre": "Historical Fiction",
+      "pages": 1037,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 16
+    },
+    {
+      "title": "Goodnight Moon",
+      "author": "Margaret Wise Brown",
+      "genre": "Children's Picture Book",
+      "pages": 32,
+      "intelligenceScore": 3,
+      "happinessScore": 5,
+      "minAge": 2
+    },
+    {
+      "title": "Goosebumps",
+      "author": "R.L. Stine",
+      "genre": "Children's Novel",
+      "pages": 122,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 8
+    },
+    {
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "genre": "Tragedy",
+      "pages": 289,
+      "intelligenceScore": 5,
+      "happinessScore": -2,
+      "minAge": 18
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "pages": 309,
+      "intelligenceScore": 1,
+      "happinessScore": 5,
+      "minAge": 8
+    },
+    {
+      "title": "Hatchet",
+      "author": "Gary Paulsen",
+      "genre": "Young Adult Novel",
+      "pages": 195,
+      "intelligenceScore": 3,
+      "happinessScore": 3,
+      "minAge": 12
+    },
+    {
+      "title": "Heart Of Darkness",
+      "author": "Joseph Conrad",
+      "genre": "Novel",
+      "pages": 188,
+      "intelligenceScore": 4,
+      "happinessScore": -1,
+      "minAge": 18
+    },
+    {
+      "title": "Holes",
+      "author": "Louis Sachar",
+      "genre": "Young Adult Novel",
+      "pages": 251,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 10
+    },
+    {
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "genre": "Self-Help",
+      "pages": 291,
+      "intelligenceScore": 5,
+      "happinessScore": 3,
+      "minAge": 14
+    },
+    {
+      "title": "I Know Why the Caged Bird Sings",
+      "author": "Maya Angelou",
+      "genre": "Autobiography",
+      "pages": 305,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 13
+    },
+    {
+      "title": "I, Robot",
+      "author": "Isaac Asimov",
+      "genre": "Science Fiction",
+      "pages": 253,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 14
+    },
+    {
+      "title": "If You Give a Mouse a Cookie",
+      "author": "Laura Numeroff",
+      "genre": "Children's Picture Book",
+      "pages": 32,
+      "intelligenceScore": 5,
+      "happinessScore": 3,
+      "minAge": 4
+    },
+    {
+      "title": "Interview with the Vampire",
+      "author": "Anne Rice",
+      "genre": "Horror Novel",
+      "pages": 353,
+      "intelligenceScore": 1,
+      "happinessScore": 1,
+      "minAge": 18
+    },
+    {
+      "title": "Invisible Man",
+      "author": "Ralph Ellison",
+      "genre": "Novel",
+      "pages": 581,
+      "intelligenceScore": 4,
+      "happinessScore": -1,
+      "minAge": 16
+    },
+    {
+      "title": "It",
+      "author": "Stephen King",
+      "genre": "Horror Novel",
+      "pages": 1138,
+      "intelligenceScore": 1,
+      "happinessScore": 1,
+      "minAge": 14
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Bront\\353",
+      "genre": "Romance Novel",
+      "pages": 532,
+      "intelligenceScore": 3,
+      "happinessScore": 3,
+      "minAge": 14
+    },
+    {
+      "title": "Jurassic Park",
+      "author": "Michael Crichton",
+      "genre": "Science Fiction",
+      "pages": 400,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 14
+    },
+    {
+      "title": "Kama Sutra",
+      "author": "V\\u0101tsy\\u0101yana",
+      "genre": "Self-Help",
+      "pages": 576,
+      "intelligenceScore": 5,
+      "happinessScore": 5,
+      "minAge": 18
+    },
+    {
+      "title": "Les Mis\\351rables",
+      "author": "Victor Hugo",
+      "genre": "Historical Fiction",
+      "pages": 141,
+      "intelligenceScore": 3,
+      "happinessScore": -1,
+      "minAge": 15
+    },
+    {
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "genre": "Novel",
+      "pages": 354,
+      "intelligenceScore": 1,
+      "happinessScore": -1,
+      "minAge": 14
+    },
+    {
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "genre": "Novel",
+      "pages": 449,
+      "intelligenceScore": 2,
+      "happinessScore": 5,
+      "minAge": 10
+    },
+    {
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "genre": "Novel",
+      "pages": 331,
+      "intelligenceScore": 4,
+      "happinessScore": -2,
+      "minAge": 18
+    },
+    {
+      "title": "Long Walk to Freedom",
+      "author": "Nelson Mandela",
+      "genre": "Autobiography",
+      "pages": 684,
+      "intelligenceScore": 5,
+      "happinessScore": -1,
+      "minAge": 15
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "genre": "Young Adult Novel",
+      "pages": 182,
+      "intelligenceScore": 3,
+      "happinessScore": 1,
+      "minAge": 13
+    },
+    {
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "genre": "Novel",
+      "pages": 329,
+      "intelligenceScore": 3,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Novel",
+      "pages": 654,
+      "intelligenceScore": 2,
+      "happinessScore": -1,
+      "minAge": 14
+    },
+    {
+      "title": "My Horizontal Life",
+      "author": "Chelsea Handler",
+      "genre": "Autobiography",
+      "pages": 213,
+      "intelligenceScore": -1,
+      "happinessScore": 3,
+      "minAge": 18
+    },
+    {
+      "title": "Norwegian Wood",
+      "author": "Haruki Murakami",
+      "genre": "Novel",
+      "pages": 296,
+      "intelligenceScore": 1,
+      "happinessScore": -1,
+      "minAge": 18
+    },
+    {
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "genre": "Novel",
+      "pages": 187,
+      "intelligenceScore": 3,
+      "happinessScore": -2,
+      "minAge": 15
+    },
+    {
+      "title": "On the Origins of Species",
+      "author": "Charles Darwin",
+      "genre": "Non-Fiction",
+      "pages": 502,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "On the Road",
+      "author": "Jack Kerouac",
+      "genre": "Novel",
+      "pages": 320,
+      "intelligenceScore": 3,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "author": "Ken Kesey",
+      "genre": "Novel",
+      "pages": 325,
+      "intelligenceScore": 4,
+      "happinessScore": -2,
+      "minAge": 18
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garc\\355a M\\341rquez",
+      "genre": "Fantasy",
+      "pages": 417,
+      "intelligenceScore": 3,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "Patriot Games",
+      "author": "Tom Clancy",
+      "genre": "Crime Fiction",
+      "pages": 540,
+      "intelligenceScore": 1,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance Novel",
+      "pages": 279,
+      "intelligenceScore": 2,
+      "happinessScore": 4,
+      "minAge": 13
+    },
+    {
+      "title": "Ramona Quimby Age 8",
+      "author": "Beverly Cleary",
+      "genre": "Children's Novel",
+      "pages": 192,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 8
+    },
+    {
+      "title": "Ready Player One",
+      "author": "Ernest Cline",
+      "genre": "Science Fiction",
+      "pages": 386,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 12
+    },
+    {
+      "title": "Rich Dad, Poor Dad",
+      "author": "Robert Kiyosaki",
+      "genre": "Self-Help",
+      "pages": 196,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 14
+    },
+    {
+      "title": "Roots: The Saga of an American Family",
+      "author": "Alex Haley",
+      "genre": "Novel",
+      "pages": 704,
+      "intelligenceScore": 5,
+      "happinessScore": -3,
+      "minAge": 16
+    },
+    {
+      "title": "Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "genre": "Mystery",
+      "pages": 1059,
+      "intelligenceScore": 1,
+      "happinessScore": 4,
+      "minAge": 12
+    },
+    {
+      "title": "Shogun",
+      "author": "James Clavell",
+      "genre": "Science Fiction",
+      "pages": 1152,
+      "intelligenceScore": 3,
+      "happinessScore": 1,
+      "minAge": 18
+    },
+    {
+      "title": "Siddhartha",
+      "author": "Hermann Hesse",
+      "genre": "Novel",
+      "pages": 152,
+      "intelligenceScore": 5,
+      "happinessScore": 3,
+      "minAge": 15
+    },
+    {
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut Jr.",
+      "genre": "Science Fiction",
+      "pages": 275,
+      "intelligenceScore": 4,
+      "happinessScore": -1,
+      "minAge": 16
+    },
+    {
+      "title": "Stellaluna",
+      "author": "Janell Cannon",
+      "genre": "Children's Picture Book",
+      "pages": 48,
+      "intelligenceScore": 3,
+      "happinessScore": 4,
+      "minAge": 3
+    },
+    {
+      "title": "Strong Looks Better Naked",
+      "author": "Khlo\\351 Kardashian",
+      "genre": "Biography",
+      "pages": 245,
+      "intelligenceScore": -1,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "Tales of a Fourth Grade Nothing",
+      "author": "Judy Blume",
+      "genre": "Children's Novel",
+      "pages": 130,
+      "intelligenceScore": 2,
+      "happinessScore": 3,
+      "minAge": 10
+    },
+    {
+      "title": "Teach Your Wife to be a Widow",
+      "author": "Donald Rogers",
+      "genre": "Self-Help",
+      "pages": 93,
+      "intelligenceScore": -1,
+      "happinessScore": -1,
+      "minAge": 16
+    },
+    {
+      "title": "The 4-Hour Workweek",
+      "author": "Tim Ferris's",
+      "genre": "Self-Help",
+      "pages": 322,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 18
+    },
+    {
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "genre": "Self-Help",
+      "pages": 420,
+      "intelligenceScore": 5,
+      "happinessScore": 3,
+      "minAge": 14
+    },
+    {
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "genre": "Young Adult Novel",
+      "pages": 327,
+      "intelligenceScore": 1,
+      "happinessScore": -1,
+      "minAge": 13
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Novel",
+      "pages": 179,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "genre": "Non-Fiction",
+      "pages": 25,
+      "intelligenceScore": 5,
+      "happinessScore": -1,
+      "minAge": 16
+    },
+    {
+      "title": "The Baby-Sitters Club",
+      "author": "Ann Martin",
+      "genre": "Young Adult Novel",
+      "pages": 147,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 8
+    },
+    {
+      "title": "The Bedwetter: Stories of Courage, Redemption, and Pee",
+      "author": "Sarah Silverman",
+      "genre": "Comedy",
+      "pages": 240,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 18
+    },
+    {
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "genre": "Historical Fiction",
+      "pages": 584,
+      "intelligenceScore": 5,
+      "happinessScore": -2,
+      "minAge": 11
+    },
+    {
+      "title": "The Canterbury Tales",
+      "author": "Geoffrey Chaucer",
+      "genre": "Poetry",
+      "pages": 504,
+      "intelligenceScore": 3,
+      "happinessScore": 1,
+      "minAge": 18
+    },
+    {
+      "title": "The Cat in the Hat",
+      "author": "Dr. Seuss",
+      "genre": "Children's Picture Book",
+      "pages": 73,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 4
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Novel",
+      "pages": 277,
+      "intelligenceScore": 3,
+      "happinessScore": 1,
+      "minAge": 14
+    },
+    {
+      "title": "The Celestine Prophecy",
+      "author": "James Redfield",
+      "genre": "Novel",
+      "pages": 278,
+      "intelligenceScore": 2,
+      "happinessScore": 3,
+      "minAge": 16
+    },
+    {
+      "title": "The Color Purple",
+      "author": "Alice Walker",
+      "genre": "Historical Fiction",
+      "pages": 347,
+      "intelligenceScore": 5,
+      "happinessScore": -3,
+      "minAge": 14
+    },
+    {
+      "title": "The Communist Manifesto",
+      "author": "Karl Marx",
+      "genre": "Non-Fiction",
+      "pages": 30,
+      "intelligenceScore": 2,
+      "happinessScore": -2,
+      "minAge": 16
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "genre": "Historical Fiction",
+      "pages": 1276,
+      "intelligenceScore": 3,
+      "happinessScore": 3,
+      "minAge": 15
+    },
+    {
+      "title": "The Crucible",
+      "author": "Arthur Miller",
+      "genre": "Tragedy",
+      "pages": 143,
+      "intelligenceScore": 4,
+      "happinessScore": 1,
+      "minAge": 15
+    },
+    {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Crime Fiction",
+      "pages": 466,
+      "intelligenceScore": 2,
+      "happinessScore": 1,
+      "minAge": 15
+    },
+    {
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "genre": "Autobiography",
+      "pages": 283,
+      "intelligenceScore": 5,
+      "happinessScore": -3,
+      "minAge": 13
+    },
+    {
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "genre": "Poetry",
+      "pages": 798,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "The Five Love Languages",
+      "author": "Gary Chapman",
+      "genre": "Self-Help",
+      "pages": 126,
+      "intelligenceScore": 5,
+      "happinessScore": 5,
+      "minAge": 14
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "genre": "Crime Fiction",
+      "pages": 672,
+      "intelligenceScore": 1,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "The Giving Tree",
+      "author": "Shel Silverstein",
+      "genre": "Children's Picture Book",
+      "pages": 31,
+      "intelligenceScore": 5,
+      "happinessScore": 2,
+      "minAge": 4
+    },
+    {
+      "title": "The Godfather",
+      "author": "Mario Puzo",
+      "genre": "Crime Fiction",
+      "pages": 448,
+      "intelligenceScore": 1,
+      "happinessScore": -1,
+      "minAge": 18
+    },
+    {
+      "title": "The Good Earth",
+      "author": "Pearl S. Buck",
+      "genre": "Historical Fiction",
+      "pages": 418,
+      "intelligenceScore": 3,
+      "happinessScore": -1,
+      "minAge": 14
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Novel",
+      "pages": 200,
+      "intelligenceScore": 3,
+      "happinessScore": 1,
+      "minAge": 15
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "genre": "Science Fiction",
+      "pages": 216,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 12
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Fantasy",
+      "pages": 374,
+      "intelligenceScore": 2,
+      "happinessScore": -1,
+      "minAge": 12
+    },
+    {
+      "title": "The Importance of Being Earnest",
+      "author": "Oscar Wilde",
+      "genre": "Comedy",
+      "pages": 76,
+      "intelligenceScore": 3,
+      "happinessScore": 5,
+      "minAge": 13
+    },
+    {
+      "title": "The Joy of Cooking",
+      "author": "Irma S. Rombauer",
+      "genre": "Cookbook",
+      "pages": 1152,
+      "intelligenceScore": 5,
+      "happinessScore": 3,
+      "minAge": 12
+    },
+    {
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "genre": "Historical Fiction",
+      "pages": 371,
+      "intelligenceScore": 4,
+      "happinessScore": -1,
+      "minAge": 15
+    },
+    {
+      "title": "The Lion, the Witch and the Wardrobe",
+      "author": "C.S. Lewis",
+      "genre": "Fantasy",
+      "pages": 208,
+      "intelligenceScore": 1,
+      "happinessScore": 5,
+      "minAge": 10
+    },
+    {
+      "title": "The Little Engine That Could",
+      "author": "Watty Piper",
+      "genre": "Children's Picture Book",
+      "pages": 48,
+      "intelligenceScore": 3,
+      "happinessScore": 5,
+      "minAge": 4
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "pages": 1216,
+      "intelligenceScore": 1,
+      "happinessScore": 4,
+      "minAge": 12
+    },
+    {
+      "title": "The Meaning of Relativity",
+      "author": "Albert Einstein",
+      "genre": "Non-Fiction",
+      "pages": 170,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "The Merriam-Webster Dictionary",
+      "author": "Merriam-Webster",
+      "genre": "Reference",
+      "pages": 3350,
+      "intelligenceScore": 5,
+      "happinessScore": -3,
+      "minAge": 12
+    },
+    {
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "genre": "Novel",
+      "pages": 201,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 15
+    },
+    {
+      "title": "The Motorcycle Diaries",
+      "author": "Che Guevara",
+      "genre": "Autobiography",
+      "pages": 166,
+      "intelligenceScore": 2,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Poetry",
+      "pages": 541,
+      "intelligenceScore": 3,
+      "happinessScore": 1,
+      "minAge": 12
+    },
+    {
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "genre": "Novel",
+      "pages": 132,
+      "intelligenceScore": 4,
+      "happinessScore": -1,
+      "minAge": 15
+    },
+    {
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "genre": "Self-Help",
+      "pages": 236,
+      "intelligenceScore": 5,
+      "happinessScore": 5,
+      "minAge": 14
+    },
+    {
+      "title": "The Prince",
+      "author": "Niccolo Machiavelli",
+      "genre": "Non-Fiction",
+      "pages": 164,
+      "intelligenceScore": 3,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "The Republic",
+      "author": "Plato",
+      "genre": "Novel",
+      "pages": 570,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "The Rights of Man",
+      "author": "Thomas Paine",
+      "genre": "Non-Fiction",
+      "pages": 200,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "genre": "Historical Fiction",
+      "pages": 279,
+      "intelligenceScore": 3,
+      "happinessScore": -1,
+      "minAge": 15
+    },
+    {
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "genre": "Children's Novel",
+      "pages": 331,
+      "intelligenceScore": 3,
+      "happinessScore": -1,
+      "minAge": 8
+    },
+    {
+      "title": "The Snowy Day",
+      "author": "Ezra Jack Keats",
+      "genre": "Children's Picture Book",
+      "pages": 40,
+      "intelligenceScore": 3,
+      "happinessScore": 3,
+      "minAge": 4
+    },
+    {
+      "title": "The Sound and the Fury",
+      "author": "William Faulkner",
+      "genre": "Novel",
+      "pages": 326,
+      "intelligenceScore": 3,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "The Time Machine",
+      "author": "H.G. Wells",
+      "genre": "Science Fiction",
+      "pages": 84,
+      "intelligenceScore": 2,
+      "happinessScore": 3,
+      "minAge": 12
+    },
+    {
+      "title": "The Tipping Point",
+      "author": "Malcolm Gladwell",
+      "genre": "Non-Fiction",
+      "pages": 209,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "The Total Money Makeover",
+      "author": "Dave Ramsey",
+      "genre": "Self-Help",
+      "pages": 289,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 18
+    },
+    {
+      "title": "The Very Hungry Caterpillar",
+      "author": "Eric Carle",
+      "genre": "Children's Picture Book",
+      "pages": 22,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 2
+    },
+    {
+      "title": "The Wealth of Nations",
+      "author": "Adam Smith",
+      "genre": "Non-Fiction",
+      "pages": 950,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "The Zen of Farting",
+      "author": "Carl Japikse",
+      "genre": "Comedy",
+      "pages": 104,
+      "intelligenceScore": -1,
+      "happinessScore": 3,
+      "minAge": 18
+    },
+    {
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "genre": "Self-Help",
+      "pages": 238,
+      "intelligenceScore": 5,
+      "happinessScore": 4,
+      "minAge": 16
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Novel",
+      "pages": 324,
+      "intelligenceScore": 4,
+      "happinessScore": 3,
+      "minAge": 13
+    },
+    {
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "genre": "Young Adult Novel",
+      "pages": 311,
+      "intelligenceScore": 1,
+      "happinessScore": 5,
+      "minAge": 10
+    },
+    {
+      "title": "Tuesdays with Morrie",
+      "author": "Mitch Albom",
+      "genre": "Biography",
+      "pages": 192,
+      "intelligenceScore": 5,
+      "happinessScore": 5,
+      "minAge": 14
+    },
+    {
+      "title": "Twenty Thousand Leagues Under the Sea",
+      "author": "Jules Verne",
+      "genre": "Science Fiction",
+      "pages": 394,
+      "intelligenceScore": 1,
+      "happinessScore": 5,
+      "minAge": 12
+    },
+    {
+      "title": "Twilight",
+      "author": "Stephenie Meyer",
+      "genre": "Young Adult Novel",
+      "pages": 498,
+      "intelligenceScore": 1,
+      "happinessScore": 1,
+      "minAge": 13
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "genre": "Historical Fiction",
+      "pages": 1225,
+      "intelligenceScore": 5,
+      "happinessScore": 1,
+      "minAge": 18
+    },
+    {
+      "title": "Where the Red Fern Grows",
+      "author": "Wilson Rawls",
+      "genre": "Children's Novel",
+      "pages": 273,
+      "intelligenceScore": 4,
+      "happinessScore": -2,
+      "minAge": 9
+    },
+    {
+      "title": "Where the Wild Things Are",
+      "author": "Maurice Sendak",
+      "genre": "Children's Picture Book",
+      "pages": 56,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 2
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Bront\\353",
+      "genre": "Novel",
+      "pages": 464,
+      "intelligenceScore": 3,
+      "happinessScore": 1,
+      "minAge": 15
+    },
+    {
+      "title": "The Fountainhead",
+      "author": "Ayn Rand",
+      "genre": "Novel",
+      "pages": 753,
+      "intelligenceScore": 5,
+      "happinessScore": 3,
+      "minAge": 16
+    },
+    {
+      "title": "Everyone Poops",
+      "author": "Taro Gomi",
+      "genre": "Children's Picture Book",
+      "pages": 27,
+      "intelligenceScore": 2,
+      "happinessScore": 4,
+      "minAge": 2
+    },
+    {
+      "title": "The Woman in Me",
+      "author": "Britney Spears",
+      "genre": "Autobiography",
+      "pages": 288,
+      "intelligenceScore": -1,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "Being Henry: The Fonz and Beyond",
+      "author": "Henry Winkler",
+      "genre": "Autobiography",
+      "pages": 256,
+      "intelligenceScore": 3,
+      "happinessScore": 3,
+      "minAge": 15
+    },
+    {
+      "title": "Counting the Cost",
+      "author": "Jill Duggar",
+      "genre": "Autobiography",
+      "pages": 288,
+      "intelligenceScore": -1,
+      "happinessScore": -1,
+      "minAge": 15
+    },
+    {
+      "title": "My Name Is Barbra",
+      "author": "Barbra Streisand",
+      "genre": "Autobiography",
+      "pages": 992,
+      "intelligenceScore": 2,
+      "happinessScore": -2,
+      "minAge": 16
+    },
+    {
+      "title": "Brat: An '80s Story",
+      "author": "Andrew McCarthy",
+      "genre": "Autobiography",
+      "pages": 240,
+      "intelligenceScore": 1,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "Paris: The Memoir",
+      "author": "Paris Hilton",
+      "genre": "Autobiography",
+      "pages": 336,
+      "intelligenceScore": -2,
+      "happinessScore": -1,
+      "minAge": 16
+    },
+    {
+      "title": "If You Ask Me: (And of Course You Won't)",
+      "author": "Betty White",
+      "genre": "Autobiography",
+      "pages": 272,
+      "intelligenceScore": 3,
+      "happinessScore": 5,
+      "minAge": 15
+    },
+    {
+      "title": "Wildflower",
+      "author": "Drew Barrymore",
+      "genre": "Autobiography",
+      "pages": 288,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 15
+    },
+    {
+      "title": "Shoe Dog",
+      "author": "Phil Knight",
+      "genre": "Biography",
+      "pages": 400,
+      "intelligenceScore": 4,
+      "happinessScore": 3,
+      "minAge": 14
+    },
+    {
+      "title": "The Tao of Wu",
+      "author": "The RZA",
+      "genre": "Biography",
+      "pages": 224,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 17
+    },
+    {
+      "title": "The Tao of Pooh",
+      "author": "Hoff & Sheppard",
+      "genre": "Philosophy",
+      "pages": 158,
+      "intelligenceScore": 3,
+      "happinessScore": 4,
+      "minAge": 11
+    },
+    {
+      "title": "Crown & Sceptre",
+      "author": "Tracy Borman",
+      "genre": "History",
+      "pages": 576,
+      "intelligenceScore": 5,
+      "happinessScore": 2,
+      "minAge": 16
+    },
+    {
+      "title": "HOWL & Other Poems",
+      "author": "Allen Ginsberg",
+      "genre": "Poetry",
+      "pages": 57,
+      "intelligenceScore": 2,
+      "happinessScore": 3,
+      "minAge": 14
+    },
+    {
+      "title": "Naked Lunch",
+      "author": "William S. Burroughs",
+      "genre": "Fiction",
+      "pages": 304,
+      "intelligenceScore": -1,
+      "happinessScore": -3,
+      "minAge": 17
+    },
+    {
+      "title": "Breaking The Habit of Being Yourself",
+      "author": "Dr. Joe Dispenza",
+      "genre": "Self-Help",
+      "pages": 355,
+      "intelligenceScore": 3,
+      "happinessScore": 3,
+      "minAge": 15
+    },
+    {
+      "title": "Zen and the Art of Motorcycle Maintenance",
+      "author": "Robert M. Pirsig",
+      "genre": "Philosophy",
+      "pages": 464,
+      "intelligenceScore": 4,
+      "happinessScore": 2,
+      "minAge": 16
+    },
+    {
+      "title": "Kitchen Confidential",
+      "author": "Anthony Bourdain",
+      "genre": "Biography",
+      "pages": 312,
+      "intelligenceScore": 5,
+      "happinessScore": 3,
+      "minAge": 16
+    },
+    {
+      "title": "Portnoy's Complaint",
+      "author": "Philip Roth",
+      "genre": "Fiction",
+      "pages": 289,
+      "intelligenceScore": 3,
+      "happinessScore": 3,
+      "minAge": 16
+    },
+    {
+      "title": "The Celestine Prophecy",
+      "author": "James Redfield",
+      "genre": "Novel",
+      "pages": 246,
+      "intelligenceScore": 4,
+      "happinessScore": 4,
+      "minAge": 15
+    },
+    {
+      "title": "Still Life with Woodpecker",
+      "author": "Tom Robbins",
+      "genre": "Novel",
+      "pages": 288,
+      "intelligenceScore": 4,
+      "happinessScore": 5,
+      "minAge": 16
+    },
+    {
+      "title": "Trout Fishing In America",
+      "author": "Richard Brautigan",
+      "genre": "Fiction",
+      "pages": 144,
+      "intelligenceScore": 3,
+      "happinessScore": 3,
+      "minAge": 15
+    },
+    {
+      "title": "Jaws",
+      "author": "Peter Benchley",
+      "genre": "Fiction",
+      "pages": 320,
+      "intelligenceScore": 2,
+      "happinessScore": -1,
+      "minAge": 15
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "genre": "Fiction",
+      "pages": 140,
+      "intelligenceScore": 5,
+      "happinessScore": -2,
+      "minAge": 14
+    },
+    {
+      "title": "Black Holes and Baby Universes",
+      "author": "Stephen Hawking",
+      "genre": "Non-Fiction",
+      "pages": 192,
+      "intelligenceScore": 5,
+      "happinessScore": 2,
+      "minAge": 16
+    },
+    {
+      "title": "Go Ask Alice",
+      "author": "Anonymous",
+      "genre": "Biography",
+      "pages": 224,
+      "intelligenceScore": 3,
+      "happinessScore": -3,
+      "minAge": 14
+    },
+    {
+      "title": "Jay's Journal",
+      "author": "Anonymous",
+      "genre": "Biography",
+      "pages": 240,
+      "intelligenceScore": 3,
+      "happinessScore": -3,
+      "minAge": 14
+    },
+    {
+      "title": "Cork Dork",
+      "author": "Bianca Bosker",
+      "genre": "Non-Fiction",
+      "pages": 307,
+      "intelligenceScore": 5,
+      "happinessScore": 3,
+      "minAge": 17
+    },
+    {
+      "title": "The Maltese Falcon",
+      "author": "Dashiell Hammett",
+      "genre": "Novel",
+      "pages": 231,
+      "intelligenceScore": 3,
+      "happinessScore": 1,
+      "minAge": 16
+    },
+    {
+      "title": "Class with the Countess",
+      "author": "Luann de Lesseps",
+      "genre": "Self-Help",
+      "pages": 272,
+      "intelligenceScore": -1,
+      "happinessScore": 3,
+      "minAge": 18
+    },
+    {
+      "title": "The Wasp Factory",
+      "author": "Iain Banks",
+      "genre": "Literature",
+      "pages": 184,
+      "intelligenceScore": 2,
+      "happinessScore": -1,
+      "minAge": 17
+    },
+    {
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "genre": "Literature",
+      "pages": 368,
+      "intelligenceScore": 3,
+      "happinessScore": 2,
+      "minAge": 15
+    },
+    {
+      "title": "Beowulf",
+      "author": "Anonymous",
+      "genre": "Literature",
+      "pages": 108,
+      "intelligenceScore": 3,
+      "happinessScore": 1,
+      "minAge": 14
+    },
+    {
+      "title": "Song of Solomon",
+      "author": "Toni Morrison",
+      "genre": "Fiction",
+      "pages": 352,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 16
+    },
+    {
+      "title": "The Satanic Verses",
+      "author": "Salman Rushdie",
+      "genre": "Novel",
+      "pages": 576,
+      "intelligenceScore": 4,
+      "happinessScore": -1,
+      "minAge": 18
+    },
+    {
+      "title": "Jitterbug Perfume",
+      "author": "Tom Robbins",
+      "genre": "Novel",
+      "pages": 352,
+      "intelligenceScore": 3,
+      "happinessScore": 3,
+      "minAge": 16
+    },
+    {
+      "title": "Little Fires Everywhere",
+      "author": "Celeste Ng",
+      "genre": "Novel",
+      "pages": 368,
+      "intelligenceScore": 3,
+      "happinessScore": 2,
+      "minAge": 15
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "pages": 270,
+      "intelligenceScore": 5,
+      "happinessScore": 5,
+      "minAge": 14
+    },
+    {
+      "title": "The Happiness Project",
+      "author": "Gretchen Rubin",
+      "genre": "Memoir",
+      "pages": 352,
+      "intelligenceScore": 3,
+      "happinessScore": 3,
+      "minAge": 15
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Literature",
+      "pages": 320,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 12
+    },
+    {
+      "title": "American Gods",
+      "author": "Neil Gaiman",
+      "genre": "Fiction",
+      "pages": 560,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 16
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Fiction",
+      "pages": 896,
+      "intelligenceScore": 2,
+      "happinessScore": 1,
+      "minAge": 15
+    },
+    {
+      "title": "V for Vendetta",
+      "author": "Alan Moore",
+      "genre": "Graphic Novel",
+      "pages": 296,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 14
+    },
+    {
+      "title": "Watchmen",
+      "author": "Alan Moore",
+      "genre": "Graphic Novel",
+      "pages": 448,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 14
+    },
+    {
+      "title": "300",
+      "author": "Frank Miller",
+      "genre": "Graphic Novel",
+      "pages": 88,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 14
+    },
+    {
+      "title": "The Brief Wondrous Life of Oscar Wao",
+      "author": "Junot Diaz",
+      "genre": "Fiction",
+      "pages": 339,
+      "intelligenceScore": 3,
+      "happinessScore": -1,
+      "minAge": 14
+    },
+    {
+      "title": "Paper Girls: The Complete Story",
+      "author": "Brian K. Vaughan",
+      "genre": "Graphic Novel",
+      "pages": 800,
+      "intelligenceScore": 2,
+      "happinessScore": 3,
+      "minAge": 12
+    },
+    {
+      "title": "Naruto, Vol. 1",
+      "author": "Masashi Kishimoto",
+      "genre": "Manga",
+      "pages": 192,
+      "intelligenceScore": 1,
+      "happinessScore": 2,
+      "minAge": 12
+    },
+    {
+      "title": "Dragon Ball Z, Vol. 1",
+      "author": "Akira Toriyama",
+      "genre": "Manga",
+      "pages": 192,
+      "intelligenceScore": 1,
+      "happinessScore": 2,
+      "minAge": 12
+    },
+    {
+      "title": "Chainsaw Man, Vol. 1",
+      "author": "Tatsuki Fujimoto",
+      "genre": "Manga",
+      "pages": 192,
+      "intelligenceScore": 2,
+      "happinessScore": 1,
+      "minAge": 12
+    },
+    {
+      "title": "Jujutsu Kaisen, Vol. 0",
+      "author": "Gege Akutami",
+      "genre": "Manga",
+      "pages": 200,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 12
+    },
+    {
+      "title": "Sailor Moon 1",
+      "author": "Naoko Takeuchi",
+      "genre": "Manga",
+      "pages": 304,
+      "intelligenceScore": 1,
+      "happinessScore": 4,
+      "minAge": 11
+    },
+    {
+      "title": "Berserk, Vol. 1",
+      "author": "Kentaro Miura",
+      "genre": "Manga",
+      "pages": 224,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 14
+    },
+    {
+      "title": "Fruits Basket, Vol. 1",
+      "author": "Natsuki Takaya",
+      "genre": "Manga",
+      "pages": 400,
+      "intelligenceScore": 1,
+      "happinessScore": 3,
+      "minAge": 12
+    },
+    {
+      "title": "Initial D, Vol. 1",
+      "author": "Shuichi Shigeno",
+      "genre": "Manga",
+      "pages": 224,
+      "intelligenceScore": 3,
+      "happinessScore": 3,
+      "minAge": 13
+    },
+    {
+      "title": "Persepolis: The Story of a Childhood",
+      "author": "Marjane Satrapi",
+      "genre": "Graphic Novel",
+      "pages": 160,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 14
+    },
+    {
+      "title": "Thank You And You're Welcome",
+      "author": "Kanye West",
+      "genre": "Memoir",
+      "pages": 52,
+      "intelligenceScore": -1,
+      "happinessScore": -1,
+      "minAge": 15
+    },
+    {
+      "title": "Hop On Pop",
+      "author": "Dr. Seuss",
+      "genre": "Children's Poetry",
+      "pages": 72,
+      "intelligenceScore": 2,
+      "happinessScore": 3,
+      "minAge": 2
+    },
+    {
+      "title": "Go, Dog. Go!",
+      "author": "P. D. Eastman",
+      "genre": "Children's Picture Book",
+      "pages": 72,
+      "intelligenceScore": 2,
+      "happinessScore": 3,
+      "minAge": 2
+    },
+    {
+      "title": "Where the Sidewalk Ends",
+      "author": "Shel Silverstein",
+      "genre": "Children's Poetry",
+      "pages": 183,
+      "intelligenceScore": 2,
+      "happinessScore": 2,
+      "minAge": 4
+    }
+  ],
+  "spaTreatments": [
+    {
+      "name": "Caviar Facial",
+      "category": "facial",
+      "cost": 2000,
+      "looksImpact": 4,
+      "healthImpact": 4,
+      "happinessImpact": 4
+    },
+    {
+      "name": "24K Gold Facial",
+      "category": "facial",
+      "cost": 3500,
+      "looksImpact": 5,
+      "healthImpact": 4,
+      "happinessImpact": 5
+    },
+    {
+      "name": "Vampire Facial",
+      "category": "facial",
+      "cost": 2500,
+      "looksImpact": 4,
+      "healthImpact": 5,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Nightingale Feces Facial",
+      "category": "facial",
+      "cost": 1000,
+      "looksImpact": 4,
+      "healthImpact": 4,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Diamond Facial",
+      "category": "facial",
+      "cost": 6000,
+      "looksImpact": 5,
+      "healthImpact": 5,
+      "happinessImpact": 5
+    },
+    {
+      "name": "Tranquility Reiki",
+      "category": "energy therapy",
+      "cost": 3000,
+      "looksImpact": 5,
+      "healthImpact": 5,
+      "happinessImpact": 5
+    },
+    {
+      "name": "Porcupine Acupuncture",
+      "category": "energy therapy",
+      "cost": 2500,
+      "looksImpact": 4,
+      "healthImpact": 5,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Craniosacral Therapy",
+      "category": "energy therapy",
+      "cost": 4500,
+      "looksImpact": 4,
+      "healthImpact": 5,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Vital Aura Flush",
+      "category": "energy therapy",
+      "cost": 8000,
+      "looksImpact": 4,
+      "healthImpact": 5,
+      "happinessImpact": 5
+    },
+    {
+      "name": "Astral Projection Therapy",
+      "category": "energy therapy",
+      "cost": 10000,
+      "looksImpact": 5,
+      "healthImpact": 5,
+      "happinessImpact": 5
+    },
+    {
+      "name": "Truffle Oil Wrap",
+      "category": "body wrap",
+      "cost": 3000,
+      "looksImpact": 5,
+      "healthImpact": 4,
+      "happinessImpact": 5
+    },
+    {
+      "name": "Nori Seaweed Wrap",
+      "category": "body wrap",
+      "cost": 1500,
+      "looksImpact": 5,
+      "healthImpact": 5,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Whale Sperm Wrap",
+      "category": "body wrap",
+      "cost": 11000,
+      "looksImpact": 5,
+      "healthImpact": 5,
+      "happinessImpact": 5
+    },
+    {
+      "name": "Kaolin Clay Body Cast",
+      "category": "body wrap",
+      "cost": 5000,
+      "looksImpact": 5,
+      "healthImpact": 5,
+      "happinessImpact": 5
+    },
+    {
+      "name": "Snail Mucin Wrap",
+      "category": "body wrap",
+      "cost": 6500,
+      "looksImpact": 5,
+      "healthImpact": 4,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Champagne Bath",
+      "category": "bathhouse service",
+      "cost": 7000,
+      "looksImpact": 5,
+      "healthImpact": 4,
+      "happinessImpact": 5
+    },
+    {
+      "name": "Volcanic Mud Bath",
+      "category": "bathhouse service",
+      "cost": 4000,
+      "looksImpact": 4,
+      "healthImpact": 5,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Milk And Honey Bath",
+      "category": "bathhouse service",
+      "cost": 1500,
+      "looksImpact": 4,
+      "healthImpact": 4,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Himalayan Salt Steam",
+      "category": "bathhouse service",
+      "cost": 6000,
+      "looksImpact": 4,
+      "healthImpact": 5,
+      "happinessImpact": 5
+    },
+    {
+      "name": "Korean Seshin Body Scrub",
+      "category": "bathhouse service",
+      "cost": 2000,
+      "looksImpact": 4,
+      "healthImpact": 4,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Crystal Healing Therapy",
+      "category": "specialty therapy",
+      "cost": 6000,
+      "looksImpact": 5,
+      "healthImpact": 5,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Cryotherapy",
+      "category": "specialty therapy",
+      "cost": 12000,
+      "looksImpact": 5,
+      "healthImpact": 5,
+      "happinessImpact": 5
+    },
+    {
+      "name": "Sensory Deprivation Therapy",
+      "category": "specialty therapy",
+      "cost": 8000,
+      "looksImpact": 4,
+      "healthImpact": 5,
+      "happinessImpact": 5
+    },
+    {
+      "name": "Iv Drip Therapy",
+      "category": "specialty therapy",
+      "cost": 5000,
+      "looksImpact": 4,
+      "healthImpact": 5,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Crystal Cupping",
+      "category": "specialty therapy",
+      "cost": 9500,
+      "looksImpact": 5,
+      "healthImpact": 4,
+      "happinessImpact": 5
+    },
+    {
+      "name": "Cbd Massage",
+      "category": "upscale massage",
+      "cost": 1500,
+      "looksImpact": 4,
+      "healthImpact": 4,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Ayurvedic Oil Massage",
+      "category": "upscale massage",
+      "cost": 3500,
+      "looksImpact": 4,
+      "healthImpact": 5,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Placenta Cream Massage",
+      "category": "upscale massage",
+      "cost": 8500,
+      "looksImpact": 5,
+      "healthImpact": 5,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Live Snake Massage",
+      "category": "upscale massage",
+      "cost": 10000,
+      "looksImpact": 5,
+      "healthImpact": 5,
+      "happinessImpact": 4
+    },
+    {
+      "name": "Hot Bamboo Rod Massage",
+      "category": "upscale massage",
+      "cost": 4000,
+      "looksImpact": 4,
+      "healthImpact": 4,
+      "happinessImpact": 5
+    }
+  ],
+  "plasticSurgeries": [
+    {
+      "procedure": "Botox",
+      "cost": 550,
+      "optimalAge": 50,
+      "successScore": 5,
+      "dangerScore": 1,
+      "looksScore": 2,
+      "gender": "both"
+    },
+    {
+      "procedure": "Breast Augmentation",
+      "cost": 6450,
+      "optimalAge": 25,
+      "successScore": 4,
+      "dangerScore": 2,
+      "looksScore": 3,
+      "gender": "female"
+    },
+    {
+      "procedure": "Nose Job",
+      "cost": 7475,
+      "optimalAge": 0,
+      "successScore": 4,
+      "dangerScore": 1,
+      "looksScore": 3,
+      "gender": "both"
+    },
+    {
+      "procedure": "Tummy Tuck",
+      "cost": 8150,
+      "optimalAge": 0,
+      "successScore": 4,
+      "dangerScore": 5,
+      "looksScore": 4,
+      "gender": "both"
+    },
+    {
+      "procedure": "Liposuction",
+      "cost": 6025,
+      "optimalAge": 0,
+      "successScore": 4,
+      "dangerScore": 4,
+      "looksScore": 5,
+      "gender": "both"
+    },
+    {
+      "procedure": "Eyelid Surgery",
+      "cost": 4650,
+      "optimalAge": 50,
+      "successScore": 4,
+      "dangerScore": 1,
+      "looksScore": 3,
+      "gender": "both"
+    },
+    {
+      "procedure": "Brazilian Butt Lift",
+      "cost": 6525,
+      "optimalAge": 25,
+      "successScore": 3,
+      "dangerScore": 5,
+      "looksScore": 2,
+      "gender": "female"
+    },
+    {
+      "procedure": "Face Lift",
+      "cost": 12100,
+      "optimalAge": 60,
+      "successScore": 4,
+      "dangerScore": 2,
+      "looksScore": 4,
+      "gender": "both"
+    },
+    {
+      "procedure": "Penis Enlargement",
+      "cost": 5650,
+      "optimalAge": 0,
+      "successScore": 1,
+      "dangerScore": 2,
+      "looksScore": 0,
+      "gender": "male"
+    },
+    {
+      "procedure": "Gender Reassignment",
+      "cost": 20000,
+      "optimalAge": 0,
+      "successScore": 3,
+      "dangerScore": 5,
+      "looksScore": 0,
+      "gender": "male"
+    },
+    {
+      "procedure": "Gender Reassignment",
+      "cost": 50000,
+      "optimalAge": 0,
+      "successScore": 3,
+      "dangerScore": 5,
+      "looksScore": 0,
+      "gender": "female"
+    }
+  ]
+}

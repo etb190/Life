@@ -1,0 +1,7356 @@
+{
+ "carModels": [
+  {
+   "make": "Ford",
+   "model": "Bronco",
+   "type": "4x4",
+   "cost": 44990,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "GMC",
+   "model": "Hummer",
+   "type": "4x4",
+   "cost": 55650,
+   "depreciation": 4,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Ferrari",
+   "model": "Portofino",
+   "type": "Convertible",
+   "cost": 214533,
+   "depreciation": 5,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Porsche",
+   "model": "Boxster",
+   "type": "Convertible",
+   "cost": 57481,
+   "depreciation": 2,
+   "reliability": 3,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Ferrari",
+   "model": "488 Spider",
+   "type": "Convertible",
+   "cost": 284700,
+   "depreciation": 5,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Ford",
+   "model": "Mustang",
+   "type": "Convertible",
+   "cost": 34550,
+   "depreciation": 4,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Camaro",
+   "type": "Convertible",
+   "cost": 36720,
+   "depreciation": 4,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Mercedes-Benz",
+   "model": "E-Class",
+   "type": "Convertible",
+   "cost": 72450,
+   "depreciation": 4,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Nissan",
+   "model": "370Z Roadster",
+   "type": "Convertible",
+   "cost": 42370,
+   "depreciation": 4,
+   "reliability": 5,
+   "longevity": 5,
+   "cool": 5,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Rolls-Royce",
+   "model": "Boat Tail",
+   "type": "Convertible",
+   "cost": 2800000,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Pagani",
+   "model": "Zonda HP Barchetta",
+   "type": "Convertible",
+   "cost": 1750000,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Rolls-Royce",
+   "model": "La Rose Noire Droptail",
+   "type": "Convertible",
+   "cost": 3200000,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Tesla",
+   "model": "Starman Roadster",
+   "type": "Convertible",
+   "cost": 5500000,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 5,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Acura",
+   "model": "NSX",
+   "type": "Coupe",
+   "cost": 160000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Alfa Romeo",
+   "model": "4C",
+   "type": "Coupe",
+   "cost": 55940,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Aston Martin",
+   "model": "Vanquish",
+   "type": "Coupe",
+   "cost": 297831,
+   "depreciation": 5,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Audi",
+   "model": "A5",
+   "type": "Coupe",
+   "cost": 42831,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Bentley",
+   "model": "Mulsanne",
+   "type": "Coupe",
+   "cost": 307391,
+   "depreciation": 5,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Bentley",
+   "model": "Continental GT",
+   "type": "Coupe",
+   "cost": 220000,
+   "depreciation": 4,
+   "reliability": 2,
+   "longevity": 2,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Bugatti",
+   "model": "Chiron",
+   "type": "Coupe",
+   "cost": 2986871,
+   "depreciation": 5,
+   "reliability": 1,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Corvette",
+   "type": "Coupe",
+   "cost": 55495,
+   "depreciation": 2,
+   "reliability": 3,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Dodge",
+   "model": "Viper",
+   "type": "Coupe",
+   "cost": 87895,
+   "depreciation": 5,
+   "reliability": 1,
+   "longevity": 1,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Ferrari",
+   "model": "812 Superfast",
+   "type": "Coupe",
+   "cost": 315480,
+   "depreciation": 5,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Ford",
+   "model": "Mustang",
+   "type": "Coupe",
+   "cost": 30695,
+   "depreciation": 3,
+   "reliability": 2,
+   "longevity": 2,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "type": "Coupe",
+   "cost": 18940,
+   "depreciation": 1,
+   "reliability": 4,
+   "longevity": 5,
+   "cool": 2,
+   "easeOfTheft": 5,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Lamborghini",
+   "model": "Aventador",
+   "type": "Coupe",
+   "cost": 402992,
+   "depreciation": 5,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Lamborghini",
+   "model": "Huracan",
+   "type": "Coupe",
+   "cost": 203291,
+   "depreciation": 5,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Lexus",
+   "model": "LC",
+   "type": "Coupe",
+   "cost": 92004,
+   "depreciation": 3,
+   "reliability": 5,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Maserati",
+   "model": "GranTurismo",
+   "type": "Coupe",
+   "cost": 134771,
+   "depreciation": 5,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Mercedes-Benz",
+   "model": "SL",
+   "type": "Coupe",
+   "cost": 112300,
+   "depreciation": 4,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Mercedes-Benz",
+   "model": "AMG GT",
+   "type": "Coupe",
+   "cost": 112400,
+   "depreciation": 4,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Porsche",
+   "model": "911",
+   "type": "Coupe",
+   "cost": 91131,
+   "depreciation": 2,
+   "reliability": 3,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Smart",
+   "model": "Fortwo",
+   "type": "Coupe",
+   "cost": 23817,
+   "depreciation": 4,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 2,
+   "easeOfTheft": 5,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Subaru",
+   "model": "Legacy",
+   "type": "Coupe",
+   "cost": 22196,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 5,
+   "cool": 2,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Tesla",
+   "model": "Model S",
+   "type": "Coupe",
+   "cost": 75701,
+   "depreciation": 5,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": true,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "BMW",
+   "model": "M4",
+   "type": "Coupe",
+   "cost": 72000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Nissan",
+   "model": "GT-R Nismo",
+   "type": "Coupe",
+   "cost": 214750,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Nissan",
+   "model": "400Z",
+   "type": "Coupe",
+   "cost": 42050,
+   "depreciation": 2,
+   "reliability": 5,
+   "longevity": 5,
+   "cool": 4,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Toyota",
+   "model": "Supra",
+   "type": "Coupe",
+   "cost": 51998,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Toyota",
+   "model": "GR86",
+   "type": "Coupe",
+   "cost": 29900,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Mazda",
+   "model": "Miata",
+   "type": "Coupe",
+   "cost": 33000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Jaguar",
+   "model": "F-TYPE",
+   "type": "Coupe",
+   "cost": 74400,
+   "depreciation": 4,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Camaro ZL1",
+   "type": "Coupe",
+   "cost": 63865,
+   "depreciation": 4,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Bugatti",
+   "model": "La Voiture Noire",
+   "type": "Coupe",
+   "cost": 18700000,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Nissan",
+   "model": "Walker GT-R R34",
+   "type": "Coupe",
+   "cost": 3444589,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "VW",
+   "model": "Herbie the Love Bug",
+   "type": "Coupe",
+   "cost": 2233541,
+   "depreciation": 2,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Mercedes-Maybach",
+   "model": "Exelero",
+   "type": "Coupe",
+   "cost": 1999600,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Mercedes-Benz",
+   "model": "300 SLR Uhlenhaut",
+   "type": "Coupe",
+   "cost": 4275621,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "DeLorean",
+   "model": "Time Machine",
+   "type": "Coupe",
+   "cost": 4200000,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "A"
+  },
+  {
+   "make": "Audi",
+   "model": "R8",
+   "type": "Exotic",
+   "cost": 210695,
+   "depreciation": 4,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Ford",
+   "model": "GT",
+   "type": "Exotic",
+   "cost": 550000,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Porsche",
+   "model": "GT2-RS",
+   "type": "Exotic",
+   "cost": 293200,
+   "depreciation": 4,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "McLaren",
+   "model": "720S",
+   "type": "Exotic",
+   "cost": 311130,
+   "depreciation": 4,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "McLaren",
+   "model": "Senna",
+   "type": "Exotic",
+   "cost": 1105000,
+   "depreciation": 4,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Koenigsegg",
+   "model": "Jesko",
+   "type": "Exotic",
+   "cost": 2900000,
+   "depreciation": 5,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Pagani",
+   "model": "Huayra",
+   "type": "Exotic",
+   "cost": 3500000,
+   "depreciation": 5,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Bugatti",
+   "model": "Centodieci",
+   "type": "Exotic",
+   "cost": 9000000,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Bugatti",
+   "model": "Divo",
+   "type": "Exotic",
+   "cost": 5800000,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Ferrari",
+   "model": "Liberty Walk F40",
+   "type": "Exotic",
+   "cost": 4266421,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Porsche",
+   "model": "RWB",
+   "type": "Exotic",
+   "cost": 2587622,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Wayne Enterprises",
+   "model": "Batmobile",
+   "type": "Exotic",
+   "cost": 50000000,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Koenigsegg",
+   "model": "CCXR Trevita",
+   "type": "Exotic",
+   "cost": 1965033,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Bugatti",
+   "model": "57SC Atlantic",
+   "type": "Exotic",
+   "cost": 4793627,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Ferrari",
+   "model": "335 Sport Scaglietti",
+   "type": "Exotic",
+   "cost": 4269022,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Mercedes-Benz",
+   "model": "W196",
+   "type": "Exotic",
+   "cost": 9634577,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Ferrari",
+   "model": "412B",
+   "type": "Exotic",
+   "cost": 5597050,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Aston Martin",
+   "model": "Bond DB5",
+   "type": "Exotic",
+   "cost": 2197725,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": true,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Fiat",
+   "model": "500",
+   "type": "Hatchback",
+   "cost": 14995,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Ford",
+   "model": "Focus",
+   "type": "Hatchback",
+   "cost": 17981,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 1,
+   "easeOfTheft": 5,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Mini",
+   "model": "Cooper",
+   "type": "Hatchback",
+   "cost": 21983,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 3,
+   "cool": 3,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Toyota",
+   "model": "Prius",
+   "type": "Hatchback",
+   "cost": 23470,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 5,
+   "cool": 2,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Beetle",
+   "type": "Hatchback",
+   "cost": 20391,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Ford",
+   "model": "Focus RS",
+   "type": "Hatchback",
+   "cost": 31200,
+   "depreciation": 2,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Hyundai",
+   "model": "Veloster",
+   "type": "Hatchback",
+   "cost": 34300,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 3,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Kia",
+   "model": "Rio",
+   "type": "Hatchback",
+   "cost": 17525,
+   "depreciation": 4,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 1,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Volkswagen",
+   "model": "GTI",
+   "type": "Hatchback",
+   "cost": 35290,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Ferrari",
+   "model": "GTC4Lusso",
+   "type": "Hatchback",
+   "cost": 263750,
+   "depreciation": 5,
+   "reliability": 3,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Cadillac",
+   "model": "Hearse",
+   "type": "Hearse",
+   "cost": 52630,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Chrysler",
+   "model": "Pacifica",
+   "type": "Minivan",
+   "cost": 26995,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 1,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Honda",
+   "model": "Odyssey",
+   "type": "Minivan",
+   "cost": 30093,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 5,
+   "cool": 1,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Nissan",
+   "model": "Quest",
+   "type": "Minivan",
+   "cost": 31200,
+   "depreciation": 4,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 2,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Acura",
+   "model": "RLX",
+   "type": "Sedan",
+   "cost": 54321,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 2,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Acura",
+   "model": "ILX",
+   "type": "Sedan",
+   "cost": 28109,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 5,
+   "cool": 2,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Audi",
+   "model": "S8",
+   "type": "Sedan",
+   "cost": 115841,
+   "depreciation": 2,
+   "reliability": 5,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "BMW",
+   "model": "7-Series",
+   "type": "Sedan",
+   "cost": 113005,
+   "depreciation": 4,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "BMW",
+   "model": "5-Series",
+   "type": "Sedan",
+   "cost": 55000,
+   "depreciation": 4,
+   "reliability": 2,
+   "longevity": 2,
+   "cool": 4,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "BMW",
+   "model": "3-Series",
+   "type": "Sedan",
+   "cost": 40271,
+   "depreciation": 4,
+   "reliability": 5,
+   "longevity": 3,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Buick",
+   "model": "Regal",
+   "type": "Sedan",
+   "cost": 27065,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 2,
+   "cool": 2,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Dodge",
+   "model": "Charger",
+   "type": "Sedan",
+   "cost": 28994,
+   "depreciation": 2,
+   "reliability": 1,
+   "longevity": 2,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Ford",
+   "model": "Fusion",
+   "type": "Sedan",
+   "cost": 22215,
+   "depreciation": 5,
+   "reliability": 4,
+   "longevity": 2,
+   "cool": 2,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Ford",
+   "model": "Taurus",
+   "type": "Sedan",
+   "cost": 27690,
+   "depreciation": 4,
+   "reliability": 3,
+   "longevity": 2,
+   "cool": 2,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Honda",
+   "model": "Accord",
+   "type": "Sedan",
+   "cost": 23579,
+   "depreciation": 1,
+   "reliability": 4,
+   "longevity": 5,
+   "cool": 2,
+   "easeOfTheft": 5,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Hyundai",
+   "model": "Accent",
+   "type": "Sedan",
+   "cost": 14937,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 1,
+   "easeOfTheft": 5,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Hyundai",
+   "model": "Sonata",
+   "type": "Sedan",
+   "cost": 22059,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 2,
+   "easeOfTheft": 5,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Jaguar",
+   "model": "XJ",
+   "type": "Sedan",
+   "cost": 74939,
+   "depreciation": 4,
+   "reliability": 3,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Kia",
+   "model": "Optima",
+   "type": "Sedan",
+   "cost": 22841,
+   "depreciation": 3,
+   "reliability": 5,
+   "longevity": 3,
+   "cool": 2,
+   "easeOfTheft": 5,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Lexus",
+   "model": "ES",
+   "type": "Sedan",
+   "cost": 38934,
+   "depreciation": 2,
+   "reliability": 5,
+   "longevity": 3,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Lincoln",
+   "model": "Continental",
+   "type": "Sedan",
+   "cost": 45818,
+   "depreciation": 4,
+   "reliability": 2,
+   "longevity": 2,
+   "cool": 2,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Mazda",
+   "model": "Mazda6",
+   "type": "Sedan",
+   "cost": 21951,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 3,
+   "cool": 2,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Mercedes-Benz",
+   "model": "C-Class",
+   "type": "Sedan",
+   "cost": 40289,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Mercedes-Benz",
+   "model": "S-Class",
+   "type": "Sedan",
+   "cost": 89914,
+   "depreciation": 4,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "type": "Sedan",
+   "cost": 17901,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 2,
+   "cool": 1,
+   "easeOfTheft": 5,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Nissan",
+   "model": "Altima",
+   "type": "Sedan",
+   "cost": 23260,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 2,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Nissan",
+   "model": "Maxima",
+   "type": "Sedan",
+   "cost": 33490,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 2,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Rolls-Royce",
+   "model": "Phantom",
+   "type": "Sedan",
+   "cost": 420321,
+   "depreciation": 5,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 1,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Subaru",
+   "model": "Impreza",
+   "type": "Sedan",
+   "cost": 18734,
+   "depreciation": 1,
+   "reliability": 4,
+   "longevity": 5,
+   "cool": 1,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Toyota",
+   "model": "Camry",
+   "type": "Sedan",
+   "cost": 23654,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 5,
+   "cool": 2,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla",
+   "type": "Sedan",
+   "cost": 18673,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 5,
+   "cool": 1,
+   "easeOfTheft": 5,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Jetta",
+   "type": "Sedan",
+   "cost": 18645,
+   "depreciation": 5,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Passat",
+   "type": "Sedan",
+   "cost": 22987,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 2,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Volvo",
+   "model": "S90",
+   "type": "Sedan",
+   "cost": 48173,
+   "depreciation": 3,
+   "reliability": 2,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Subaru",
+   "model": "WRX STI",
+   "type": "Sedan",
+   "cost": 38650,
+   "depreciation": 1,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Cadillac",
+   "model": "CT5-V",
+   "type": "Sedan",
+   "cost": 84990,
+   "depreciation": 4,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Lexus",
+   "model": "IS-500",
+   "type": "Sedan",
+   "cost": 57885,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "B"
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "type": "Sedan",
+   "cost": 14634,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 2,
+   "cool": 1,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Evolution X",
+   "type": "Sedan",
+   "cost": 45770,
+   "depreciation": 2,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Malibu",
+   "type": "Sedan",
+   "cost": 26400,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 2,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Acura",
+   "model": "RDX",
+   "type": "SUV",
+   "cost": 37300,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 2,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Buick",
+   "model": "Enclave",
+   "type": "SUV",
+   "cost": 39717,
+   "depreciation": 4,
+   "reliability": 4,
+   "longevity": 2,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Cadillac",
+   "model": "Escalade",
+   "type": "SUV",
+   "cost": 74695,
+   "depreciation": 2,
+   "reliability": 1,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Suburban",
+   "type": "SUV",
+   "cost": 50275,
+   "depreciation": 3,
+   "reliability": 2,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Equinox",
+   "type": "SUV",
+   "cost": 23580,
+   "depreciation": 4,
+   "reliability": 2,
+   "longevity": 2,
+   "cool": 3,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Dodge",
+   "model": "Durango",
+   "type": "SUV",
+   "cost": 28919,
+   "depreciation": 3,
+   "reliability": 1,
+   "longevity": 3,
+   "cool": 3,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Ford",
+   "model": "Expedition",
+   "type": "SUV",
+   "cost": 51790,
+   "depreciation": 4,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Ford",
+   "model": "Explorer",
+   "type": "SUV",
+   "cost": 32140,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 2,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "GMC",
+   "model": "Acadia",
+   "type": "SUV",
+   "cost": 29712,
+   "depreciation": 4,
+   "reliability": 1,
+   "longevity": 2,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "GMC",
+   "model": "Yukon",
+   "type": "SUV",
+   "cost": 49741,
+   "depreciation": 4,
+   "reliability": 1,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "type": "SUV",
+   "cost": 24253,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 5,
+   "cool": 2,
+   "easeOfTheft": 5,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Hyundai",
+   "model": "Sante Fe",
+   "type": "SUV",
+   "cost": 30831,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 2,
+   "easeOfTheft": 5,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Infiniti",
+   "model": "QX",
+   "type": "SUV",
+   "cost": 36550,
+   "depreciation": 4,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 2,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Jeep",
+   "model": "Cherokee",
+   "type": "SUV",
+   "cost": 23981,
+   "depreciation": 1,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Jeep",
+   "model": "Wrangler",
+   "type": "SUV",
+   "cost": 30909,
+   "depreciation": 1,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "type": "SUV",
+   "cost": 25981,
+   "depreciation": 3,
+   "reliability": 2,
+   "longevity": 2,
+   "cool": 1,
+   "easeOfTheft": 5,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Lamborghini",
+   "model": "Urus",
+   "type": "SUV",
+   "cost": 201893,
+   "depreciation": 5,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition, circuit",
+   "racingClass": "A"
+  },
+  {
+   "make": "Land Rover",
+   "model": "Range Rover",
+   "type": "SUV",
+   "cost": 87351,
+   "depreciation": 4,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Land Rover",
+   "model": "Discovery",
+   "type": "SUV",
+   "cost": 52116,
+   "depreciation": 4,
+   "reliability": 2,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Lexus",
+   "model": "RX",
+   "type": "SUV",
+   "cost": 45891,
+   "depreciation": 2,
+   "reliability": 5,
+   "longevity": 3,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Lincoln",
+   "model": "Navigator",
+   "type": "SUV",
+   "cost": 72675,
+   "depreciation": 4,
+   "reliability": 2,
+   "longevity": 2,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "type": "SUV",
+   "cost": 20391,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 2,
+   "cool": 3,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Mercedes-Benz",
+   "model": "G Wagon",
+   "type": "SUV",
+   "cost": 142741,
+   "depreciation": 4,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "A"
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Outlander",
+   "type": "SUV",
+   "cost": 23941,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 2,
+   "cool": 2,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Nissan",
+   "model": "Pathfinder",
+   "type": "SUV",
+   "cost": 31803,
+   "depreciation": 1,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Nissan",
+   "model": "Rogue",
+   "type": "SUV",
+   "cost": 24801,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Porsche",
+   "model": "Cayenne",
+   "type": "SUV",
+   "cost": 60608,
+   "depreciation": 2,
+   "reliability": 3,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "A"
+  },
+  {
+   "make": "Toyota",
+   "model": "4Runner",
+   "type": "SUV",
+   "cost": 34857,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 5,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Toyota",
+   "model": "Highlander",
+   "type": "SUV",
+   "cost": 31230,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 5,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Toyota",
+   "model": "RAV4",
+   "type": "SUV",
+   "cost": 24661,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 5,
+   "cool": 3,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Toyota",
+   "model": "FJ Cruiser",
+   "type": "SUV",
+   "cost": 31100,
+   "depreciation": 1,
+   "reliability": 4,
+   "longevity": 5,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Volvo",
+   "model": "XC90",
+   "type": "SUV",
+   "cost": 46904,
+   "depreciation": 3,
+   "reliability": 2,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Nissan",
+   "model": "Murano",
+   "type": "SUV",
+   "cost": 49405,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "A"
+  },
+  {
+   "make": "Pontiac",
+   "model": "Aztek",
+   "type": "SUV",
+   "cost": 21470,
+   "depreciation": 4,
+   "reliability": 2,
+   "longevity": 2,
+   "cool": 1,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Kia",
+   "model": "Telluride",
+   "type": "SUV",
+   "cost": 35090,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 3,
+   "cool": 2,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Silverado",
+   "type": "Truck",
+   "cost": 35495,
+   "depreciation": 3,
+   "reliability": 2,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Ford",
+   "model": "F-150",
+   "type": "Truck",
+   "cost": 27705,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Ford",
+   "model": "F-450",
+   "type": "Truck",
+   "cost": 51795,
+   "depreciation": 4,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "GMC",
+   "model": "Sierra",
+   "type": "Truck",
+   "cost": 35823,
+   "depreciation": 3,
+   "reliability": 1,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Honda",
+   "model": "Ridgeline",
+   "type": "Truck",
+   "cost": 29963,
+   "depreciation": 2,
+   "reliability": 3,
+   "longevity": 5,
+   "cool": 3,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Nissan",
+   "model": "Titan",
+   "type": "Truck",
+   "cost": 30971,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Nissan",
+   "model": "Titan",
+   "type": "Truck",
+   "cost": 30383,
+   "depreciation": 2,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Dodge",
+   "model": "Ram 1500",
+   "type": "Truck",
+   "cost": 31692,
+   "depreciation": 3,
+   "reliability": 1,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "C"
+  },
+  {
+   "make": "Dodge",
+   "model": "Ram 3500",
+   "type": "Truck",
+   "cost": 33981,
+   "depreciation": 3,
+   "reliability": 1,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Toyota",
+   "model": "Tacoma",
+   "type": "Truck",
+   "cost": 25490,
+   "depreciation": 1,
+   "reliability": 4,
+   "longevity": 5,
+   "cool": 3,
+   "easeOfTheft": 5,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Toyota",
+   "model": "Tundra",
+   "type": "Truck",
+   "cost": 31731,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 5,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Dodge",
+   "model": "Ram 1500",
+   "type": "Truck",
+   "cost": 42420,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 2,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Jeep",
+   "model": "Gladiator",
+   "type": "Truck",
+   "cost": 39065,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 5,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Subaru",
+   "model": "Outback",
+   "type": "Wagon",
+   "cost": 25894,
+   "depreciation": 1,
+   "reliability": 5,
+   "longevity": 5,
+   "cool": 1,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Volvo",
+   "model": "V60",
+   "type": "Wagon",
+   "cost": 38703,
+   "depreciation": 3,
+   "reliability": 3,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "BMW",
+   "model": "M3 Touring",
+   "type": "Wagon",
+   "cost": 49800,
+   "depreciation": 4,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "A"
+  },
+  {
+   "make": "Audi",
+   "model": "A4 allroad",
+   "type": "Wagon",
+   "cost": 47700,
+   "depreciation": 4,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Mercedes-Benz",
+   "model": "E-Class",
+   "type": "Wagon",
+   "cost": 72450,
+   "depreciation": 4,
+   "reliability": 4,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 4,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": false,
+   "raceTypeWhitelist": "street, demolition",
+   "racingClass": "B"
+  },
+  {
+   "make": "Ford",
+   "model": "Mustang GT",
+   "type": "Stock Car",
+   "cost": 600000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "Ford",
+   "model": "Fusion BBL",
+   "type": "Stock Car",
+   "cost": 450000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Camaro BLF1",
+   "type": "Stock Car",
+   "cost": 620000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "Chevrolet",
+   "model": "SS",
+   "type": "Stock Car",
+   "cost": 420000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "Toyota",
+   "model": "Camry XXL",
+   "type": "Stock Car",
+   "cost": 575000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "Dodge",
+   "model": "Charger M4X",
+   "type": "Stock Car",
+   "cost": 440000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "Nissan",
+   "model": "Maxima ZUM",
+   "type": "Stock Car",
+   "cost": 410000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "BMW",
+   "model": "M4-XL",
+   "type": "Stock Car",
+   "cost": 525000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "Mercedes",
+   "model": "AMG",
+   "type": "Formula",
+   "cost": 15000000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "Ferrari",
+   "model": "SF-24",
+   "type": "Formula",
+   "cost": 20000000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "Alfa Romeo",
+   "model": "C44",
+   "type": "Formula",
+   "cost": 5000000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "Aston Martin",
+   "model": "AMR24",
+   "type": "Formula",
+   "cost": 10000000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "McLaren",
+   "model": "MCL36",
+   "type": "Formula",
+   "cost": 12000000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "BMW",
+   "model": "Sauber",
+   "type": "Formula",
+   "cost": 3000000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "Honda",
+   "model": "RBPTH002",
+   "type": "Formula",
+   "cost": 5000000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  },
+  {
+   "make": "Toyota",
+   "model": "VF 24",
+   "type": "Formula",
+   "cost": 2500000,
+   "depreciation": 3,
+   "reliability": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 2,
+   "unavailable": false,
+   "luxuryOnly": false,
+   "raceDealershipOnly": true,
+   "raceTypeWhitelist": "circuit",
+   "racingClass": "S"
+  }
+ ],
+ "outdoorVehicles": [
+  {
+   "make": "FRP",
+   "model": "Sahara Mini Quad",
+   "type": "ATV",
+   "cost": 500,
+   "performance": 1,
+   "depreciation": 5,
+   "longevity": 1,
+   "cool": 1,
+   "easeOfTheft": 5
+  },
+  {
+   "make": "Trailmaster",
+   "model": "Hunter-Youth",
+   "type": "ATV",
+   "cost": 600,
+   "performance": 2,
+   "depreciation": 5,
+   "longevity": 1,
+   "cool": 1,
+   "easeOfTheft": 4
+  },
+  {
+   "make": "X-Pro",
+   "model": "Bolt",
+   "type": "ATV",
+   "cost": 800,
+   "performance": 2,
+   "depreciation": 5,
+   "longevity": 2,
+   "cool": 2,
+   "easeOfTheft": 5
+  },
+  {
+   "make": "Vitacci",
+   "model": "Rider",
+   "type": "ATV",
+   "cost": 1050,
+   "performance": 3,
+   "depreciation": 3,
+   "longevity": 2,
+   "cool": 3,
+   "easeOfTheft": 4
+  },
+  {
+   "make": "Tao Motor",
+   "model": "Mudhawk",
+   "type": "ATV",
+   "cost": 1300,
+   "performance": 3,
+   "depreciation": 4,
+   "longevity": 3,
+   "cool": 3,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "X-PRO",
+   "model": "200 ATV Quad",
+   "type": "ATV",
+   "cost": 1400,
+   "performance": 5,
+   "depreciation": 1,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "CFMOTO",
+   "model": "CFORCE Overland",
+   "type": "ATV",
+   "cost": 1500,
+   "performance": 4,
+   "depreciation": 3,
+   "longevity": 3,
+   "cool": 3,
+   "easeOfTheft": 2
+  },
+  {
+   "make": "Kawasaki",
+   "model": "Brute Force",
+   "type": "ATV",
+   "cost": 4500,
+   "performance": 5,
+   "depreciation": 1,
+   "longevity": 5,
+   "cool": 2,
+   "easeOfTheft": 1
+  },
+  {
+   "make": "Honda",
+   "model": "Rancher 4x4",
+   "type": "ATV",
+   "cost": 6000,
+   "performance": 5,
+   "depreciation": 3,
+   "longevity": 4,
+   "cool": 2,
+   "easeOfTheft": 2
+  },
+  {
+   "make": "Suzuki",
+   "model": "KingQuad 400ASi",
+   "type": "ATV",
+   "cost": 7000,
+   "performance": 3,
+   "depreciation": 4,
+   "longevity": 2,
+   "cool": 2,
+   "easeOfTheft": 4
+  },
+  {
+   "make": "Polaris",
+   "model": "Sportsman 450",
+   "type": "ATV",
+   "cost": 8500,
+   "performance": 5,
+   "depreciation": 2,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 2
+  },
+  {
+   "make": "Yamaha",
+   "model": "Raptor 700R",
+   "type": "ATV",
+   "cost": 10000,
+   "performance": 4,
+   "depreciation": 5,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Polaris",
+   "model": "Ranger 500",
+   "type": "ATV",
+   "cost": 11000,
+   "performance": 5,
+   "depreciation": 2,
+   "longevity": 4,
+   "cool": 1,
+   "easeOfTheft": 1
+  },
+  {
+   "make": "Honda",
+   "model": "Foreman Rubicon",
+   "type": "ATV",
+   "cost": 11000,
+   "performance": 4,
+   "depreciation": 2,
+   "longevity": 3,
+   "cool": 2,
+   "easeOfTheft": 2
+  },
+  {
+   "make": "Yamaha",
+   "model": "Grizzly 700",
+   "type": "ATV",
+   "cost": 12000,
+   "performance": 3,
+   "depreciation": 3,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Can-Am",
+   "model": "Outlander 700",
+   "type": "ATV",
+   "cost": 15000,
+   "performance": 4,
+   "depreciation": 3,
+   "longevity": 5,
+   "cool": 1,
+   "easeOfTheft": 1
+  },
+  {
+   "make": "Wirlsweal",
+   "model": "Minibike",
+   "type": "Dirt Bike",
+   "cost": 175,
+   "performance": 1,
+   "depreciation": 5,
+   "longevity": 1,
+   "cool": 1,
+   "easeOfTheft": 5
+  },
+  {
+   "make": "Gpower",
+   "model": "49cc",
+   "type": "Dirt Bike",
+   "cost": 250,
+   "performance": 2,
+   "depreciation": 4,
+   "longevity": 1,
+   "cool": 1,
+   "easeOfTheft": 5
+  },
+  {
+   "make": "Oryxearth",
+   "model": "Minibike",
+   "type": "Dirt Bike",
+   "cost": 400,
+   "performance": 1,
+   "depreciation": 4,
+   "longevity": 2,
+   "cool": 2,
+   "easeOfTheft": 5
+  },
+  {
+   "make": "BMS",
+   "model": "Motorsports Pro",
+   "type": "Dirt Bike",
+   "cost": 900,
+   "performance": 2,
+   "depreciation": 3,
+   "longevity": 3,
+   "cool": 1,
+   "easeOfTheft": 4
+  },
+  {
+   "make": "MotoTec",
+   "model": "X5",
+   "type": "Dirt Bike",
+   "cost": 1900,
+   "performance": 3,
+   "depreciation": 3,
+   "longevity": 2,
+   "cool": 3,
+   "easeOfTheft": 4
+  },
+  {
+   "make": "TrailMaster",
+   "model": "TM35X",
+   "type": "Dirt Bike",
+   "cost": 2400,
+   "performance": 3,
+   "depreciation": 4,
+   "longevity": 2,
+   "cool": 3,
+   "easeOfTheft": 4
+  },
+  {
+   "make": "Suzuki",
+   "model": "DR-Z125L",
+   "type": "Dirt Bike",
+   "cost": 3600,
+   "performance": 2,
+   "depreciation": 4,
+   "longevity": 4,
+   "cool": 2,
+   "easeOfTheft": 1
+  },
+  {
+   "make": "Suzuki",
+   "model": "RM85",
+   "type": "Dirt Bike",
+   "cost": 4500,
+   "performance": 3,
+   "depreciation": 3,
+   "longevity": 2,
+   "cool": 2,
+   "easeOfTheft": 1
+  },
+  {
+   "make": "Yamaha",
+   "model": "TT-R230",
+   "type": "Dirt Bike",
+   "cost": 4500,
+   "performance": 3,
+   "depreciation": 2,
+   "longevity": 5,
+   "cool": 3,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Kawasaki",
+   "model": "KLX230R",
+   "type": "Dirt Bike",
+   "cost": 4800,
+   "performance": 4,
+   "depreciation": 3,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 2
+  },
+  {
+   "make": "Honda",
+   "model": "CRF250F",
+   "type": "Dirt Bike",
+   "cost": 5000,
+   "performance": 4,
+   "depreciation": 2,
+   "longevity": 5,
+   "cool": 3,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Yamaha",
+   "model": "YZ125X",
+   "type": "Dirt Bike",
+   "cost": 7000,
+   "performance": 4,
+   "depreciation": 2,
+   "longevity": 3,
+   "cool": 3,
+   "easeOfTheft": 1
+  },
+  {
+   "make": "GasGas",
+   "model": "MC125",
+   "type": "Dirt Bike",
+   "cost": 7500,
+   "performance": 4,
+   "depreciation": 3,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "KTM",
+   "model": "125SX",
+   "type": "Dirt Bike",
+   "cost": 8000,
+   "performance": 5,
+   "depreciation": 2,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 4
+  },
+  {
+   "make": "Yamaha",
+   "model": "YZ250",
+   "type": "Dirt Bike",
+   "cost": 8000,
+   "performance": 5,
+   "depreciation": 1,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 4
+  },
+  {
+   "make": "Kawasaki",
+   "model": "KX250",
+   "type": "Dirt Bike",
+   "cost": 9000,
+   "performance": 5,
+   "depreciation": 2,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 4
+  },
+  {
+   "make": "Huffy",
+   "model": "Rock Creek",
+   "type": "Mountain Bike",
+   "cost": 100,
+   "performance": 1,
+   "depreciation": 5,
+   "longevity": 1,
+   "cool": 1,
+   "easeOfTheft": 5
+  },
+  {
+   "make": "Nishiki",
+   "model": "Pueblo",
+   "type": "Mountain Bike",
+   "cost": 250,
+   "performance": 2,
+   "depreciation": 5,
+   "longevity": 2,
+   "cool": 1,
+   "easeOfTheft": 5
+  },
+  {
+   "make": "Retrospec",
+   "model": "Ascent",
+   "type": "Mountain Bike",
+   "cost": 500,
+   "performance": 1,
+   "depreciation": 3,
+   "longevity": 2,
+   "cool": 3,
+   "easeOfTheft": 4
+  },
+  {
+   "make": "Cannondale",
+   "model": "Trail 8",
+   "type": "Mountain Bike",
+   "cost": 600,
+   "performance": 2,
+   "depreciation": 3,
+   "longevity": 3,
+   "cool": 2,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Specialized",
+   "model": "Rockhopper",
+   "type": "Mountain Bike",
+   "cost": 850,
+   "performance": 2,
+   "depreciation": 3,
+   "longevity": 2,
+   "cool": 3,
+   "easeOfTheft": 4
+  },
+  {
+   "make": "Salsa",
+   "model": "Rangefinder Deore",
+   "type": "Mountain Bike",
+   "cost": 1000,
+   "performance": 3,
+   "depreciation": 3,
+   "longevity": 3,
+   "cool": 3,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Cannondale",
+   "model": "Habit HT 2",
+   "type": "Mountain Bike",
+   "cost": 1400,
+   "performance": 3,
+   "depreciation": 4,
+   "longevity": 3,
+   "cool": 5,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Trek",
+   "model": "Top Fuel",
+   "type": "Mountain Bike",
+   "cost": 1800,
+   "performance": 4,
+   "depreciation": 3,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Canyon",
+   "model": "Neuron 5",
+   "type": "Mountain Bike",
+   "cost": 1900,
+   "performance": 4,
+   "depreciation": 4,
+   "longevity": 3,
+   "cool": 2,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Fezzari",
+   "model": "Kings Peak",
+   "type": "Mountain Bike",
+   "cost": 2000,
+   "performance": 4,
+   "depreciation": 4,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Revel",
+   "model": "Rascal Transmission",
+   "type": "Mountain Bike",
+   "cost": 4000,
+   "performance": 5,
+   "depreciation": 2,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Specialized",
+   "model": "Stumpjumper",
+   "type": "Mountain Bike",
+   "cost": 5000,
+   "performance": 5,
+   "depreciation": 3,
+   "longevity": 4,
+   "cool": 5,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Concord",
+   "model": "Envoy",
+   "type": "Road Bike",
+   "cost": 125,
+   "performance": 1,
+   "depreciation": 5,
+   "longevity": 1,
+   "cool": 1,
+   "easeOfTheft": 5
+  },
+  {
+   "make": "BestParts",
+   "model": "Urban",
+   "type": "Road Bike",
+   "cost": 250,
+   "performance": 2,
+   "depreciation": 4,
+   "longevity": 2,
+   "cool": 2,
+   "easeOfTheft": 4
+  },
+  {
+   "make": "Joystar",
+   "model": "Hiland",
+   "type": "Road Bike",
+   "cost": 320,
+   "performance": 2,
+   "depreciation": 4,
+   "longevity": 3,
+   "cool": 3,
+   "easeOfTheft": 4
+  },
+  {
+   "make": "Tommaso",
+   "model": "Forcella",
+   "type": "Road Bike",
+   "cost": 400,
+   "performance": 3,
+   "depreciation": 3,
+   "longevity": 3,
+   "cool": 3,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Specialized",
+   "model": "Diverge Comp",
+   "type": "Road Bike",
+   "cost": 500,
+   "performance": 5,
+   "depreciation": 2,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Worksman",
+   "model": "Industrial Bike",
+   "type": "Road Bike",
+   "cost": 500,
+   "performance": 2,
+   "depreciation": 1,
+   "longevity": 5,
+   "cool": 1,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Specialized",
+   "model": "Allez",
+   "type": "Road Bike",
+   "cost": 750,
+   "performance": 3,
+   "depreciation": 4,
+   "longevity": 3,
+   "cool": 4,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Canyon",
+   "model": "Grizl",
+   "type": "Road Bike",
+   "cost": 1200,
+   "performance": 4,
+   "depreciation": 3,
+   "longevity": 4,
+   "cool": 2,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Giant",
+   "model": "Defy Advanced",
+   "type": "Road Bike",
+   "cost": 1800,
+   "performance": 4,
+   "depreciation": 3,
+   "longevity": 4,
+   "cool": 3,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Specialized",
+   "model": "Tarmac",
+   "type": "Road Bike",
+   "cost": 2000,
+   "performance": 5,
+   "depreciation": 2,
+   "longevity": 4,
+   "cool": 4,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Canyon",
+   "model": "Ultimate",
+   "type": "Road Bike",
+   "cost": 2800,
+   "performance": 5,
+   "depreciation": 3,
+   "longevity": 5,
+   "cool": 5,
+   "easeOfTheft": 3
+  },
+  {
+   "make": "Cervelo",
+   "model": "Soloist Rival",
+   "type": "Road Bike",
+   "cost": 4000,
+   "performance": 5,
+   "depreciation": 1,
+   "longevity": 5,
+   "cool": 5,
+   "easeOfTheft": 2
+  }
+ ],
+ "carParts": [
+  {
+   "name": "air conditioning compressor",
+   "baseCost": 500,
+   "breakCommonness": 2,
+   "brokenTerms": "broken, cracked",
+   "description": "Your air conditioner broke on a cross country road trip."
+  },
+  {
+   "name": "air filter",
+   "baseCost": 40,
+   "breakCommonness": 5,
+   "brokenTerms": "clogged, broken",
+   "description": "A dust storm clogged your air filter."
+  },
+  {
+   "name": "alternator",
+   "baseCost": 400,
+   "breakCommonness": 2,
+   "brokenTerms": "broken",
+   "description": ""
+  },
+  {
+   "name": "axle",
+   "baseCost": 500,
+   "breakCommonness": 1,
+   "brokenTerms": "broken",
+   "description": "You ran over a curb and cracked your axle."
+  },
+  {
+   "name": "ball joint",
+   "baseCost": 200,
+   "breakCommonness": 3,
+   "brokenTerms": "worn, failing",
+   "description": ""
+  },
+  {
+   "name": "battery",
+   "baseCost": 125,
+   "breakCommonness": 4,
+   "brokenTerms": "dead, fried",
+   "description": "You left your lights on all night and drained your battery."
+  },
+  {
+   "name": "bumper",
+   "baseCost": 1000,
+   "breakCommonness": 2,
+   "brokenTerms": "dented, broken, cracked",
+   "description": "You found a dent in your bumper after coming out of the store., You backed into a pole and broke off your bumper."
+  },
+  {
+   "name": "catalytic converter",
+   "baseCost": 1200,
+   "breakCommonness": 5,
+   "brokenTerms": "clogged, broken",
+   "description": ""
+  },
+  {
+   "name": "drive shaft",
+   "baseCost": 300,
+   "breakCommonness": 3,
+   "brokenTerms": "failing, broken",
+   "description": ""
+  },
+  {
+   "name": "engine fan",
+   "baseCost": 500,
+   "breakCommonness": 3,
+   "brokenTerms": "broken",
+   "description": ""
+  },
+  {
+   "name": "fender",
+   "baseCost": 500,
+   "breakCommonness": 4,
+   "brokenTerms": "dented",
+   "description": "You found a dent in your fender after coming out of a restaurant., Your ex smashed your fender with a golf club., A bird flew into your fender and dented it."
+  },
+  {
+   "name": "fuel gauge",
+   "baseCost": 250,
+   "breakCommonness": 1,
+   "brokenTerms": "broken",
+   "description": ""
+  },
+  {
+   "name": "fuel injector",
+   "baseCost": 600,
+   "breakCommonness": 5,
+   "brokenTerms": "clogged, broken",
+   "description": ""
+  },
+  {
+   "name": "fuel pump",
+   "baseCost": 500,
+   "breakCommonness": 3,
+   "brokenTerms": "failing, broken, clogged",
+   "description": ""
+  },
+  {
+   "name": "head gasket",
+   "baseCost": 1000,
+   "breakCommonness": 1,
+   "brokenTerms": "blown",
+   "description": ""
+  },
+  {
+   "name": "headlight",
+   "baseCost": 50,
+   "breakCommonness": 2,
+   "brokenTerms": "shattered, broken",
+   "description": ""
+  },
+  {
+   "name": "ignition coil",
+   "baseCost": 250,
+   "breakCommonness": 5,
+   "brokenTerms": "failing, broken",
+   "description": ""
+  },
+  {
+   "name": "key",
+   "baseCost": 25,
+   "breakCommonness": 1,
+   "brokenTerms": "lost",
+   "description": "You lost a key while swimming., You dropped a key in the sand and lost it."
+  },
+  {
+   "name": "engine",
+   "baseCost": 3000,
+   "breakCommonness": 1,
+   "brokenTerms": "busted, broken",
+   "description": "You blew out your engine drag racing., Your ex put bleach in your fuel tank and destroyed your engine., You flooded your engine after driving through water."
+  },
+  {
+   "name": "muffler",
+   "baseCost": 500,
+   "breakCommonness": 1,
+   "brokenTerms": "failing, cracked, broken",
+   "description": ""
+  },
+  {
+   "name": "oxygen sensor",
+   "baseCost": 250,
+   "breakCommonness": 5,
+   "brokenTerms": "faulty",
+   "description": ""
+  },
+  {
+   "name": "power steering pump",
+   "baseCost": 700,
+   "breakCommonness": 3,
+   "brokenTerms": "failing, broken",
+   "description": ""
+  },
+  {
+   "name": "radiator",
+   "baseCost": 500,
+   "breakCommonness": 2,
+   "brokenTerms": "cracked, broken, failing",
+   "description": ""
+  },
+  {
+   "name": "rearview mirrors",
+   "baseCost": 200,
+   "breakCommonness": 2,
+   "brokenTerms": "broken, cracked, chipped, shattered",
+   "description": "You hit a construction cone and cracked your rearview mirror."
+  },
+  {
+   "name": "rim",
+   "baseCost": 100,
+   "breakCommonness": 1,
+   "brokenTerms": "broken, cracked",
+   "description": "You hit a curb and cracked a rim., Someone stole your rim while you were parked in a ghetto neighborhood."
+  },
+  {
+   "name": "serpentine belt",
+   "baseCost": 500,
+   "breakCommonness": 4,
+   "brokenTerms": "broken, detached",
+   "description": ""
+  },
+  {
+   "name": "shock absorber",
+   "baseCost": 300,
+   "breakCommonness": 4,
+   "brokenTerms": "broken, failing",
+   "description": "You went off-roading and broke a shock absorber."
+  },
+  {
+   "name": "spark plug",
+   "baseCost": 70,
+   "breakCommonness": 5,
+   "brokenTerms": "bad, failing",
+   "description": ""
+  },
+  {
+   "name": "speedometer",
+   "baseCost": 230,
+   "breakCommonness": 1,
+   "brokenTerms": "broken",
+   "description": ""
+  },
+  {
+   "name": "stereo",
+   "baseCost": 200,
+   "breakCommonness": 2,
+   "brokenTerms": "broken",
+   "description": "You blew out your stereo rocking out to Beyonce., You played a Britney Spears CD and it broke your stereo."
+  },
+  {
+   "name": "tail light",
+   "baseCost": 50,
+   "breakCommonness": 2,
+   "brokenTerms": "shattered, broken",
+   "description": "You backed into a car and shattered your tail light."
+  },
+  {
+   "name": "thermostat",
+   "baseCost": 220,
+   "breakCommonness": 5,
+   "brokenTerms": "broken",
+   "description": ""
+  },
+  {
+   "name": "timing belt",
+   "baseCost": 500,
+   "breakCommonness": 4,
+   "brokenTerms": "broken",
+   "description": ""
+  },
+  {
+   "name": "tire",
+   "baseCost": 100,
+   "breakCommonness": 5,
+   "brokenTerms": "flat",
+   "description": "You ran over a nail while driving and need a new tire., Someone slashed your tire."
+  },
+  {
+   "name": "transmission",
+   "baseCost": 2000,
+   "breakCommonness": 2,
+   "brokenTerms": "blown, broken",
+   "description": "A valet ruined your transmission after taking your vehicle for a joyride."
+  },
+  {
+   "name": "water pump",
+   "baseCost": 500,
+   "breakCommonness": 4,
+   "brokenTerms": "failing, broken",
+   "description": ""
+  },
+  {
+   "name": "window",
+   "baseCost": 150,
+   "breakCommonness": 2,
+   "brokenTerms": "shattered, broken, cracked, shattered",
+   "description": "You smashed out your window after locking your keys in your vehicle., An ex threw a brick through your window., A foul ball shattered your window while watching a baseball game."
+  },
+  {
+   "name": "window lift motor",
+   "baseCost": 500,
+   "breakCommonness": 2,
+   "brokenTerms": "broken, failing",
+   "description": "A friend broke your window lift motor by continuously rolling the window up and down., Someone broke your window lift motor while trying to break into your vehicle."
+  },
+  {
+   "name": "windshield",
+   "baseCost": 100,
+   "breakCommonness": 4,
+   "brokenTerms": "shattered, broken, cracked",
+   "description": "Some debris flew up and cracked your windshield while driving., A small meteor landed on your windshield and shattered it upon impact."
+  },
+  {
+   "name": "windshield wiper",
+   "baseCost": 30,
+   "breakCommonness": 5,
+   "brokenTerms": "busted, snapped, broken",
+   "description": "You used the windshield wipers without any fluid and broke a wiper."
+  },
+  {
+   "name": "key fob",
+   "baseCost": 200,
+   "breakCommonness": 3,
+   "brokenTerms": "broken, waterlogged",
+   "description": "Someone dropped your key fob in a glass of water."
+  },
+  {
+   "name": "fuel filter",
+   "baseCost": 50,
+   "breakCommonness": 4,
+   "brokenTerms": "clogged, broken",
+   "description": "Some funky gunk got stuck in your fuel filter."
+  }
+ ],
+ "licenseQuestions": {
+  "car": [
+   {
+    "sign": "1",
+    "correct": "No U-Turns",
+    "funny": "No Drifting",
+    "decoy": "No Outlet"
+   },
+   {
+    "sign": "2",
+    "correct": "Circular Intersection",
+    "funny": "Recycled Oil",
+    "decoy": "No Outlet"
+   },
+   {
+    "sign": "3",
+    "correct": "Farm Machinery Crossing",
+    "funny": "Wild Farmers",
+    "decoy": "Tractors Only"
+   },
+   {
+    "sign": "4",
+    "correct": "Deer Crossing",
+    "funny": "Happy Hopping Deer",
+    "decoy": "Hunting Zone Warning"
+   },
+   {
+    "sign": "5",
+    "correct": "Road Narrows",
+    "funny": "Skinny Cars Only",
+    "decoy": "One Lane Ahead"
+   },
+   {
+    "sign": "6",
+    "correct": "Slippery When Wet",
+    "funny": "Skid Marks Prohibited",
+    "decoy": "Dangerous Curves Ahead"
+   },
+   {
+    "sign": "7",
+    "correct": "No Pedestrians",
+    "funny": "No Leaning",
+    "decoy": "No Trespassing"
+   },
+   {
+    "sign": "8",
+    "correct": "4-Way Stop",
+    "funny": "Threesome + 1",
+    "decoy": "4 Lanes Ahead"
+   },
+   {
+    "sign": "9",
+    "correct": "Right Lane Ends",
+    "funny": "Chair Ahead",
+    "decoy": "Merging Left Lane"
+   },
+   {
+    "sign": "10",
+    "correct": "Signal Ahead",
+    "funny": "Rastafarians Ahead",
+    "decoy": "Stop Ahead"
+   },
+   {
+    "sign": "11",
+    "correct": "T-Intersection",
+    "funny": "Look Both Ways",
+    "decoy": "Multi-Turn Ahead"
+   },
+   {
+    "sign": "12",
+    "correct": "Side Road",
+    "funny": "Tetris Road\\240",
+    "decoy": "Dead End"
+   },
+   {
+    "sign": "13",
+    "correct": "Two-Way Traffic",
+    "funny": "Hilly Road Ahead",
+    "decoy": "Close Lanes"
+   },
+   {
+    "sign": "14",
+    "correct": "Yield Ahead",
+    "funny": "Hazards On",
+    "decoy": "Stop Ahead"
+   },
+   {
+    "sign": "15",
+    "correct": "Divided Highway",
+    "funny": "Pothole Ahead",
+    "decoy": "Tunnel Ahead"
+   },
+   {
+    "sign": "16",
+    "correct": "Hill Ahead",
+    "funny": "Mountain Trucking Ahead",
+    "decoy": "Dangerous Decline Ahead"
+   },
+   {
+    "sign": "17",
+    "correct": "Snowmobile Crossing",
+    "funny": "Ski Lodge Property",
+    "decoy": "Snow Ranger Patrol"
+   },
+   {
+    "sign": "18",
+    "correct": "Sharp Curve",
+    "funny": "Nitro-Boost\\240",
+    "decoy": "One Way"
+   },
+   {
+    "sign": "19",
+    "correct": "Y-Intersection",
+    "funny": "Wishbone Ahead",
+    "decoy": "3-Way Yield"
+   },
+   {
+    "sign": "20",
+    "correct": "Cattle Crossing",
+    "funny": "No Cow Tipping",
+    "decoy": "Farm Land"
+   },
+   {
+    "sign": "21",
+    "correct": "Truck Crossing",
+    "funny": "Trucks Wanted",
+    "decoy": "Truck Parking Only"
+   },
+   {
+    "sign": "22",
+    "correct": "Added Lane",
+    "funny": "Same Way Traffic",
+    "decoy": "Merge Right"
+   },
+   {
+    "sign": "23",
+    "correct": "No Parking",
+    "funny": "No Carpooling",
+    "decoy": "Prohibited Area"
+   },
+   {
+    "sign": "24",
+    "correct": "Route Marker",
+    "funny": "Height Limit",
+    "decoy": "Speed Limit"
+   },
+   {
+    "sign": "25",
+    "correct": "Playground Ahead",
+    "funny": "Teeter-Totter in the Street",
+    "decoy": "School Grounds"
+   },
+   {
+    "sign": "26",
+    "correct": "Flagger Ahead",
+    "funny": "People Asking for Money Ahead",
+    "decoy": "Construction Ahead"
+   },
+   {
+    "sign": "27",
+    "correct": "Fire Station",
+    "funny": "Long Truck Crossing",
+    "decoy": "Fire Hydrant Parking"
+   },
+   {
+    "sign": "28",
+    "correct": "Cross Road",
+    "funny": "Add Speed Ahead",
+    "decoy": "Hospital Ahead"
+   },
+   {
+    "sign": "29",
+    "correct": "Handicapped Crossing",
+    "funny": "Wheelies Only",
+    "decoy": "Handicapped Parking"
+   },
+   {
+    "sign": "30",
+    "correct": "Stop",
+    "funny": "It's Hammer Time",
+    "decoy": "Quit It"
+   }
+  ],
+  "boat": [
+   {
+    "question": "What is the most important thing to consider when putting on a Personal Flotation Device?",
+    "correct": "Size and Fit",
+    "funny": "Matches Outfit",
+    "decoy": "Degree of Buoyancy"
+   },
+   {
+    "question": "What is the name for this side of the boat?",
+    "correct": "Port",
+    "funny": "Left-Hand",
+    "decoy": "Starboard"
+   },
+   {
+    "question": "What is the name for this side of the boat?",
+    "correct": "Starboard",
+    "funny": "Right-Hand",
+    "decoy": "Port"
+   },
+   {
+    "question": "What is the name for this side of the boat?",
+    "correct": "Bow",
+    "funny": "Just the Tip",
+    "decoy": "Stern"
+   },
+   {
+    "question": "What is the name for this side of the boat?",
+    "correct": "Stern",
+    "funny": "Tail-End",
+    "decoy": "Bow"
+   },
+   {
+    "question": "On what side of the vessel should you pass this marker?",
+    "correct": "Port-side",
+    "funny": "South-side",
+    "decoy": "Stern-side"
+   },
+   {
+    "question": "On what side of the vessel should you pass this marker?",
+    "correct": "Starboard-side",
+    "funny": "West-side",
+    "decoy": "Bow-side"
+   },
+   {
+    "question": "What does this marker signify?",
+    "correct": "Dangerous Area",
+    "funny": "Concert Ahead",
+    "decoy": "Rock Bottom"
+   },
+   {
+    "question": "What does this marker signify?",
+    "correct": "Exclusion Area",
+    "funny": "Swim Meet",
+    "decoy": "Divers Ahead"
+   },
+   {
+    "question": "What does this marker signify?",
+    "correct": "Controlled Area",
+    "funny": "Slow Donuts",
+    "decoy": "No Wake Zone"
+   },
+   {
+    "question": "Which vessel should give way in this scenario?",
+    "correct": "Left Vessel",
+    "funny": "Shinier Vessel",
+    "decoy": "Slower Vessel"
+   },
+   {
+    "question": "Which vessel should give way in this scenario?",
+    "correct": "Both Vessels",
+    "funny": "Submissive Vessel",
+    "decoy": "Faster Vessel"
+   },
+   {
+    "question": "Which vessel should give way in this scenario?",
+    "correct": "Power Vessel",
+    "funny": "Scrawny Vessel",
+    "decoy": "Wind Vessel"
+   },
+   {
+    "question": "What is the minimum distance you should keep between vessels?",
+    "correct": "30 Meters",
+    "funny": "69 Feet",
+    "decoy": "10 Yards"
+   },
+   {
+    "question": "What does this flag mean?",
+    "correct": "Diver",
+    "funny": "Runner",
+    "decoy": "Floater"
+   },
+   {
+    "question": "What is the minimum required number of flares you should have on your vessel?",
+    "correct": "Three",
+    "funny": "None",
+    "decoy": "Two"
+   },
+   {
+    "question": "What does this marker signify?",
+    "correct": "No Power Vessels",
+    "funny": "No Fan Zone",
+    "decoy": "No Engine Zone"
+   },
+   {
+    "question": "What does this marker signify?",
+    "correct": "No Combustion Vessels",
+    "funny": "No Engine Fan",
+    "decoy": "No Gas Tank"
+   },
+   {
+    "question": "What does this marker signify?",
+    "correct": "Speed Limit",
+    "funny": "Max Horse Power",
+    "decoy": "Power Limit"
+   },
+   {
+    "question": "What does this marker signify?",
+    "correct": "Power Limit",
+    "funny": "Max Wattage",
+    "decoy": "Engine Power"
+   },
+   {
+    "question": "Which is the required type of fire extinguisher for standard naval vessels?",
+    "correct": "Type B-1",
+    "funny": "Type R2-D2",
+    "decoy": "Type BD-1"
+   },
+   {
+    "question": "What kind of buoy is this?",
+    "correct": "Anchorage Buoy",
+    "funny": "Mustard Buoy",
+    "decoy": "Caution Buoy"
+   },
+   {
+    "question": "What kind of buoy is this?",
+    "correct": "Mooring Buoy",
+    "funny": "Smokers Buoy",
+    "decoy": "Swimmer Buoy"
+   },
+   {
+    "question": "From what side of the vessel should you NEVER anchor?",
+    "correct": "Stern-side",
+    "funny": "Weak-side",
+    "decoy": "Port-side"
+   },
+   {
+    "question": "What does this flag mean?",
+    "correct": "Distress",
+    "funny": "Alert Level Orange",
+    "decoy": "Private Waters"
+   }
+  ],
+  "plane": [
+   {
+    "question": "What is the nickname for the six basic aircraft instruments?",
+    "correct": "The Six Pack",
+    "funny": "Six Pack Abs",
+    "decoy": "The Big Six"
+   },
+   {
+    "question": "What is the name of this pitot-static instrument?",
+    "correct": "Airspeed Indicator",
+    "funny": "Airtime Indicator",
+    "decoy": "Windspeed Indicator"
+   },
+   {
+    "question": "What is the name of this pitot-static instrument?",
+    "correct": "Altimeter",
+    "funny": "Alternative Meter",
+    "decoy": "Altitude Speedometer"
+   },
+   {
+    "question": "What is the name of this pitot-static instrument?",
+    "correct": "Vertical Speed Indicator",
+    "funny": "Vertical Meter",
+    "decoy": "Vertical Speedometer"
+   },
+   {
+    "question": "What is the name of this gyroscopic instrument?",
+    "correct": "Attitude Indicator",
+    "funny": "Attitude Adjuster",
+    "decoy": "Horizontal Speed Indicator"
+   },
+   {
+    "question": "What is the name of this gyroscopic instrument?",
+    "correct": "Heading Indicator",
+    "funny": "Orientationmeter",
+    "decoy": "Directional Compass"
+   },
+   {
+    "question": "What is the name of this gyroscopic instrument?",
+    "correct": "Turn Coordinator",
+    "funny": "Left-Right Speedometer",
+    "decoy": "Lean Indicator"
+   },
+   {
+    "question": "What is the name of this flap on the wing?",
+    "correct": "Aileron",
+    "funny": "Areola",
+    "decoy": "Aeronaught"
+   },
+   {
+    "question": "What is the name of the pilot\\u2019s area on the plane?",
+    "correct": "Cockpit",
+    "funny": "Captains Quarters",
+    "decoy": "Pilotpit"
+   },
+   {
+    "question": "What is the name of this flap on the vertical stabilizer?",
+    "correct": "Rudder",
+    "funny": "Butt-Flap",
+    "decoy": "Roller"
+   },
+   {
+    "question": "What is the name of this flap on the horizontal stabilizer?",
+    "correct": "Elevator",
+    "funny": "Levitator",
+    "decoy": "Aerator"
+   },
+   {
+    "question": "What is the term for the up and down movement of the nose of the plane?",
+    "correct": "Pitch",
+    "funny": "Ditch",
+    "decoy": "Yaw"
+   },
+   {
+    "question": "What is the term for the left and right movement of the nose of the plane?",
+    "correct": "Yaw",
+    "funny": "Yee",
+    "decoy": "Haw"
+   },
+   {
+    "question": "What is the term for the rotational movement of the nose of the plane?",
+    "correct": "Roll",
+    "funny": "Twist",
+    "decoy": "Spin"
+   },
+   {
+    "question": "What is the force that counteracts the weight force for flight?",
+    "correct": "Lift",
+    "funny": "Uprising",
+    "decoy": "Thrust"
+   },
+   {
+    "question": "What is the force that counteracts the lift force for flight?",
+    "correct": "Weight",
+    "funny": "Dropping",
+    "decoy": "Dragging"
+   },
+   {
+    "question": "What is the force that counteracts the drag force for flight?",
+    "correct": "Thrust",
+    "funny": "Boost",
+    "decoy": "Speed"
+   },
+   {
+    "question": "What is the force that counteracts the thrust force for flight?",
+    "correct": "Drag",
+    "funny": "Drift",
+    "decoy": "Weight"
+   },
+   {
+    "question": "What does this airfield landing marker indicate?",
+    "correct": "Landing Prohibited",
+    "funny": "Rough Landing",
+    "decoy": "Runway Closed"
+   },
+   {
+    "question": "What does this airfield landing marker indicate?",
+    "correct": "Land Cautiously",
+    "funny": "Land Diagonally",
+    "decoy": "No Landing Zone"
+   },
+   {
+    "question": "What does this airfield landing marker indicate?",
+    "correct": "Emergency Landing Only",
+    "funny": "Two Way Landing",
+    "decoy": "Land Cautiously"
+   },
+   {
+    "question": "What is this aircraft marshal signaling?",
+    "correct": "Turn Left",
+    "funny": "Flap Right Wing",
+    "decoy": "Right Wing Up"
+   },
+   {
+    "question": "What is this aircraft marshal signaling?",
+    "correct": "Turn Right",
+    "funny": "Left Jab",
+    "decoy": "Left Windshield Wiper"
+   },
+   {
+    "question": "What is this aircraft marshal signaling?",
+    "correct": "Continue Straight",
+    "funny": "Drum Solo",
+    "decoy": "Stop"
+   },
+   {
+    "question": "What is this aircraft marshal signaling?",
+    "correct": "Stop",
+    "funny": "Wings Up",
+    "decoy": "Reverse"
+   }
+  ]
+ },
+ "luxuryCarFeatures": [
+  {
+   "feature": "LED interior lights",
+   "description": "Light up the night in style.",
+   "cost": 300000,
+   "category": "",
+   "commonness": 3
+  },
+  {
+   "feature": "carbon fiber glove box",
+   "description": "Glove storage at its finest.",
+   "cost": 250000,
+   "category": "",
+   "commonness": 2
+  },
+  {
+   "feature": "Asanti diamond wheels",
+   "description": "The wheels make the car.",
+   "cost": 2400000,
+   "category": "",
+   "commonness": 3
+  },
+  {
+   "feature": "cashmere floor mats",
+   "description": "Tickle your toes in comfort.",
+   "cost": 380000,
+   "category": "",
+   "commonness": 2
+  },
+  {
+   "feature": "angora seat cushions",
+   "description": "Tickle your tush in luxury.",
+   "cost": 400000,
+   "category": "",
+   "commonness": 3
+  },
+  {
+   "feature": "sapphire clear coat",
+   "description": "The look of absolute opulence.",
+   "cost": 1200000,
+   "category": "",
+   "commonness": 4
+  },
+  {
+   "feature": "diamond encrusted shift knob",
+   "description": "The swankiest knob you'll ever grip.",
+   "cost": 1100000,
+   "category": "",
+   "commonness": 3
+  },
+  {
+   "feature": "mini bar with ice maker",
+   "description": "One for the road.",
+   "cost": 960000,
+   "category": "",
+   "commonness": 2
+  },
+  {
+   "feature": "mega bass sound system",
+   "description": "Feel the music rattle your skeleton.",
+   "cost": 525000,
+   "category": "",
+   "commonness": 3
+  },
+  {
+   "feature": "Deep-Glutes massage seats",
+   "description": "Ride with cheeks in peak form.",
+   "cost": 420000,
+   "category": "",
+   "commonness": 2
+  },
+  {
+   "feature": "bulletproof glass",
+   "description": "Survive the ride.",
+   "cost": 900000,
+   "category": "",
+   "commonness": 4
+  },
+  {
+   "feature": "solid gold shift knob",
+   "description": "The most expensive knob you'll ever grip!",
+   "cost": 1900000,
+   "category": "",
+   "commonness": 4
+  },
+  {
+   "feature": "ruby hood ornament",
+   "description": "Lead first with your wealth.",
+   "cost": 3300000,
+   "category": "",
+   "commonness": 3
+  },
+  {
+   "feature": "gold leaf interior detail",
+   "description": "All things hard will turn to gold.",
+   "cost": 770000,
+   "category": "",
+   "commonness": 2
+  }
+ ],
+ "raceCars": {
+  "mods": [
+   {
+    "feature": "steel plating",
+    "plural": true,
+    "shortName": "steel plating",
+    "description": "which allows you to take some hits and keep on trucking",
+    "cost": 42000,
+    "handling": -5,
+    "speed": -10,
+    "acceleration": -15,
+    "durability": 20,
+    "commonness": 3
+   },
+   {
+    "feature": "studded tires",
+    "plural": true,
+    "shortName": "studded tires",
+    "description": "allowing you to maintain your grip on the road through turns on ice and snow",
+    "cost": 4800,
+    "handling": 10,
+    "speed": 5,
+    "acceleration": 5,
+    "durability": null,
+    "commonness": 3
+   },
+   {
+    "feature": "coilovers",
+    "plural": true,
+    "shortName": "coilovers",
+    "description": "and can drop your vehicle to its nuts, if you'd like",
+    "cost": 16000,
+    "handling": 12,
+    "speed": 5,
+    "acceleration": 5,
+    "durability": null,
+    "commonness": 4
+   },
+   {
+    "feature": "performance chip",
+    "plural": false,
+    "shortName": "performance chip",
+    "description": "giving you control over how much pep you want in your step",
+    "cost": 2000,
+    "handling": null,
+    "speed": 7,
+    "acceleration": 12,
+    "durability": null,
+    "commonness": 3
+   },
+   {
+    "feature": "carbon fiber spoiler",
+    "plural": false,
+    "shortName": "carbon fiber spoiler",
+    "description": "keeping your back end tight to the ground",
+    "cost": 6000,
+    "handling": 9,
+    "speed": 5,
+    "acceleration": null,
+    "durability": null,
+    "commonness": 4
+   },
+   {
+    "feature": "carbon fiber skirts",
+    "plural": true,
+    "shortName": "carbon fiber skirts",
+    "description": "as it reduces aerodynamic drag, keeping your ride tight to the ground",
+    "cost": 3700,
+    "handling": 5,
+    "speed": 9,
+    "acceleration": -1,
+    "durability": -5,
+    "commonness": 3
+   },
+   {
+    "feature": "performance brake upgrade",
+    "plural": true,
+    "shortName": "racing brakes",
+    "description": "giving you maximum stopping power without overheating",
+    "cost": 12000,
+    "handling": 17,
+    "speed": null,
+    "acceleration": null,
+    "durability": null,
+    "commonness": 4
+   },
+   {
+    "feature": "nitrous oxide system",
+    "plural": false,
+    "shortName": "nitrous oxide system",
+    "description": "allowing you to blast off at the push of a button",
+    "cost": 6000,
+    "handling": null,
+    "speed": null,
+    "acceleration": 20,
+    "durability": null,
+    "commonness": 2
+   },
+   {
+    "feature": "performance ignition system",
+    "plural": false,
+    "shortName": "ignition upgrade",
+    "description": "getting the most out of the air you suck in",
+    "cost": 7600,
+    "handling": null,
+    "speed": 5,
+    "acceleration": 11,
+    "durability": null,
+    "commonness": 3
+   },
+   {
+    "feature": "cold air intake",
+    "plural": false,
+    "shortName": "cold air intake",
+    "description": "allowing your engine to freely suck maximum air intake",
+    "cost": 1200,
+    "handling": null,
+    "speed": 10,
+    "acceleration": 7,
+    "durability": null,
+    "commonness": 2
+   },
+   {
+    "feature": "hydraulic suspension",
+    "plural": false,
+    "shortName": "hydraulic suspension",
+    "description": "and you'll quickly discover just how low you can go",
+    "cost": 24000,
+    "handling": 13,
+    "speed": null,
+    "acceleration": null,
+    "durability": -5,
+    "commonness": 3
+   },
+   {
+    "feature": "short-throw shifter",
+    "plural": false,
+    "shortName": "short-throw shifter",
+    "description": "allowing you to rip through the gears faster than ever",
+    "cost": 1100,
+    "handling": null,
+    "speed": null,
+    "acceleration": 9,
+    "durability": null,
+    "commonness": 1
+   },
+   {
+    "feature": "strut tower bar",
+    "plural": false,
+    "shortName": "strut bar",
+    "description": "tightening up your ride with less body flex",
+    "cost": 900,
+    "handling": 12,
+    "speed": -2,
+    "acceleration": null,
+    "durability": 5,
+    "commonness": 2
+   },
+   {
+    "feature": "roll cage",
+    "plural": false,
+    "shortName": "roll cage",
+    "description": "allowing you to take a hit and not get crushed",
+    "cost": 4900,
+    "handling": null,
+    "speed": -3,
+    "acceleration": -5,
+    "durability": 15,
+    "commonness": 4
+   },
+   {
+    "feature": "three-piece wheels",
+    "plural": true,
+    "shortName": "three-piece wheels",
+    "description": "giving you the highest level of performance fitment",
+    "cost": 6500,
+    "handling": 17,
+    "speed": 3,
+    "acceleration": null,
+    "durability": -3,
+    "commonness": 4
+   },
+   {
+    "feature": "puncture-proof tires",
+    "plural": true,
+    "shortName": "puncture-proof tires",
+    "description": "giving you the confidence you'll never go flat",
+    "cost": 9600,
+    "handling": -12,
+    "speed": -10,
+    "acceleration": -4,
+    "durability": 15,
+    "commonness": 3
+   },
+   {
+    "feature": "carbon steel bumper",
+    "plural": false,
+    "shortName": "carbon steel bumper",
+    "description": "which means you can get rear ended hard without sustaining damage",
+    "cost": 8800,
+    "handling": null,
+    "speed": -7,
+    "acceleration": -2,
+    "durability": 14,
+    "commonness": 1
+   },
+   {
+    "feature": "supercharger",
+    "plural": false,
+    "shortName": "supercharger",
+    "description": "increasing horsepower by forcing compressed air into all cylinders",
+    "cost": 10000,
+    "handling": -1,
+    "speed": 10,
+    "acceleration": 3,
+    "durability": null,
+    "commonness": 3
+   },
+   {
+    "feature": "custom racing exhaust",
+    "plural": false,
+    "shortName": "custom racing exhaust",
+    "description": "making your vehicle louder, faster, stronger, better",
+    "cost": 20000,
+    "handling": -1,
+    "speed": 8,
+    "acceleration": 1,
+    "durability": null,
+    "commonness": 3
+   }
+  ],
+  "conditionStrings": [
+   {
+    "string": "It looks like duct tape and prayer are the only things holding it together.",
+    "minCondition": null,
+    "maxCondition": 50
+   },
+   {
+    "string": "There are a some dents in the body, but it's running just fine.",
+    "minCondition": 51,
+    "maxCondition": null
+   },
+   {
+    "string": "The interior looks a little dingy, but it could be worse.",
+    "minCondition": 25,
+    "maxCondition": 50
+   },
+   {
+    "string": "The car's quality looks average, but not terrible.",
+    "minCondition": 33,
+    "maxCondition": 66
+   },
+   {
+    "string": "It could use a tune-up, but it doesn't need one immediately.",
+    "minCondition": 33,
+    "maxCondition": 66
+   },
+   {
+    "string": "It's subtle, but the shock absorbers could use some work.",
+    "minCondition": 33,
+    "maxCondition": 66
+   },
+   {
+    "string": "The drive belts are slightly frayed.",
+    "minCondition": 33,
+    "maxCondition": 66
+   },
+   {
+    "string": "The car is running adequately.",
+    "minCondition": 33,
+    "maxCondition": 66
+   },
+   {
+    "string": "The right front window sticks a little when you try to open it.",
+    "minCondition": 33,
+    "maxCondition": 66
+   },
+   {
+    "string": "The car's exterior mostly shines, but there are a few rough spots.",
+    "minCondition": 51,
+    "maxCondition": 75
+   },
+   {
+    "string": "You've got a few rough spots but the car's headlights do shine brightly.",
+    "minCondition": 51,
+    "maxCondition": 90
+   },
+   {
+    "string": "The paint has some wear, but there's no significant damage to the body.",
+    "minCondition": 51,
+    "maxCondition": 90
+   },
+   {
+    "string": "The interior has some wear, but it smells clean.",
+    "minCondition": 51,
+    "maxCondition": null
+   },
+   {
+    "string": "You've got some hard miles on it, but it doesn't seem to need any major work.",
+    "minCondition": 67,
+    "maxCondition": null
+   },
+   {
+    "string": "For the most part, it seems to be in tip top shape.",
+    "minCondition": 75,
+    "maxCondition": null
+   },
+   {
+    "string": "The exterior might need some minor work, but interior looks pristine.",
+    "minCondition": 85,
+    "maxCondition": null
+   },
+   {
+    "string": "With a few touch-ups, anyone would be proud to ride in this car.",
+    "minCondition": 85,
+    "maxCondition": null
+   },
+   {
+    "string": "Despite your time behind the wheel, it looks like it just rolled off the assembly line yesterday.",
+    "minCondition": 85,
+    "maxCondition": null
+   },
+   {
+    "string": "It might need a few tweaks, but for the most part, looks ready for its next race.",
+    "minCondition": 66,
+    "maxCondition": null
+   },
+   {
+    "string": "The wheel wells are rusty.",
+    "minCondition": null,
+    "maxCondition": 50
+   },
+   {
+    "string": "It's been making a weird noise when you accelerate.",
+    "minCondition": null,
+    "maxCondition": 50
+   },
+   {
+    "string": "You've got some nicks on the car's exterior.",
+    "minCondition": null,
+    "maxCondition": 50
+   },
+   {
+    "string": "It's making some terrifying sounds when the engine is running.",
+    "minCondition": null,
+    "maxCondition": 20
+   },
+   {
+    "string": "It's looking like a stiff breeze could blow some body parts off.",
+    "minCondition": null,
+    "maxCondition": 20
+   },
+   {
+    "string": "It's starting to look like a clunker.",
+    "minCondition": null,
+    "maxCondition": 32
+   },
+   {
+    "string": "It could easily die during a drive.",
+    "minCondition": null,
+    "maxCondition": 32
+   }
+  ],
+  "classStats": [
+   {
+    "class": "C",
+    "minHandling": 10,
+    "maxHandling": 20,
+    "minSpeed": 10,
+    "maxSpeed": 20,
+    "minAccel": 10,
+    "maxAccel": 20,
+    "customizationSlots": 1
+   },
+   {
+    "class": "B",
+    "minHandling": 25,
+    "maxHandling": 40,
+    "minSpeed": 25,
+    "maxSpeed": 40,
+    "minAccel": 25,
+    "maxAccel": 40,
+    "customizationSlots": 2
+   },
+   {
+    "class": "A",
+    "minHandling": 45,
+    "maxHandling": 60,
+    "minSpeed": 45,
+    "maxSpeed": 60,
+    "minAccel": 45,
+    "maxAccel": 60,
+    "customizationSlots": 3
+   },
+   {
+    "class": "S",
+    "minHandling": 65,
+    "maxHandling": 80,
+    "minSpeed": 65,
+    "maxSpeed": 80,
+    "minAccel": 65,
+    "maxAccel": 80,
+    "customizationSlots": 4
+   }
+  ]
+ },
+ "driveIncidents": [
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "You're cruising your car through town and feel that the light just ahead of you is about to change from green to red.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Speed up",
+     "narrative": "I sped up to catch a traffic light I believed was about to change from green to red.",
+     "risk": 3,
+     "fault": 3
+    },
+    {
+     "text": "Slow down",
+     "narrative": "I slowed down to stop for a traffic light I believed was about to change from green to red.",
+     "risk": 1,
+     "fault": 1
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "While driving through town, you suddenly notice a huge pothole just a few car-lengths in front of you.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Swerve around it",
+     "narrative": "I swerved around rb pothole while driving through town.",
+     "risk": 1,
+     "fault": 1
+    },
+    {
+     "text": "Go through it",
+     "narrative": "I plowed through rb pothole while driving through town.",
+     "risk": 3,
+     "fault": 2
+    },
+    {
+     "text": "Brake suddenly",
+     "narrative": "I braked suddenly in front of rb pothole while driving in town.",
+     "risk": 1,
+     "fault": 3
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "You're cruising down the open road in your car, when you suddenly notice a speeding SUV is tailgating you hard.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Change lanes",
+     "narrative": "I changed lanes to avoid a driver tailgating me in a speeding SUV.",
+     "risk": 1,
+     "fault": -2
+    },
+    {
+     "text": "Brake",
+     "narrative": "I got back at a driver tailgating me in a speeding SUV by braking hard.",
+     "risk": 3,
+     "fault": 3
+    },
+    {
+     "text": "Insult the driver",
+     "narrative": "A driver was tailgating me in a speeding SUV, so I rolled down the window and called him insult.",
+     "risk": 2,
+     "fault": 2
+    },
+    {
+     "text": "Ignore it",
+     "narrative": "A driver in a speeding SUV was tailgating me, but it was his problem, not mine, so I just ignored it.",
+     "risk": 1,
+     "fault": null
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "While testing the cornering ability of your car on a winding road, suddenly, the back end begins to slide out.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Slam on the brakes",
+     "narrative": "I slid out while cornering and slammed on the brakes.",
+     "risk": 2,
+     "fault": 2
+    },
+    {
+     "text": "Steer into the slide",
+     "narrative": "I slid out while cornering and and steered into the slide.",
+     "risk": 1,
+     "fault": 1
+    },
+    {
+     "text": "Drift it!",
+     "narrative": "I totally drifted on a winding road while testing its cornering capabilities.",
+     "risk": 1,
+     "fault": 2
+    },
+    {
+     "text": "There is nothing I can do",
+     "narrative": "I let my back end slide out on a winding road while testing its cornering ability.",
+     "risk": 3,
+     "fault": 2
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "While enjoying a leisurely drive down a countryside road in your car, you see up ahead a herd of cattle lingering in the road, blocking your path.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Honk and hope they move",
+     "narrative": "When I was out driving, I had to honk at rb in the road, blocking my path.",
+     "risk": 2,
+     "fault": 2
+    },
+    {
+     "text": "Make a U-turn",
+     "narrative": "I flipped a quick U-turn to avoid hitting rb on the road.",
+     "risk": -1,
+     "fault": -2
+    },
+    {
+     "text": "Slam on the brakes",
+     "narrative": "I slammed on my brakes to avoid hitting rb on the road.",
+     "risk": 2,
+     "fault": 1
+    },
+    {
+     "text": "Proceed with caution",
+     "narrative": "I came upon rb on the road ahead while driving and immediately slowed down, proceeding with caution.",
+     "risk": -1,
+     "fault": -1
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "While traveling down the highway in your car, you suddenly notice a SUV driving dangerously alongside you, and the driver is motioning he wants to race.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Slam on the brakes",
+     "narrative": "Some guy in a SUV got dangerously close to me at high speeds on the highway wanting to race, so I slammed on the brakes.",
+     "risk": 2,
+     "fault": 1
+    },
+    {
+     "text": "Floor it!",
+     "narrative": "Some guy in a SUV got dangerously close to me at high speeds on the highway wanting to race, so I floored it.",
+     "risk": 2,
+     "fault": 2
+    },
+    {
+     "text": "Ignore him",
+     "narrative": "Some guy in a SUV got dangerously close to me at high speeds on the highway wanting to race, but I played it cool and just ignored him.",
+     "risk": -2,
+     "fault": -2
+    },
+    {
+     "text": "Take the next exit",
+     "narrative": "Some guy in a SUV got dangerously close to me at high speeds on the highway wanting to race, and I quickly took the next exit.",
+     "risk": null,
+     "fault": -2
+    }
+   ]
+  },
+  {
+   "minAge": 21,
+   "maxAge": null,
+   "scenario": "You're having a great time driving the open road in your car with passenger right next to you when he pops the top off a bottle of whiskey, takes a shot, and hands it to you, saying, \"Let's do this!\".",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Demand he puts it away",
+     "narrative": "passenger popped a bottle of rb, wanting to do shots while we were driving, and I demanding he put it away immediately.",
+     "risk": -3,
+     "fault": -3
+    },
+    {
+     "text": "Shot, shot, shot!",
+     "narrative": "I did shots of rb with passenger while driving the open roads.",
+     "risk": 3,
+     "fault": 3
+    },
+    {
+     "text": "Pull over and kick him out",
+     "narrative": "passenger popped a bottle of rb, wanting to do shots while we were driving, so I pulled over and kicked him out.",
+     "risk": null,
+     "fault": null
+    },
+    {
+     "text": "Ignore him",
+     "narrative": "passenger popped a bottle of rb, wanting to do shots while we were driving, but I just ignored him.",
+     "risk": -3,
+     "fault": -2
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "You're exploring unfamiliar parts of town in your car when you mistakenly begin to take the wrong exit but then correct, and the next thing you know, some guy in a SUV lays on the horn, gives you the finger and shouts, \"You're insult!\".",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Try to run him off the road",
+     "narrative": "I tried to run some guy driving a SUV off the road after he flipped me off and called me insult.",
+     "risk": 3,
+     "fault": 3
+    },
+    {
+     "text": "Give him the finger back",
+     "narrative": "I gave the finger to some guy driving a SUV who flipped me off and called me insult.",
+     "risk": null,
+     "fault": -1
+    },
+    {
+     "text": "Slam on the brakes",
+     "narrative": "I slammed on the brakes in front of some guy driving a SUV after he flipped me off and called me insult.",
+     "risk": 2,
+     "fault": 1
+    },
+    {
+     "text": "Ignore him",
+     "narrative": "I ignored some guy in a SUV who flipped me off and called me insult.",
+     "risk": -1,
+     "fault": -1
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "You're cruising down the highway in the pouring rain when you feel your car start to hydroplane.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Let off the gas",
+     "narrative": "While cruising down the highway in the rain, I suddenly started to hydroplane, so I let off the gas.",
+     "risk": null,
+     "fault": 1
+    },
+    {
+     "text": "Keep a straight line",
+     "narrative": "While cruising down the highway in the rain, I suddenly started to hydroplane, and I kept it in a straight line as best I could.",
+     "risk": 1,
+     "fault": 1
+    },
+    {
+     "text": "Hit the brakes",
+     "narrative": "While cruising down the highway in the rain, I suddenly started to hydroplane, and I slammed on the brakes.",
+     "risk": 3,
+     "fault": 1
+    },
+    {
+     "text": "Panic",
+     "narrative": "While cruising down the highway in the rain, I suddenly started to hydroplane, and I panicked.",
+     "risk": 2,
+     "fault": 1
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "While driving your car on a wide, open road, a tire blows out and you feel the car sliding toward the shoulder.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Slam on the brakes",
+     "narrative": "I slammed on the brakes after blowing a tire on the open road.",
+     "risk": 2,
+     "fault": 1
+    },
+    {
+     "text": "Keep a straight line",
+     "narrative": "I kept a straight line after blowing a tire on the open road.",
+     "risk": 1,
+     "fault": null
+    },
+    {
+     "text": "Gradually slow down",
+     "narrative": "I blew a tire on the open road and gradually slowed down.",
+     "risk": 1,
+     "fault": 2
+    },
+    {
+     "text": "Panic",
+     "narrative": "I blew a tire on the open road and immediately started panicking.",
+     "risk": 2,
+     "fault": 1
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "You're just finishing up a long, thrilling drive in your car and look down to see you're close to empty and not sure you can make it home.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Go slow",
+     "narrative": "I was running out of gas on a roadtrip and drove as slow as possible to conserve fuel.",
+     "risk": 1,
+     "fault": 1
+    },
+    {
+     "text": "Find a refueling station",
+     "narrative": "I was running out of gas on a roadtrip and used GPS on my phone to find a refueling station.",
+     "risk": null,
+     "fault": null
+    },
+    {
+     "text": "Cross my fingers",
+     "narrative": "I was running out of gas on a roadtrip and crossed my fingers hoping I'd make it home.",
+     "risk": null,
+     "fault": null
+    },
+    {
+     "text": "Ignore it",
+     "narrative": "I was running out of gas on a roadtrip and went into denial by ignoring the situation.",
+     "risk": 1,
+     "fault": 1
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "While rolling down the highway in your car without a care in the world, a SUV suddenly spins out in front of you.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Slam on the brakes",
+     "narrative": "I was rolling down the highway when a SUV spun out in front of me, and I slammed on the brakes.",
+     "risk": 2,
+     "fault": -1
+    },
+    {
+     "text": "Try to steer around it",
+     "narrative": "I was rolling down the highway when a SUV spun out in front of me, and I did my best to steer around it.",
+     "risk": 2,
+     "fault": null
+    },
+    {
+     "text": "Keep a straight line",
+     "narrative": "I was rolling down the highway when a SUV spun out in front of me, but I kept a straight line.",
+     "risk": 3,
+     "fault": 2
+    },
+    {
+     "text": "Panic",
+     "narrative": "I was rolling down the highway when a SUV spun out in front of me, and I panicked.",
+     "risk": 2,
+     "fault": 1
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "You're tooling along in your car, when you suddenly notice the tire pressure indicator on your dashboard has lit up.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Find an air pump",
+     "narrative": "The tire pressure light came on, and I immediately found a gas station with an air pump to fill it.",
+     "risk": -1,
+     "fault": -1
+    },
+    {
+     "text": "Ignore it",
+     "narrative": "The tire pressure light came on, but I ignored it.",
+     "risk": 2,
+     "fault": 2
+    },
+    {
+     "text": "Drive extra-cautiously",
+     "narrative": "The tire pressure light came on, so I drove extra-carefully.",
+     "risk": 1,
+     "fault": 1
+    },
+    {
+     "text": "Smack the dash until the light turns off",
+     "narrative": "The tire pressure light came on, so I hit the dash until it turned off.",
+     "risk": 3,
+     "fault": 3
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "While driving in your car, you feel tempted to look at your phone and put on the perfect song by a famous musician.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Use voice commands",
+     "narrative": "I used voice controls to put on the ideal song by a famous musician while driving.",
+     "risk": 1,
+     "fault": 1
+    },
+    {
+     "text": "Look intently at my phone",
+     "narrative": "I scrolled through my phone to pick the perfect song by a famous musician while driving.",
+     "risk": 4,
+     "fault": 2
+    },
+    {
+     "text": "Leave my phone alone",
+     "narrative": "I wanted to put on the ideal song by a famous musician while driving, but I didn't want to touch my phone.",
+     "risk": -1,
+     "fault": null
+    },
+    {
+     "text": "Ask my passenger to put the song on",
+     "narrative": "I asked passenger to put on a specific song by a famous musician while we were driving.",
+     "risk": 1,
+     "fault": null
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "You're driving down the town expressway in your car when an overwhelming wave of drowsiness suddenly hits you.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Pull over and nap",
+     "narrative": "I pulled over and took a quick nap after being overtaken by sleepiness while driving.",
+     "risk": -1,
+     "fault": null
+    },
+    {
+     "text": "Get some caffeine",
+     "narrative": "I pulled over and got an energy drink full of caffeine to combat the sleepiness that washed over me while driving.",
+     "risk": 2,
+     "fault": 2
+    },
+    {
+     "text": "Pinch myself and keep going",
+     "narrative": "I felt a wave of sleepiness hit me while I was driving, so I pinched myself to keep going.",
+     "risk": 3,
+     "fault": 3
+    },
+    {
+     "text": "Close my eyes for a moment",
+     "narrative": "I closed my eyes to rest, just for a second, while I was driving.",
+     "risk": 4,
+     "fault": 4
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "As you're cruising down the highway in your car, you notice a 4-car pileup on the other side and feel the urge to rubberneck.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Turn all the way around to look",
+     "narrative": "I rubbernecked with abandon at a 9-car pileup during my drive.",
+     "risk": 3,
+     "fault": 1
+    },
+    {
+     "text": "Take a quick glance",
+     "narrative": "I quickly glanced at a 6-car pileup on the other side of the highway while driving.",
+     "risk": 1,
+     "fault": 1
+    },
+    {
+     "text": "Ignore the accident",
+     "narrative": "I saw a 5-car pileup while I was driving, but resisted the urge to rubberneck.",
+     "risk": -1,
+     "fault": -1
+    },
+    {
+     "text": "Ask my passenger to look",
+     "narrative": "I saw a 10-car pileup while I was driving, so I asked passenger to tell me what was happening.",
+     "risk": null,
+     "fault": 1
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "While driving down the highway in your car, you look over and witness passenger making obscene gestures at a driver in the next lane over.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Tell him to cut it out",
+     "narrative": "I told passenger to stop rb the driver beside us.",
+     "risk": null,
+     "fault": -1
+    },
+    {
+     "text": "Start doing it too",
+     "narrative": "passenger and I had fun rb a driver next to us.",
+     "risk": 2,
+     "fault": 3
+    },
+    {
+     "text": "Laugh at his antics",
+     "narrative": "I laughed at passenger when he started rb the driver next to us.",
+     "risk": 1,
+     "fault": 2
+    },
+    {
+     "text": "Ignore his misbehavior",
+     "narrative": "I ignored passenger when he started rb the driver next to us.",
+     "risk": 1,
+     "fault": null
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "As you're driving in your car, just outside of town, you notice a driver with road rage behind you who is constantly changing lanes.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Nothing",
+     "narrative": "A driver with road rage drove dangerously around me, but I ignored him.",
+     "risk": -1,
+     "fault": null
+    },
+    {
+     "text": "Intentionally block him",
+     "narrative": "I intentionally blocked a driver with road rage from passing me.",
+     "risk": 2,
+     "fault": 1
+    },
+    {
+     "text": "Let the road rage infect me",
+     "narrative": "A driver with road rage drove dangerously around me, and I allowed his road rage to spread to me.",
+     "risk": 2,
+     "fault": 3
+    },
+    {
+     "text": "Let him by",
+     "narrative": "I let a driver with road rage drive dangerously around me.",
+     "risk": null,
+     "fault": -2
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "You're merging onto a busy town highway in your car, but nobody will let you in, and the entry lane is about to end.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Turn on my blinker and merge anyway",
+     "narrative": "I sped up and merged onto a busy town highway, hoping other drivers would make room for me.",
+     "risk": 2,
+     "fault": -1
+    },
+    {
+     "text": "Honk and merge blindly",
+     "narrative": "I honked and blindly merged into busy town highway traffic.",
+     "risk": 3,
+     "fault": 1
+    },
+    {
+     "text": "Pull onto the shoulder",
+     "narrative": "I pulled onto the shoulder of a busy town highway because I couldn't merge into traffic.",
+     "risk": null,
+     "fault": 3
+    },
+    {
+     "text": "Hit the gas!",
+     "narrative": "I was caught merging onto a busy town highway and had to hit the gas hard as the lane was ending.",
+     "risk": 2,
+     "fault": 2
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "You're enjoying the open roads in your car, when you suddenly find yourself behind a SUV that is driving way too cautiously and keeps braking for nothing.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Ragefully tailgate it",
+     "narrative": "While driving, I started tailgating a SUV that was driving way too slowly.",
+     "risk": 2,
+     "fault": 3
+    },
+    {
+     "text": "Take another road",
+     "narrative": "A SUV was driving way too slowly, so I took another road.",
+     "risk": null,
+     "fault": -1
+    },
+    {
+     "text": "Grit my teeth and stay where I am",
+     "narrative": "A SUV was driving way too slowly, but I stayed behind it.",
+     "risk": 2,
+     "fault": -1
+    },
+    {
+     "text": "Flash my headlights",
+     "narrative": "I flashed my headlights at a SUV in front of me that was driving incredibly slow.",
+     "risk": null,
+     "fault": null
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "While riding in your car with passenger, he starts berating you for not using your blinker when changing lanes.",
+   "cta": "How will you react?",
+   "choices": [
+    {
+     "text": "Giggle",
+     "narrative": "While we were driving, I had to giggle at passenger when he started berating me for rb.",
+     "risk": 1,
+     "fault": 1
+    },
+    {
+     "text": "Tell him to relax",
+     "narrative": "While we were driving, passenger started berating me for rb, so I told him to relax.",
+     "risk": 1,
+     "fault": 2
+    },
+    {
+     "text": "Apologize",
+     "narrative": "passenger started berating me for rb when we were driving, which made me feel bad and I apologized.",
+     "risk": 1,
+     "fault": 1
+    },
+    {
+     "text": "Just ignore him",
+     "narrative": "passenger started berating me for rb when we were driving, but I refused to engage and just ignored him.",
+     "risk": 2,
+     "fault": 2
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "You found a new winding road and want to show off your driving skills in your car to passenger, but as soon as you start going for it, he freaks out and grabs the steering wheel.",
+   "cta": "How will you react?",
+   "choices": [
+    {
+     "text": "Slam on the brakes",
+     "narrative": "passenger started freaking out when I was driving around some corners, so I slammed on the brakes.",
+     "risk": 2,
+     "fault": 2
+    },
+    {
+     "text": "Push him away",
+     "narrative": "passenger started freaking out when I was driving around some corners, and I pushed him away.",
+     "risk": 2,
+     "fault": 1
+    },
+    {
+     "text": "Go faster",
+     "narrative": "passenger started freaking out when I was driving around some corners, so I started driving faster.",
+     "risk": 3,
+     "fault": 3
+    },
+    {
+     "text": "Slow down",
+     "narrative": "passenger started freaking out when I was driving around some corners, so I slowed down.",
+     "risk": -1,
+     "fault": -2
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "While out driving in your car with passenger, he starts getting aroused experiencing your amazing driving skills and suggests doing something kinky while still driving.",
+   "cta": "What will you say?",
+   "choices": [
+    {
+     "text": "That's a great idea",
+     "narrative": "passenger and I did some rb2 things in my whip after he got rb experiencing my amazing driving skills.",
+     "risk": 3,
+     "fault": 3
+    },
+    {
+     "text": "That's dangerous!",
+     "narrative": "passenger got all excited watching me drive and wanted to do something rb2, but I said no, that's dangerous!",
+     "risk": -2,
+     "fault": -2
+    },
+    {
+     "text": "Let's save it for later",
+     "narrative": "passenger got all excited watching me drive and wanted to do something rb2, but I said no, let's save that for later.",
+     "risk": -1,
+     "fault": -1
+    },
+    {
+     "text": "Let's pull over instead",
+     "narrative": "passenger got all excited watching me drive and wanted to do something rb2 while still driving, but I said no, let's pull over instead.",
+     "risk": -1,
+     "fault": null
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "While driving through downtown town in your car with passenger, you get stuck in gridlock traffic, and he gets so impatient it becomes a panic attack and he starts screaming, \"Get me out of here!\".",
+   "cta": "How will you react?",
+   "choices": [
+    {
+     "text": "Start honking my horn",
+     "narrative": "We got stuck in gridlock traffic and it gave passenger a panic attack, so I started honking my horn, hoping that would make things move along.",
+     "risk": null,
+     "fault": null
+    },
+    {
+     "text": "Squeeze between cars",
+     "narrative": "We got stuck in gridlock traffic and it gave passenger a panic attack, so I tried squeezing us between the cars to escape.",
+     "risk": 2,
+     "fault": 2
+    },
+    {
+     "text": "Drive on the sidewalk",
+     "narrative": "We got stuck in gridlock traffic and it gave passenger a panic attack, so I started driving on the sidewalk to escape.",
+     "risk": 2,
+     "fault": 3
+    },
+    {
+     "text": "Ignore him",
+     "narrative": "We got stuck in gridlock traffic and it gave passenger a panic attack, but I just ignored him.",
+     "risk": null,
+     "fault": null
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "You're enjoying a drive in your car when you see a sign telling you that construction will narrow the road to one lane.",
+   "cta": "How will you react?",
+   "choices": [
+    {
+     "text": "Merge",
+     "narrative": "I dutifully merged into single-lane traffic due to construction while on my drive.",
+     "risk": -1,
+     "fault": -3
+    },
+    {
+     "text": "Zip onto the shoulder",
+     "narrative": "I drove along the shoulder of the road to get ahead of lane merges caused by construction.",
+     "risk": 2,
+     "fault": 2
+    },
+    {
+     "text": "Find another route",
+     "narrative": "While driving, I found another road after seeing a sign that construction was narrowing the road to one lane.",
+     "risk": -1,
+     "fault": null
+    },
+    {
+     "text": "Drive through the construction",
+     "narrative": "I drove through a construction zone despite seeing a road sign saying to merge into a single lane.",
+     "risk": 4,
+     "fault": 3
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "While zipping along in your car, you notice that a SUV ahead of you has been pulled over by the police.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Drive slowly and watch",
+     "narrative": "I saw a driver in a SUV getting pulled over, and I slowed way down so I could gawk.",
+     "risk": 1,
+     "fault": 1
+    },
+    {
+     "text": "Ignore it",
+     "narrative": "I saw a driver in a SUV getting pulled over, but I didn't pay any attention.",
+     "risk": -1,
+     "fault": null
+    },
+    {
+     "text": "Get over",
+     "narrative": "I saw a driver in a SUV getting pulled over, and I safely merged into the farthest lane to give the other driver space.",
+     "risk": -2,
+     "fault": -1
+    },
+    {
+     "text": "Freak out",
+     "narrative": "I saw a driver in a SUV getting pulled over, and I freaked out over possibly getting stopped too.",
+     "risk": 2,
+     "fault": 2
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "While driving your car on the highway, the car in front of you suddenly rear-ends another driver.",
+   "cta": "How will you react?",
+   "choices": [
+    {
+     "text": "Slam on the brakes",
+     "narrative": "A car in front of me rear-ended another driver, so I hit the brakes as hard as I could.",
+     "risk": 2,
+     "fault": 1
+    },
+    {
+     "text": "Swerve onto the shoulder",
+     "narrative": "A car in front of me rear-ended another driver, so I swerved onto the shoulder to avoid the crash.",
+     "risk": 1,
+     "fault": -2
+    },
+    {
+     "text": "Close my eyes and pray",
+     "narrative": "A car in front of me rear-ended another driver, so I closed my eyes and let fate take the wheel.",
+     "risk": 4,
+     "fault": 4
+    },
+    {
+     "text": "Try to change lanes",
+     "narrative": "A car in front of me rear-ended another driver, so I did my best to switch to the left lane.",
+     "risk": 1,
+     "fault": 2
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "While driving around in your car, you come to an intersection where the streetlights are malfunctioning.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Yell \"Anarchy!\" and cross",
+     "narrative": "I encountered an intersection with malfunctioning traffic lights and crossed it without looking.",
+     "risk": 3,
+     "fault": 4
+    },
+    {
+     "text": "Stare in confusion",
+     "narrative": "I stared in confusion at an intersection with malfunctioning traffic lights.",
+     "risk": 1,
+     "fault": 1
+    },
+    {
+     "text": "Make a city report",
+     "narrative": "I encountered an intersection with malfunctioning traffic lights and called the town non-emergency line to report it.",
+     "risk": 1,
+     "fault": -3
+    },
+    {
+     "text": "Wait for other traffic",
+     "narrative": "I waited for other traffic to cross at an intersection with malfunctioning traffic lights.",
+     "risk": 1,
+     "fault": -1
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "You're cruising down a one-way street in your car when you see a SUV coming towards you in the wrong direction.",
+   "cta": "How will you react?",
+   "choices": [
+    {
+     "text": "Insult the driver",
+     "narrative": "I encountered a SUV going the wrong way down a one-way rb, and I called the driver insult.",
+     "risk": 3,
+     "fault": null
+    },
+    {
+     "text": "Play chicken with it",
+     "narrative": "I played chicken with a SUV going the wrong way down a one-way rb.",
+     "risk": 3,
+     "fault": 3
+    },
+    {
+     "text": "Swerve around it",
+     "narrative": "I swerved around a SUV going the wrong way down a one-way rb.",
+     "risk": 1,
+     "fault": -1
+    },
+    {
+     "text": "Start backing up",
+     "narrative": "I tried backing up to avoid a SUV going the wrong way down a one-way rb.",
+     "risk": 2,
+     "fault": 3
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "You're on the highway, stuck in gnarly traffic, when you see other cars using the shoulder to get ahead.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Hit the shoulder at top speed",
+     "narrative": "I raced down a shoulder on the highway to get ahead of a rb traffic jam.",
+     "risk": 2,
+     "fault": 3
+    },
+    {
+     "text": "Stay where I am",
+     "narrative": "I noticed other cars using the highway shoulder to pass a rb traffic jam, but I just stayed where I was.",
+     "risk": -1,
+     "fault": -2
+    },
+    {
+     "text": "Use the shoulder, but just to exit",
+     "narrative": "I drove down a highway shoulder while in a rb traffic jam, but only to get off at the next exit.",
+     "risk": 1,
+     "fault": 3
+    },
+    {
+     "text": "Insult the rule-breakers",
+     "narrative": "I rolled down my window and shouted at a driver using the shoulder as a lane, saying he was insult.",
+     "risk": -1,
+     "fault": 2
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": 20,
+   "scenario": "You're still pretty new to driving, so you're not sure how to react when you see a driver blow a stop sign in front of you.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Copy him - it must be okay!",
+     "narrative": "I ignored a stop sign after seeing a driver ahead of me do the same thing.",
+     "risk": 3,
+     "fault": 4
+    },
+    {
+     "text": "Come to a complete halt",
+     "narrative": "I stood still at a stop sign until an irritated SUV honked behind me.",
+     "risk": 1,
+     "fault": 3
+    },
+    {
+     "text": "Stop for a short period of time",
+     "narrative": "I stopped completely for a quick second at a stop sign after the driver in front of me blew through it.",
+     "risk": -1,
+     "fault": -2
+    },
+    {
+     "text": "Do a rolling stop",
+     "narrative": "I did a rolling stop at a stop sign after a driver in front of me blew through it.",
+     "risk": 1,
+     "fault": 2
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "As you're enjoying an afternoon on the open road, you notice that the SUV behind you is tailgating you.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Move into the right lane",
+     "narrative": "I shifted into the right lane so that the SUV behind me would stop tailgating me.",
+     "risk": -1,
+     "fault": -2
+    },
+    {
+     "text": "Keep a steady speed",
+     "narrative": "I stayed at an even speed even as the SUV behind me was tailgating me.",
+     "risk": null,
+     "fault": -1
+    },
+    {
+     "text": "Hit the brakes",
+     "narrative": "I braked hard to give the SUV behind me a scare as it tailgated me.",
+     "risk": 3,
+     "fault": 1
+    },
+    {
+     "text": "Get behind it and tailgate it myself",
+     "narrative": "I maneuvered behind a tailgating SUV so that I could tailgate it myself.",
+     "risk": 2,
+     "fault": 4
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "You're chatting to passenger about the weather when you notice that he isn't wearing his seat belt.",
+   "cta": "What will you say?",
+   "choices": [
+    {
+     "text": "Put on your seat belt right now!",
+     "narrative": "I told passenger that he needed to put on his seat belt immediately if he was going to ride in my car.",
+     "risk": -1,
+     "fault": -2
+    },
+    {
+     "text": "You only live once",
+     "narrative": "I told passenger that I admired his commitment to thrill-seeking by not wearing a seat belt in my car.",
+     "risk": 1,
+     "fault": 1
+    },
+    {
+     "text": "I should do that too",
+     "narrative": "I saw that passenger wasn't wearing a seat belt in my car, so I decided to unclip my seat belt as well.",
+     "risk": 2,
+     "fault": 2
+    },
+    {
+     "text": "That's stupid",
+     "narrative": "I told passenger that he was being an idiot by not wearing a seatbelt in my car.",
+     "risk": -1,
+     "fault": -1
+    }
+   ]
+  },
+  {
+   "minAge": null,
+   "maxAge": null,
+   "scenario": "As you roam the streets in your car, the bulky bags of clothes you bought yesterday start rolling around in your backseat, obscuring your rearview mirror.",
+   "cta": "What will you do?",
+   "choices": [
+    {
+     "text": "Pull over",
+     "narrative": "I pulled over and straightened out some bags of rb in my backseat.",
+     "risk": -1,
+     "fault": -1
+    },
+    {
+     "text": "Ignore the problem",
+     "narrative": "I noticed that bags of rb were obscuring my rearview mirror, but I didn't do anything about it.",
+     "risk": 1,
+     "fault": 2
+    },
+    {
+     "text": "Swerve until the bags have moved",
+     "narrative": "I swerved to the right to shift some bags of rb away from blocking my rearview mirror.",
+     "risk": null,
+     "fault": null
+    },
+    {
+     "text": "Reach behind with my hand to fix them",
+     "narrative": "When bags of rb got in the way of my rearview mirror, I reached behind myself to push them away without stopping the car.",
+     "risk": 3,
+     "fault": 1
+    }
+   ]
+  }
+ ],
+ "copPivotalMoments": [
+  {
+   "body": "As you race by a donut shop, a cop suddenly appears and begins chasing after you in her squad car. There's a side road you can take to evade her, but it'll be tricky.",
+   "choices": [
+    {
+     "text": "Try to outrun her",
+     "stat": "Speed",
+     "successFeedback": "You barreled past rb and left the cop sucking your fumes.",
+     "failureFeedback": "You attempted to leave the cop sucking your fumes, but she was too fast and cut you off."
+    },
+    {
+     "text": "Take the side road",
+     "stat": "Handling",
+     "successFeedback": "You jerked the wheel to the right and disappeared down the side street before the cop could stop you.",
+     "failureFeedback": "You jerked the wheel to the right, but were too clumsy and had to brake to avoid crashing."
+    }
+   ]
+  },
+  {
+   "body": "You're busy checking out a sporty silver SUV when you realize it's an undercover cop who's about to clock your speed.",
+   "choices": [
+    {
+     "text": "Slow down",
+     "stat": "Acceleration",
+     "successFeedback": "You slowed down until it looked like you were going the speed limit.",
+     "failureFeedback": "You slowed down, but the undercover cop started flashing his lights anyway."
+    },
+    {
+     "text": "Pull into a parking lot",
+     "stat": "Handling",
+     "successFeedback": "You swerved into the parking lot of an adult toys store before the undercover cop could catch you.",
+     "failureFeedback": "You swerved into the parking lot of an adult toys store, but the cop saw and followed you."
+    }
+   ]
+  },
+  {
+   "body": "The street race route takes you down a road that you know is a speed trap for town cops.",
+   "choices": [
+    {
+     "text": "Whip through it",
+     "stat": "Speed",
+     "successFeedback": "You raced down the rb so fast that the cops didn't even see you.",
+     "failureFeedback": "You zoomed down a rb at top speed, but a policeman caught you before you could get away."
+    },
+    {
+     "text": "Take a side alley",
+     "stat": "Handling",
+     "successFeedback": "You turned sharply down an alley, avoiding the speed trap on the rb.",
+     "failureFeedback": "You tried to swerve into an alley, but you couldn't cut the wheel hard enough to avoid the speed trap."
+    }
+   ]
+  },
+  {
+   "body": "You're neck-and-neck with racer on the freeway when you see a police car flash its lights and take off after you both.",
+   "choices": [
+    {
+     "text": "Keep cruising at top speed",
+     "stat": "Speed",
+     "successFeedback": "You took a straightaway down the rb and vanished into the night before the police car could catch you.",
+     "failureFeedback": "You tried to rely on your car's speed to escape the police car, but it caught up to you, sirens wailing."
+    },
+    {
+     "text": "Take the next exit",
+     "stat": "Handling",
+     "successFeedback": "You pulled off the next exit and lost the police car by hiding in a quiet suburb until the cop gave up.",
+     "failureFeedback": "You pulled off the next exit and tried to lose the police car by hiding in a quiet suburb, but the cop found you anyway."
+    }
+   ]
+  },
+  {
+   "body": "You hear the wail of police sirens as you're battling racer for control of the roads, and he suddenly swerves in front of you, clearly intending for you to get pulled over while he escapes.",
+   "choices": [
+    {
+     "text": "Retake the lead",
+     "stat": "Acceleration",
+     "successFeedback": "You smoothly moved over to the next lane and hit the gas until racer was in your rearview mirror.",
+     "failureFeedback": "You attempted to hit the gas and outpace racer, but you couldn't accelerate fast enough."
+    },
+    {
+     "text": "Cut him off instead",
+     "stat": "Handling",
+     "successFeedback": "You expertly veered in front of racer, leaving him to get pulled over instead.",
+     "failureFeedback": "You bungled your chance to veer in front of racer, and the police gained on you instead."
+    }
+   ]
+  },
+  {
+   "body": "As you round a bend in the road, you see that the police have set up a barrier in front of a waffle restaurant so that they can catch you.",
+   "choices": [
+    {
+     "text": "Make a sudden U-turn",
+     "stat": "Handling",
+     "successFeedback": "Your tires squealed as you nailed a U-turn and sped away from the police barrier.",
+     "failureFeedback": "Your tires squealed as you attempted a U-turn, but you skidded to a halt directly in front of the cop cars."
+    },
+    {
+     "text": "Crash through the barrier",
+     "stat": "Speed",
+     "successFeedback": "You slammed into the barrier and kept going, shocking the police officers as you sped off.",
+     "failureFeedback": "You got your car stuck on the barrier instead of ramming through it, and the police surrounded you."
+    }
+   ]
+  },
+  {
+   "body": "You glance at an inconspicuous, random person on the sidewalk as you're racing down the road and realize that he is an undercover cop holding a LIDAR speed gun.",
+   "choices": [
+    {
+     "text": "Hit the brakes",
+     "stat": "Acceleration",
+     "successFeedback": "You smoothly decelerated to a legal speed before reaching the random person holding the LIDAR speed gun, and he ignored you.",
+     "failureFeedback": "You tried to slow down before reaching the random person, but couldn't manage it, and sped past him."
+    },
+    {
+     "text": "Evade the speed gun",
+     "stat": "Handling",
+     "successFeedback": "You jerked your car to the right, putting another driver's SUV between you and the LIDAR speed gun.",
+     "failureFeedback": "You tried to put another driver's SUV between you and the LIDAR speed gun, but your car wasn't responsive enough, and the random person flagged you down."
+    }
+   ]
+  },
+  {
+   "body": "You're battling racer for the lead, and as you race into a narrow road that tunnels under some high rises, you realize the speed limit has decreased and a police car is tailing you.",
+   "choices": [
+    {
+     "text": "Stay at my current speed",
+     "stat": "Speed",
+     "successFeedback": "You continued cruising forward, and your car was fast enough that the cop couldn't keep up.",
+     "failureFeedback": "You continued cruising forward, but your car was too slow to evade the cops."
+    },
+    {
+     "text": "Start passing cars left and right",
+     "stat": "Handling",
+     "successFeedback": "You steered around cars until you were too far ahead for the cops to catch you.",
+     "failureFeedback": "Your attempt to steer around cars until you were far away from the cops ended with a near-crash with an innocent SUV."
+    }
+   ]
+  },
+  {
+   "body": "You're hurtling down a mostly-deserted road, with empty fields on either side, when a police patrol car screams out of the shadows to your left.",
+   "choices": [
+    {
+     "text": "Peel off to the right",
+     "stat": "Handling",
+     "successFeedback": "You yanked your car to the right, turned off your car's lights, and disappeared into the rb.",
+     "failureFeedback": "You yanked your car to the right, but you weren't slick enough to lose the cop car on your tail."
+    },
+    {
+     "text": "Speed off",
+     "stat": "Speed",
+     "successFeedback": "You put your foot on the gas and zoomed off before the police car could get going fast enough to catch you.",
+     "failureFeedback": "You put your foot on the gas, but the cop car peeled out of the rb so fast that you couldn't shake it."
+    }
+   ]
+  },
+  {
+   "body": "You're in a street race against a souped-up SUV and just about to pull ahead when you suddenly spot a cop up ahead, hiding behind a billboard.",
+   "choices": [
+    {
+     "text": "Hit the brakes",
+     "stat": "Handling",
+     "successFeedback": "You slowed down before the cop saw you, and the souped-up SUV got pulled over.",
+     "failureFeedback": "You slowed down but not quick enough."
+    },
+    {
+     "text": "Skid sideways and U-turn",
+     "stat": "Handling",
+     "successFeedback": "You cranked the wheel, skidded sideways, made a quick U-turn, and got away from the cop.",
+     "failureFeedback": "You cranked the wheel and skidded sideways but lost control and hit a curb."
+    }
+   ]
+  },
+  {
+   "body": "You're sitting at a stoplight in downtown town when a modified SUV pulls up next to you and starts revving its engine, but as soon as the light turns green, you notice a cop heading in the opposite direction.",
+   "choices": [
+    {
+     "text": "Hit the gas",
+     "stat": "Acceleration",
+     "successFeedback": "You launched hard off the line and blew past the modified SUV, then watched in your rearview as it got pulled over.",
+     "failureFeedback": "The modified SUV blew you off the line, leaving you behind with the cop."
+    },
+    {
+     "text": "Pretend to race then go slow",
+     "stat": "Handling",
+     "successFeedback": "You revved your engine and jumped the line but then went slow, causing the modified SUV to get pulled over.",
+     "failureFeedback": "The modified SUV sped quickly away and the cop didn't even notice."
+    }
+   ]
+  },
+  {
+   "body": "You're middle position in a three-way street race against a toyota supra and a mitsubishi evo x and pushing it full speed when you notice police lights flashing in your rearview.",
+   "choices": [
+    {
+     "text": "Quickly turn down a side street",
+     "stat": "Handling",
+     "successFeedback": "You whipped your car down a side street before the cop realized you were also racing.",
+     "failureFeedback": "You whipped your car down a side street and the cop followed you."
+    },
+    {
+     "text": "Take the lead",
+     "stat": "Speed",
+     "successFeedback": "You hit the gas and blew past the rb to take the lead and avoid the cops.",
+     "failureFeedback": "You hit the gas but couldn't pass the rb to take the lead."
+    }
+   ]
+  },
+  {
+   "body": "You're ripping around a corner in a street race against racer when suddenly you notice a cop ahead just as your backend starts sliding out.",
+   "choices": [
+    {
+     "text": "Drift around the cop car",
+     "stat": "Handling",
+     "successFeedback": "You expertly drifted around the cop car, leaving racer behind to get pulled over.",
+     "failureFeedback": "You couldn't control the drift and spun out."
+    },
+    {
+     "text": "Fishtail the other way",
+     "stat": "Handling",
+     "successFeedback": "You expertly controlled the slide and fishtailed around the cop car, leaving racer behind to get pulled over.",
+     "failureFeedback": "You fishtailed out of control and nearly clipped the cop car."
+    }
+   ]
+  }
+ ],
+ "policePullOvers": [
+  {
+   "feedback": "The officer informed you that the speed limit is a regulation, not a suggestion.",
+   "log": "An officer informed me that I was driving faster than the speed limit, but let me off with a warning.",
+   "tooSlow": false,
+   "tooFast": true
+  },
+  {
+   "feedback": "The officer told you driving too slow is just as dangerous as driving too fast and asked you to pick up the pace.",
+   "log": "An officer informed me of the dangers of driving slower than the speed limit.",
+   "tooSlow": true,
+   "tooFast": false
+  },
+  {
+   "feedback": "The officer told you that you were driving at the speed of a sloth.",
+   "log": "An officer told me that I was driving at the speed of a rb.",
+   "tooSlow": true,
+   "tooFast": false
+  },
+  {
+   "feedback": "The officer told you that you were driving your car like someone's grandma.",
+   "log": "An officer told me that I was driving my car like someone's rb.",
+   "tooSlow": true,
+   "tooFast": false
+  },
+  {
+   "feedback": "The officer suggested you get some caffeine so you could pick up your dangerously slow pace.",
+   "log": "An officer told me to get some caffeine so that I didn't drive so dangerously slow.",
+   "tooSlow": true,
+   "tooFast": false
+  },
+  {
+   "feedback": "The officer told you firmly that the road is not a raceway.",
+   "log": "An officer told me that the road is not a rb.",
+   "tooSlow": false,
+   "tooFast": true
+  },
+  {
+   "feedback": "The officer informed you that if you didn't stop speeding, you were going to hit a tree.",
+   "log": "An officer told me that if I didn't stop speeding, I was going to hit something.",
+   "tooSlow": false,
+   "tooFast": true
+  },
+  {
+   "feedback": "The officer said the only reason you needed to drive that fast was if you were going into labor.",
+   "log": "An officer told me that unless I was going into labor, I didn't need to drive so fast.",
+   "tooSlow": false,
+   "tooFast": true
+  },
+  {
+   "feedback": "The officer said you were driving your car as if stuck in jelly.",
+   "log": "An officer told me I was driving as if I was stuck in rb.",
+   "tooSlow": true,
+   "tooFast": false
+  },
+  {
+   "feedback": "The officer warned you that you wouldn't get extra points for driving so slowly.",
+   "log": "An officer warned me that I wouldn't get rewarded for driving so rb.",
+   "tooSlow": true,
+   "tooFast": false
+  },
+  {
+   "feedback": "The officer asked why you felt the need to drive like a bat out of hell.",
+   "log": "An officer asked why I was driving at rb.",
+   "tooSlow": false,
+   "tooFast": true
+  },
+  {
+   "feedback": "The officer said you were putting all of town at risk by driving so fast.",
+   "log": "An officer said I was putting all of town at risk with my speeding.",
+   "tooSlow": false,
+   "tooFast": true
+  },
+  {
+   "feedback": "The officer said slow drivers like you cause the most accidents, so speed it up.",
+   "log": "An officer said it's slow drivers like me who cause the most accidents.",
+   "tooSlow": true,
+   "tooFast": false
+  }
+ ],
+ "spouseVehicleReactions": [
+  {
+   "scenario": "he says it was an irresponsible decision and a waste of money.",
+   "log": "lover complained that our new vehicle was a waste of money.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": false,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": false
+  },
+  {
+   "scenario": "he says it's too flashy.",
+   "log": "lover complained that my new vehicle was too flashy.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": false,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says the wheels are ugly.",
+   "log": "lover complained that the wheels on my new vehicle were ugly.",
+   "cheapCar": true,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": false,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he says it's unnecessary.",
+   "log": "lover complained that my new vehicle was unnecessary.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": false,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says it's got too much horsepower for your driving abilities.",
+   "log": "lover complained that my new vehicle had too much horsepower for my driving abilities.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": false,
+   "miscCar": true,
+   "watercraft": false,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he says the horsepower to torque ratio is way off.",
+   "log": "lover complained that the horsepower to torque ratio on my new vehicle was way off.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": false,
+   "miscCar": true,
+   "watercraft": false,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he says the seats are incredibly uncomfortable.",
+   "log": "lover complained that the seats in my new vehicle were incredibly uncomfortable.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says the interior has an odd odor.",
+   "log": "lover complained that the interior of my new vehicle had an odd odor.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says the maintenance is not worth the expense.",
+   "log": "lover complained that the maintenance on my new vehicle was not worth the expense.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says it's an awful color.",
+   "log": "lover complained that the color of my new vehicle was awful.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says it just looks funny.",
+   "log": "lover complained that my new vehicle looked funny.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says he doesn't want to be seen in it.",
+   "log": "lover said he doesn't want to be seen in my new vehicle.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says there are better things to spend your money on.",
+   "log": "lover said there were better things to spend money on than a new vehicle.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says it's just another way to increase your carbon footprint.",
+   "log": "lover complained that owning my vehicle was increasing my carbon footprint.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says he doesn't like the sound of the engine.",
+   "log": "lover complained that he didn't like the engine sound of my new vehicle.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says the dashboard layout is wonky.",
+   "log": "lover complained that my new vehicle had a wonky dashboard.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": false,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he says there are not enough compartments to store all his stuff.",
+   "log": "lover complained that weren't enough compartments in my new vehicle to accommodate all his stuff.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says he had a bad experience as a child in a similar vehicle.",
+   "log": "lover complained that he had a bad experience as a child in a vehicle similar to my new vehicle.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": false,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he says he fears for your safety on the road in that vehicle.",
+   "log": "lover said he feared for my safety driving my new vehicle.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": false,
+   "miscCar": true,
+   "watercraft": false,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he says it will depreciate in value too quickly.",
+   "log": "lover complained that the value of my new vehicle would depreciate too quickly.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": false,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says she fears for your safety in the open waters.",
+   "log": "lover said he feared for my safety in my new vehicle.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": true,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he is afraid you'll drown in the ocean.",
+   "log": "lover said he feared I might drown while out in my new vehicle.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": true,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he says bad things can happen in the open waters.",
+   "log": "lover said he feared that bad things would happen while out in my new vehicle.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": true,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he is afraid you'll sail off to an exotic island, and never come back.",
+   "log": "lover said he feared I would sail off to an exotic location in my new vehicle and never return.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": true,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he fears for the safety of others with you flying the open skies.",
+   "log": "lover said he feared for the safety of others with me flying my new vehicle in open skies.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": false,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says bad things can happen in the open skies.",
+   "log": "lover complained that bad things could happen while flying my vehicle.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": false,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he is afraid you'll die in a mid-air collision.",
+   "log": "lover was afraid I would die in a mid-air collision flying my new vehicle.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": false,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says that flying increases your chances of an alien abduction.",
+   "log": "lover complained that flying in my new vehicle would increase the chances of being abducted by aliens.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": false,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he is afraid you'll fly off to some exotic location and have an affair.",
+   "log": "lover was afraid I'd fly off in my new vehicle to some exotic location and have an illicit affair.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": false,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says the only reason you bought it was to impress your friends.",
+   "log": "lover complained that the only reason I bought my vehicle was to impress my friends.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says just because you can afford it doesn't mean you should buy it.",
+   "log": "lover complained that just because I could afford my new vehicle didn't mean that I should have bought it.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he is afraid you are becoming too materialistic.",
+   "log": "lover said he feared that I am becoming too materialistic just because I bought a new vehicle.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": false
+  },
+  {
+   "scenario": "he says it makes you look insecure.",
+   "log": "lover said my new vehicle makes me look rb.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says he is worried that you'll become a douchebag.",
+   "log": "lover said that me buying my new vehicle has him worried that I'll become rb.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says this feels like it's a midlife crisis.",
+   "log": "lover said me buying my new vehicle feels like a midlife crisis.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he asks you who you are trying to impress.",
+   "log": "lover asked me who I am trying to impress by buying my new vehicle.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he asks what you are trying to compensate for.",
+   "log": "lover asked what I'm trying to compensate for by buying my new vehicle.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says that he hopes you crash it.",
+   "log": "lover said he hopes I crash my new vehicle.",
+   "cheapCar": true,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": false
+  },
+  {
+   "scenario": "he says that he hopes you drive it off a cliff.",
+   "log": "lover said he hopes that I drive my new vehicle off of a cliff.",
+   "cheapCar": true,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": false,
+   "aircraft": false,
+   "rejection": false
+  },
+  {
+   "scenario": "he says that he hopes it sinks.",
+   "log": "lover said he hopes that my new vehicle sinks.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": true,
+   "aircraft": false,
+   "rejection": false
+  },
+  {
+   "scenario": "he says that you're lucky you're not single because you'd never get laid with that thing.",
+   "log": "lover said that I am lucky I'm not single because I'd never get laid with my new vehicle.",
+   "cheapCar": true,
+   "expensiveCar": false,
+   "oldCar": true,
+   "miscCar": false,
+   "watercraft": false,
+   "aircraft": false,
+   "rejection": false
+  },
+  {
+   "scenario": "he says that it's not the one he wanted you to buy.",
+   "log": "lover said that my new vehicle isn't the one he wanted me to buy.",
+   "cheapCar": true,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": false
+  },
+  {
+   "scenario": "he says that it doesn't match your amazing personality.",
+   "log": "lover said that my new vehicle doesn't match my rb personality.",
+   "cheapCar": true,
+   "expensiveCar": false,
+   "oldCar": true,
+   "miscCar": false,
+   "watercraft": false,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he says that it doesn't match your crappy personality.",
+   "log": "lover said that my new vehicle doesn't match my rb personality.",
+   "cheapCar": false,
+   "expensiveCar": true,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": false,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he says that he would rather have a new boat.",
+   "log": "lover said that he would rather have a new rb than our new vehicle.",
+   "cheapCar": true,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": false,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he says that he would rather have a new helicopter.",
+   "log": "lover said that he would rather have a new rb than our new vehicle.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": true,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he says that he would rather have a new boat.",
+   "log": "lover said that he would rather have a new rb than our new vehicle.",
+   "cheapCar": false,
+   "expensiveCar": false,
+   "oldCar": false,
+   "miscCar": false,
+   "watercraft": false,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says that you don't have to compete with the neighbors.",
+   "log": "lover suggested that I bought my new vehicle to rb.",
+   "cheapCar": true,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says that he wouldn't ride in that piece of junk.",
+   "log": "lover called my new vehicle a rb and said he wouldn't ride in it.",
+   "cheapCar": true,
+   "expensiveCar": false,
+   "oldCar": true,
+   "miscCar": false,
+   "watercraft": false,
+   "aircraft": false,
+   "rejection": true
+  },
+  {
+   "scenario": "he called you insult.",
+   "log": "lover called me insult for buying my new vehicle.",
+   "cheapCar": true,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he asks you if you're trying to get him to leave you.",
+   "log": "lover asked if I was trying to get him to leave me by buying my new vehicle.",
+   "cheapCar": true,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": true,
+   "aircraft": true,
+   "rejection": true
+  },
+  {
+   "scenario": "he says he hopes it gets towed.",
+   "log": "lover said he hopes my new vehicle gets rb.",
+   "cheapCar": true,
+   "expensiveCar": true,
+   "oldCar": true,
+   "miscCar": true,
+   "watercraft": false,
+   "aircraft": false,
+   "rejection": false
+  }
+ ],
+ "vehicleGiftRejections": [
+  {
+   "excuse": "he said he wants to buy his own car.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": false,
+   "plane": false,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he doesn't need your hand-me-downs.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he doesn't want you holding it over his head.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he appreciates the gesture, but that he is looking for something a little nicer.",
+   "car": true,
+   "carMin": null,
+   "carMax": 30000,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he couldn't accept something that nice.",
+   "car": true,
+   "carMin": 30000,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he has another vehicle in mind.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": false,
+   "plane": false,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he doesn't want to be indebted to you.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he has a different model on his radar.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he questions your intentions.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he doesn't feel like he deserves it.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he would be compromising his values if he accepted the gift.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he doesn't feel like the quality of your relationship is good enough to justify a gift of that magnitude.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said that your relationship is not in a place where he would feel comfortable accepting this type of gift from you.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he wouldn\\u2019t want to feel indebted to you.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he would never be able to repay you.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he would feel obligated to return the favor.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said that it would be too much responsibility.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he wouldn't have anywhere to store it.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he wouldn't want to take care of it.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he doesn't want to deal with the hassle of licensing and registration.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": false,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said that your relationship is too good to risk damaging it over an expensive gift.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he doesn't want to pay the taxes on it.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he doesn't have a gift for you.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said that it is way too expensive.",
+   "car": true,
+   "carMin": 20000,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he would be embarrassed to be seen in it.",
+   "car": true,
+   "carMin": null,
+   "carMax": 20000,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said that you can't buy his love.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he would rather have an all inclusive paid vacation.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said that you should donate it to charity instead of giving it to him.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he doesn't want to owe you sexual favors for the rest of his life.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": true
+  },
+  {
+   "excuse": "he said he doesn't want to end up becoming a spoiled brat.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": true,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he would be embarrassed to admit his significant other purchased the vehicle.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": false,
+   "plane": false,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": true
+  },
+  {
+   "excuse": "he said he couldn't accept a vehicle from his child.",
+   "car": false,
+   "carMin": null,
+   "carMax": null,
+   "boat": false,
+   "plane": false,
+   "childOnly": false,
+   "parentOnly": true,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he is old enough to be buying his own vehicles.",
+   "car": true,
+   "carMin": null,
+   "carMax": null,
+   "boat": false,
+   "plane": false,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he would never drive that wack ass ride.",
+   "car": true,
+   "carMin": null,
+   "carMax": 7000,
+   "boat": false,
+   "plane": false,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said that if he is going to fly, he would prefer to fly in style.",
+   "car": false,
+   "carMin": null,
+   "carMax": null,
+   "boat": false,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said that if he is going to boat, he would prefer to boat in style.",
+   "car": false,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": false,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said that the watercraft you are offering just doesn't float his boat.",
+   "car": false,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": false,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said that you really missed the boat on this one.",
+   "car": false,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": false,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said the only thing he wants to fly is a kite.",
+   "car": false,
+   "carMin": null,
+   "carMax": null,
+   "boat": false,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he only drives the finest automobiles.",
+   "car": true,
+   "carMin": null,
+   "carMax": 100000,
+   "boat": false,
+   "plane": false,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he only drives the finest watercraft.",
+   "car": false,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": false,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he only flies in the finest aircraft.",
+   "car": false,
+   "carMin": null,
+   "carMax": null,
+   "boat": false,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said that it wouldn't feel appropriate to accept the gift.",
+   "car": false,
+   "carMin": null,
+   "carMax": null,
+   "boat": false,
+   "plane": false,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said that if he is going to take to the skies, he will be doing so in first-class fashion.",
+   "car": false,
+   "carMin": null,
+   "carMax": null,
+   "boat": false,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he wouldn't know where to dock it.",
+   "car": false,
+   "carMin": null,
+   "carMax": null,
+   "boat": true,
+   "plane": false,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said he doesn't have access to an airplane hangar.",
+   "car": false,
+   "carMin": null,
+   "carMax": null,
+   "boat": false,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  },
+  {
+   "excuse": "he said that a person his age has no place owning this type of thing.",
+   "car": true,
+   "carMin": 50000,
+   "carMax": null,
+   "boat": true,
+   "plane": true,
+   "childOnly": false,
+   "parentOnly": false,
+   "loverOnly": false
+  }
+ ]
+}

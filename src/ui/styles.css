@@ -1,1 +1,28 @@
 @import "tailwindcss";
+
+/* Hide scrollbar for category tab strip */
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+/* Fast scrolling optimization: skip off-screen rendering */
+.fast-list-item {
+  content-visibility: auto;
+  contain-intrinsic-size: 52px;
+}
+
+img {
+  image-rendering: auto;
+}
+
+/* iOS/Apple style emoji artwork (see src/ui/appleEmoji.js) */
+img.apple-emoji {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.12em;
+}

@@ -1,28 +1,43 @@
-import { useState } from 'react';
+import { useLayoutEffect, useState } from 'react';
+import CharacterCreation from './components/CharacterCreation.jsx';
+import GameScreen from './components/GameScreen.jsx';
+import { generateNewLife } from '../game/lifeEngine.js';
+import { installAppleEmojis, uninstallAppleEmojis } from './appleEmoji.js';
 
 // App.jsx — root React component.
-// Right now this is only a placeholder screen that proves the setup works:
-// Vite is serving the app and Tailwind utility classes are being applied.
-// The real game UI will replace this later.
+// Character Creation -> Starts official life with full NPC logic & BitLife UI
 
 export default function App() {
-  const [message, setMessage] = useState('');
+  const [screen, setScreen] = useState('creation'); // 'creation' | 'game'
+  const [gameState, setGameState] = useState(null);
+
+  // Global iOS/Apple style emoji rendering (see src/ui/appleEmoji.js)
+  useLayoutEffect(() => {
+    installAppleEmojis();
+    return uninstallAppleEmojis;
+  }, []);
+
+  function handleCreationComplete(customData) {
+    // Generate authentic life, NPCs, and birth circumstances
+    const newLife = generateNewLife(customData);
+    setGameState(newLife);
+    setScreen('game');
+  }
+
+  function handleStartNewLife() {
+    setGameState(null);
+    setScreen('creation');
+  }
+
+  if (screen === 'creation' || !gameState) {
+    return <CharacterCreation onComplete={handleCreationComplete} />;
+  }
 
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center bg-slate-900 text-slate-100">
-      <h1 className="mb-8 text-5xl font-bold tracking-tight">Life Sim</h1>
-      <button
-        type="button"
-        onClick={() => setMessage('Setup works!')}
-        className="cursor-pointer rounded-lg bg-blue-600 px-6 py-3 font-semibold text-white transition-colors hover:bg-blue-500 active:bg-blue-700"
-      >
-        Test Button
-      </button>
-      {message && (
-        <p className="mt-6 rounded-lg border border-emerald-700 bg-emerald-950 px-4 py-2 text-emerald-400">
-          {message}
-        </p>
-      )}
-    </div>
+    <GameScreen
+      gameState={gameState}
+      onUpdateState={setGameState}
+      onNewLife={handleStartNewLife}
+    />
   );
 }

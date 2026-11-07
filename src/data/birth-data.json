@@ -1,0 +1,5972 @@
+{
+  "birthCircumstances": [
+    {
+      "text": "My mother is a virgin. The circumstances as to how I was conceived are perplexing.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was the result of two strangers randomly fornicating in a truck stop bathroom.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was the result of an affair.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Fling"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was the result of a paid-off debt.",
+      "siblingText": "<He/She> was the result of a paid-off debt.",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was the result of a one night stand after two drunk strangers met in a bar.",
+      "siblingText": "<He/She> was the result of a one night stand after my mother got drunk in a bar.",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 21,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was the result of a Mile High Club \"one flight stand\".",
+      "siblingText": "<He/She> was the result of a Mile High Club \"one flight stand\".",
+      "fatherTypes": [
+        "Relationship",
+        "Fling"
+      ],
+      "minMotherAge": 20,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was the result of a contraceptive-free orgy. It is unknown which participant was the father.",
+      "siblingText": "<He/She> was the result of a contraceptive-free orgy that my mother participated in.",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was the product of artificial insemination.",
+      "siblingText": "<He/She> was the product of artificial insemination.",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 35,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was the product of a one night stand.",
+      "siblingText": "<He/She> was the product of a one night stand.",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived while my parents were testing a bed at IKEA.",
+      "siblingText": "<He/She> was conceived while my parents were testing a bed at IKEA.",
+      "fatherTypes": [
+        "Married",
+        "Relationship"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived while my mother was staying at her in-laws.",
+      "siblingText": "<He/She> was conceived while we were staying at my grandparents.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived while my mother was on her period.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived while my mother was in a sex swing.",
+      "siblingText": "<He/She> was conceived while my mother was in a sex swing.",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 22,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived when the fertility doctor showed my mother she hadn't been doing it right.",
+      "siblingText": "<He/She> was conceived when the fertility doctor showed my mother she hadn't been doing it right.",
+      "fatherTypes": [
+        "Fling"
+      ],
+      "minMotherAge": 35,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived when my parents had a weekend getaway at a cottage in the mountains.",
+      "siblingText": "<He/She> was conceived when my parents had a weekend getaway without me.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived when my mother became pregnant after soaking in a filthy public hot tub.",
+      "siblingText": "<He/She> was conceived when my mother became pregnant after soaking in a filthy public hot tub.",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived when a neighbor came to borrow some sugar from my mother.",
+      "siblingText": "<He/She> was conceived when a neighbor came to borrow some sugar from my mother.",
+      "fatherTypes": [
+        "Fling"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived on the beach in Hawaii.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 30,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived on my grandmother's loveseat.",
+      "siblingText": "<He/She> was conceived on my grandmother's loveseat.",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 25,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived on my grandfather's workbench.",
+      "siblingText": "<He/She> was conceived on my grandfather's workbench.",
+      "fatherTypes": [
+        "Married",
+        "Relationship"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 25,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived on a Caribbean cruise.",
+      "siblingText": "<He/She> was conceived on a Caribbean cruise.",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived on a camping trip.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was conceived in the park on a picnic blanket.",
+      "siblingText": "<He/She> was conceived in the park on a picnic blanket.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived in the Kanayama Shrine in Japan.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship"
+      ],
+      "minMotherAge": 20,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived in the bathroom of a club.",
+      "siblingText": "<He/She> was conceived in the bathroom of a club.",
+      "fatherTypes": [
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 21,
+      "maxMotherAge": 25,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived in the backseat of an Uber.",
+      "siblingText": "<He/She> was conceived in the backseat of an Uber.",
+      "fatherTypes": [
+        "Fling"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 30,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived in the back row of a movie theater.",
+      "siblingText": "<He/She> was conceived in the back row of a movie theater.",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 30,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived in a motel in Las Vegas.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 20,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived during high school lunch period.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Relationship",
+        "Fling"
+      ],
+      "minMotherAge": 15,
+      "maxMotherAge": 18,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived despite my mother taking the morning-after pill.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived behind the bleachers at the high school football stadium.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Relationship",
+        "Fling"
+      ],
+      "minMotherAge": 15,
+      "maxMotherAge": 18,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived behind a dumpster in an alley.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived at Disneyland. My father got excited while riding \"It's a Small World\".",
+      "siblingText": "<He/She> was conceived at Disneyland.",
+      "fatherTypes": [
+        "Married",
+        "Relationship"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived at Bonnaroo. It is unknown which of my mother's lovers is the father.",
+      "siblingText": "<He/She> was conceived at Bonnaroo. It is unknown which of my mother's lovers is the father.",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived at a resort in Cancun.",
+      "siblingText": "<He/She> was conceived at a resort in Cancun.",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived at a Halloween party. My mother was dressed as a sexy devil and my father was dressed as Bill Gates.",
+      "siblingText": "<He/She> was conceived at a Halloween party.",
+      "fatherTypes": [
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 30,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after my parents fornicated while walking through a cemetery.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 30,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after my parents attended a Trump rally.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after my mother's birth control failed.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling"
+      ],
+      "minMotherAge": 22,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived after my mother visited a witch doctor because she was having trouble getting pregnant.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 30,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after my mother participated in a devil's triangle. It is unknown which participant was the father.",
+      "siblingText": "<He/She> was conceived after my mother participated in a devil's triangle.",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 30,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after my mother intentionally avoided taking her birth control.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived after my mother had a botched tubal ligation procedure.",
+      "siblingText": "<He/She> was conceived after my mother had a botched tubal ligation procedure.",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling"
+      ],
+      "minMotherAge": 35,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after my mother duped my father by poking holes in the condom.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after my mother became pregnant after a long night at a swinger's club.",
+      "siblingText": "<He/She> was conceived after my mother became pregnant after a long night at a swinger's club.",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 21,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after my mother attended a scandalous pool party.",
+      "siblingText": "<He/She> was conceived after my mother attended a scandalous pool party.",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 30,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after my mom \"worked\" her way backstage at a concert.",
+      "siblingText": "<He/She> was conceived after my mom \"worked\" her way backstage at a concert.",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 25,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after my father's condom slid off.",
+      "siblingText": "<He/She> was conceived after my father's condom slid off.",
+      "fatherTypes": [
+        "Married",
+        "Relationship"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived after my father's condom broke.",
+      "siblingText": "<He/She> was conceived after my father's condom broke.",
+      "fatherTypes": [
+        "Married",
+        "Relationship"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was conceived after my father had a botched vasectomy.",
+      "siblingText": "<He/She> was conceived after my father had a botched vasectomy.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 35,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after my father duped my mother by poking holes in the condom.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after my mother and father went on a romantic date at Olive Garden.",
+      "siblingText": "<He/She> was conceived after my mother and father went on a romantic date at Olive Garden.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 22,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived after a failed pull-out.",
+      "siblingText": "<He/She> was conceived after a failed pull-out.",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was an accidental pregnancy.",
+      "siblingText": "<He/She> was an accidental pregnancy.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "I was an accident after my mother got sloppy with her birth control.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling"
+      ],
+      "minMotherAge": 20,
+      "maxMotherAge": 40,
+      "weight": 2
+    },
+    {
+      "text": "I was a test tube baby.",
+      "siblingText": "<He/She> was a test tube baby.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 35,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was a product of morning sex.",
+      "siblingText": "<He/She> was a product of morning sex.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was a planned pregnancy.",
+      "siblingText": "<He/She> was a planned pregnancy.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "I am the result of an immaculate conception.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I am a bastard.",
+      "siblingText": "<He/She> is a bastard, like me.",
+      "fatherTypes": [
+        "Relationship"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived after my parents eloped in Las Vegas.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived on my parents' honeymoon.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "I was conceived after my parents met and fornicated on a nude beach.",
+      "siblingText": "<He/She> was conceived after my mother met and fornicated with a stranger on a nude beach.",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after a skydiving instructor charmed his way inside my mother during a tandem jump.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "My conception was the result of a bingo game gone wild.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "My conception occurred during a twisted game of Twister.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was the result of a random Tinder hookup.",
+      "siblingText": "<He/She> was the result of a random Tinder hookup.",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 4
+    },
+    {
+      "text": "I was the result of a random Bumble hookup.",
+      "siblingText": "<He/She> was the result of a random Bumble hookup.",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 4
+    },
+    {
+      "text": "My conception occurred after a hot blind date.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived after my mother toured the fire station and tested every hose. It is unknown which hero is my father.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after my mom visited the cockpit mid-flight. It is unknown if my father was the pilot or co-pilot.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived on the washing machine. The machine was on the spin cycle.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was conceived in the backseat of a Prius.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived in the back of a limo.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived on the third floor of the public library, in the self-help book section.",
+      "siblingText": "<He/She> was conceived on the third floor of the public library, in the self-help book section.",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived after my father visited my mother's bakery and sampled her cookie.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after my father visited my mother's bakery and tasted her muffin.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived on a trampoline.",
+      "siblingText": "<He/She> was conceived on a trampoline.",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived at the zoo after the anaconda excited my mother.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived while my parents were golfing and my father got a hole-in-one.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "My conception happened when my mother got up on stage at a concert. It is unknown if the drummer or bassist was my father.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived in a porta potty.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived in the judge's chamber after my mother received a hard sentence.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived in an igloo.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived while my parents were visiting the Alamo.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived when my parents visited the Colosseum and dad went gladiator.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived while my parents were visiting St. Peter's Basilica.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived on the Great Wall of China.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship",
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived while my parents were touring Capitol Hill.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived while my parents were visiting Niagara Falls and my mother got wet.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Relationship"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was the result of a Netflix-and-chill.",
+      "siblingText": "<He/She> was the result of a Netflix-and-chill.",
+      "fatherTypes": [
+        "Fling",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was left on the doorstep of the fire station by my birth mother.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "The adoption happened after a stork delivered me to my parents' house.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was surrendered for adoption after my teenage biological mother decided that she wanted me to be raised in a family that could support my needs.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 23,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "My biological mother determined that adoption was the best option after conceiving me under less than desirable circumstances.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was put up for adoption after my birth mother determined that she wanted a better life for me.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was put up for adoption after the government determined that my biological mother's drug issues made her an unfit parent.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "Government services forced my birth mother to surrender me for adoption after determining that she was an unfit parent.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was put up for adoption after my biological mother decided that she did not have the support system necessary to raise a happy, healthy child.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was adopted after my biological mother decided she didn't want people to know that she had a baby.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "My birth mother determined that she was too young to be a parent and left me at a convent.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "The adoption occurred after my biological mother decided that she couldn't look at my ugly face any longer.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "My birth mother was forced to put me up for adoption after she was incarcerated for <murder/a felony/prostitution/solicitation/homicide/armed robbery/breaking and entering/arson/kidnapping/manslaughter/embezzlement/extortion/fraud/robbery/tax evasion/perjury>.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "My biological mother was required to give me up for adoption after the doctors at the hospital diagnosed me with fetal alcohol syndrome.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "After I was conceived in a one-night stand, my biological mother gave me up for adoption when she learned that my biological father was <a New York Yankees/a Boston Red Sox/a Los Angeles Dodgers/a San Antonio Spurs/a Los Angeles Lakers/a Utah Jazz/an AC Milan/an Arsenal/a Las Vegas Raiders/a New York Knicks/a Real Madrid/a Manchester United/a Dallas Cowboys/a New England Patriots/a Boston Celtics/a Duke Blue Devils/a Notre Dame Fighting Irish/an Alabama Crimson Tide/an Ohio State Buckeyes/a Michigan Wolverines/a Miami Hurricanes/a USC Trojans/a Clemson Tigers/an LSU Tigers/a Detroit Red Wings/a Golden State Warriors/a Cleveland Browns/a Denver Broncos/an Arizona State Sun Devils> fan.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was put up for adoption after my birth mother died from complications during my delivery.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was given up for adoption when my biological mother decided she couldn't afford to raise a child as a single mom.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "My birth mother was forced to surrender me to adoption because of her addiction to <drug-illegal>.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "My biological mother decided to give me up for adoption when she realized that she didn't want to forever be connected to my <deadbeat/jailbird/hoodlum/degenerate> biological <father/daddy/dad>.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "My biological mother decided to give me up for adoption, as she didn't want the raising of a child to get in the way of her career as <a stripper/an exotic dancer/a circus clown/a porn star/a cat behavior consultant/a midwife/an adoption agent/a YouTuber>.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "After an unplanned pregnancy, my birth mother determined it would be best to give me up for adoption so that I could be raised in a <two-parent household/loving family/family of unconditional love>.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "My biological mother thought it would be best to give me up for adoption after she conceived me in an affair with a married man.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "My biological mom surrendered me for adoption because I cried too much.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "My birth mother decided to give me up for adoption so that I wouldn't interfere with her rampant addiction to <horse racing/alcohol/gambling/slot machines/sex/porn/the internet/shopping>.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "My biological mother gave me up for adoption after she determined I was just too stinky.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was given up for adoption after my birth mother was unable to determine which of her many, many lovers was my father.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "My biological mom gave me up for adoption when she realized that raising me would cut into her <cat/fishing/cosplay/video game/witchcraft/palm reading/sleeping/bull riding/internet trolling/baking/rapping/breakdancing/stalking/banjo/anime/flower arranging/rock painting/candle making/hunting/shooting/belly dancing/beatboxing/bird watching/body building/crocheting/gun collecting/pole dancing/skateboarding/texting/social media> time.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "My biological mother surrendered me for adoption after deciding that I wasn't worth the tax write off.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married",
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "My mothers let an epic game of <tic-tac-toe/one-on-one basketball/chess/checkers/darts/golf/Scrabble/Monopoly/Battleship/Trivial Pursuit/Jenga/Super Smash Bros/Mortal Kombat/Rock, Paper, Scissors> determine which of them would be artificially inseminated.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "My birth mother was impregnated after receiving a generous sperm donation from my other mother's <cousin/brother/former boss/formed landlord/friend/buddy>.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "One of my mothers was impregnated by a sperm load that was anonymously donated to a fertility clinic.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "According to the records, one of my mothers was impregnated with sperm donated by an incredibly <handsome/intelligent/brilliant/good-looking> donor.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "My single mother was impregnated by a sperm load that was anonymously donated to a fertility clinic.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "According to the records, my single mother was impregnated with sperm donated by an incredibly <handsome/intelligent/brilliant/good-looking> donor.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I enjoyed the amazing benefits of science when one of my mother's eggs was successfully used for in vitro fertilization.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I came into the world after one of my mother's eggs was successfully used for in vitro fertilization.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "Shortly after I was born, I was chosen to join the family of two <fabulous/loving/affectionate/dedicated/attentive/considerate/devoted/faithful/amazing/loyal/generous/awesome/incredible/marvelous/fantastic> fathers.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "Shortly after I was born, I was chosen to join the family of two <loving/affectionate/dedicated/attentive/considerate/devoted/faithful/amazing/loyal/generous/awesome/incredible/marvelous/fantastic> mothers.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "Shortly after I was born, I was adopted by <a loving/an affectionate/a dedicated/an attentive/a considerate/a devoted/a faithful/an amazing/a loyal/a generous/an awesome/an incredible/a marvelous/a fantastic> father.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "Shortly after I was born, I was adopted by <a loving/an affectionate/a dedicated/an attentive/a considerate/a devoted/a faithful/an amazing/a loyal/a generous/an awesome/an incredible/a marvelous/a fantastic> mother.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "My mothers chose to adopt me after experiencing a botched artificial insemination.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 2
+    },
+    {
+      "text": "My fathers chose to adopt me after realizing they were both shooting blanks.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 2
+    },
+    {
+      "text": "My mothers adopted me as an infant and fought over who got to hold me first.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 5
+    },
+    {
+      "text": "My fathers adopted me as an infant and fought over who got to hold me first.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 5
+    },
+    {
+      "text": "My fathers decided to adopt me after watching the movie '<Look Who's Talking/Three Men and a Baby/Baby's Day Out/Boss Baby/Raising Arizona/Baby Geniuses>'.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 3
+    },
+    {
+      "text": "My mothers decided to adopt me after watching the movie '<Look Who's Talking/Baby's Day Out/Boss Baby/Raising Arizona/Baby Geniuses>'.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 3
+    },
+    {
+      "text": "My fathers chose a dear friend of theirs to be my surrogate birth mother.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 50,
+      "weight": 4
+    },
+    {
+      "text": "My mothers chose <a stud muffin/a famous rockstar/a professional golfer/an eccentric artist/a security guard/a heart surgeon/a porn star/a neighbor/a drifter/a comedian/a BitLife developer> to be the sperm donor.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 21,
+      "maxMotherAge": 45,
+      "weight": 4
+    },
+    {
+      "text": "It is rumored that my mothers paid a large sum of money for <celebrity-male> to be their sperm donor.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "It is rumored that my fathers paid a large sum of money for <celebrity-female> to secretly be their surrogate mother.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 2
+    },
+    {
+      "text": "Both my fathers had a go at the surrogate, so it's unclear which is my biological father.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 2
+    },
+    {
+      "text": "My fathers decided to adopt after realizing, no matter how hard they tried, neither could get the other one pregnant.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 1
+    },
+    {
+      "text": "My mothers decided to adopt after realizing, no matter how hard they tried, neither could get the other one pregnant.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 1
+    },
+    {
+      "text": "My parents chose me from a \"currently available\" catalog listing.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 3
+    },
+    {
+      "text": "My parents originally wanted a Subaru and a rescue dog but decided to adopt me instead.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 2
+    },
+    {
+      "text": "My parents decided to adopt me after learning about the numerous tax benefits of having a child.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 3
+    },
+    {
+      "text": "My fathers decided it was time to settle down, get married, and adopt a kid after experiencing a life-altering drug-fueled sexcapade in Ibiza.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 1
+    },
+    {
+      "text": "My mothers both realized it was time to settle down, get married, and adopt a kid after breaking down in tears during a <Clairo/Courtney Barnett/Girli/Zolita/Indigo Girls/Tegan and Sara/Sia/Haley Kiyoko/Girl in Red> concert.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 60,
+      "weight": 2
+    },
+    {
+      "text": "My father paid a college student's tuition for her to be my surrogate mother.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "My mother decided to have me after winning a free sperm sample at the grand opening of a local fertility clinic.",
+      "siblingText": "",
+      "fatherTypes": [
+        "Unknown"
+      ],
+      "minMotherAge": 25,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived when my mother <mounted/sat on/climbed on/took a ride on/ascended onto> my father's throne.",
+      "siblingText": "<he/she> was conceived when our mother <mounted/sat on/climbed on/took a ride on/ascended onto> our father's throne.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was conceived when my mother <bowed/kneeled> before my father.",
+      "siblingText": "<he/she> was conceived when our mother <bowed/kneeled> before our father.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was conceived when my <mother/father> bowed to the crown.",
+      "siblingText": "<he/she> was conceived when our <mother/father> bowed to the crown.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was conceived when my father gave my mother a royal <banging/basting/pounding/spanking>.",
+      "siblingText": "<he/she> was conceived when our father gave our mother a royal <banging/basting/pounding/spanking>.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was conceived when my parents whispered sweet nothings in a <secret/royal/palace/castle/rose> garden.",
+      "siblingText": "<he/she> was conceived when our parents whispered sweet nothings in a <secret/royal/palace/castle/rose> garden.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "<num1000-10000> people were in attendance to celebrate the momentous occasion.",
+      "siblingText": "<num1000-10000> people were in attendance to celebrate the momentous occasion.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "The entire country celebrated my birth for <num11-100> consecutive days.",
+      "siblingText": "The entire country celebrated <his/her> birth for <num11-100> consecutive days.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "I was conceived when my parents properly copulated.",
+      "siblingText": "<he/she> was conceived when our parents properly copulated.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "I was conceived when my father gave my mother his <royal/imperial/noble/majestic> <'P'/'D'>.",
+      "siblingText": "<he/she> was conceived when our father gave our mother his <royal/imperial/noble/majestic> <'P'/'D'>.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived when my mother gave my father her <royal/imperial/noble/majestic> <'P'/'V'>.",
+      "siblingText": "<he/she> was conceived when our mother gave our father her <royal/imperial/noble/majestic> <'P'/'V'>.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived after a particularly hot spot of tea.",
+      "siblingText": "<he/she> was conceived after a particularly hot spot of tea.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was conceived when tea time got a little too hot and steamy.",
+      "siblingText": "<he/she> was conceived when tea time got a little too hot and steamy.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was conceived on a summer <vacation/holiday> in the countryside.",
+      "siblingText": "<he/she> was conceived on a summer <vacation/holiday> in the countryside.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "I was conceived when my father <entered/visited/penetrated/burst into/busted into/popped into> my mother's realm.",
+      "siblingText": "<he/she> was conceived when our father <entered/visited/penetrated/burst into/busted into/popped into> our mother's realm.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "People gathered from all around the country to celebrate my birth.",
+      "siblingText": "People gathered from all around the country to celebrate <his/her> birth.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "More than a million people came to celebrate my entrance into the world.",
+      "siblingText": "More than a million people came to celebrate <his/her> entrance into the world.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "People said I was <special/magnificent/impressive/majestic/regal> from the very beginning.",
+      "siblingText": "People said <he/she> was <special/magnificent/impressive/majestic/regal> from the very beginning.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "A devoted crowd of thousands erupted in joy when I was presented from the palace balcony for the first time.",
+      "siblingText": "A devoted crowd of thousands erupted in joy when <he/she> was presented from the palace balcony for the first time.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "I was conceived in the backseat of a royal <limo/jet/helicopter/train/car>.",
+      "siblingText": "<he/she> was conceived in the backseat of a royal <limo/jet/helicopter/train/car>.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 2
+    },
+    {
+      "text": "I was conceived when my mother and father <started/joined> the Mile High Royalty Club.",
+      "siblingText": "<he/she> was conceived when our mother and father revisited the Mile High Royalty Club.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "I was conceived when my father impregnated my mother in <royal/noble/imperial/regal/majestic> fashion.",
+      "siblingText": "<he/she> was conceived when our father impregnated our mother in <royal/noble/imperial/regal/majestic> fashion.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 4
+    },
+    {
+      "text": "I was conceived after my parents effectively executed a plan to <lengthen/extend> the royal bloodline.",
+      "siblingText": "<he/she> was conceived after our parents effectively executed a plan to <lengthen/extend> the royal bloodline.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 4
+    },
+    {
+      "text": "I was the by-product of some seriously royal love.",
+      "siblingText": "<he/she> was the by-product of some seriously royal love.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "I was conceived on a royally festive night full of fireworks.",
+      "siblingText": "<he/she> was conceived on a royally festive night full of fireworks.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was conceived when my mother bowed for a bit too long.",
+      "siblingText": "<he/she> was conceived when our mother bowed for a bit too long.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "People said I was <ugly/hideous/harsh on the eyes/unsightly/homely/revolting/repulsive> from the very beginning.",
+      "siblingText": "People said <he/she> was <ugly/hideous/harsh on the eyes/unsightly/homely/revolting/repulsive> from the very beginning.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 1
+    },
+    {
+      "text": "The media reported that I was not easy on the eyes.",
+      "siblingText": "The media reported that <he/she> was not easy on the eyes.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "Everyone said that I was <brilliant/sharp/bright/smart/a wizard/a genius> from the start.",
+      "siblingText": "Everyone said that <he/she> was <brilliant/sharp/bright/smart/a wizard/a genius> from the start.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "Everyone said that I was <slow/dumb/different/simple/challenged> from the start.",
+      "siblingText": "Everyone said that <he/she> was <slow/dumb/different/simple/challenged> from the start.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "Everyone said I was <glorious/a sight to behold/gorgeous/beautiful/cute/good looking> from the start.",
+      "siblingText": "Everyone said that <he/she> was <glorious/a sight to behold/gorgeous/beautiful/cute/good looking> from the start.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "Reporters from around the world raved about what a beautiful baby I was.",
+      "siblingText": "Reporters from around the world raved about what a beautiful baby <he/she> was.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "The consensus amongst the media was that I was a pretty <average/mediocre> looking baby.",
+      "siblingText": "The consensus amongst the media was that <he/she> was a pretty <average/mediocre> looking baby.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was <a bundle of joy/happy/all smiles/cheerful/delightful/joyful/merry/upbeat/jolly> from the start.",
+      "siblingText": "<he/she> was <a bundle of joy/happy/all smiles/cheerful/delightful/joyful/merry/upbeat/jolly> from the start.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "I was <a crybaby/a whiner/crabby/fussy/whiny/sour/salty/grouchy> from the start.",
+      "siblingText": "<he/she> was <a crybaby/a whiner/crabby/fussy/whiny/sour/salty/grouchy> from the start.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 3
+    },
+    {
+      "text": "The media didn't have many nice things to say about me.",
+      "siblingText": "The media didn't have many nice things to say about <him/her>.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "Media members around the world had nothing but <great/outstanding/positive/warm/kind/wonderful> things to say about me.",
+      "siblingText": "The media had nothing but <great/outstanding/positive/warm/kind/wonderful> things to say about <him/her>.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    },
+    {
+      "text": "Media members around the world had nothing but <awful/terrible/mean/negative/unkind/rude/malicious/vicious/ugly/nasty/vile> things to say about me.",
+      "siblingText": "The media had nothing but <awful/terrible/mean/negative/unkind/rude/malicious/vicious/ugly/nasty/vile> things to say about <him/her>.",
+      "fatherTypes": [
+        "Married"
+      ],
+      "minMotherAge": 18,
+      "maxMotherAge": 45,
+      "weight": 5
+    }
+  ],
+  "careers": [
+    {
+      "name": "Actor",
+      "companyType": "Film Studio",
+      "salary": 18493,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Disk Jockey",
+      "companyType": "Record Label",
+      "salary": 20038,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Model",
+      "companyType": "Model Agency",
+      "salary": 20000,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Pornographer",
+      "companyType": "Adult Film Studio",
+      "salary": 30291,
+      "minAge": 18,
+      "weight": 1
+    },
+    {
+      "name": "Writer",
+      "companyType": "Publisher",
+      "salary": 19755,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Reporter",
+      "companyType": "Television",
+      "salary": 39370,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Magician",
+      "companyType": "Circus",
+      "salary": 12000,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Chef",
+      "companyType": "Restaurant",
+      "salary": 16575,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Mobile App Developer",
+      "companyType": "App Developer",
+      "salary": 17950,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Accountant",
+      "companyType": "Corporate",
+      "salary": 36722,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Animator",
+      "companyType": "Small Business",
+      "salary": 31609,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Archaeologist",
+      "companyType": "University District",
+      "salary": 31172,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Architect",
+      "companyType": "Architectural Firm",
+      "salary": 45146,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Art Gallery Worker",
+      "companyType": "Museum",
+      "salary": 28851,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Auto Mechanic",
+      "companyType": "Car Dealer",
+      "salary": 23281,
+      "minAge": 16,
+      "weight": 5
+    },
+    {
+      "name": "Baggage Handler",
+      "companyType": "Airline",
+      "salary": 19586,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Banker",
+      "companyType": "Bank",
+      "salary": 35871,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Beekeeper",
+      "companyType": "Farm",
+      "salary": 24879,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Biotechnologist",
+      "companyType": "Engineering Firm",
+      "salary": 39678,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Brain Surgeon",
+      "companyType": "Hospital",
+      "salary": 102571,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Bus Driver",
+      "companyType": "Municipal",
+      "salary": 20858,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Business Analyst",
+      "companyType": "Corporate",
+      "salary": 48281,
+      "minAge": 16,
+      "weight": 5
+    },
+    {
+      "name": "Butcher",
+      "companyType": "Grocery Store",
+      "salary": 19851,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Cashier",
+      "companyType": "Retailer",
+      "salary": 15626,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Chemical Engineer",
+      "companyType": "Engineering Firm",
+      "salary": 52839,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Chimney Sweep",
+      "companyType": "Small Business",
+      "salary": 17833,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Chiropractor",
+      "companyType": "Medical Office",
+      "salary": 36178,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Computer Programmer",
+      "companyType": "Corporate",
+      "salary": 39531,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Construction Worker",
+      "companyType": "Small Business",
+      "salary": 20933,
+      "minAge": 16,
+      "weight": 5
+    },
+    {
+      "name": "Database Administrator",
+      "companyType": "Corporate",
+      "salary": 40172,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Dental Hygienist",
+      "companyType": "Dental Office",
+      "salary": 61250,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Dentist",
+      "companyType": "Dental Office",
+      "salary": 118789,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Detective",
+      "companyType": "Police Department",
+      "salary": 38260,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Driver",
+      "companyType": "Ride Sharing App",
+      "salary": 25000,
+      "minAge": 16,
+      "weight": 5
+    },
+    {
+      "name": "Electrician",
+      "companyType": "Small Business",
+      "salary": 29701,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Environmental Scientist",
+      "companyType": "Engineering Firm",
+      "salary": 37431,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Factory Worker",
+      "companyType": "Corporate",
+      "salary": 19839,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Family Physician",
+      "companyType": "Hospital",
+      "salary": 100350,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Farmer",
+      "companyType": "Farm",
+      "salary": 20176,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Fast Food Worker",
+      "companyType": "Fast Food",
+      "salary": 15189,
+      "minAge": 16,
+      "weight": 5
+    },
+    {
+      "name": "Financial Advisor",
+      "companyType": "Bank",
+      "salary": 33632,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Financial Analyst",
+      "companyType": "Corporate",
+      "salary": 43890,
+      "minAge": 16,
+      "weight": 5
+    },
+    {
+      "name": "Firefighter",
+      "companyType": "Fire Department",
+      "salary": 37834,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Fisherman",
+      "companyType": "Fishery",
+      "salary": 16393,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Flight Attendant",
+      "companyType": "Airline",
+      "salary": 21277,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Forensic Scientist",
+      "companyType": "Police Department",
+      "salary": 30264,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Graphic Designer",
+      "companyType": "Small Business",
+      "salary": 30376,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Grocer",
+      "companyType": "Grocery Store",
+      "salary": 16445,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "History Teacher",
+      "companyType": "School District",
+      "salary": 29026,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Insurance Agent",
+      "companyType": "Insurance Agency",
+      "salary": 23286,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Interior Designer",
+      "companyType": "Small Business",
+      "salary": 32848,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Internal Auditor",
+      "companyType": "Corporate",
+      "salary": 51173,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Judge",
+      "companyType": "Municipal",
+      "salary": 154484,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Lawyer",
+      "companyType": "Law Firm",
+      "salary": 49894,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Librarian",
+      "companyType": "Library",
+      "salary": 28419,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Lobbyist",
+      "companyType": "Corporate",
+      "salary": 42646,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Lumberjack",
+      "companyType": "Small Business",
+      "salary": 20258,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Mail Carrier",
+      "companyType": "Municipal",
+      "salary": 30877,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Marine Biologist",
+      "companyType": "Small Business",
+      "salary": 29600,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Marriage Counselor",
+      "companyType": "Mental Health Center",
+      "salary": 39518,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Massage Therapist",
+      "companyType": "Salon",
+      "salary": 22942,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Mechanical Engineer",
+      "companyType": "Engineering Firm",
+      "salary": 51369,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Microbiologist",
+      "companyType": "Engineering Firm",
+      "salary": 36934,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Midwife",
+      "companyType": "Hospital",
+      "salary": 77822,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Mortician",
+      "companyType": "Mortuary",
+      "salary": 29760,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Museum Worker",
+      "companyType": "Museum",
+      "salary": 28851,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Nurse",
+      "companyType": "Hospital",
+      "salary": 47066,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Operations Analyst",
+      "companyType": "Corporate",
+      "salary": 43346,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Painter",
+      "companyType": "Small Business",
+      "salary": 23497,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Paralegal",
+      "companyType": "Law Firm",
+      "salary": 29594,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Pet Groomer",
+      "companyType": "Veterinary Clinic",
+      "salary": 18408,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Pharmacist",
+      "companyType": "Medical Office",
+      "salary": 74945,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Physical Therapist",
+      "companyType": "Medical Office",
+      "salary": 57565,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Pilot",
+      "companyType": "Airline",
+      "salary": 41374,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Plumber",
+      "companyType": "Small Business",
+      "salary": 29358,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Police Officer",
+      "companyType": "Police Department",
+      "salary": 31533,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Policy Analyst",
+      "companyType": "Municipal",
+      "salary": 39607,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Psychiatrist",
+      "companyType": "Mental Health Center",
+      "salary": 99370,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Real Estate Agent",
+      "companyType": "Real Estate",
+      "salary": 24402,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Receptionist",
+      "companyType": "Corporate",
+      "salary": 19530,
+      "minAge": 16,
+      "weight": 5
+    },
+    {
+      "name": "Retail Salesperson",
+      "companyType": "Retailer",
+      "salary": 15758,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "School Administrator",
+      "companyType": "School District",
+      "salary": 41158,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "School Psychologist",
+      "companyType": "School District",
+      "salary": 34804,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "School Teacher",
+      "companyType": "School District",
+      "salary": 38180,
+      "minAge": 16,
+      "weight": 5
+    },
+    {
+      "name": "Security Guard",
+      "companyType": "Small Business",
+      "salary": 18641,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Stockbroker",
+      "companyType": "Stock Exchange",
+      "salary": 39056,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Tailor",
+      "companyType": "Small Business",
+      "salary": 23348,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Technical Support Specialist",
+      "companyType": "Corporate",
+      "salary": 27122,
+      "minAge": 16,
+      "weight": 5
+    },
+    {
+      "name": "Telemarketer",
+      "companyType": "Corporate",
+      "salary": 18190,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Translator",
+      "companyType": "Corporate",
+      "salary": 25370,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Travel Agent",
+      "companyType": "Travel Agency",
+      "salary": 24303,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Trucker",
+      "companyType": "Trucking Company",
+      "salary": 31418,
+      "minAge": 16,
+      "weight": 5
+    },
+    {
+      "name": "Veterinarian",
+      "companyType": "Veterinary Clinic",
+      "salary": 52782,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Waste Collector",
+      "companyType": "Municipal",
+      "salary": 20329,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Professor",
+      "companyType": "University District",
+      "salary": 61420,
+      "minAge": 18,
+      "weight": 2
+    },
+    {
+      "name": "College Dean",
+      "companyType": "University District",
+      "salary": 151420,
+      "minAge": 18,
+      "weight": 1
+    },
+    {
+      "name": "Fashion Designer",
+      "companyType": "Retailer",
+      "salary": 32500,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Jeweler",
+      "companyType": "Jeweler",
+      "salary": 26200,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Carpenter",
+      "companyType": "Small Business",
+      "salary": 35820,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Casino Worker",
+      "companyType": "Casino",
+      "salary": 21842,
+      "minAge": 21,
+      "weight": 1
+    },
+    {
+      "name": "Private Investigator",
+      "companyType": "Small Business",
+      "salary": 30390,
+      "minAge": 18,
+      "weight": 1
+    },
+    {
+      "name": "Baker",
+      "companyType": "Small Business",
+      "salary": 27636,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Horse Jockey",
+      "companyType": "Horse Track",
+      "salary": 14941,
+      "minAge": 18,
+      "weight": 1
+    },
+    {
+      "name": "Wedding Planner",
+      "companyType": "Small Business",
+      "salary": 33101,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Nail Technician",
+      "companyType": "Salon",
+      "salary": 14831,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Bartender",
+      "companyType": "Restaurant",
+      "salary": 17470,
+      "minAge": 18,
+      "weight": 5
+    },
+    {
+      "name": "Bouncer",
+      "companyType": "Nightclub",
+      "salary": 17388,
+      "minAge": 18,
+      "weight": 2
+    },
+    {
+      "name": "Cameraman",
+      "companyType": "Television",
+      "salary": 53832,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Cat Behavior Consultant",
+      "companyType": "Small Business",
+      "salary": 17831,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Choreographer",
+      "companyType": "Dance Company",
+      "salary": 20759,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Circus Performer",
+      "companyType": "Circus",
+      "salary": 23449,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Clown",
+      "companyType": "Circus",
+      "salary": 16271,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Crab Fisherman",
+      "companyType": "Fishery",
+      "salary": 31732,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Dance Instructor",
+      "companyType": "Dance Company",
+      "salary": 22764,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Dancer",
+      "companyType": "Film Studio",
+      "salary": 15337,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Editor",
+      "companyType": "Newspaper",
+      "salary": 58770,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Escort",
+      "companyType": "Escort Agency",
+      "salary": 18730,
+      "minAge": 18,
+      "weight": 1
+    },
+    {
+      "name": "Exorcist",
+      "companyType": "Church",
+      "salary": 18656,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Exotic Dancer",
+      "companyType": "Strip Club",
+      "salary": 19950,
+      "minAge": 18,
+      "weight": 2
+    },
+    {
+      "name": "Hairdresser",
+      "companyType": "Salon",
+      "salary": 17358,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Housekeeper",
+      "companyType": "Small Business",
+      "salary": 16742,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Janitor",
+      "companyType": "Corporate",
+      "salary": 17172,
+      "minAge": 16,
+      "weight": 4
+    },
+    {
+      "name": "Landscaper",
+      "companyType": "Small Business",
+      "salary": 18174,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Makeup Artist",
+      "companyType": "Film Studio",
+      "salary": 20597,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Male Stripper",
+      "companyType": "Strip Club",
+      "salary": 19365,
+      "minAge": 18,
+      "weight": 1
+    },
+    {
+      "name": "Moonshiner",
+      "companyType": "Small Business",
+      "salary": 11493,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Music Composer",
+      "companyType": "Record Label",
+      "salary": 20134,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Nude Art Model",
+      "companyType": "School District",
+      "salary": 25458,
+      "minAge": 18,
+      "weight": 1
+    },
+    {
+      "name": "Photographer",
+      "companyType": "Newspaper",
+      "salary": 30000,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Porn Set Janitor",
+      "companyType": "Adult Film Studio",
+      "salary": 17172,
+      "minAge": 18,
+      "weight": 1
+    },
+    {
+      "name": "Pornography Historian",
+      "companyType": "Adult Film Studio",
+      "salary": 18418,
+      "minAge": 18,
+      "weight": 1
+    },
+    {
+      "name": "Porta Potty Pumper",
+      "companyType": "Small Business",
+      "salary": 31391,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Puppeteer",
+      "companyType": "Film Studio",
+      "salary": 19371,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Restaurant Worker",
+      "companyType": "Restaurant",
+      "salary": 9299,
+      "minAge": 16,
+      "weight": 5
+    },
+    {
+      "name": "Roadkill Remover",
+      "companyType": "Small Business",
+      "salary": 32482,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Sculptor",
+      "companyType": "Municipal",
+      "salary": 22192,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Stuntman",
+      "companyType": "Film Studio",
+      "salary": 24482,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Water Slide Tester",
+      "companyType": "Small Business",
+      "salary": 17784,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Worm Picker",
+      "companyType": "Small Business",
+      "salary": 16842,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Blacksmith",
+      "companyType": "Small Business",
+      "salary": 34070,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Plastic Surgeon",
+      "companyType": "Hospital",
+      "salary": 112571,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Set Designer",
+      "companyType": "Film Studio",
+      "salary": 24376,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Professional Mourner",
+      "companyType": "Mortuary",
+      "salary": 18376,
+      "minAge": 16,
+      "weight": 1
+    },
+    {
+      "name": "Psychic",
+      "companyType": "Psychic Parlor",
+      "salary": 17172,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Bill Collector",
+      "companyType": "Small Business",
+      "salary": 36934,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "Personal Trainer",
+      "companyType": "Small Business",
+      "salary": 39923,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Sommelier",
+      "companyType": "Restaurant",
+      "salary": 28851,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Secret Shopper",
+      "companyType": "Corporate",
+      "salary": 9299,
+      "minAge": 16,
+      "weight": 2
+    },
+    {
+      "name": "PR Manager",
+      "companyType": "Corporate",
+      "salary": 45163,
+      "minAge": 16,
+      "weight": 3
+    },
+    {
+      "name": "Mall Cop",
+      "companyType": "Small Business",
+      "salary": 13738,
+      "minAge": 16,
+      "weight": 1
+    }
+  ],
+  "compliments": [
+    "a baller",
+    "a beast",
+    "a boss",
+    "a brilliant mind",
+    "a bubbly personality",
+    "a champion",
+    "a closer",
+    "a dark horse",
+    "a diamond in the rough",
+    "a fighter",
+    "a gem",
+    "a genius",
+    "a god",
+    "a goddess",
+    "a hustler",
+    "a jewel",
+    "a legend",
+    "a mack",
+    "a pimp",
+    "a player",
+    "a ray of sunshine",
+    "a Renaissance man",
+    "a revolutionary",
+    "a smart cookie",
+    "a stud",
+    "a treasure",
+    "a VIP",
+    "a winner",
+    "a wizard",
+    "admirable",
+    "adorable",
+    "an alpha female",
+    "an alpha male",
+    "an eager beaver",
+    "angelic",
+    "attractive",
+    "awesome",
+    "beautiful",
+    "brave",
+    "bright",
+    "brilliant",
+    "bubbly",
+    "charismatic",
+    "charming",
+    "chill",
+    "classy",
+    "clever",
+    "cool",
+    "courageous",
+    "cute",
+    "dapper",
+    "dashing",
+    "delightful",
+    "dope",
+    "elegant",
+    "elite",
+    "enlightened",
+    "fabulous",
+    "fascinating",
+    "fearless",
+    "fine",
+    "pretty fly",
+    "fly",
+    "fresh",
+    "funny",
+    "a gangsta",
+    "golden",
+    "good-looking",
+    "good-natured",
+    "gorgeous",
+    "graceful",
+    "groovy",
+    "handsome",
+    "heroic",
+    "hilarious",
+    "hip",
+    "humorous",
+    "incredible",
+    "inspiring",
+    "intelligent",
+    "intriguing",
+    "kind",
+    "larger than life",
+    "a legend",
+    "legendary",
+    "legit",
+    "lionhearted",
+    "lovely",
+    "magnetic",
+    "magnificent",
+    "marvelous",
+    "money",
+    "motivating",
+    "neat",
+    "nifty",
+    "an OG",
+    "one-of-a-kind",
+    "phenomenal",
+    "put-together",
+    "rad",
+    "radiant",
+    "savage",
+    "sharp",
+    "smooth",
+    "sophisticated",
+    "sparkling",
+    "special",
+    "spectacular",
+    "strong",
+    "stunning",
+    "stylish",
+    "suave",
+    "sweet",
+    "swell",
+    "swole",
+    "talented",
+    "terrific",
+    "the best",
+    "the GOAT",
+    "the greatest",
+    "the life of the party",
+    "the man",
+    "the top dog",
+    "tough",
+    "unique",
+    "unparalleled",
+    "unrivaled",
+    "wicked awesome",
+    "wise",
+    "wonderful",
+    "world-class",
+    "a pimp",
+    "a pimp daddy",
+    "a mack daddy",
+    "stellar",
+    "the bee's knees",
+    "a perfect 10",
+    "a visionary",
+    "the boss of it all"
+  ],
+  "insults": [
+    "a douche",
+    "a fool",
+    "a loser",
+    "a chicken head",
+    "a coward",
+    "a pansy",
+    "a jerk",
+    "a dunce",
+    "a cretin",
+    "a cow",
+    "a dipstick",
+    "a wanker",
+    "a moron",
+    "an idiot",
+    "a dimwit",
+    "a nerd",
+    "a dingbat",
+    "an imbecile",
+    "a jackass",
+    "a pig",
+    "a buffoon",
+    "a clown",
+    "a sucker",
+    "a slut",
+    "a tramp",
+    "a wench",
+    "a whore",
+    "a skank",
+    "an ass hat",
+    "a tool",
+    "a toolbag",
+    "a creep",
+    "a fatty",
+    "a hag",
+    "a bastard",
+    "a sleazeball",
+    "a hoe",
+    "a chump",
+    "a maniac",
+    "psycho",
+    "a prick",
+    "a scallywag",
+    "a bozo",
+    "a freak",
+    "an ass clown",
+    "a bitch",
+    "a little bitch",
+    "a douchebag",
+    "a tart",
+    "a twat",
+    "a pussy",
+    "ratchet",
+    "a hoochie",
+    "foolhardy",
+    "a simpleton",
+    "a dick",
+    "a dickhead",
+    "stupid",
+    "skanky",
+    "slutty",
+    "douchey",
+    "bitchy",
+    "a man whore",
+    "a douchelord",
+    "a douche nozzle",
+    "a douche canoe",
+    "a douchus maximus",
+    "an airhead",
+    "a sloot",
+    "a turdsack",
+    "a turd burglar",
+    "a floozie",
+    "a sausage jockey",
+    "a puck bunny",
+    "a hoebag",
+    "a bang hole",
+    "skeezy",
+    "a jumpoff",
+    "a biznatch",
+    "a biznitch",
+    "a jackwagon",
+    "a penis face",
+    "a schmuck",
+    "a putz",
+    "a ding-head",
+    "a bitchboy",
+    "a goblin",
+    "a goon",
+    "a no-good thug",
+    "numbnuts",
+    "a loner",
+    "a crow-toed slut",
+    "mediocre at best",
+    "a whale",
+    "a mouth-breather",
+    "a rumpleforeskin",
+    "an inbreeder",
+    "a wuss",
+    "a philistine",
+    "a psychopath",
+    "a lint licker",
+    "a dingleberry",
+    "obtuse",
+    "a bedwetter",
+    "brainless",
+    "a triple-chin",
+    "an ingrate",
+    "a peon",
+    "a pleb",
+    "a mistake",
+    "daft",
+    "a dillhole",
+    "a sausage shark",
+    "a bunghole",
+    "a twit",
+    "a weirdo",
+    "a bugger",
+    "a douchecrease",
+    "a sloppynuts",
+    "weaksauce",
+    "a snollygoster",
+    "a cumberworld",
+    "a driggle-draggle",
+    "a birdbrain",
+    "a lamebrain",
+    "a snake",
+    "a vulture",
+    "a cockalorum",
+    "a pumpkinhead",
+    "a blockhead",
+    "a nimrod",
+    "a dork",
+    "mentally defective",
+    "a wack-ass sucka",
+    "a gas factory",
+    "smelly",
+    "a weasel",
+    "an abomination to mankind",
+    "a chode mongrel",
+    "troglodyte",
+    "a pecker pilot",
+    "garlic dick",
+    "a Puritan",
+    "snagglefang",
+    "a wannabe fangster",
+    "a stake sucker",
+    "a priest lover",
+    "sour blood",
+    "corpse face",
+    "a crypt cleaner",
+    "bat brained",
+    "a gutterfang",
+    "a dick for fangs",
+    "a mosquito",
+    "micro fangs",
+    "corpse tits",
+    "a coffincel",
+    "a crucidick",
+    "nosferaturd",
+    "dust for brains",
+    "a butt sucker",
+    "a clot chugger",
+    "ghoul face",
+    "a hunter's pet",
+    "a stake rider",
+    "sewer blood",
+    "a sun lover",
+    "a corpse licker",
+    "a discount Dracula",
+    "a rotten fang",
+    "a garlic head",
+    "rosy cheeks",
+    "a werewolf lover",
+    "hunter bait",
+    "a familiar with fangs",
+    "count dickula",
+    "a dead dick",
+    "garlic nuts",
+    "a coffin thief",
+    "warm blooded",
+    "a baby fang",
+    "a crime against vampire kind",
+    "a fanged leech",
+    "corpse breath",
+    "thin blooded",
+    "a vile vamp",
+    "a sorry sucker",
+    "count doucheula",
+    "an ass stake",
+    "a C list vampire",
+    "a half turned",
+    "rear impaled",
+    "bloodless",
+    "a period pal",
+    "a tampon taker",
+    "a menstrual psycho",
+    "anemic",
+    "a wannabe Blade",
+    "an energy vampire",
+    "a coffin crasher",
+    "a nut sucker",
+    "a Scam Helsing",
+    "a crypt crawler",
+    "a scab",
+    "a festering gash"
+  ],
+  "conversations": [
+    {
+      "topic": "the importance of using a condom",
+      "audience": "Child",
+      "controversy": 1
+    },
+    {
+      "topic": "how tampons work",
+      "audience": "Child",
+      "controversy": 1
+    },
+    {
+      "topic": "the birds and the bees",
+      "audience": "Child",
+      "controversy": 1
+    },
+    {
+      "topic": "the pros and cons of birth control",
+      "audience": "Child",
+      "controversy": 3
+    },
+    {
+      "topic": "a sexting conversation <I/you> found on <his/her> phone",
+      "audience": "Child",
+      "controversy": 5
+    },
+    {
+      "topic": "how to deal with bullies at school",
+      "audience": "Child",
+      "controversy": 1
+    },
+    {
+      "topic": "what it means to be a good person",
+      "audience": "Child",
+      "controversy": 1
+    },
+    {
+      "topic": "the importance of having a good work ethic",
+      "audience": "Child",
+      "controversy": 1
+    },
+    {
+      "topic": "the importance of homework",
+      "audience": "Child",
+      "controversy": 3
+    },
+    {
+      "topic": "the importance of school",
+      "audience": "Child",
+      "controversy": 2
+    },
+    {
+      "topic": "why it is important to do chores",
+      "audience": "Child",
+      "controversy": 4
+    },
+    {
+      "topic": "how devastating drugs can be",
+      "audience": "Child",
+      "controversy": 2
+    },
+    {
+      "topic": "how to not succumb to peer pressure",
+      "audience": "Child",
+      "controversy": 1
+    },
+    {
+      "topic": "how being a good person is more important than looks",
+      "audience": "Child",
+      "controversy": 2
+    },
+    {
+      "topic": "why you don't ask a woman with a big belly if she is pregnant",
+      "audience": "Child",
+      "controversy": 1
+    },
+    {
+      "topic": "why people have different skin colors",
+      "audience": "Child",
+      "controversy": 1
+    },
+    {
+      "topic": "how to embrace different cultures",
+      "audience": "Child",
+      "controversy": 1
+    },
+    {
+      "topic": "how <he/she> should not pick <his/her> nose",
+      "audience": "Child",
+      "controversy": 1
+    },
+    {
+      "topic": "why it's never a good idea to take naked selfies",
+      "audience": "Child",
+      "controversy": 2
+    },
+    {
+      "topic": "how to wipe <his/her> butt",
+      "audience": "Child",
+      "controversy": 1
+    },
+    {
+      "topic": "the importance of changing one's underwear every day",
+      "audience": "Child",
+      "controversy": 1
+    },
+    {
+      "topic": "why it is important to save money",
+      "audience": "Child",
+      "controversy": 2
+    },
+    {
+      "topic": "good versus evil",
+      "audience": "Child",
+      "controversy": 2
+    },
+    {
+      "topic": "respecting one's elders",
+      "audience": "Child",
+      "controversy": 2
+    },
+    {
+      "topic": "the birds and the bees",
+      "audience": "Child",
+      "controversy": 2
+    },
+    {
+      "topic": "the importance of making and keeping friends",
+      "audience": "Child",
+      "controversy": 1
+    },
+    {
+      "topic": "how to avoid getting STD's",
+      "audience": "Child",
+      "controversy": 3
+    },
+    {
+      "topic": "what <I/you> will do to her boyfriend if he ever hurts her",
+      "audience": "Daughter",
+      "controversy": 4
+    },
+    {
+      "topic": "what <I/you> will do to her boyfriend if he ever touches her",
+      "audience": "Daughter",
+      "controversy": 4
+    },
+    {
+      "topic": "how boys will tell her anything to get in her pants",
+      "audience": "Daughter",
+      "controversy": 2
+    },
+    {
+      "topic": "why she should avoid a tramp stamp tattoo",
+      "audience": "Daughter",
+      "controversy": 3
+    },
+    {
+      "topic": "why to avoid the devil's threesome",
+      "audience": "Daughter",
+      "controversy": 4
+    },
+    {
+      "topic": "how there is such a thing as too much perfume",
+      "audience": "Daughter",
+      "controversy": 3
+    },
+    {
+      "topic": "why she shouldn't pee standing up",
+      "audience": "Daughter",
+      "controversy": 1
+    },
+    {
+      "topic": "all the reasons not to become a stripper",
+      "audience": "Daughter",
+      "controversy": 3
+    },
+    {
+      "topic": "all the reasons not to become a porn star",
+      "audience": "Daughter",
+      "controversy": 3
+    },
+    {
+      "topic": "how to use a tampon",
+      "audience": "Daughter",
+      "controversy": 1
+    },
+    {
+      "topic": "how to use a sanitary pads",
+      "audience": "Daughter",
+      "controversy": 1
+    },
+    {
+      "topic": "the pros and cons of tampons vs. sanitary pads",
+      "audience": "Daughter",
+      "controversy": 1
+    },
+    {
+      "topic": "how to be a proper lady",
+      "audience": "Daughter",
+      "controversy": 3
+    },
+    {
+      "topic": "faking orgasms",
+      "audience": "Lover",
+      "controversy": 5
+    },
+    {
+      "topic": "how many lovers <we/you> have had",
+      "audience": "Lover",
+      "controversy": 4
+    },
+    {
+      "topic": "<our/your> first sexual experiences",
+      "audience": "Lover",
+      "controversy": 3
+    },
+    {
+      "topic": "what <we/you> would do if the world was ending",
+      "audience": "Lover",
+      "controversy": 2
+    },
+    {
+      "topic": "<our/your> worst sexual experiences",
+      "audience": "Lover",
+      "controversy": 3
+    },
+    {
+      "topic": "<our/your> best sexual experiences",
+      "audience": "Lover",
+      "controversy": 3
+    },
+    {
+      "topic": "<our/your> celebrity crushes",
+      "audience": "Lover",
+      "controversy": 2
+    },
+    {
+      "topic": "<my/your> favorite part of <his/her> body",
+      "audience": "Lover",
+      "controversy": 2
+    },
+    {
+      "topic": "one thing <I/you> would change about <my/your> body",
+      "audience": "Lover",
+      "controversy": 1
+    },
+    {
+      "topic": "a fantasy <we/you> want to live out",
+      "audience": "Lover",
+      "controversy": 4
+    },
+    {
+      "topic": "sex toys <we/you> want to try",
+      "audience": "Lover",
+      "controversy": 3
+    },
+    {
+      "topic": "autoerotic asphyxiation",
+      "audience": "Lover",
+      "controversy": 2
+    },
+    {
+      "topic": "masturbation",
+      "audience": "Lover",
+      "controversy": 3
+    },
+    {
+      "topic": "<our/your> pet peeves",
+      "audience": "Lover",
+      "controversy": 4
+    },
+    {
+      "topic": "<our/your> first orgasms",
+      "audience": "Lover",
+      "controversy": 3
+    },
+    {
+      "topic": "what it means to be good in bed",
+      "audience": "Lover",
+      "controversy": 4
+    },
+    {
+      "topic": "whether or not <we/you> should try erectile dysfunction medication",
+      "audience": "Lover",
+      "controversy": 5
+    },
+    {
+      "topic": "how <he/she> farted in <his/her> sleep last night",
+      "audience": "Lover",
+      "controversy": 4
+    },
+    {
+      "topic": "skeletons in the closet",
+      "audience": "Lover",
+      "controversy": 5
+    },
+    {
+      "topic": "<our/your> bondage fantasies",
+      "audience": "Lover",
+      "controversy": 4
+    },
+    {
+      "topic": "that one time at band camp",
+      "audience": "Lover",
+      "controversy": 2
+    },
+    {
+      "topic": "<our/your> favorite positions",
+      "audience": "Lover",
+      "controversy": 2
+    },
+    {
+      "topic": "how to squeeze the toothpaste correctly",
+      "audience": "Lover",
+      "controversy": 4
+    },
+    {
+      "topic": "whose turn it is to do the dishes",
+      "audience": "Lover",
+      "controversy": 4
+    },
+    {
+      "topic": "the pros and cons of becoming swingers",
+      "audience": "Lover",
+      "controversy": 5
+    },
+    {
+      "topic": "sloppy seconds experiences",
+      "audience": "Lover",
+      "controversy": 4
+    },
+    {
+      "topic": "the giant dildo <I/you> found in <his/her> underwear drawer",
+      "audience": "Lover",
+      "controversy": 5
+    },
+    {
+      "topic": "why <he/she> was mean to <me/you> in <my/your> dream",
+      "audience": "Lover",
+      "controversy": 4
+    },
+    {
+      "topic": "<our/your> deepest darkest secrets",
+      "audience": "Lover",
+      "controversy": 5
+    },
+    {
+      "topic": "the birds and the bees",
+      "audience": "Parent",
+      "controversy": 2
+    },
+    {
+      "topic": "what 'douche' means",
+      "audience": "Parent",
+      "controversy": 2
+    },
+    {
+      "topic": "what 'dildo' means",
+      "audience": "Parent",
+      "controversy": 2
+    },
+    {
+      "topic": "what a 'cameltoe' is",
+      "audience": "Parent",
+      "controversy": 2
+    },
+    {
+      "topic": "whether or not the Easter Bunny is real",
+      "audience": "Parent",
+      "controversy": 3
+    },
+    {
+      "topic": "whether or not the Tooth Fairy is real",
+      "audience": "Parent",
+      "controversy": 3
+    },
+    {
+      "topic": "whether or not Santa Claus is real",
+      "audience": "Parent",
+      "controversy": 3
+    },
+    {
+      "topic": "how tampons work",
+      "audience": "Parent",
+      "controversy": 1
+    },
+    {
+      "topic": "the weird sounds mommy makes at night",
+      "audience": "Parents",
+      "controversy": 1
+    },
+    {
+      "topic": "why mommy keeps saying 'oh god' at night",
+      "audience": "Parents",
+      "controversy": 1
+    },
+    {
+      "topic": "why sometimes at night <I/you> can hear daddy asking mommy, 'Who's your daddy?'",
+      "audience": "Parents",
+      "controversy": 1
+    },
+    {
+      "topic": "leaving the toilet seat up",
+      "audience": "Son",
+      "controversy": 3
+    },
+    {
+      "topic": "using tissue instead of his socks for cleanup",
+      "audience": "Son",
+      "controversy": 5
+    },
+    {
+      "topic": "finding <my/your> expensive bottle of lotion under his bed",
+      "audience": "Son",
+      "controversy": 5
+    },
+    {
+      "topic": "finding his porn collection under his bed",
+      "audience": "Son",
+      "controversy": 5
+    },
+    {
+      "topic": "the porn I found on his computer",
+      "audience": "Son",
+      "controversy": 5
+    },
+    {
+      "topic": "assuming girls are not on birth control even when they say they are",
+      "audience": "Son",
+      "controversy": 2
+    },
+    {
+      "topic": "not touching himself in public",
+      "audience": "Son",
+      "controversy": 2
+    },
+    {
+      "topic": "how to execute the 'boner tuck' manuever",
+      "audience": "Son",
+      "controversy": 2
+    },
+    {
+      "topic": "how there is such a thing as too much cologne",
+      "audience": "Son",
+      "controversy": 2
+    },
+    {
+      "topic": "why he may not want to pee sitting down",
+      "audience": "Son",
+      "controversy": 1
+    },
+    {
+      "topic": "how to treat women well",
+      "audience": "Son",
+      "controversy": 1
+    },
+    {
+      "topic": "what it means to be a good man",
+      "audience": "Son",
+      "controversy": 1
+    },
+    {
+      "topic": "how Pink Floyd is better than Led Zeppelin",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "the best time of day to play BitLife",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the meaning of life",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "what a perfect day would look like",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the hierarchy of licorice",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "why Michael Jordan was better than LeBron James",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "why Messi is better than Ronaldo",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "why <musician> is better than <musician2>",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "which politician should be elected",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "whether or not a hot dog qualifies as a sandwich",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether or not pineapple belongs on pizza",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "why dogs are better than cats",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "why cats are better than dogs",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether or not dogs belong in restaurants",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether or not clowns are scary",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "who the best superhero is",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "which super power <we/you> would most like to have",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "whether or not it's okay to pee while taking a shower",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "how 'literally' sometimes means 'figuratively'",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "whether or not Adam Sandler is funny",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "whether or not duck faces are sexy",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "quantum physics",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the space-time continuum",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "<our/your> favorite twerkers",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether or not DC is better than Marvel",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "whether or not aliens exist",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "whether or not ghosts exist",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "whether or not the hokie pokie is what it's all about",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "<my/your> imaginary friend",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "if it is better to wipe from the front or back",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "<our/your> most embarrassing moments",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the dark net",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "cryptocurrencies",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the Big Bang theory",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "<our/your> celebrity doppelgangers",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "<our/your> least favorite chore",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "whether or not humans are inherently good or bad",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "what happens when we die",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "what is real",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "the death penalty",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "the use of stem cell research",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "cloning",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "which is better, Star Wars or Star Trek",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "which is better, Lord of the Rings or Harry Potter",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "which is better, Hunger Games or Twilight",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "the pros and cons of technology",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "the pros and cons of social media",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "cellular device addiction",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "alternative sources of energy",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether or not doctors are responsible for the heroin epidemic",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "whether or not the electoral college is necessary",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "who is better, the Red Sox or Yankees",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "whether or not students should wear uniforms",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "whether or not marijuana should be legalized on a national level",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "how the value of artwork is determined",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "whether or not it is okay to regift a gift",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "whether or not <we/you> would rather live on Mars or the the bottom of the ocean",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "<our/your> biggest failures",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "<our/your> greatest achievements",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "which animal <we/you> would like to be",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "whether or not <we/you> would rather have overly large hands or small feet",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "<our/your> go-to karaoke song",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "which is better, tacos or burritos",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "which is better, pizza or cheeseburgers",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "which would be worse, having an annoying voice or snorting every time you laugh",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "which <we/you> would rather be, a miserable genius or a happy moron",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "the best Candywriter game",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "<our/your> favorite movie character",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "<our/your> favorite food",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "which instrument is the best",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "the weirdest food combinations",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the best place to have sex",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "<our/your> most prized possession",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "<our/your> least favorite word",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "which musician has the worst fan base",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the best gift <we/you> ever received",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the worst gift <we/you> ever received",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "whether or not prostitution should be legal",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "how to deal with grammar nazis",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "how to deal with poor grammar",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "whether or not a person has to be self-absorbed to take selfies",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "whether or not pornography should be illegal",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "whether or not <we/you> would get naked at a nude beach",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "whether or not Die Hard is a Christmas movie",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "who would win in a fight between Superman and Batman",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "who would win in a fight between Beyonce and Nicki Minaj",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "who would win in a fight between Mark Zuckerberg and Elon Musk",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "who would have won in a fight between Bill Gates and Steve Jobs",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "who would have won in a fight between Muhammad Ali and Mike Tyson",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "who would win in a fight between Martha Stewart and Oprah Winfrey",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "who would win in a fight between Taylor Swift and Adele",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "what is the right way to hang a toilet paper roll",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether or not cereal is soup",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "how deep a pan must be to be considered a pot",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "whether or not a person is naked if wearing socks",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether or not a grown man should wear a jersey with another man's name on it",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether or not green flowers exist",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether or not frosting a muffin makes it a cupcake",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "which is better, ebooks or paperbacks",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "which is better, potato chips or french fries",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "what the BitLife devs should add next",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "who makes the best BitLife videos on YouTube",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how BitLife is the hottest game of 2020",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how it's possible to add custom people to BitLife",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the secret ribbons on BitLife",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "what <we/you> want for Christmas",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "whether <we/you> have been naughty or nice this year",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "<our/your> plans for Christmas",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "<our/your> plans for New Years",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "<our/your> New Year's Resolutions",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "<our/your> favorite Christmas song",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "<our/your> favorite Christmas movie",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "whether or not <we/you> will have a white Christmas",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "why people are nicer around Christmas time",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "whose Christmas tree is bigger",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "which are better, real or artificial Christmas trees",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "which is better, giving or receiving Christmas presents",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "who <we/you> want to kiss at midnight on New Year's Eve",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "what kwanza is anyway",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "who will spin the dreidel first",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "who gets to light the menorah",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "<our/your> best Christmas memories",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "<our/your> best Hanukkah memories",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "<our/your> best New Year's Eve memories",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the best Christmas gift <we/you> ever received",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the worst Christmas gift <we/you> ever received",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the best Hanukkah gift <we/you> ever received",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the worst Hanukkah gift <we/you> ever received",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "whether or not Santa's elves are slaves",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "whether or not Christmas music should be played before Thanksgiving",
+      "audience": "",
+      "controversy": 5
+    },
+    {
+      "topic": "whether or not Chrismas decorations should go up before Thanksgiving",
+      "audience": "",
+      "controversy": 5
+    },
+    {
+      "topic": "would Jesus have a Christmas tree today",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "<our/your> worst dates",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "the celebrity <we/you> would most like to meet",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "what <we/you> would do if <we/you> won the lottery",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "the craziest natural disasters that <we/you> have experienced",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "<our/your> spirit animals",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the best movie villian of all time",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "which season is the best",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "what is the best TV show of all time",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "which is the best breed of dog",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "which is the best ice cream flavor",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "which movie is the most overrated",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "why the sky is blue",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "where the water goes when the toilet gets flushed",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "where babies come from",
+      "audience": "Parent",
+      "controversy": 2
+    },
+    {
+      "topic": "why swear words exist if <we/you> are not supposed to say them",
+      "audience": "Parent",
+      "controversy": 4
+    },
+    {
+      "topic": "the <pea/Lego/marble/crayon/raisin/coin/pebble/rock/stone/bead/bean> <I/you> stuck up <my/your> nose",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "how yummy mommy's boobie is",
+      "audience": "Parents",
+      "controversy": 2
+    },
+    {
+      "topic": "whether or not Qatar deserves to host the next World Cup",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "who would win in a fight between Steph Curry and Drake",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "whether or not Japan deserves to host the next Summer Olympics",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether or not China deserves to host the next Winter Olympics",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "what time of day <our/your> social battery typically dies",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how <I/you> want to get an iTunes gift card to use to become a Bitizen",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the time <I/you> watched a stripper with a broken leg do a pole dance",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "the best movie <we/you> saw so far this year",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "why only morons throw trash out the car window",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether or not <McDonald's/Burger King/Taco Bell> qualifies as real food",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "sticking it to the man",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "why needles are so scary",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "the value of Cooper's ligaments in a world with gravity",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the miracle work of Bartholin glands",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "who will win the NBA Finals",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "who will win the World Series",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "who will win the Super Bowl",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "who will win the Stanley Cup",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "who will win the Indy 500",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "who will win the Daytona 500",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "who will win the Monaco Grand Prix",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "who will win the Kentucky Derby",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "who will win the Tour de France",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "who will win the World Cup",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "who will win the U.S. Open",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "who will be the next boxing champion",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "who will be the next UFC champion",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "who will win a championship at Wimbledon",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "who will win the Masters",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "Frida Kahlo's mustache",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "taxation in Afghanistan",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "Angelina Jolie's lips",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "Taylor Swift's legs",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "Blake Lively's legs",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "Jennifer Aniston's hair",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "Cindy Crawford's mole",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "Rihanna's legs",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "Nicki Minaj's trunk, and what kind of junk may or may not be within",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "Mila Kunis's eyes",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "Hulk Hogan's 24-inch pythons",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "Harry Styles's hair",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "Shakira's hips",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "Hillary Clinton's cankles",
+      "audience": "",
+      "controversy": 5
+    },
+    {
+      "topic": "the average intelligence of people who enjoy watching <The Bachelor/The Bachelorette/Keeping Up with the Kardashians/The Real Housewives/Jersey Shore/Duck Dynasty/Pawn Stars/Alaskan Bush People>",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "presidential <blunders/tweets/lies/miscalculations/failures/flaws/miscues/mismanagement/absurdity>",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "how hoodlums are the bane of <our/your> existence",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "how everyone needs to stay off of <my/your> damn lawn",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "the superficial, narcissistic nature of selfies",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "the superficial, narcissistic nature of social media",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "kids today, and how disappointed <we/you> are in them",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how things were better back in <our/your> day",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "<our/your> annual colonoscopies",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how it's a felony to sell children in Florida",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how cannibalism is illegal in Idaho",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how it's illegal to steal someone's crawfish in Louisiana",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how it's illegal to dance to the Star Spangled Banner in Massachusetts",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how it's illegal for a person with a venereal disease to get married in Nebraska",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how it's illegal to wrestle a bear in Oklahoma",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how it's illegal to work or dance on Sundays in South Carolina",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "how it's illegal to hold a fish suspiciously in the United Kingdom",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "why British people are so judgmental about American English",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "how it's illegal to chew gum in Singapore",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how it's illegal to be drunk on a cow in Scotland",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how it's illegal to hike naked in Switzerland",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how it's illegal to drive a dirty car in Russia",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how it's illegal in France to drive without a breathalyzer in your car",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how it's illegal to masturbate in Indonesia",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how it's illegal to marry your cousin in Utah, unless both people are over 65 years old, of course",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how it's illegal to go commando in Thailand",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how scary the toilet is when it gets flushed",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "how lighting farts on fire is the best thing in the world",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "how much <I/you> hate vegetables",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "who would win in a fight between <musician> and <musician2>",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "how grammar Nazis fail to understand the complex, dynamic nature of the English language, and how they can only see things from their elitist, ethnocentric point of view",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "necessary characteristics of a top notch crotch",
+      "audience": "",
+      "controversy": 4
+    },
+    {
+      "topic": "why daddy has so many balloons in his underwear drawer",
+      "audience": "Parents",
+      "controversy": 2
+    },
+    {
+      "topic": "why mommy has a plastic <willy/ding dong/wiener/pee-pee/wee-wee> in her underwear drawer",
+      "audience": "Parents",
+      "controversy": 2
+    },
+    {
+      "topic": "the best brands of adult diapers",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "the best types of hard candy",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "theories as to why young people don't appreciate just how great hard candy is",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "the best brands of hearing aids",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "the best brands of canes",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "how something as awesome as black licorice ever became so unpopular",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "what <we/you> would like to do to people who walk on the lawn",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "how they don't make 'em like they used to",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "how building a fort is the best thing in the world",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how much <we/you> have come to love doing nothing on the weekend",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "how much <we/you> appreciate staying in on a Saturday night",
+      "audience": "",
+      "controversy": 1
+    },
+    {
+      "topic": "the best products for dying gray hairs",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "the best cars for a midlife crisis",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether <we/you> would rather have a golden voice or a silver tongue",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether <we/you> would rather lose <our/your> hearing or vision",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether <we/you> would rather be able to detect any lie <we/you> hear or get away with any lie <we/you> tell",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "whether <we/you> would rather live without music or television",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "the size of Djibouti",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "the handcuffs <I/you> found in <mommy's/daddy's> drawer, and why <I/you> never get to play with them",
+      "audience": "Parents",
+      "controversy": 2
+    },
+    {
+      "topic": "the time <I/you> got turned on by a mannequin",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "why mannequins often have erect nipples",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "retirement strategies",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "investment options",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "whether or not it is okay to dye <our/your> gray pubes",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "<our/your> <nose/ear> hair",
+      "audience": "",
+      "controversy": 2
+    },
+    {
+      "topic": "how some people still actually believe that OJ was innocent",
+      "audience": "",
+      "controversy": 3
+    },
+    {
+      "topic": "what color <we/you> should dye <our/your> gray pubes",
+      "audience": "",
+      "controversy": 3
+    }
+  ],
+  "siblingArguments": [
+    "the idea of her hooking up with <lover>",
+    "the idea of him hooking up with <lover>",
+    "<him/her> calling <lover> <insult>",
+    "<him/her> telling <lover> that <I/you> used to wet the bed",
+    "<him/her> telling <lover> about the time that <I/you> crapped <my/your> pants",
+    "<him/her> telling <lover> about the time that <I/you> bled through <my/your> pants on <my/your> period",
+    "<him/her> telling <lover> about the time that <I/you> peed <my/your> pants",
+    "<him/her> telling <lover> about the time that <I/you> farted at the dinner table",
+    "<him/her> telling <lover> about the time that <I/you> farted in church",
+    "<him/her> telling <lover> about the time that <I/you> got <my/your> ball sack stuck in the zipper",
+    "<him/her> telling <lover> about the time that <I/you> got caught making love to the cherry pie",
+    "<him/her> telling <lover> about the time that <I/you> got caught making love to the family massager",
+    "<him/her> telling <lover> about how <I/you> never came out of the bathroom after the family got a detachable shower head",
+    "<him/her> telling <lover> about the time that <I/you> mistakenly superglued <my/your> hand to <my/your> penis",
+    "<him/her> telling <lover> about <my/your> colon cleanse gone wrong",
+    "<him/her> telling <lover> about how <I/you> often fart when <I/you> sneeze",
+    "<him/her> telling <lover> about the time that <he/she> caught <me/you> masturbating to anime",
+    "<him/her> telling <lover> about the time that <he/she> found <my/your> porn collection",
+    "her flirting with <lover>",
+    "who has a hotter significant other",
+    "who has a hotter significant other",
+    "which one of <us/you> <our/your> parents love more",
+    "whose turn it is to use the family iPad",
+    "why <he/she> told <our/your> parents about <my/your> tramp stamp",
+    "why <he/she> told <our/your> parents about <my/your> belly button piercing",
+    "why <he/she> told <our/your> parents about <my/your> nipple piercings",
+    "which one of <us/you> the <pet-type> loves more",
+    "whose turn it is to play with the <pet-type>",
+    "whose turn it is to feed the <pet-type>",
+    "<me/you> telling <sibling-spouse> that <he/she> used to wet the bed",
+    "<me/you> telling <sibling-spouse> about the time that <he/she> crapped <his/her> pants",
+    "<me/you> telling <sibling-spouse> about the time that she bled through her pants",
+    "<me/you> telling <sibling-spouse> about the time that <he/she> peed <his/her> pants",
+    "<me/you> telling <sibling-spouse> about the time that <he/she> farted at the dinner table",
+    "<me/you> telling <sibling-spouse> about the time that <he/she> farted in church",
+    "<me/you> telling <sibling-spouse> about the time that he got his ball sack stuck in the zipper",
+    "<me/you> telling <sibling-spouse> about the time that he got caught making love to the cherry pie",
+    "<me/you> telling <sibling-spouse> about the time that she got caught making love to the family massager",
+    "<me/you> telling <sibling-spouse> about how she never came out of the bathroom after the family got a detachable shower head",
+    "<me/you> telling <sibling-spouse> about the time that he mistakenly superglued his hand to his penis",
+    "<me/you> telling <sibling-spouse> about <his/her> colon cleanse gone wrong",
+    "<me/you> telling <sibling-spouse> about how <he/she> often farts when <he/she> sneezes",
+    "<me/you> telling <sibling-spouse> about the time that <I/you> caught <him/her> masturbating to anime",
+    "him hooking up with <my/your> friends",
+    "her hooking up with <my/your> friends",
+    "which one of <us/you> is a better student",
+    "<our/your> parents' inheritance",
+    "who ate the last cookie",
+    "which one of <us/you> has better hair",
+    "which one of <us/you> has the best boobs",
+    "which one of <us/you> has a bigger butt",
+    "who's getting the top bunk when visiting <our/your> cousin's cabin",
+    "who should have the bigger room",
+    "which one of <us/you> is smarter",
+    "which one of <us/you> is better looking",
+    "which one of <us/you> is stronger",
+    "which one of <us/you> is a better singer",
+    "which one of <us/you> is a better athlete",
+    "who a certain toy belongs to",
+    "who gets to sit in the front seat",
+    "who got the better present",
+    "whose turn it is to play with the iPad",
+    "which one of <us/you> is a better artist",
+    "whose room is cleaner",
+    "whose turn it is to use the computer",
+    "whose turn it is to use the TV",
+    "whose turn it is to play BitLife on the family iPad",
+    "whose turn it is to use the bathroom",
+    "who started it",
+    "the best color",
+    "who is a faster runner",
+    "who is a faster swimmer",
+    "who gets to go first",
+    "which show <we/you> will watch",
+    "why <he/she> went into <my/your> room",
+    "why <he/she> used <my/your> toy",
+    "why <he/she> wore <my/your> clothes",
+    "<him/her> not sharing <his/her> candy with <me/you>",
+    "whether or not <he/she> used <my/your> sex swing",
+    "whether or not <I/you> used <his/her> sex swing",
+    "whether or not <he/she> had sex on <my/your> bed",
+    "whether or not <I/you> had sex on <his/her> bed",
+    "whether or not she used <my/your> sex toy",
+    "whether or not he used <my/your> blow up sex doll",
+    "whether or not <he/she> took my condoms",
+    "her flirting with <my/your> friends",
+    "him flirting with <my/your> friends",
+    "which one of <us/you> is sluttier",
+    "which one of <us/you> is more of a ladies man",
+    "whose farts smell worse",
+    "which one of <us/you> has bigger balls",
+    "which one of <us/you> has a bigger schlong",
+    "which one of <us/you> has bigger boobs",
+    "whose biceps are bigger",
+    "which one of <us/you> has had sex with more guys",
+    "which one of <us/you> has had sex with more girls",
+    "why <he/she> sold <my/your> toy online",
+    "why <I/you> sold <his/her> toy online",
+    "why <I/you> created a profile for <him/her> on an online dating app",
+    "why <he/she> created a profile for <me/you> on an online dating app",
+    "who is better at BitLife",
+    "which is the best Candywriter game",
+    "who looks younger",
+    "who looks older",
+    "whether or not <he/she> borrowed <my/your> lube",
+    "whether or not <I/you> borrowed <his/her> lube",
+    "whether or not <he/she> borrowed <my/your> penis pump",
+    "whether or not <I/you> borrowed <his/her> penis pump",
+    "<his/her> snoring",
+    "<my/your> snoring",
+    "who is better, <musician> or <musician2>",
+    "<his/her> noisy eating",
+    "<him/her> eating with <his/her> mouth open",
+    "the money <I/you> owe <him/her>",
+    "the money <he/she> owes <me/you>",
+    "whose turn it is to take out the trash",
+    "which is better, tampons or pads",
+    "the guy <we/you> both have a crush on",
+    "the girl <we/you> both have a crush on",
+    "who is more successful",
+    "how <his/her> masturbation session woke <me/you> up last night",
+    "how <my/your> masturbation woke <him/her> up last night",
+    "how <I/you> always leave the toilet seat up",
+    "how he always leaves the toilet seat up",
+    "how she borrowed <my/your> clitoral pump",
+    "how she borrowed <my/your> nipple clamps",
+    "how she borrowed <my/your> crotchless panties",
+    "how she borrowed <my/your> earrings",
+    "how she borrowed <my/your> shoes",
+    "how she borrowed <my/your> dress",
+    "whether or not <he/she> has been snooping in <my/your> room",
+    "whether or not <I/you> have been snooping in <his/her> room",
+    "who is skinnier",
+    "who is fatter",
+    "how <he/she> borrowed and used <my/your> ball gag",
+    "whether or not he used <my/your> fleshlight",
+    "how he used up all <my/your> lotion",
+    "who the hottest boy in school is",
+    "who the hottest girl in school is",
+    "which color is the prettiest",
+    "which flowers are the best",
+    "how <I/you> ate <his/her> leftovers",
+    "how <he/she> ate <my/your> leftovers",
+    "whose gifts are better",
+    "why <I/you> used <his/her> phone",
+    "why <he/she> used <my/your> phone",
+    "who is more wrinkly",
+    "whose turn it is to cook",
+    "whose boobs are saggier",
+    "who is more bald",
+    "who exaggerates more",
+    "who has better hearing",
+    "who has better vision",
+    "who can throw a ball further",
+    "who can jump higher",
+    "who has a better memory",
+    "who is a better cook",
+    "who is better at karate chops",
+    "who can handle spicier food",
+    "how he took the rest of <my/your> penis enhancement pills",
+    "how <he/she> read <my/your> diary",
+    "how <I/you> read <his/her> diary",
+    "how <he/she> used up all the hot water",
+    "how <I/you> used up all the hot water",
+    "how <he/she> used <my/your> razor",
+    "how <I/you> used <his/her> razor",
+    "how he used <my/your> razor to shave his balls",
+    "how she used <my/your> razor to shave her cooter",
+    "how <I/you> used <his/her> razor to shave <my/your> balls",
+    "how <I/you> used <his/her> razor to shave <my/your> cooter",
+    "how he used the last melon for masturbation",
+    "how she used the last cucumber for masturbation",
+    "how <he/she> teases <me/you> about wetting the bed",
+    "how <I/you> tease <him/her> about wetting the bed",
+    "how <he/she> used to wet the bed",
+    "how <I/you> used to wet the bed",
+    "who is the worse driver",
+    "why <he/she> cheated in the poker tournament at the retirement community",
+    "why <I/you> cheated in the poker tournament at the retirement community",
+    "why <he/she> cheated at bingo at the retirement community",
+    "why <I/you> cheated at bingo at the retirement community",
+    "why <I/you> told everyone at the retirement coummunity about <his/her> STD",
+    "what he was offering the ladies at the retirement community in exchange for hard candy",
+    "why he is sleeping with all the ladies at the retirement community",
+    "why she is sleeping with all the men at the retirement community",
+    "why <he/she> is distributing <drug-illegal> at the retirement community",
+    "why he brought a prostitute to the retirement community",
+    "why he keeps asking the nurses at the retirement community to examine his pecker",
+    "why she keeps flashing all the men at the retirement community",
+    "who has better hard candy",
+    "who has more gray hair"
+  ],
+  "petBreeds": [
+    {
+      "animal": "Cat",
+      "breed": "alley cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "Siamese cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "Persian cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "Bengal cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "American shorthair cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "house cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "sphynx cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "wildcat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "bobcat"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Akita"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Alaskan malamute"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Australian shepherd"
+    },
+    {
+      "animal": "Dog",
+      "breed": "basset hound"
+    },
+    {
+      "animal": "Dog",
+      "breed": "beagle"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Bernese mountain dog"
+    },
+    {
+      "animal": "Dog",
+      "breed": "bichon frise"
+    },
+    {
+      "animal": "Dog",
+      "breed": "bloodhound"
+    },
+    {
+      "animal": "Dog",
+      "breed": "bluetick coonhound"
+    },
+    {
+      "animal": "Dog",
+      "breed": "border collie"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Boston terrier"
+    },
+    {
+      "animal": "Dog",
+      "breed": "boxer"
+    },
+    {
+      "animal": "Dog",
+      "breed": "bulldog"
+    },
+    {
+      "animal": "Dog",
+      "breed": "chihuahua"
+    },
+    {
+      "animal": "Dog",
+      "breed": "chow chow"
+    },
+    {
+      "animal": "Dog",
+      "breed": "cocker spaniel"
+    },
+    {
+      "animal": "Dog",
+      "breed": "dachshund"
+    },
+    {
+      "animal": "Dog",
+      "breed": "dalmatian"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Doberman pinscher"
+    },
+    {
+      "animal": "Dog",
+      "breed": "German shepherd"
+    },
+    {
+      "animal": "Dog",
+      "breed": "golden retriever"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Great Dane"
+    },
+    {
+      "animal": "Dog",
+      "breed": "greyhound"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Havanese"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Irish setter"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Jack Russell terrier"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Labrador retriever"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Lhasa apso"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Maltese"
+    },
+    {
+      "animal": "Dog",
+      "breed": "mastiff"
+    },
+    {
+      "animal": "Dog",
+      "breed": "miniature pinscher"
+    },
+    {
+      "animal": "Dog",
+      "breed": "papillon"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Pekingese"
+    },
+    {
+      "animal": "Dog",
+      "breed": "pit bull"
+    },
+    {
+      "animal": "Dog",
+      "breed": "pointer"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Pomeranian"
+    },
+    {
+      "animal": "Dog",
+      "breed": "pug"
+    },
+    {
+      "animal": "Dog",
+      "breed": "rottweiler"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Saint Bernard"
+    },
+    {
+      "animal": "Dog",
+      "breed": "schnauzer"
+    },
+    {
+      "animal": "Dog",
+      "breed": "shar-pei"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Shetland sheepdog"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Shiba Inu"
+    },
+    {
+      "animal": "Dog",
+      "breed": "shih tzu"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Siberian husky"
+    },
+    {
+      "animal": "Dog",
+      "breed": "poodle"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Thai ridgeback"
+    },
+    {
+      "animal": "Dog",
+      "breed": "toy poodle"
+    },
+    {
+      "animal": "Dog",
+      "breed": "vizsla"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Welsh corgi"
+    },
+    {
+      "animal": "Dog",
+      "breed": "whippet"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Yorkshire terrier"
+    },
+    {
+      "animal": "Dog",
+      "breed": "mutt"
+    },
+    {
+      "animal": "Dog",
+      "breed": "coyote"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Australian cattle dog"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Rhodesian ridgeback"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Staffordshire bull terrier"
+    },
+    {
+      "animal": "Dog",
+      "breed": "West Highland terrier"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Cavalier King Charles spaniel"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Newfoundland dog"
+    },
+    {
+      "animal": "Dog",
+      "breed": "Great Pyrenees"
+    },
+    {
+      "animal": "Dog",
+      "breed": "French bulldog"
+    },
+    {
+      "animal": "Dog",
+      "breed": "bull terrier"
+    },
+    {
+      "animal": "Dog",
+      "breed": "weimaraner"
+    },
+    {
+      "animal": "Dog",
+      "breed": "cairn terrier"
+    },
+    {
+      "animal": "Dog",
+      "breed": "wolf"
+    },
+    {
+      "animal": "Dog",
+      "breed": "dingo"
+    },
+    {
+      "animal": "Cat",
+      "breed": "tabby cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "calico cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "Maine coon cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "ragdoll cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "Abyssinian cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "Birman cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "Himalayan cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "Chartreux cat"
+    },
+    {
+      "animal": "Cat",
+      "breed": "savannah cat"
+    }
+  ],
+  "petNames": [
+    "Ajax",
+    "Aslan",
+    "Badnewz",
+    "Bagheera",
+    "Benji",
+    "Benny",
+    "Buggy",
+    "Butcher",
+    "Cardi",
+    "Carmichael",
+    "Celia",
+    "Chadwick",
+    "Chandre",
+    "Charlie",
+    "Chester",
+    "Chleo",
+    "Clawdia",
+    "Cleopatra",
+    "Clubber",
+    "Creed",
+    "Cuddles",
+    "Darwin",
+    "Duchess",
+    "Duke",
+    "Elsa",
+    "Flesh",
+    "Frederick",
+    "Geo",
+    "George",
+    "Hunter",
+    "Jacob",
+    "Jax",
+    "Kanye",
+    "Khan",
+    "Killa",
+    "Kim",
+    "King",
+    "Kitten",
+    "Knuckles",
+    "Kyle",
+    "Lenny",
+    "Leo",
+    "Leonitas",
+    "Leopold",
+    "Leroy",
+    "Lionel",
+    "Lonny",
+    "Lucy",
+    "Lyle",
+    "Mangle",
+    "Max",
+    "Maximus",
+    "Megan",
+    "Menace",
+    "Montecore",
+    "Mufasa",
+    "Muffin",
+    "Nala",
+    "Neo",
+    "Neto",
+    "Newton",
+    "Nicki",
+    "Ninja",
+    "Onyx",
+    "Parker",
+    "Pawla",
+    "Pawline",
+    "Peanuts",
+    "Phantom",
+    "Pounce",
+    "Purrsephone",
+    "Queen",
+    "Rajah",
+    "Saber",
+    "Savannah",
+    "Scar",
+    "Shiva",
+    "Shredder",
+    "Sicilia",
+    "Sigfried",
+    "Singh",
+    "Simba",
+    "Slash",
+    "T'Challa",
+    "Tammy",
+    "Tao",
+    "Terry",
+    "Tigger",
+    "Tina",
+    "Tiny",
+    "Tom",
+    "Tony",
+    "Tyson",
+    "Vega",
+    "Victoria",
+    "Victory",
+    "Whiskers",
+    "Xena",
+    "Angel",
+    "Baby",
+    "Calvin",
+    "Captain",
+    "Cindy",
+    "Cleo",
+    "Coco",
+    "Cody",
+    "Coraline",
+    "Cuddles",
+    "Dodo",
+    "Dorothy",
+    "Douglas",
+    "Eddie",
+    "Eva",
+    "Fern",
+    "Gracie",
+    "Iago",
+    "Issac",
+    "Ivy",
+    "Jojo",
+    "Kairry",
+    "Kiko",
+    "Kiwi",
+    "Lefty",
+    "Louis",
+    "Luke",
+    "Marley",
+    "Monte",
+    "Nikki",
+    "Payaso",
+    "Peaches",
+    "Pikachu",
+    "Pineapple",
+    "Polly",
+    "Pumpkin",
+    "Raven",
+    "Rio",
+    "Robin",
+    "Rocky",
+    "Scuttle",
+    "Skittles",
+    "Snow",
+    "Spikey",
+    "Star",
+    "Stella",
+    "Sunny",
+    "Tango",
+    "Tweety",
+    "Woodstock",
+    "Woody",
+    "Zazu",
+    "Abby",
+    "Achilles",
+    "Aldo",
+    "Anakin",
+    "Angel",
+    "Annie",
+    "Aphra",
+    "Apollo",
+    "Ariel",
+    "Arthur",
+    "Athena",
+    "Atticus",
+    "Azkaban",
+    "Baddy",
+    "Bailey",
+    "Bear",
+    "Beau",
+    "Bee",
+    "Bella",
+    "Benny",
+    "Berlin",
+    "Blacky",
+    "Bobo",
+    "Brownie",
+    "Buri",
+    "Buttons",
+    "Callie",
+    "Carbon",
+    "Carl",
+    "Chairman",
+    "Charles",
+    "Charlie",
+    "Chase",
+    "Cheetah",
+    "Chester",
+    "Chi-Chi",
+    "Chico",
+    "Chloe",
+    "Church",
+    "Cinnamon",
+    "Cleo",
+    "Cleopatra",
+    "Cola",
+    "Cooper",
+    "Coraline",
+    "Cosmo",
+    "Cupcake",
+    "Daisy",
+    "Dasher",
+    "Deku",
+    "Delilah",
+    "Diamond",
+    "Dorothy",
+    "Douglas",
+    "Driz",
+    "Dusty",
+    "Echo",
+    "Egypt",
+    "Ellie",
+    "Evie",
+    "Fae",
+    "Felix",
+    "Fender",
+    "Finn",
+    "Fiona",
+    "Foxy",
+    "Frankie",
+    "Furball",
+    "Gabriel",
+    "Gata",
+    "Gato",
+    "George",
+    "Ginger",
+    "Goose",
+    "Gordita",
+    "Gypsy",
+    "Hallow",
+    "Hannah",
+    "Henry",
+    "Hermione",
+    "Hex",
+    "Iris",
+    "Isabelle",
+    "Ivory",
+    "Jack",
+    "Jackson",
+    "Jamal",
+    "Jasper",
+    "Jax",
+    "Jazz",
+    "Jet",
+    "Joey",
+    "Jonah",
+    "Joy",
+    "Juno",
+    "Kairry",
+    "Karma",
+    "Kiki",
+    "Kitcat",
+    "Knight",
+    "Koda",
+    "Koko",
+    "Kyra",
+    "Lana",
+    "Layla",
+    "Lea",
+    "Lefty",
+    "Leo",
+    "Lilo",
+    "Lily",
+    "Loki",
+    "Lola",
+    "Louie",
+    "Lucky",
+    "Lucy",
+    "Lulu",
+    "Lumpy",
+    "Luna",
+    "Maggie",
+    "Mackenzie",
+    "Malcolm",
+    "Max",
+    "Merida",
+    "Mila",
+    "Milo",
+    "Misty",
+    "Mochi",
+    "Molly",
+    "Moon",
+    "Moonshine",
+    "Murphy",
+    "Nala",
+    "Nelly",
+    "Nick",
+    "Nickie",
+    "Nicky",
+    "Nikki",
+    "Ninja",
+    "Nora",
+    "Oakley",
+    "Odin",
+    "Olive",
+    "Oliver",
+    "Olivia",
+    "Ollie",
+    "Ophelia",
+    "Oreo",
+    "Oro",
+    "Oscar",
+    "Otis"
+  ]
+}
